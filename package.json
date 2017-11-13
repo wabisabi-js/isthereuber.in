@@ -27,6 +27,8 @@
     "preact": "^8.2.1",
     "preact-compat": "^3.17.0",
     "preact-router": "^2.5.5",
+    "react-confetti": "^2.0.1",
+    "react-sizeme": "^2.3.6",
     "react-styled-flexboxgrid": "^2.1.1",
     "styled-components": "^2.2.3",
     "styled-loaders": "^0.2.1"

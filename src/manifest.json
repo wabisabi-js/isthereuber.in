@@ -1,11 +1,11 @@
 {
-  "name": "uber-cities",
-  "short_name": "uber-cities",
+  "name": "Is there Uber In ?",
+  "short_name": "Uber Cities",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#fff",
-  "theme_color": "#673ab8",
+  "background_color": "#430F6E",
+  "theme_color": "#430F6E",
   "icons": [
     {
       "src": "/assets/icons/android-chrome-192x192.png",
