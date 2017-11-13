@@ -2,22 +2,21 @@ import { h, Component } from 'preact';
 import { route } from 'preact-router';
 import styled from 'styled-components';
 import { Row } from 'react-styled-flexboxgrid';
+import Logo from '../../assets/logo.svg';
 
 const Wrapper = styled(Row)`
 	height: 100%;
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-
-	@media (max-width: 1030px) {
-		flex-direction: column;
-	}
+	flex-direction: column;
 `;
 
 const Title = styled.h1`
 	color: ${props => props.theme.secondary};
 	font-size: 80px;
 	margin: 0;
+	margin-top: 40px;
 
 	@media (max-width: 1030px) {
 		font-size: 55px;
@@ -38,6 +37,7 @@ const Input = styled.input`
 	color: ${props => props.theme.secondary};
 	outline: none;
 	padding: 0 10px;
+	font-family: 'Roboto', arial, sans-serif;
 	font-weight: bold;
 
 	@media (max-width: 1030px) {
@@ -74,6 +74,7 @@ export default class Home extends Component {
 	render() {
 		return (
 			<Wrapper>
+				<img src={Logo} height="150" />
 				<Title>
 					Is there Uber in
 					<Form onSubmit={this.handleSubmit}>
