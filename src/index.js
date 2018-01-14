@@ -24,6 +24,7 @@ injectGlobal`
 
 	#app {
 		height: 100%;
+		opacity: 1;
 	}
 `
 
