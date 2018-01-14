@@ -1,10 +1,12 @@
 import { h, Component } from 'preact'
+import { Link } from 'preact-router/match'
 import data from '../../data/index.js'
 import sizeMe from 'react-sizeme'
 import styled from 'styled-components'
 import Confetti from 'react-confetti'
 import capitalize from 'capitalize'
 import is from 'styled-is'
+import uniqBy from 'lodash.uniqby'
 
 const Title = styled.h1`
   color: ${props => props.theme.secondary};
@@ -31,7 +33,7 @@ const Flex = styled.div`
   flex-direction: column;
   height: 100%;
 
-  a:not(:last-child) {
+  p:not(:last-child) {
     padding-right: 20px;
   }
 
@@ -40,12 +42,21 @@ const Flex = styled.div`
 	`};
 `
 
-const Link = styled.a`
+const Company = styled.p`
+  color: white;
+  font-size: 24px;
+  padding: 0;
+  margin: 0;
+`
+
+const GoBack = styled(Link)`
   color: white;
   z-index: 99;
   position: relative;
   font-size: 24px;
   text-decoration: none;
+  position: absolute;
+  bottom: 20px;
 `
 
 const fixName = name =>
@@ -53,20 +64,6 @@ const fixName = name =>
     .split('-')
     .join(' ')
     .toLowerCase()
-
-const getLink = (link, company) => {
-  if (company === 'taxify') {
-    return `https://taxify.eu${link}`
-  }
-
-  if (company === 'cabify') {
-    return `https://cabify.com${link}`
-  }
-
-  if (company === 'lyft') {
-    return `https://www.lyft.com${link}`
-  }
-}
 
 class City extends Component {
   state = {
@@ -109,14 +106,13 @@ class City extends Component {
               )}
 
               <Flex row>
-                {other.map(c => (
-                  <Link href={getLink(c.link, c.company)}>
-                    {capitalize(c.company)}
-                  </Link>
+                {uniqBy(other, 'company').map(c => (
+                  <Company>{capitalize(c.company)}</Company>
                 ))}
               </Flex>
             </div>
           ) : null}
+          <GoBack href="/">Search Again 🔎</GoBack>
         </Flex>
       </Wrapper>
     )

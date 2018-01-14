@@ -76,17 +76,17 @@ export default class Home extends Component {
   handleSubmit = e => {
     const { value } = this.state
     e.preventDefault()
-    route(value, true)
+    this.setState({ value: '' }, () => route(value, true))
   }
 
-  render() {
+  render({}, { value }) {
     return (
       <Wrapper>
         <img src={Logo} alt="Is There Uber In" height="150" />
         <Title>
           Is there Uber in
           <Form onSubmit={this.handleSubmit}>
-            <Input type="text" onChange={this.handleChange} />
+            <Input type="text" value={value} onChange={this.handleChange} />
           </Form>
           ?
         </Title>

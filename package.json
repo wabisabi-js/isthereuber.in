@@ -11,33 +11,32 @@
     "test": "eslint src",
     "format": "prettier --write 'src/**/*.{js,css,md}'",
     "posttest": "npm run format",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "seed": "node seed.js"
   },
   "eslintConfig": {
-    "extends": [
-      "eslint-config-synacor",
-      "prettier"
-    ],
+    "extends": ["eslint-config-synacor", "prettier"],
     "rules": {
       "react/display-name": "off",
       "react/no-did-mount-set-state": "off"
     }
   },
-  "eslintIgnore": [
-    "build/*"
-  ],
+  "eslintIgnore": ["build/*"],
   "devDependencies": {
     "eslint": "^4.15.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-config-synacor": "^2.0.4",
     "husky": "^0.14.3",
     "if-env": "^1.0.0",
+    "jsonfile": "^4.0.0",
     "lint-staged": "^6.0.0",
     "preact-cli": "^2.1.1",
-    "prettier": "^1.10.2"
+    "prettier": "^1.10.2",
+    "osmosis": "^1.1.6"
   },
   "dependencies": {
     "capitalize": "^1.0.0",
+    "lodash.uniqby": "^4.7.0",
     "preact": "^8.2.7",
     "preact-compat": "^3.17.0",
     "preact-router": "^2.6.0",
@@ -48,9 +47,6 @@
     "styled-is": "^1.1.0"
   },
   "lint-staged": {
-    "*.js": [
-      "eslint --fix",
-      "git add"
-    ]
+    "*.js": ["eslint --fix", "git add"]
   }
 }
