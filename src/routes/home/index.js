@@ -57,18 +57,26 @@ const Input = styled.input`
 	}
 `;
 
-const Form = styled.form`display: inline;`;
+const Form = styled.form`
+	display: inline;
+`;
+const fixName = name =>
+	name
+		.split(' ')
+		.join('-')
+		.toLowerCase();
 
 export default class Home extends Component {
 	state = {
 		value: ''
 	};
 
-	handleChange = e => this.setState({ value: e.target.value });
+	handleChange = e => this.setState({ value: fixName(e.target.value) });
 
 	handleSubmit = e => {
+		const { value } = this.state;
 		e.preventDefault();
-		route(this.state.value.toLowerCase(), true);
+		route(value, true);
 	};
 
 	render() {

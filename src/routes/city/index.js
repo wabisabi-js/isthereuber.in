@@ -1,15 +1,19 @@
 import { h, Component } from 'preact';
-import api from '../../api';
+import data from '../../data/index.js';
 import sizeMe from 'react-sizeme';
 import styled from 'styled-components';
 import Confetti from 'react-confetti';
-import { Pulsate } from 'styled-loaders';
-
-const capitalize = string => string.charAt(0).toUpperCase() + string.slice(1);
+import capitalize from 'capitalize';
+import is from 'styled-is';
 
 const Title = styled.h1`
 	color: ${props => props.theme.secondary};
 	font-size: 80px;
+`;
+
+const Subtitle = styled.h2`
+	color: ${props => props.theme.secondary};
+	font-size: 40px;
 `;
 
 const Wrapper = styled.div`
@@ -26,40 +30,88 @@ const Flex = styled.div`
 	justify-content: center;
 	flex-direction: column;
 	height: 100%;
+
+	a:not(:last-child) {
+		padding-right: 20px;
+	}
+
+	${is('row')`
+		flex-direction: row;
+	`};
 `;
+
+const Link = styled.a`
+	color: white;
+	z-index: 99;
+	position: relative;
+	font-size: 24px;
+	text-decoration: none;
+`;
+
+const fixName = name =>
+	name
+		.split('-')
+		.join(' ')
+		.toLowerCase();
+
+const getLink = (link, company) => {
+	if (company === 'taxify') {
+		return `https://taxify.eu${link}`;
+	}
+
+	if (company === 'cabify') {
+		return `https://cabify.com${link}`;
+	}
+
+	if (company === 'lyft') {
+		return `https://www.lyft.com${link}`;
+	}
+};
 
 class City extends Component {
 	state = {
-		data: [],
-		loading: true
+		cities: []
 	};
 
 	componentDidMount() {
-		api(`?q=${capitalize(this.props.city)}`)
-			.then(rsp => rsp.data)
-			.then(data =>
-				data.filter(
-					city => city.city.toLowerCase() === this.props.city.toLowerCase()
-				)
-			)
-			.then(data => this.setState({ data, loading: false }));
+		const { city } = this.props;
+
+		const cities = data.filter(c => c.name.toLowerCase().includes(fixName(city)));
+
+		this.setState({ cities });
 	}
 
 	// Note: `user` comes from the URL, courtesy of our router
-	render({ city, size }, { data, loading }) {
+	render({ city, size }, { cities, loading }) {
+		const uber = cities.filter(c => c.company === 'uber');
+		const other = cities.filter(c => c.company !== 'uber');
 		return (
 			<Wrapper>
 				<Flex>
-					{loading ? (
-						<Pulsate color="#e8eaf6" />
-					) : data.length > 0 ? [
-						<Wrapper>
-							<Confetti {...this.props.size} />
-						</Wrapper>,
-						<Title>YES 🚘</Title>
-					 ] : (
+					{uber.length ? (
+						[
+							<Wrapper>
+								<Confetti {...size} />
+							</Wrapper>,
+							<Title>YES 🚘</Title>
+						]
+					) : (
 						<Title>NO 😕</Title>
 					)}
+					{other.length ? (
+						<div>
+							{uber.length ?
+								<Subtitle>There is also</Subtitle> :
+								<Subtitle>But there is</Subtitle>
+							}
+
+							<Flex row>
+								{other.map(c => (
+									<Link href={getLink(c.link, c.company)}>{capitalize(c.company)}</Link>
+								))}
+							</Flex>
+						</div>
+					) : null}
 				</Flex>
 			</Wrapper>
 		);

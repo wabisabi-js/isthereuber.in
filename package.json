@@ -17,13 +17,15 @@
     "build/*"
   ],
   "devDependencies": {
-    "eslint": "^4.5.0",
+    "eslint": "^4.15.0",
     "eslint-config-synacor": "^1.1.0",
     "if-env": "^1.0.0",
-    "preact-cli": "^2.0.0"
+    "preact-cli": "^2.0.0",
+    "prettier": "^1.10.2"
   },
   "dependencies": {
     "axios": "^0.17.1",
+    "capitalize": "^1.0.0",
     "preact": "^8.2.1",
     "preact-compat": "^3.17.0",
     "preact-router": "^2.5.5",
@@ -31,6 +33,7 @@
     "react-sizeme": "^2.3.6",
     "react-styled-flexboxgrid": "^2.1.1",
     "styled-components": "^2.2.3",
+    "styled-is": "^1.1.0",
     "styled-loaders": "^0.2.1"
   }
 }
