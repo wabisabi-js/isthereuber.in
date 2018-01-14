@@ -1,96 +1,96 @@
-import { h, Component } from 'preact';
-import { route } from 'preact-router';
-import styled from 'styled-components';
-import { Row } from 'react-styled-flexboxgrid';
-import Logo from '../../assets/logo.svg';
+import { h, Component } from 'preact'
+import { route } from 'preact-router'
+import styled from 'styled-components'
+import { Row } from 'react-styled-flexboxgrid'
+import Logo from '../../assets/logo.svg'
 
 const Wrapper = styled(Row)`
-	height: 100%;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	flex-direction: column;
-`;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+`
 
 const Title = styled.h1`
-	color: ${props => props.theme.secondary};
-	font-size: 80px;
-	margin: 0;
-	margin-top: 40px;
+  color: ${props => props.theme.secondary};
+  font-size: 80px;
+  margin: 0;
+  margin-top: 40px;
 
-	@media (max-width: 1030px) {
-		font-size: 55px;
-	}
+  @media (max-width: 1030px) {
+    font-size: 55px;
+  }
 
-	@media (max-width: 435px) {
-		font-size: 40px;
-	}
-`;
+  @media (max-width: 435px) {
+    font-size: 40px;
+  }
+`
 
 const Input = styled.input`
-	border: none;
-	border-bottom: 1px solid ${props => props.theme.secondary};
-	background: transparent;
-	font-size: 80px;
-	height: 80px;
-	width: 300px;
-	color: ${props => props.theme.secondary};
-	outline: none;
-	padding: 0 10px;
-	font-family: 'Roboto', arial, sans-serif;
-	font-weight: bold;
+  border: none;
+  border-bottom: 1px solid ${props => props.theme.secondary};
+  background: transparent;
+  font-size: 80px;
+  height: 80px;
+  width: 300px;
+  color: ${props => props.theme.secondary};
+  outline: none;
+  padding: 0 10px;
+  font-family: 'Roboto', arial, sans-serif;
+  font-weight: bold;
 
-	@media (max-width: 1030px) {
-		font-size: 55px;
-		height: 55px;
-	}
+  @media (max-width: 1030px) {
+    font-size: 55px;
+    height: 55px;
+  }
 
-	@media (max-width: 435px) {
-		font-size: 40px;
-		height: 40px;
-		margin-top: 20px;
-	}
+  @media (max-width: 435px) {
+    font-size: 40px;
+    height: 40px;
+    margin-top: 20px;
+  }
 
-	&:hover,
-	&:active {
-		outline: none;
-	}
-`;
+  &:hover,
+  &:active {
+    outline: none;
+  }
+`
 
 const Form = styled.form`
-	display: inline;
-`;
+  display: inline;
+`
 const fixName = name =>
-	name
-		.split(' ')
-		.join('-')
-		.toLowerCase();
+  name
+    .split(' ')
+    .join('-')
+    .toLowerCase()
 
 export default class Home extends Component {
-	state = {
-		value: ''
-	};
+  state = {
+    value: '',
+  }
 
-	handleChange = e => this.setState({ value: fixName(e.target.value) });
+  handleChange = e => this.setState({ value: fixName(e.target.value) })
 
-	handleSubmit = e => {
-		const { value } = this.state;
-		e.preventDefault();
-		route(value, true);
-	};
+  handleSubmit = e => {
+    const { value } = this.state
+    e.preventDefault()
+    route(value, true)
+  }
 
-	render() {
-		return (
-			<Wrapper>
-				<img src={Logo} height="150" />
-				<Title>
-					Is there Uber in
-					<Form onSubmit={this.handleSubmit}>
-						<Input type="text" onChange={this.handleChange} />
-					</Form>
-					?
-				</Title>
-			</Wrapper>
-		);
-	}
+  render() {
+    return (
+      <Wrapper>
+        <img src={Logo} alt="Is There Uber In" height="150" />
+        <Title>
+          Is there Uber in
+          <Form onSubmit={this.handleSubmit}>
+            <Input type="text" onChange={this.handleChange} />
+          </Form>
+          ?
+        </Title>
+      </Wrapper>
+    )
+  }
 }

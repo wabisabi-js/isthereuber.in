@@ -1,6 +1,6 @@
-import App from './components/app';
-import styled, { ThemeProvider, injectGlobal } from 'styled-components';
-import { Grid } from 'react-styled-flexboxgrid';
+import App from './components/app'
+import styled, { ThemeProvider, injectGlobal } from 'styled-components'
+import { Grid } from 'react-styled-flexboxgrid'
 
 injectGlobal`
 	@import url('https://fonts.googleapis.com/css?family=Roboto');
@@ -25,28 +25,30 @@ injectGlobal`
 	#app {
 		height: 100%;
 	}
-`;
+`
 
 const theme = {
-	primary: '#4a0072',
-	secondary: '#e8eaf6',
-	white: '#fafafa',
-	black: '#3a3a3a'
-};
+  primary: '#4a0072',
+  secondary: '#e8eaf6',
+  white: '#fafafa',
+  black: '#3a3a3a',
+}
 
 const Wrapper = styled.div`
-	background: ${props => props.theme.primary};
-	height: 100%;
-`;
+  background: ${props => props.theme.primary};
+  height: 100%;
+`
 
-const System = styled(Grid)`height: 100%;`;
+const System = styled(Grid)`
+  height: 100%;
+`
 
 export default () => (
-	<ThemeProvider theme={theme}>
-		<Wrapper>
-			<System>
-				<App />
-			</System>
-		</Wrapper>
-	</ThemeProvider>
-);
+  <ThemeProvider theme={theme}>
+    <Wrapper>
+      <System>
+        <App />
+      </System>
+    </Wrapper>
+  </ThemeProvider>
+)

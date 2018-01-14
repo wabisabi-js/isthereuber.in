@@ -1,19 +1,25 @@
 # Is there Uber In ?
 
-## CLI Commands
+[![Build Status](https://travis-ci.org/SaraVieira/uber-cities.svg)](https://travis-ci.org/SaraVieira/uber-cities)
 
-``` bash
-# install dependencies
-yarn install
+Check if there is an uber in the town you input
 
-# serve with hot reload at localhost:8080
-yarn dev
+Also checks for lyft, cabify and taxify
 
-# build for production with minification
-yarn build
+## Why ?
 
-# test the production build locally
-yarn serve
+I keep googling this on the internet and also in portugal uber's webiste is blocked
+
+## Built With
+
+    * Preact
+    * Styled Components
+    * react-confetti
+    * styled-is
+
+## Run Locally
+
 ```
-
-For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
+yarn
+yarn dev
+```
