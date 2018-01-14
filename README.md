@@ -25,4 +25,8 @@ yarn
 yarn dev
 ```
 
+
+![Main](https://i.imgur.com/GVOZqEk.png)
+![City](https://i.imgur.com/ZSJbba6.png)
+
 License: MIT
