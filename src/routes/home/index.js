@@ -15,6 +15,19 @@ const Wrapper = styled(Row)`
   @media (max-width: 767px and min-width: 450px) {
     flex-direction: row;
   }
+
+  @media (max-width: 360px) {
+    height: auto;
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
+  }
+`
+
+const LogoImg = styled.img`
+  @media (max-width: 360px) {
+    max-width: 100px;
+  }
 `
 
 const Title = styled.h1`
@@ -34,6 +47,11 @@ const Title = styled.h1`
   @media (max-width: 767px) {
     font-size: 50px;
   }
+
+  @media (max-width: 360px) {
+    font-size: 30px;
+    margin-top: 10px;
+  }
 `
 
 const Input = styled.input`
@@ -49,6 +67,11 @@ const Input = styled.input`
   font-family: 'Roboto', arial, sans-serif;
   font-weight: bold;
 
+  &:hover,
+  &:active {
+    outline: none;
+  }
+
   @media (max-width: 1030px) {
     font-size: 55px;
     height: 55px;
@@ -60,9 +83,10 @@ const Input = styled.input`
     margin-top: 20px;
   }
 
-  &:hover,
-  &:active {
-    outline: none;
+  @media (max-width: 360px) {
+    font-size: 30px;
+    height: 35px;
+    margin-top: 10px;
   }
 `
 
@@ -91,7 +115,7 @@ export default class Home extends Component {
   render({}, { value }) {
     return (
       <Wrapper>
-        <img src={Logo} alt="Is There Uber In" height="150" />
+        <LogoImg src={Logo} alt="Is There Uber In" height="150" />
         <Title>
           Is there Uber in
           <Form onSubmit={this.handleSubmit}>
