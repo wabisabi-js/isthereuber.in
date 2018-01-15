@@ -1,1 +1,144 @@
-{"cities":[{"name":"Melbourne","link":"/cities/melbourne/"},{"name":"Sydney","link":"/cities/sydney/"},{"name":"Vienna","link":"/cities/vienna/"},{"name":"Baku","link":"/cities/baku/"},{"name":"Toronto","link":"/cities/toronto/"},{"name":"Prague","link":"/cities/prague/"},{"name":"Tallinn","link":"/cities/tallinn/"},{"name":"Tartu","link":"/cities/tartu/"},{"name":"Lyon","link":"/cities/lyon/"},{"name":"Paris","link":"/cities/paris/"},{"name":"Tbilisi","link":"/cities/tbilisi/"},{"name":"Budapest","link":"/cities/budapest/"},{"name":"Baghdad","link":"/cities/baghdad/"},{"name":"Mombasa","link":"/cities/mombasa/"},{"name":"Nairobi","link":"/cities/nairobi/"},{"name":"Riga","link":"/cities/riga/"},{"name":"Kaunas","link":"/cities/kaunas/"},{"name":"Vilnius","link":"/cities/vilnius/"},{"name":"Malta","link":"/cities/malta/"},{"name":"Durango","link":"/cities/durango/"},{"name":"Mexico City","link":"/cities/mexico-city/"},{"name":"Lagos","link":"/cities/lagos/"},{"name":"Warsaw","link":"/cities/warsaw/"},{"name":"Lisbon","link":"/cities/lisbon/"},{"name":"Bucharest","link":"/cities/bucharest/"},{"name":"Riyadh","link":"/cities/riyadh/"},{"name":"Belgrade","link":"/cities/belgrade/"},{"name":"Bratislava","link":"/cities/bratislava/"},{"name":"Cape Town","link":"/cities/cape-town/"},{"name":"Durban","link":"/cities/durban/"},{"name":"Johannesburg","link":"/cities/johannesburg/"},{"name":"Port Elizabeth","link":"/cities/port-elizabeth/"},{"name":"Dar es Salaam","link":"/cities/dar-es-salaam/"},{"name":"Kampala","link":"/cities/kampala/"},{"name":"Kyiv","link":"/cities/kyiv/"}]}
+{
+  "cities": [
+    {
+      "name": "Melbourne",
+      "link": "/cities/melbourne/"
+    },
+    {
+      "name": "Sydney",
+      "link": "/cities/sydney/"
+    },
+    {
+      "name": "Vienna",
+      "link": "/cities/vienna/"
+    },
+    {
+      "name": "Baku",
+      "link": "/cities/baku/"
+    },
+    {
+      "name": "Toronto",
+      "link": "/cities/toronto/"
+    },
+    {
+      "name": "Prague",
+      "link": "/cities/prague/"
+    },
+    {
+      "name": "Tallinn",
+      "link": "/cities/tallinn/"
+    },
+    {
+      "name": "Tartu",
+      "link": "/cities/tartu/"
+    },
+    {
+      "name": "Lyon",
+      "link": "/cities/lyon/"
+    },
+    {
+      "name": "Paris",
+      "link": "/cities/paris/"
+    },
+    {
+      "name": "Tbilisi",
+      "link": "/cities/tbilisi/"
+    },
+    {
+      "name": "Budapest",
+      "link": "/cities/budapest/"
+    },
+    {
+      "name": "Baghdad",
+      "link": "/cities/baghdad/"
+    },
+    {
+      "name": "Mombasa",
+      "link": "/cities/mombasa/"
+    },
+    {
+      "name": "Nairobi",
+      "link": "/cities/nairobi/"
+    },
+    {
+      "name": "Riga",
+      "link": "/cities/riga/"
+    },
+    {
+      "name": "Kaunas",
+      "link": "/cities/kaunas/"
+    },
+    {
+      "name": "Vilnius",
+      "link": "/cities/vilnius/"
+    },
+    {
+      "name": "Malta",
+      "link": "/cities/malta/"
+    },
+    {
+      "name": "Durango",
+      "link": "/cities/durango/"
+    },
+    {
+      "name": "Mexico City",
+      "link": "/cities/mexico-city/"
+    },
+    {
+      "name": "Lagos",
+      "link": "/cities/lagos/"
+    },
+    {
+      "name": "Warsaw",
+      "link": "/cities/warsaw/"
+    },
+    {
+      "name": "Lisbon",
+      "link": "/cities/lisbon/"
+    },
+    {
+      "name": "Bucharest",
+      "link": "/cities/bucharest/"
+    },
+    {
+      "name": "Riyadh",
+      "link": "/cities/riyadh/"
+    },
+    {
+      "name": "Belgrade",
+      "link": "/cities/belgrade/"
+    },
+    {
+      "name": "Bratislava",
+      "link": "/cities/bratislava/"
+    },
+    {
+      "name": "Cape Town",
+      "link": "/cities/cape-town/"
+    },
+    {
+      "name": "Durban",
+      "link": "/cities/durban/"
+    },
+    {
+      "name": "Johannesburg",
+      "link": "/cities/johannesburg/"
+    },
+    {
+      "name": "Port Elizabeth",
+      "link": "/cities/port-elizabeth/"
+    },
+    {
+      "name": "Dar es Salaam",
+      "link": "/cities/dar-es-salaam/"
+    },
+    {
+      "name": "Kampala",
+      "link": "/cities/kampala/"
+    },
+    {
+      "name": "Kyiv",
+      "link": "/cities/kyiv/"
+    }
+  ]
+}
