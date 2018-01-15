@@ -22,7 +22,7 @@ osmosis
   })
   .data(city => {
     uber.cities.push({
-      city: city.city,
+      name: city.city,
       link: city.link,
     })
   })
