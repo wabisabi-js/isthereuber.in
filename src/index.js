@@ -25,6 +25,7 @@ injectGlobal`
 	#app {
 		height: 100%;
 		opacity: 1;
+		backface-visibility: hidden;
 	}
 `
 
