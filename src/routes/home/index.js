@@ -10,7 +10,6 @@ const Wrapper = styled(Row)`
   align-items: center;
   justify-content: center;
   text-align: center;
-  flex-direction: column;
 `
 
 const Title = styled.h1`
