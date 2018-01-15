@@ -7,6 +7,7 @@ import Confetti from 'react-confetti'
 import capitalize from 'capitalize'
 import is from 'styled-is'
 import uniqBy from 'lodash.uniqby'
+import removeAccents from 'remove-accents'
 
 const Title = styled.h1`
   color: ${props => props.theme.secondary};
@@ -65,6 +66,10 @@ const fixName = name =>
     .join(' ')
     .toLowerCase()
 
+const fixCity = name =>
+  removeAccents(name)
+    .toLowerCase()
+
 class City extends Component {
   state = {
     cities: [],
@@ -74,7 +79,7 @@ class City extends Component {
     const { city } = this.props
 
     const cities = data.filter(c =>
-      c.name.toLowerCase().includes(fixName(city))
+     fixCity(c.name).includes(fixName(city))
     )
 
     this.setState({ cities })
@@ -119,6 +124,7 @@ class City extends Component {
   }
 }
 
+console.log(window)
 export default sizeMe({
   monitorHeight: true,
   monitorWidth: true,

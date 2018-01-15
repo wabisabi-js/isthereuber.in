@@ -10,6 +10,11 @@ const Wrapper = styled(Row)`
   align-items: center;
   justify-content: center;
   text-align: center;
+  flex-direction: column;
+
+  @media (max-width: 767px and min-width: 450px) {
+    flex-direction: row;
+  }
 `
 
 const Title = styled.h1`
@@ -24,6 +29,10 @@ const Title = styled.h1`
 
   @media (max-width: 435px) {
     font-size: 40px;
+  }
+
+  @media (max-width: 767px) {
+    font-size: 50px;
   }
 `
 
