@@ -30,10 +30,10 @@ injectGlobal`
 `
 
 const theme = {
-	primary: '#4a0072',
-	secondary: '#e8eaf6',
-	white: '#fafafa',
-	black: '#3a3a3a',
+  primary: '#4a0072',
+  secondary: '#e8eaf6',
+  white: '#fafafa',
+  black: '#3a3a3a',
 }
 
 const Wrapper = styled.div`
@@ -41,16 +41,16 @@ const Wrapper = styled.div`
   height: 100%;
 `
 
-const System = styled(Grid) `
+const System = styled(Grid)`
   height: 100%;
 `
 
 export default () => (
-	<ThemeProvider theme={theme}>
-		<Wrapper>
-			<System>
-				<App />
-			</System>
-		</Wrapper>
-	</ThemeProvider>
+  <ThemeProvider theme={theme}>
+    <Wrapper>
+      <System>
+        <App />
+      </System>
+    </Wrapper>
+  </ThemeProvider>
 )
