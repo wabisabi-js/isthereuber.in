@@ -2,6 +2,7 @@ import { h, Component } from 'preact'
 import { route } from 'preact-router'
 import styled from 'styled-components'
 import { Row } from 'react-styled-flexboxgrid'
+import removeAccents from 'remove-accents'
 import Logo from '../../assets/logo.svg'
 
 const Wrapper = styled(Row)`
@@ -61,7 +62,7 @@ const Form = styled.form`
   display: inline;
 `
 const fixName = name =>
-  name
+  removeAccents(name)
     .split(' ')
     .join('-')
     .toLowerCase()
@@ -71,12 +72,12 @@ export default class Home extends Component {
     value: '',
   }
 
-  handleChange = e => this.setState({ value: fixName(e.target.value) })
+  handleChange = e => this.setState({ value: e.target.value })
 
   handleSubmit = e => {
     const { value } = this.state
     e.preventDefault()
-    this.setState({ value: '' }, () => route(value, true))
+    this.setState({ value: '' }, () => route(fixName(value), true))
   }
 
   render({}, { value }) {

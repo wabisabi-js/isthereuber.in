@@ -15,13 +15,18 @@
     "seed": "node seed.js"
   },
   "eslintConfig": {
-    "extends": ["eslint-config-synacor", "prettier"],
+    "extends": [
+      "eslint-config-synacor",
+      "prettier"
+    ],
     "rules": {
       "react/display-name": "off",
       "react/no-did-mount-set-state": "off"
     }
   },
-  "eslintIgnore": ["build/*"],
+  "eslintIgnore": [
+    "build/*"
+  ],
   "devDependencies": {
     "eslint": "^4.15.0",
     "eslint-config-prettier": "^2.9.0",
@@ -30,9 +35,9 @@
     "if-env": "^1.0.0",
     "jsonfile": "^4.0.0",
     "lint-staged": "^6.0.0",
+    "osmosis": "^1.1.6",
     "preact-cli": "^2.1.1",
-    "prettier": "^1.10.2",
-    "osmosis": "^1.1.6"
+    "prettier": "^1.10.2"
   },
   "dependencies": {
     "capitalize": "^1.0.0",
@@ -43,10 +48,14 @@
     "react-confetti": "^2.0.2",
     "react-sizeme": "^2.3.6",
     "react-styled-flexboxgrid": "^2.1.1",
+    "remove-accents": "^0.4.2",
     "styled-components": "^2.4.0",
     "styled-is": "^1.1.0"
   },
   "lint-staged": {
-    "*.js": ["eslint --fix", "git add"]
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
   }
 }
