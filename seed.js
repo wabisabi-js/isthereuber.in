@@ -5,11 +5,13 @@ const file = 'src/data/uber.json'
 const fileCabify = 'src/data/cabify.json'
 const fileLyft = 'src/data/lyft.json'
 const fileTaxify = 'src/data/taxify.json'
+const fileEasytaxi = 'src/data/easytaxi.json'
 
 const uber = { cities: [] }
 const cabify = { cities: [] }
 const lyft = { cities: [] }
 const taxify = { cities: [] }
+const easytaxi = { cities: [] }
 
 const formatting = { spaces: 2, EOL: '\n' }
 
@@ -86,6 +88,22 @@ osmosis
   })
   .done(() =>
     jsonfile.writeFile(fileTaxify, taxify, formatting, err => {
+      console.error(err)
+    })
+  )
+
+osmosis
+  .get('http://www.easytaxi.com/cities/')
+  .find('#city li')
+  .set('name')
+  .data(city => {
+    easytaxi.cities.push({
+      name: city.name,
+      link: '/cities/#city',
+    })
+  })
+  .done(() =>
+    jsonfile.writeFile(fileEasytaxi, easytaxi, formatting, err => {
       console.error(err)
     })
   )
