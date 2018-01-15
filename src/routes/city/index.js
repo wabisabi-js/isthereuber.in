@@ -124,7 +124,6 @@ class City extends Component {
   }
 }
 
-console.log(window)
 export default sizeMe({
   monitorHeight: true,
   monitorWidth: true,

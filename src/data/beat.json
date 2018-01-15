@@ -1,0 +1,19 @@
+{
+  "cities": [
+    {
+      "name": "Santiago"
+    },
+    {
+      "name": "Lima"
+    },
+    {
+      "name": "Arequipa"
+    },
+    {
+      "name": "Athens"
+    },
+    {
+      "name": "Thessaloniki"
+    }
+  ]
+}
