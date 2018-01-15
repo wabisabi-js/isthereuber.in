@@ -1,758 +1,2848 @@
 {
   "cities": [
-    { "name": "Abilene", "link": "/en-GB/cities/abilene/" },
-    { "name": "Aguascalientes", "link": "/en-GB/cities/aguascalientes/" },
-    { "name": "Akron", "link": "/en-GB/cities/akron/" },
-    { "name": "Albuquerque", "link": "/en-GB/cities/albuquerque/" },
-    { "name": "Amarillo", "link": "/en-GB/cities/amarillo/" },
-    { "name": "Ames", "link": "/en-GB/cities/ames/" },
-    { "name": "Anchorage", "link": "/en-GB/cities/anchorage/" },
-    { "name": "Ann Arbor", "link": "/en-GB/cities/ann-arbor/" },
-    { "name": "Asheville, NC", "link": "/en-GB/cities/asheville-nc/" },
-    { "name": "Athens", "link": "/en-GB/cities/athens/" },
-    { "name": "Atlanta", "link": "/en-GB/cities/atlanta/" },
-    { "name": "Augusta", "link": "/en-GB/cities/augusta/" },
-    { "name": "Austin", "link": "/en-GB/cities/austin/" },
-    { "name": "Bakersfield", "link": "/en-GB/cities/bakersfield/" },
-    { "name": "Baltimore-Maryland", "link": "/en-GB/cities/baltimore/" },
-    { "name": "Baton Rouge", "link": "/en-GB/cities/baton-rouge/" },
-    { "name": "Beaumont", "link": "/en-GB/cities/beaumont/" },
-    { "name": "Bellingham", "link": "/en-GB/cities/bellingham/" },
-    { "name": "Big Island", "link": "/en-GB/cities/hawaii/" },
-    { "name": "Billings", "link": "/en-GB/cities/billings/" },
-    { "name": "Birmingham, AL", "link": "/en-GB/cities/birmingham-al/" },
-    { "name": "Bismarck", "link": "/en-GB/cities/bismarck/" },
-    { "name": "Bloomington, IN", "link": "/en-GB/cities/bloomington/" },
-    { "name": "Boise", "link": "/en-GB/cities/boise/" },
-    { "name": "Boone", "link": "/en-GB/cities/boone/" },
-    { "name": "Boston", "link": "/en-GB/cities/boston/" },
-    { "name": "Bowling Green, KY", "link": "/en-GB/cities/bowling-green-ky/" },
-    { "name": "Bozeman", "link": "/en-GB/cities/bozeman/" },
-    { "name": "Calgary", "link": "/en-GB/cities/calgary/" },
-    { "name": "Campeche", "link": "/en-GB/cities/campeche/" },
-    { "name": "Cancun", "link": "/en-GB/cities/cancun/" },
-    { "name": "Carbondale", "link": "/en-GB/cities/carbondale/" },
-    { "name": "Cedar Rapids", "link": "/en-GB/cities/cedar-rapids/" },
-    { "name": "Celaya", "link": "/en-GB/cities/celaya/" },
     {
-      "name": "Central Atlantic Coast, FL",
+      "city": "Abilene",
+      "link": "/en-GB/cities/abilene/"
+    },
+    {
+      "city": "Aguascalientes",
+      "link": "/en-GB/cities/aguascalientes/"
+    },
+    {
+      "city": "Akron",
+      "link": "/en-GB/cities/akron/"
+    },
+    {
+      "city": "Albuquerque",
+      "link": "/en-GB/cities/albuquerque/"
+    },
+    {
+      "city": "Amarillo",
+      "link": "/en-GB/cities/amarillo/"
+    },
+    {
+      "city": "Ames",
+      "link": "/en-GB/cities/ames/"
+    },
+    {
+      "city": "Anchorage",
+      "link": "/en-GB/cities/anchorage/"
+    },
+    {
+      "city": "Ann Arbor",
+      "link": "/en-GB/cities/ann-arbor/"
+    },
+    {
+      "city": "Asheville, NC",
+      "link": "/en-GB/cities/asheville-nc/"
+    },
+    {
+      "city": "Athens",
+      "link": "/en-GB/cities/athens/"
+    },
+    {
+      "city": "Atlanta",
+      "link": "/en-GB/cities/atlanta/"
+    },
+    {
+      "city": "Augusta",
+      "link": "/en-GB/cities/augusta/"
+    },
+    {
+      "city": "Austin",
+      "link": "/en-GB/cities/austin/"
+    },
+    {
+      "city": "Bakersfield",
+      "link": "/en-GB/cities/bakersfield/"
+    },
+    {
+      "city": "Baltimore-Maryland",
+      "link": "/en-GB/cities/baltimore/"
+    },
+    {
+      "city": "Baton Rouge",
+      "link": "/en-GB/cities/baton-rouge/"
+    },
+    {
+      "city": "Beaumont",
+      "link": "/en-GB/cities/beaumont/"
+    },
+    {
+      "city": "Bellingham",
+      "link": "/en-GB/cities/bellingham/"
+    },
+    {
+      "city": "Big Island",
+      "link": "/en-GB/cities/hawaii/"
+    },
+    {
+      "city": "Billings",
+      "link": "/en-GB/cities/billings/"
+    },
+    {
+      "city": "Birmingham, AL",
+      "link": "/en-GB/cities/birmingham-al/"
+    },
+    {
+      "city": "Bismarck",
+      "link": "/en-GB/cities/bismarck/"
+    },
+    {
+      "city": "Bloomington, IN",
+      "link": "/en-GB/cities/bloomington/"
+    },
+    {
+      "city": "Boise",
+      "link": "/en-GB/cities/boise/"
+    },
+    {
+      "city": "Boone",
+      "link": "/en-GB/cities/boone/"
+    },
+    {
+      "city": "Boston",
+      "link": "/en-GB/cities/boston/"
+    },
+    {
+      "city": "Bowling Green, KY",
+      "link": "/en-GB/cities/bowling-green-ky/"
+    },
+    {
+      "city": "Bozeman",
+      "link": "/en-GB/cities/bozeman/"
+    },
+    {
+      "city": "Calgary",
+      "link": "/en-GB/cities/calgary/"
+    },
+    {
+      "city": "Campeche",
+      "link": "/en-GB/cities/campeche/"
+    },
+    {
+      "city": "Cancun",
+      "link": "/en-GB/cities/cancun/"
+    },
+    {
+      "city": "Carbondale",
+      "link": "/en-GB/cities/carbondale/"
+    },
+    {
+      "city": "Cedar Rapids",
+      "link": "/en-GB/cities/cedar-rapids/"
+    },
+    {
+      "city": "Celaya",
+      "link": "/en-GB/cities/celaya/"
+    },
+    {
+      "city": "Central Atlantic Coast, FL",
       "link": "/en-GB/cities/daytona-beach/"
     },
-    { "name": "Central Oregon", "link": "/en-GB/cities/eastern-oregon/" },
-    { "name": "Champaign", "link": "/en-GB/cities/champaign/" },
-    { "name": "Charleston, SC", "link": "/en-GB/cities/charleston/" },
-    { "name": "Charlotte", "link": "/en-GB/cities/charlotte/" },
     {
-      "name": "Charlottesville-Harrisonburg",
+      "city": "Central Oregon",
+      "link": "/en-GB/cities/eastern-oregon/"
+    },
+    {
+      "city": "Champaign",
+      "link": "/en-GB/cities/champaign/"
+    },
+    {
+      "city": "Charleston, SC",
+      "link": "/en-GB/cities/charleston/"
+    },
+    {
+      "city": "Charlotte",
+      "link": "/en-GB/cities/charlotte/"
+    },
+    {
+      "city": "Charlottesville-Harrisonburg",
       "link": "/en-GB/cities/charlottesville-va/"
     },
-    { "name": "Chattanooga", "link": "/en-GB/cities/chattanooga/" },
-    { "name": "Chicago", "link": "/en-GB/cities/chicago/" },
-    { "name": "Chihuahua", "link": "/en-GB/cities/chihuahua/" },
-    { "name": "Cincinnati", "link": "/en-GB/cities/cincinnati/" },
-    { "name": "Ciudad Juarez", "link": "/en-GB/cities/ciudad-juarez/" },
-    { "name": "Ciudad Obregon", "link": "/en-GB/cities/ciudad-obregon/" },
-    { "name": "Cleveland", "link": "/en-GB/cities/cleveland/" },
-    { "name": "Coastal Georgia", "link": "/en-GB/cities/georgia-coast/" },
-    { "name": "Coeur D'Alene", "link": "/en-GB/cities/coeur-dalene/" },
-    { "name": "College Station", "link": "/en-GB/cities/college-station/" },
-    { "name": "Colorado Springs", "link": "/en-GB/cities/colorado-springs/" },
-    { "name": "Columbia, MO", "link": "/en-GB/cities/columbia-mo/" },
-    { "name": "Columbia, SC", "link": "/en-GB/cities/columbia/" },
-    { "name": "Columbus", "link": "/en-GB/cities/columbus/" },
-    { "name": "Connecticut", "link": "/en-GB/cities/connecticut/" },
-    { "name": "Corpus Christi", "link": "/en-GB/cities/corpus-christi/" },
-    { "name": "Cuernavaca", "link": "/en-GB/cities/cuernavaca/" },
-    { "name": "Culiacan", "link": "/en-GB/cities/culiacan/" },
-    { "name": "Dallas-Fort Worth", "link": "/en-GB/cities/dallas/" },
-    { "name": "Dayton", "link": "/en-GB/cities/dayton/" },
-    { "name": "Delaware", "link": "/en-GB/cities/wilmington-de/" },
-    { "name": "Denver", "link": "/en-GB/cities/denver/" },
-    { "name": "Des Moines", "link": "/en-GB/cities/des-moines/" },
-    { "name": "Detroit", "link": "/en-GB/cities/detroit/" },
-    { "name": "DuBois", "link": "/en-GB/cities/dubois/" },
-    { "name": "Dubuque", "link": "/en-GB/cities/dubuque/" },
-    { "name": "Duluth", "link": "/en-GB/cities/duluth/" },
-    { "name": "Eagle Pass", "link": "/en-GB/cities/eagle-pass/" },
-    { "name": "Eastern Idaho", "link": "/en-GB/cities/eastern-idaho/" },
     {
-      "name": "Eastern North Carolina",
+      "city": "Chattanooga",
+      "link": "/en-GB/cities/chattanooga/"
+    },
+    {
+      "city": "Chicago",
+      "link": "/en-GB/cities/chicago/"
+    },
+    {
+      "city": "Chihuahua",
+      "link": "/en-GB/cities/chihuahua/"
+    },
+    {
+      "city": "Cincinnati",
+      "link": "/en-GB/cities/cincinnati/"
+    },
+    {
+      "city": "Ciudad Juarez",
+      "link": "/en-GB/cities/ciudad-juarez/"
+    },
+    {
+      "city": "Ciudad Obregon",
+      "link": "/en-GB/cities/ciudad-obregon/"
+    },
+    {
+      "city": "Cleveland",
+      "link": "/en-GB/cities/cleveland/"
+    },
+    {
+      "city": "Coastal Georgia",
+      "link": "/en-GB/cities/georgia-coast/"
+    },
+    {
+      "city": "Coeur D'Alene",
+      "link": "/en-GB/cities/coeur-dalene/"
+    },
+    {
+      "city": "College Station",
+      "link": "/en-GB/cities/college-station/"
+    },
+    {
+      "city": "Colorado Springs",
+      "link": "/en-GB/cities/colorado-springs/"
+    },
+    {
+      "city": "Columbia, MO",
+      "link": "/en-GB/cities/columbia-mo/"
+    },
+    {
+      "city": "Columbia, SC",
+      "link": "/en-GB/cities/columbia/"
+    },
+    {
+      "city": "Columbus",
+      "link": "/en-GB/cities/columbus/"
+    },
+    {
+      "city": "Connecticut",
+      "link": "/en-GB/cities/connecticut/"
+    },
+    {
+      "city": "Cookeville",
+      "link": "/en-GB/cities/cookeville/"
+    },
+    {
+      "city": "Corpus Christi",
+      "link": "/en-GB/cities/corpus-christi/"
+    },
+    {
+      "city": "Cuernavaca",
+      "link": "/en-GB/cities/cuernavaca/"
+    },
+    {
+      "city": "Culiacan",
+      "link": "/en-GB/cities/culiacan/"
+    },
+    {
+      "city": "Dallas-Fort Worth",
+      "link": "/en-GB/cities/dallas/"
+    },
+    {
+      "city": "Dayton",
+      "link": "/en-GB/cities/dayton/"
+    },
+    {
+      "city": "Delaware",
+      "link": "/en-GB/cities/wilmington-de/"
+    },
+    {
+      "city": "Denver",
+      "link": "/en-GB/cities/denver/"
+    },
+    {
+      "city": "Des Moines",
+      "link": "/en-GB/cities/des-moines/"
+    },
+    {
+      "city": "Detroit",
+      "link": "/en-GB/cities/detroit/"
+    },
+    {
+      "city": "DuBois",
+      "link": "/en-GB/cities/dubois/"
+    },
+    {
+      "city": "Dubuque",
+      "link": "/en-GB/cities/dubuque/"
+    },
+    {
+      "city": "Duluth",
+      "link": "/en-GB/cities/duluth/"
+    },
+    {
+      "city": "Eagle Pass",
+      "link": "/en-GB/cities/eagle-pass/"
+    },
+    {
+      "city": "Eastern Idaho",
+      "link": "/en-GB/cities/eastern-idaho/"
+    },
+    {
+      "city": "Eastern North Carolina",
       "link": "/en-GB/cities/eastern-north-carolina/"
     },
-    { "name": "Eastern Shore", "link": "/en-GB/cities/annapolis/" },
-    { "name": "Eastern Washington", "link": "/en-GB/cities/tricities-wa/" },
-    { "name": "Eastern WV", "link": "/en-GB/cities/morgantown-wv/" },
-    { "name": "Eau Claire", "link": "/en-GB/cities/eau-claire/" },
-    { "name": "Edmonton", "link": "/en-GB/cities/edmonton/" },
-    { "name": "El Paso", "link": "/en-GB/cities/el-paso/" },
-    { "name": "Erie", "link": "/en-GB/cities/erie/" },
-    { "name": "Evansville, IN", "link": "/en-GB/cities/evansville-in/" },
-    { "name": "Fairbanks", "link": "/en-GB/cities/fairbanks/" },
-    { "name": "Fargo - Moorhead", "link": "/en-GB/cities/fargo/" },
-    { "name": "Fayetteville, AR", "link": "/en-GB/cities/fayetteville-ar/" },
-    { "name": "Fayetteville, NC", "link": "/en-GB/cities/fayetteville/" },
-    { "name": "Flagstaff", "link": "/en-GB/cities/flagstaff/" },
-    { "name": "Flint", "link": "/en-GB/cities/flint/" },
-    { "name": "Florida Keys", "link": "/en-GB/cities/florida-keys/" },
-    { "name": "Fort Collins", "link": "/en-GB/cities/fort-collins/" },
-    { "name": "Fort Myers-Naples", "link": "/en-GB/cities/fort-myers/" },
-    { "name": "Fort Wayne", "link": "/en-GB/cities/fort-wayne/" },
-    { "name": "Fresno", "link": "/en-GB/cities/fresno/" },
-    { "name": "Gainesville", "link": "/en-GB/cities/gainesville/" },
-    { "name": "Gallup", "link": "/en-GB/cities/gallup/" },
-    { "name": "Gatineau", "link": "/en-GB/cities/gatineau/" },
-    { "name": "Golden Triangle", "link": "/en-GB/cities/golden-triangle/" },
-    { "name": "Grand Forks", "link": "/en-GB/cities/grand-forks/" },
-    { "name": "Grand Rapids", "link": "/en-GB/cities/grand-rapids/" },
-    { "name": "Greater Maine", "link": "/en-GB/cities/maine/" },
     {
-      "name": "Greater Williamsport",
+      "city": "Eastern Shore",
+      "link": "/en-GB/cities/annapolis/"
+    },
+    {
+      "city": "Eastern Washington",
+      "link": "/en-GB/cities/tricities-wa/"
+    },
+    {
+      "city": "Eastern WV",
+      "link": "/en-GB/cities/morgantown-wv/"
+    },
+    {
+      "city": "Eau Claire",
+      "link": "/en-GB/cities/eau-claire/"
+    },
+    {
+      "city": "Edmonton",
+      "link": "/en-GB/cities/edmonton/"
+    },
+    {
+      "city": "El Paso",
+      "link": "/en-GB/cities/el-paso/"
+    },
+    {
+      "city": "Erie",
+      "link": "/en-GB/cities/erie/"
+    },
+    {
+      "city": "Evansville, IN",
+      "link": "/en-GB/cities/evansville-in/"
+    },
+    {
+      "city": "Fairbanks",
+      "link": "/en-GB/cities/fairbanks/"
+    },
+    {
+      "city": "Fargo - Moorhead",
+      "link": "/en-GB/cities/fargo/"
+    },
+    {
+      "city": "Fayetteville, AR",
+      "link": "/en-GB/cities/fayetteville-ar/"
+    },
+    {
+      "city": "Fayetteville, NC",
+      "link": "/en-GB/cities/fayetteville/"
+    },
+    {
+      "city": "Flagstaff",
+      "link": "/en-GB/cities/flagstaff/"
+    },
+    {
+      "city": "Flint",
+      "link": "/en-GB/cities/flint/"
+    },
+    {
+      "city": "Florence, SC",
+      "link": "/en-GB/cities/florence-sc/"
+    },
+    {
+      "city": "Florida Keys",
+      "link": "/en-GB/cities/florida-keys/"
+    },
+    {
+      "city": "Fort Collins",
+      "link": "/en-GB/cities/fort-collins/"
+    },
+    {
+      "city": "Fort Myers-Naples",
+      "link": "/en-GB/cities/fort-myers/"
+    },
+    {
+      "city": "Fort Wayne",
+      "link": "/en-GB/cities/fort-wayne/"
+    },
+    {
+      "city": "Fresno",
+      "link": "/en-GB/cities/fresno/"
+    },
+    {
+      "city": "Gainesville",
+      "link": "/en-GB/cities/gainesville/"
+    },
+    {
+      "city": "Gallup",
+      "link": "/en-GB/cities/gallup/"
+    },
+    {
+      "city": "Gatineau",
+      "link": "/en-GB/cities/gatineau/"
+    },
+    {
+      "city": "Golden Triangle",
+      "link": "/en-GB/cities/golden-triangle/"
+    },
+    {
+      "city": "Grand Forks",
+      "link": "/en-GB/cities/grand-forks/"
+    },
+    {
+      "city": "Grand Rapids",
+      "link": "/en-GB/cities/grand-rapids/"
+    },
+    {
+      "city": "Greater Maine",
+      "link": "/en-GB/cities/maine/"
+    },
+    {
+      "city": "Greater Williamsport",
       "link": "/en-GB/cities/greater-williamsport/"
     },
-    { "name": "Green Bay", "link": "/en-GB/cities/green-bay/" },
-    { "name": "Greenville, SC", "link": "/en-GB/cities/greenville-sc/" },
-    { "name": "Guadalajara", "link": "/en-GB/cities/guadalajara/" },
-    { "name": "Guanajuato", "link": "/en-GB/cities/guanajuato/" },
-    { "name": "Guasave", "link": "/en-GB/cities/guasave/" },
-    { "name": "Guaymas", "link": "/en-GB/cities/guaymas/" },
-    { "name": "Gulfport-Biloxi", "link": "/en-GB/cities/gulfportbiloxi/" },
-    { "name": "Hamilton", "link": "/en-GB/cities/hamilton/" },
-    { "name": "Hampton Roads", "link": "/en-GB/cities/virginia-beach/" },
-    { "name": "Harrisburg", "link": "/en-GB/cities/harrisburg/" },
-    { "name": "Hattiesburg, MS", "link": "/en-GB/cities/hattiesburg-ms/" },
-    { "name": "Helena", "link": "/en-GB/cities/helena/" },
-    { "name": "Hermosillo", "link": "/en-GB/cities/hermosillo/" },
-    { "name": "Honolulu", "link": "/en-GB/cities/honolulu/" },
-    { "name": "Houston", "link": "/en-GB/cities/houston/" },
-    { "name": "Huntsville, AL", "link": "/en-GB/cities/huntsville-al/" },
-    { "name": "Indianapolis", "link": "/en-GB/cities/indianapolis/" },
-    { "name": "Inland Empire", "link": "/en-GB/cities/inland-empire/" },
-    { "name": "Iowa name", "link": "/en-GB/cities/iowa-name/" },
-    { "name": "Irapuato", "link": "/en-GB/cities/irapuato/" },
-    { "name": "Jackson", "link": "/en-GB/cities/jackson/" },
-    { "name": "Jacksonville", "link": "/en-GB/cities/jacksonville/" },
-    { "name": "Johnstown-Altoona", "link": "/en-GB/cities/johnstownaltoona/" },
-    { "name": "Jonesboro", "link": "/en-GB/cities/jonesboro/" },
-    { "name": "Juneau", "link": "/en-GB/cities/juneau/" },
-    { "name": "Kalamazoo", "link": "/en-GB/cities/kalamazoo/" },
-    { "name": "Kansas name", "link": "/en-GB/cities/kansas-name/" },
-    { "name": "Kauai", "link": "/en-GB/cities/kauai/" },
-    { "name": "Killeen", "link": "/en-GB/cities/killeen/" },
-    { "name": "Kingston", "link": "/en-GB/cities/kingston/" },
     {
-      "name": "Kitchener-Waterloo",
+      "city": "Green Bay",
+      "link": "/en-GB/cities/green-bay/"
+    },
+    {
+      "city": "Greenville, SC",
+      "link": "/en-GB/cities/greenville-sc/"
+    },
+    {
+      "city": "Guadalajara",
+      "link": "/en-GB/cities/guadalajara/"
+    },
+    {
+      "city": "Guanajuato",
+      "link": "/en-GB/cities/guanajuato/"
+    },
+    {
+      "city": "Guasave",
+      "link": "/en-GB/cities/guasave/"
+    },
+    {
+      "city": "Guaymas",
+      "link": "/en-GB/cities/guaymas/"
+    },
+    {
+      "city": "Gulfport-Biloxi",
+      "link": "/en-GB/cities/gulfportbiloxi/"
+    },
+    {
+      "city": "Hamilton",
+      "link": "/en-GB/cities/hamilton/"
+    },
+    {
+      "city": "Hampton Roads",
+      "link": "/en-GB/cities/virginia-beach/"
+    },
+    {
+      "city": "Harrisburg",
+      "link": "/en-GB/cities/harrisburg/"
+    },
+    {
+      "city": "Hattiesburg, MS",
+      "link": "/en-GB/cities/hattiesburg-ms/"
+    },
+    {
+      "city": "Hermosillo",
+      "link": "/en-GB/cities/hermosillo/"
+    },
+    {
+      "city": "Honolulu",
+      "link": "/en-GB/cities/honolulu/"
+    },
+    {
+      "city": "Houston",
+      "link": "/en-GB/cities/houston/"
+    },
+    {
+      "city": "Huntsville, AL",
+      "link": "/en-GB/cities/huntsville-al/"
+    },
+    {
+      "city": "Indianapolis",
+      "link": "/en-GB/cities/indianapolis/"
+    },
+    {
+      "city": "Inland Empire",
+      "link": "/en-GB/cities/inland-empire/"
+    },
+    {
+      "city": "Iowa City",
+      "link": "/en-GB/cities/iowa-city/"
+    },
+    {
+      "city": "Irapuato",
+      "link": "/en-GB/cities/irapuato/"
+    },
+    {
+      "city": "Jackson",
+      "link": "/en-GB/cities/jackson/"
+    },
+    {
+      "city": "Jackson, TN",
+      "link": "/en-GB/cities/jackson-tn/"
+    },
+    {
+      "city": "Jacksonville",
+      "link": "/en-GB/cities/jacksonville/"
+    },
+    {
+      "city": "Johnstown-Altoona",
+      "link": "/en-GB/cities/johnstownaltoona/"
+    },
+    {
+      "city": "Jonesboro",
+      "link": "/en-GB/cities/jonesboro/"
+    },
+    {
+      "city": "Juneau",
+      "link": "/en-GB/cities/juneau/"
+    },
+    {
+      "city": "Kalamazoo",
+      "link": "/en-GB/cities/kalamazoo/"
+    },
+    {
+      "city": "Kansas City",
+      "link": "/en-GB/cities/kansas-city/"
+    },
+    {
+      "city": "Kauai",
+      "link": "/en-GB/cities/kauai/"
+    },
+    {
+      "city": "Killeen",
+      "link": "/en-GB/cities/killeen/"
+    },
+    {
+      "city": "Kingston",
+      "link": "/en-GB/cities/kingston/"
+    },
+    {
+      "city": "Kitchener-Waterloo",
       "link": "/en-GB/cities/kitchenerwaterloo/"
     },
-    { "name": "Knoxville", "link": "/en-GB/cities/knoxville/" },
-    { "name": "La Crosse", "link": "/en-GB/cities/la-crosse/" },
-    { "name": "La Paz, Mexico", "link": "/en-GB/cities/la-paz-mexico/" },
-    { "name": "Lafayette, LA", "link": "/en-GB/cities/lafayette-la/" },
-    { "name": "Lancaster, PA", "link": "/en-GB/cities/lancaster-pa/" },
-    { "name": "Lansing", "link": "/en-GB/cities/lansing/" },
-    { "name": "Laredo", "link": "/en-GB/cities/laredo/" },
-    { "name": "Las Cruces", "link": "/en-GB/cities/las-cruces/" },
-    { "name": "Las Vegas", "link": "/en-GB/cities/las-vegas/" },
-    { "name": "Lawrence", "link": "/en-GB/cities/lawrence/" },
-    { "name": "Lawton", "link": "/en-GB/cities/lawton/" },
-    { "name": "Lehigh Valley", "link": "/en-GB/cities/allentown/" },
-    { "name": "Leon", "link": "/en-GB/cities/leon/" },
-    { "name": "Lethbridge", "link": "/en-GB/cities/lethbridge/" },
-    { "name": "Lexington", "link": "/en-GB/cities/lexington/" },
-    { "name": "Lincoln", "link": "/en-GB/cities/lincoln/" },
-    { "name": "Little Rock", "link": "/en-GB/cities/little-rock/" },
-    { "name": "London, Ont", "link": "/en-GB/cities/london-ont/" },
-    { "name": "Los Angeles", "link": "/en-GB/cities/los-angeles/" },
-    { "name": "Los Mochis", "link": "/en-GB/cities/los-mochis/" },
-    { "name": "Louisville", "link": "/en-GB/cities/louisville/" },
-    { "name": "Lubbock", "link": "/en-GB/cities/lubbock/" },
-    { "name": "Madison", "link": "/en-GB/cities/madison/" },
-    { "name": "Manhattan", "link": "/en-GB/cities/manhattan/" },
-    { "name": "Mankato", "link": "/en-GB/cities/mankato/" },
-    { "name": "Maui", "link": "/en-GB/cities/maui/" },
-    { "name": "Mayaguez", "link": "/en-GB/cities/mayaguez/" },
-    { "name": "Mazatlan", "link": "/en-GB/cities/mazatlan/" },
-    { "name": "Memphis", "link": "/en-GB/cities/memphis/" },
-    { "name": "Merida", "link": "/en-GB/cities/merida/" },
-    { "name": "Meridian", "link": "/en-GB/cities/meridian/" },
-    { "name": "Mexicali", "link": "/en-GB/cities/mexicali/" },
-    { "name": "Mexico name", "link": "/en-GB/cities/mexico-name/" },
-    { "name": "Miami", "link": "/en-GB/cities/miami/" },
-    { "name": "Midland-Odessa", "link": "/en-GB/cities/midland/" },
-    { "name": "Milwaukee", "link": "/en-GB/cities/milwaukee/" },
-    { "name": "Minneapolis - St. Paul", "link": "/en-GB/cities/minneapolis/" },
-    { "name": "Mississippi Delta", "link": "/en-GB/cities/mississippi-delta/" },
-    { "name": "Missoula", "link": "/en-GB/cities/missoula/" },
-    { "name": "Mobile, AL", "link": "/en-GB/cities/mobile-al/" },
-    { "name": "Modesto", "link": "/en-GB/cities/modesto/" },
-    { "name": "Monclova", "link": "/en-GB/cities/monclova/" },
-    { "name": "Monroe", "link": "/en-GB/cities/monroe/" },
-    { "name": "Monterrey", "link": "/en-GB/cities/monterrey/" },
-    { "name": "Montgomery, AL", "link": "/en-GB/cities/montgomery/" },
-    { "name": "Montreal", "link": "/en-GB/cities/montreal/" },
-    { "name": "Morelia", "link": "/en-GB/cities/morelia/" },
-    { "name": "Myrtle Beach", "link": "/en-GB/cities/myrtle-beach/" },
-    { "name": "Nacogdoches", "link": "/en-GB/cities/nacogdoches/" },
-    { "name": "Nashville", "link": "/en-GB/cities/nashville/" },
-    { "name": "Navojoa", "link": "/en-GB/cities/navojoa/" },
-    { "name": "New Hampshire", "link": "/en-GB/cities/manchester-nh/" },
-    { "name": "New Jersey", "link": "/en-GB/cities/new-jersey/" },
-    { "name": "New Jersey (Shore)", "link": "/en-GB/cities/new-jersey-shore/" },
-    { "name": "New Orleans", "link": "/en-GB/cities/new-orleans/" },
-    { "name": "New York", "link": "/en-GB/cities/new-york/" },
-    { "name": "Niagara Region", "link": "/en-GB/cities/niagara-region/" },
-    { "name": "Nogales", "link": "/en-GB/cities/nogales/" },
-    { "name": "Northern Missouri", "link": "/en-GB/cities/northern-missouri/" },
-    { "name": "Nuevo Vallarta", "link": "/en-GB/cities/nuevo-vallarta/" },
-    { "name": "NW Indiana", "link": "/en-GB/cities/nw-indiana/" },
-    { "name": "NYC Suburbs", "link": "/en-GB/cities/nyc-suburbs/" },
-    { "name": "Ocala, FL", "link": "/en-GB/cities/ocala-fl/" },
-    { "name": "Oklahoma name", "link": "/en-GB/cities/oklahoma-name/" },
-    { "name": "Olympia", "link": "/en-GB/cities/olympia/" },
-    { "name": "Omaha", "link": "/en-GB/cities/omaha/" },
-    { "name": "Orange County", "link": "/en-GB/cities/orange-county/" },
-    { "name": "Orlando", "link": "/en-GB/cities/orlando/" },
-    { "name": "Ottawa", "link": "/en-GB/cities/ottawa/" },
-    { "name": "Outer Banks, NC", "link": "/en-GB/cities/outer-banks-nc/" },
-    { "name": "Oxford", "link": "/en-GB/cities/oxford/" },
-    { "name": "Palm Springs", "link": "/en-GB/cities/palm-springs/" },
-    { "name": "Panama name, Fl", "link": "/en-GB/cities/panama-name-fl/" },
-    { "name": "Peninsula and SW WA", "link": "/en-GB/cities/peninsulasw-wa/" },
-    { "name": "Pensacola, FL", "link": "/en-GB/cities/pensacola-fl/" },
-    { "name": "Peoria, IL", "link": "/en-GB/cities/peoria-il/" },
-    { "name": "Philadelphia", "link": "/en-GB/cities/philadelphia/" },
-    { "name": "Phoenix", "link": "/en-GB/cities/phoenix/" },
-    { "name": "Piedmont Triad", "link": "/en-GB/cities/greensboro/" },
-    { "name": "Piedras Negras", "link": "/en-GB/cities/piedras-negras/" },
-    { "name": "Pittsburgh", "link": "/en-GB/cities/pittsburgh/" },
-    { "name": "Ponce", "link": "/en-GB/cities/ponce/" },
-    { "name": "Portland", "link": "/en-GB/cities/portland/" },
-    { "name": "Portland, ME", "link": "/en-GB/cities/portland-me/" },
-    { "name": "Puebla", "link": "/en-GB/cities/puebla/" },
-    { "name": "Puerto Vallarta", "link": "/en-GB/cities/puerto-vallarta/" },
-    { "name": "Quad Cities", "link": "/en-GB/cities/quad-cities/" },
-    { "name": "Quebec name", "link": "/en-GB/cities/quebec-name/" },
-    { "name": "Queretaro", "link": "/en-GB/cities/queretaro/" },
-    { "name": "Raleigh-Durham", "link": "/en-GB/cities/raleigh/" },
-    { "name": "Reading, PA", "link": "/en-GB/cities/reading-pa/" },
-    { "name": "Red Deer", "link": "/en-GB/cities/red-deer/" },
-    { "name": "Reno", "link": "/en-GB/cities/reno/" },
-    { "name": "Rhode Island", "link": "/en-GB/cities/providence/" },
-    { "name": "Richmond", "link": "/en-GB/cities/richmond/" },
-    { "name": "Rio Grande Valley", "link": "/en-GB/cities/brownsville/" },
-    { "name": "Roanoke-Blacksburg", "link": "/en-GB/cities/roanoke/" },
-    { "name": "Rochester, MN", "link": "/en-GB/cities/rochester-mn/" },
-    { "name": "Rockford", "link": "/en-GB/cities/rockford/" },
-    { "name": "Rockies", "link": "/en-GB/cities/rockies/" },
-    { "name": "Sacramento", "link": "/en-GB/cities/sacramento/" },
-    { "name": "Salamanca", "link": "/en-GB/cities/salamanca/" },
-    { "name": "Salt Lake name", "link": "/en-GB/cities/salt-lake-name/" },
-    { "name": "Saltillo", "link": "/en-GB/cities/saltillo/" },
-    { "name": "San Angelo", "link": "/en-GB/cities/san-angelo/" },
-    { "name": "San Antonio", "link": "/en-GB/cities/san-antonio/" },
-    { "name": "San Diego", "link": "/en-GB/cities/san-diego/" },
     {
-      "name": "San Francisco Bay Area",
+      "city": "Knoxville",
+      "link": "/en-GB/cities/knoxville/"
+    },
+    {
+      "city": "La Crosse",
+      "link": "/en-GB/cities/la-crosse/"
+    },
+    {
+      "city": "La Paz, Mexico",
+      "link": "/en-GB/cities/la-paz-mexico/"
+    },
+    {
+      "city": "Lafayette, LA",
+      "link": "/en-GB/cities/lafayette-la/"
+    },
+    {
+      "city": "Lancaster, PA",
+      "link": "/en-GB/cities/lancaster-pa/"
+    },
+    {
+      "city": "Lansing",
+      "link": "/en-GB/cities/lansing/"
+    },
+    {
+      "city": "Laredo",
+      "link": "/en-GB/cities/laredo/"
+    },
+    {
+      "city": "Las Cruces",
+      "link": "/en-GB/cities/las-cruces/"
+    },
+    {
+      "city": "Las Vegas",
+      "link": "/en-GB/cities/las-vegas/"
+    },
+    {
+      "city": "Lawrence",
+      "link": "/en-GB/cities/lawrence/"
+    },
+    {
+      "city": "Lawton",
+      "link": "/en-GB/cities/lawton/"
+    },
+    {
+      "city": "Lehigh Valley",
+      "link": "/en-GB/cities/allentown/"
+    },
+    {
+      "city": "Leon",
+      "link": "/en-GB/cities/leon/"
+    },
+    {
+      "city": "Lethbridge",
+      "link": "/en-GB/cities/lethbridge/"
+    },
+    {
+      "city": "Lexington",
+      "link": "/en-GB/cities/lexington/"
+    },
+    {
+      "city": "Lincoln",
+      "link": "/en-GB/cities/lincoln/"
+    },
+    {
+      "city": "Little Rock",
+      "link": "/en-GB/cities/little-rock/"
+    },
+    {
+      "city": "London, Ont",
+      "link": "/en-GB/cities/london-ont/"
+    },
+    {
+      "city": "Los Angeles",
+      "link": "/en-GB/cities/los-angeles/"
+    },
+    {
+      "city": "Los Mochis",
+      "link": "/en-GB/cities/los-mochis/"
+    },
+    {
+      "city": "Louisville",
+      "link": "/en-GB/cities/louisville/"
+    },
+    {
+      "city": "Lubbock",
+      "link": "/en-GB/cities/lubbock/"
+    },
+    {
+      "city": "Madison",
+      "link": "/en-GB/cities/madison/"
+    },
+    {
+      "city": "Manhattan",
+      "link": "/en-GB/cities/manhattan/"
+    },
+    {
+      "city": "Mankato",
+      "link": "/en-GB/cities/mankato/"
+    },
+    {
+      "city": "Maui",
+      "link": "/en-GB/cities/maui/"
+    },
+    {
+      "city": "Mayaguez",
+      "link": "/en-GB/cities/mayaguez/"
+    },
+    {
+      "city": "Mazatlan",
+      "link": "/en-GB/cities/mazatlan/"
+    },
+    {
+      "city": "Memphis",
+      "link": "/en-GB/cities/memphis/"
+    },
+    {
+      "city": "Merida",
+      "link": "/en-GB/cities/merida/"
+    },
+    {
+      "city": "Meridian",
+      "link": "/en-GB/cities/meridian/"
+    },
+    {
+      "city": "Mexicali",
+      "link": "/en-GB/cities/mexicali/"
+    },
+    {
+      "city": "Mexico City",
+      "link": "/en-GB/cities/mexico-city/"
+    },
+    {
+      "city": "Miami",
+      "link": "/en-GB/cities/miami/"
+    },
+    {
+      "city": "Midland-Odessa",
+      "link": "/en-GB/cities/midland/"
+    },
+    {
+      "city": "Milwaukee",
+      "link": "/en-GB/cities/milwaukee/"
+    },
+    {
+      "city": "Minneapolis - St. Paul",
+      "link": "/en-GB/cities/minneapolis/"
+    },
+    {
+      "city": "Mississippi Delta",
+      "link": "/en-GB/cities/mississippi-delta/"
+    },
+    {
+      "city": "Missoula",
+      "link": "/en-GB/cities/missoula/"
+    },
+    {
+      "city": "Mobile, AL",
+      "link": "/en-GB/cities/mobile-al/"
+    },
+    {
+      "city": "Modesto",
+      "link": "/en-GB/cities/modesto/"
+    },
+    {
+      "city": "Monclova",
+      "link": "/en-GB/cities/monclova/"
+    },
+    {
+      "city": "Monroe",
+      "link": "/en-GB/cities/monroe/"
+    },
+    {
+      "city": "Monterrey",
+      "link": "/en-GB/cities/monterrey/"
+    },
+    {
+      "city": "Montgomery, AL",
+      "link": "/en-GB/cities/montgomery/"
+    },
+    {
+      "city": "Montreal",
+      "link": "/en-GB/cities/montreal/"
+    },
+    {
+      "city": "Morelia",
+      "link": "/en-GB/cities/morelia/"
+    },
+    {
+      "city": "Myrtle Beach",
+      "link": "/en-GB/cities/myrtle-beach/"
+    },
+    {
+      "city": "Nacogdoches",
+      "link": "/en-GB/cities/nacogdoches/"
+    },
+    {
+      "city": "Nashville",
+      "link": "/en-GB/cities/nashville/"
+    },
+    {
+      "city": "Navojoa",
+      "link": "/en-GB/cities/navojoa/"
+    },
+    {
+      "city": "New Hampshire",
+      "link": "/en-GB/cities/manchester-nh/"
+    },
+    {
+      "city": "New Jersey",
+      "link": "/en-GB/cities/new-jersey/"
+    },
+    {
+      "city": "New Jersey (Shore)",
+      "link": "/en-GB/cities/new-jersey-shore/"
+    },
+    {
+      "city": "New Orleans",
+      "link": "/en-GB/cities/new-orleans/"
+    },
+    {
+      "city": "New York City",
+      "link": "/en-GB/cities/new-york/"
+    },
+    {
+      "city": "Niagara Region",
+      "link": "/en-GB/cities/niagara-region/"
+    },
+    {
+      "city": "Nogales",
+      "link": "/en-GB/cities/nogales/"
+    },
+    {
+      "city": "North Georgia",
+      "link": "/en-GB/cities/north-georgia/"
+    },
+    {
+      "city": "Northern Missouri",
+      "link": "/en-GB/cities/northern-missouri/"
+    },
+    {
+      "city": "Nuevo Vallarta",
+      "link": "/en-GB/cities/nuevo-vallarta/"
+    },
+    {
+      "city": "NW Indiana",
+      "link": "/en-GB/cities/nw-indiana/"
+    },
+    {
+      "city": "NYC Suburbs",
+      "link": "/en-GB/cities/nyc-suburbs/"
+    },
+    {
+      "city": "Ocala, FL",
+      "link": "/en-GB/cities/ocala-fl/"
+    },
+    {
+      "city": "Oklahoma City",
+      "link": "/en-GB/cities/oklahoma-city/"
+    },
+    {
+      "city": "Olympia",
+      "link": "/en-GB/cities/olympia/"
+    },
+    {
+      "city": "Omaha",
+      "link": "/en-GB/cities/omaha/"
+    },
+    {
+      "city": "Orange County",
+      "link": "/en-GB/cities/orange-county/"
+    },
+    {
+      "city": "Orlando",
+      "link": "/en-GB/cities/orlando/"
+    },
+    {
+      "city": "Ottawa",
+      "link": "/en-GB/cities/ottawa/"
+    },
+    {
+      "city": "Outer Banks, NC",
+      "link": "/en-GB/cities/outer-banks-nc/"
+    },
+    {
+      "city": "Oxford",
+      "link": "/en-GB/cities/oxford/"
+    },
+    {
+      "city": "Palm Springs",
+      "link": "/en-GB/cities/palm-springs/"
+    },
+    {
+      "city": "Panama City, Fl",
+      "link": "/en-GB/cities/panama-city-fl/"
+    },
+    {
+      "city": "Peninsula and SW WA",
+      "link": "/en-GB/cities/peninsulasw-wa/"
+    },
+    {
+      "city": "Pensacola, FL",
+      "link": "/en-GB/cities/pensacola-fl/"
+    },
+    {
+      "city": "Peoria, IL",
+      "link": "/en-GB/cities/peoria-il/"
+    },
+    {
+      "city": "Philadelphia",
+      "link": "/en-GB/cities/philadelphia/"
+    },
+    {
+      "city": "Phoenix",
+      "link": "/en-GB/cities/phoenix/"
+    },
+    {
+      "city": "Piedmont Triad",
+      "link": "/en-GB/cities/greensboro/"
+    },
+    {
+      "city": "Piedras Negras",
+      "link": "/en-GB/cities/piedras-negras/"
+    },
+    {
+      "city": "Pittsburgh",
+      "link": "/en-GB/cities/pittsburgh/"
+    },
+    {
+      "city": "Ponce",
+      "link": "/en-GB/cities/ponce/"
+    },
+    {
+      "city": "Portland",
+      "link": "/en-GB/cities/portland/"
+    },
+    {
+      "city": "Portland, ME",
+      "link": "/en-GB/cities/portland-me/"
+    },
+    {
+      "city": "Puebla",
+      "link": "/en-GB/cities/puebla/"
+    },
+    {
+      "city": "Puerto Vallarta",
+      "link": "/en-GB/cities/puerto-vallarta/"
+    },
+    {
+      "city": "Quad Cities",
+      "link": "/en-GB/cities/quad-cities/"
+    },
+    {
+      "city": "Quebec City",
+      "link": "/en-GB/cities/quebec-city/"
+    },
+    {
+      "city": "Queretaro",
+      "link": "/en-GB/cities/queretaro/"
+    },
+    {
+      "city": "Raleigh-Durham",
+      "link": "/en-GB/cities/raleigh/"
+    },
+    {
+      "city": "Reading, PA",
+      "link": "/en-GB/cities/reading-pa/"
+    },
+    {
+      "city": "Red Deer",
+      "link": "/en-GB/cities/red-deer/"
+    },
+    {
+      "city": "Reno",
+      "link": "/en-GB/cities/reno/"
+    },
+    {
+      "city": "Rhode Island",
+      "link": "/en-GB/cities/providence/"
+    },
+    {
+      "city": "Richmond",
+      "link": "/en-GB/cities/richmond/"
+    },
+    {
+      "city": "Rio Grande Valley",
+      "link": "/en-GB/cities/brownsville/"
+    },
+    {
+      "city": "Roanoke-Blacksburg",
+      "link": "/en-GB/cities/roanoke/"
+    },
+    {
+      "city": "Rochester, MN",
+      "link": "/en-GB/cities/rochester-mn/"
+    },
+    {
+      "city": "Rockford",
+      "link": "/en-GB/cities/rockford/"
+    },
+    {
+      "city": "Rockies",
+      "link": "/en-GB/cities/rockies/"
+    },
+    {
+      "city": "Sacramento",
+      "link": "/en-GB/cities/sacramento/"
+    },
+    {
+      "city": "Salamanca",
+      "link": "/en-GB/cities/salamanca/"
+    },
+    {
+      "city": "Salt Lake City",
+      "link": "/en-GB/cities/salt-lake-city/"
+    },
+    {
+      "city": "Saltillo",
+      "link": "/en-GB/cities/saltillo/"
+    },
+    {
+      "city": "San Angelo",
+      "link": "/en-GB/cities/san-angelo/"
+    },
+    {
+      "city": "San Antonio",
+      "link": "/en-GB/cities/san-antonio/"
+    },
+    {
+      "city": "San Diego",
+      "link": "/en-GB/cities/san-diego/"
+    },
+    {
+      "city": "San Francisco Bay Area",
       "link": "/en-GB/cities/san-francisco/"
     },
-    { "name": "San Juan, PR", "link": "/en-GB/cities/san-juan-pr/" },
-    { "name": "San Luis Obispo", "link": "/en-GB/cities/san-luis-obispo/" },
-    { "name": "San Luis Potosi", "link": "/en-GB/cities/san-luis-potosi/" },
     {
-      "name": "San Luis Rio Colorado",
+      "city": "San Juan, PR",
+      "link": "/en-GB/cities/san-juan-pr/"
+    },
+    {
+      "city": "San Luis Obispo",
+      "link": "/en-GB/cities/san-luis-obispo/"
+    },
+    {
+      "city": "San Luis Potosi",
+      "link": "/en-GB/cities/san-luis-potosi/"
+    },
+    {
+      "city": "San Luis Rio Colorado",
       "link": "/en-GB/cities/san-luis-rio-colorado/"
     },
     {
-      "name": "San Miguel de Allende",
+      "city": "San Miguel de Allende",
       "link": "/en-GB/cities/san-miguel-de-allende/"
     },
-    { "name": "Santa Barbara", "link": "/en-GB/cities/santa-barbara/" },
-    { "name": "Santa Fe", "link": "/en-GB/cities/santa-fe/" },
-    { "name": "Sarasota", "link": "/en-GB/cities/sarasota/" },
-    { "name": "Savannah-Hilton Head", "link": "/en-GB/cities/savannah/" },
-    { "name": "Seattle", "link": "/en-GB/cities/seattle/" },
-    { "name": "Sioux name", "link": "/en-GB/cities/sioux-name/" },
-    { "name": "South Bend", "link": "/en-GB/cities/south-bend/" },
-    { "name": "Southern Arkansas", "link": "/en-GB/cities/southern-arkansas/" },
-    { "name": "Southern Utah", "link": "/en-GB/cities/st-george/" },
-    { "name": "Spokane", "link": "/en-GB/cities/spokane/" },
-    { "name": "Springfield, IL", "link": "/en-GB/cities/springfield-il/" },
-    { "name": "Springfield, Mo", "link": "/en-GB/cities/springfield-mo/" },
-    { "name": "St Cloud", "link": "/en-GB/cities/st-cloud/" },
-    { "name": "St Louis", "link": "/en-GB/cities/st-louis/" },
-    { "name": "State College", "link": "/en-GB/cities/state-college/" },
-    { "name": "Stillwater", "link": "/en-GB/cities/stillwater/" },
-    { "name": "Tacoma", "link": "/en-GB/cities/tacoma/" },
-    { "name": "Tallahassee", "link": "/en-GB/cities/tallahassee/" },
-    { "name": "Tampa Bay", "link": "/en-GB/cities/tampa/" },
-    { "name": "Taos", "link": "/en-GB/cities/taos/" },
-    { "name": "Tepic", "link": "/en-GB/cities/tepic/" },
-    { "name": "Terre Haute", "link": "/en-GB/cities/terre-haute/" },
-    { "name": "Texarkana", "link": "/en-GB/cities/texarkana/" },
-    { "name": "the Hamptons", "link": "/en-GB/cities/hamptons/" },
-    { "name": "Tijuana", "link": "/en-GB/cities/tijuana/" },
-    { "name": "Toledo", "link": "/en-GB/cities/toledo/" },
-    { "name": "Toluca", "link": "/en-GB/cities/toluca/" },
-    { "name": "Topeka", "link": "/en-GB/cities/topeka/" },
-    { "name": "Toronto", "link": "/en-GB/cities/toronto/" },
-    { "name": "Torreon", "link": "/en-GB/cities/torreon/" },
-    { "name": "Traverse name", "link": "/en-GB/cities/traverse-name/" },
-    { "name": "Tri-Cities", "link": "/en-GB/cities/tricities/" },
-    { "name": "Tri-Cities, MI", "link": "/en-GB/cities/tricities-mi/" },
-    { "name": "Tucson", "link": "/en-GB/cities/tucson/" },
-    { "name": "Tulsa", "link": "/en-GB/cities/tulsa/" },
-    { "name": "Tuscaloosa", "link": "/en-GB/cities/tuscaloosa/" },
-    { "name": "Tyler", "link": "/en-GB/cities/tyler/" },
-    { "name": "Upstate NY", "link": "/en-GB/cities/upstate-ny/" },
-    { "name": "Uruapan", "link": "/en-GB/cities/uruapan/" },
-    { "name": "Ventura", "link": "/en-GB/cities/ventura/" },
-    { "name": "Vermont", "link": "/en-GB/cities/burlington/" },
-    { "name": "Villahermosa", "link": "/en-GB/cities/villahermosa/" },
-    { "name": "Waco", "link": "/en-GB/cities/waco/" },
-    { "name": "Washington D.C.", "link": "/en-GB/cities/washington-DC/" },
     {
-      "name": "Waterloo-Cedar Falls",
+      "city": "Santa Barbara",
+      "link": "/en-GB/cities/santa-barbara/"
+    },
+    {
+      "city": "Santa Fe",
+      "link": "/en-GB/cities/santa-fe/"
+    },
+    {
+      "city": "Sarasota",
+      "link": "/en-GB/cities/sarasota/"
+    },
+    {
+      "city": "Savannah-Hilton Head",
+      "link": "/en-GB/cities/savannah/"
+    },
+    {
+      "city": "Seattle",
+      "link": "/en-GB/cities/seattle/"
+    },
+    {
+      "city": "Shreveport, LA",
+      "link": "/en-GB/cities/shreveport-la/"
+    },
+    {
+      "city": "Sioux City",
+      "link": "/en-GB/cities/sioux-city/"
+    },
+    {
+      "city": "South Bend",
+      "link": "/en-GB/cities/south-bend/"
+    },
+    {
+      "city": "South Georgia",
+      "link": "/en-GB/cities/south-georgia/"
+    },
+    {
+      "city": "South Tennessee",
+      "link": "/en-GB/cities/south-tennessee/"
+    },
+    {
+      "city": "Southern Arkansas",
+      "link": "/en-GB/cities/southern-arkansas/"
+    },
+    {
+      "city": "Southern Oregon",
+      "link": "/en-GB/cities/eugene/"
+    },
+    {
+      "city": "Southern Utah",
+      "link": "/en-GB/cities/st-george/"
+    },
+    {
+      "city": "Spokane",
+      "link": "/en-GB/cities/spokane/"
+    },
+    {
+      "city": "Springfield, IL",
+      "link": "/en-GB/cities/springfield-il/"
+    },
+    {
+      "city": "Springfield, Mo",
+      "link": "/en-GB/cities/springfield-mo/"
+    },
+    {
+      "city": "St Cloud",
+      "link": "/en-GB/cities/st-cloud/"
+    },
+    {
+      "city": "St Louis",
+      "link": "/en-GB/cities/st-louis/"
+    },
+    {
+      "city": "State College",
+      "link": "/en-GB/cities/state-college/"
+    },
+    {
+      "city": "Stillwater",
+      "link": "/en-GB/cities/stillwater/"
+    },
+    {
+      "city": "Tacoma",
+      "link": "/en-GB/cities/tacoma/"
+    },
+    {
+      "city": "Tallahassee",
+      "link": "/en-GB/cities/tallahassee/"
+    },
+    {
+      "city": "Tampa Bay",
+      "link": "/en-GB/cities/tampa/"
+    },
+    {
+      "city": "Taos",
+      "link": "/en-GB/cities/taos/"
+    },
+    {
+      "city": "Tepic",
+      "link": "/en-GB/cities/tepic/"
+    },
+    {
+      "city": "Terre Haute",
+      "link": "/en-GB/cities/terre-haute/"
+    },
+    {
+      "city": "Texarkana",
+      "link": "/en-GB/cities/texarkana/"
+    },
+    {
+      "city": "the Hamptons",
+      "link": "/en-GB/cities/hamptons/"
+    },
+    {
+      "city": "Tijuana",
+      "link": "/en-GB/cities/tijuana/"
+    },
+    {
+      "city": "Toledo",
+      "link": "/en-GB/cities/toledo/"
+    },
+    {
+      "city": "Toluca",
+      "link": "/en-GB/cities/toluca/"
+    },
+    {
+      "city": "Topeka",
+      "link": "/en-GB/cities/topeka/"
+    },
+    {
+      "city": "Toronto",
+      "link": "/en-GB/cities/toronto/"
+    },
+    {
+      "city": "Torreon",
+      "link": "/en-GB/cities/torreon/"
+    },
+    {
+      "city": "Traverse City",
+      "link": "/en-GB/cities/traverse-city/"
+    },
+    {
+      "city": "Tri-Cities",
+      "link": "/en-GB/cities/tricities/"
+    },
+    {
+      "city": "Tri-Cities, MI",
+      "link": "/en-GB/cities/tricities-mi/"
+    },
+    {
+      "city": "Tucson",
+      "link": "/en-GB/cities/tucson/"
+    },
+    {
+      "city": "Tulsa",
+      "link": "/en-GB/cities/tulsa/"
+    },
+    {
+      "city": "Tuscaloosa",
+      "link": "/en-GB/cities/tuscaloosa/"
+    },
+    {
+      "city": "Tyler",
+      "link": "/en-GB/cities/tyler/"
+    },
+    {
+      "city": "Upstate NY",
+      "link": "/en-GB/cities/upstate-ny/"
+    },
+    {
+      "city": "Uruapan",
+      "link": "/en-GB/cities/uruapan/"
+    },
+    {
+      "city": "Ventura",
+      "link": "/en-GB/cities/ventura/"
+    },
+    {
+      "city": "Vermont",
+      "link": "/en-GB/cities/burlington/"
+    },
+    {
+      "city": "Villahermosa",
+      "link": "/en-GB/cities/villahermosa/"
+    },
+    {
+      "city": "Waco",
+      "link": "/en-GB/cities/waco/"
+    },
+    {
+      "city": "Washington D.C.",
+      "link": "/en-GB/cities/washington-DC/"
+    },
+    {
+      "city": "Waterloo-Cedar Falls",
       "link": "/en-GB/cities/waterloocedar-falls/"
     },
-    { "name": "West Lafayette", "link": "/en-GB/cities/west-lafayette/" },
-    { "name": "Western Arizona", "link": "/en-GB/cities/western-arizona/" },
-    { "name": "Western MA", "link": "/en-GB/cities/springfield-ma/" },
-    { "name": "Western WV", "link": "/en-GB/cities/charleston-wv/" },
-    { "name": "Wichita", "link": "/en-GB/cities/wichita/" },
-    { "name": "Wichita Falls", "link": "/en-GB/cities/wichita-falls/" },
     {
-      "name": "Wilkes-Barre Scranton",
+      "city": "West Lafayette",
+      "link": "/en-GB/cities/west-lafayette/"
+    },
+    {
+      "city": "Western Arizona",
+      "link": "/en-GB/cities/western-arizona/"
+    },
+    {
+      "city": "Western MA",
+      "link": "/en-GB/cities/springfield-ma/"
+    },
+    {
+      "city": "Western WV",
+      "link": "/en-GB/cities/charleston-wv/"
+    },
+    {
+      "city": "Wichita",
+      "link": "/en-GB/cities/wichita/"
+    },
+    {
+      "city": "Wichita Falls",
+      "link": "/en-GB/cities/wichita-falls/"
+    },
+    {
+      "city": "Wilkes-Barre Scranton",
       "link": "/en-GB/cities/wilkesbarre-scranton/"
     },
-    { "name": "Willamette Valley", "link": "/en-GB/cities/salem/" },
-    { "name": "Wilmington, NC", "link": "/en-GB/cities/wilmington-nc/" },
-    { "name": "Windsor", "link": "/en-GB/cities/windsor/" },
-    { "name": "Worcester", "link": "/en-GB/cities/worcester/" },
-    { "name": "Wyoming", "link": "/en-GB/cities/cheyenne/" },
-    { "name": "York-Gettysburg", "link": "/en-GB/cities/yorkgettysburg/" },
-    { "name": "Youngstown", "link": "/en-GB/cities/youngstown/" },
-    { "name": "Yuma", "link": "/en-GB/cities/yuma/" },
-    { "name": "Zacatecas", "link": "/en-GB/cities/zacatecas/" },
-    { "name": "Anapolis", "link": "/en-GB/cities/anapolis/" },
-    { "name": "Antofagasta", "link": "/en-GB/cities/antofagasta/" },
-    { "name": "Aracaju", "link": "/en-GB/cities/aracaju/" },
-    { "name": "Arapiraca", "link": "/en-GB/cities/arapiraca/" },
-    { "name": "Arequipa", "link": "/en-GB/cities/arequipa/" },
-    { "name": "Arica", "link": "/en-GB/cities/arica/" },
-    { "name": "Armenia", "link": "/en-GB/cities/armenia/" },
-    { "name": "Barranquilla", "link": "/en-GB/cities/barranquilla/" },
-    { "name": "Barreiras", "link": "/en-GB/cities/barreiras/" },
-    { "name": "Belem", "link": "/en-GB/cities/belem/" },
-    { "name": "Belo Horizonte", "link": "/en-GB/cities/belo-horizonte/" },
-    { "name": "Blumenau", "link": "/en-GB/cities/blumenau/" },
-    { "name": "Boa Vista", "link": "/en-GB/cities/boa-vista/" },
-    { "name": "Bogota", "link": "/en-GB/cities/bogota/" },
-    { "name": "Brasilia", "link": "/en-GB/cities/brasilia/" },
-    { "name": "Bucaramanga", "link": "/en-GB/cities/bucaramanga/" },
-    { "name": "Buenos Aires", "link": "/en-GB/cities/buenos-aires/" },
-    { "name": "Cabo Frio", "link": "/en-GB/cities/cabo-frio/" },
-    { "name": "Calama", "link": "/en-GB/cities/calama/" },
-    { "name": "Cali - Colombia", "link": "/en-GB/cities/cali/" },
-    { "name": "Campina Grande", "link": "/en-GB/cities/campina-grande/" },
-    { "name": "Campinas", "link": "/en-GB/cities/campinas/" },
-    { "name": "Campo Grande", "link": "/en-GB/cities/campo-grande/" },
     {
-      "name": "Campos dos Goytacazes",
+      "city": "Willamette Valley",
+      "link": "/en-GB/cities/salem/"
+    },
+    {
+      "city": "Wilmington, NC",
+      "link": "/en-GB/cities/wilmington-nc/"
+    },
+    {
+      "city": "Windsor",
+      "link": "/en-GB/cities/windsor/"
+    },
+    {
+      "city": "Worcester",
+      "link": "/en-GB/cities/worcester/"
+    },
+    {
+      "city": "Wyoming",
+      "link": "/en-GB/cities/cheyenne/"
+    },
+    {
+      "city": "York-Gettysburg",
+      "link": "/en-GB/cities/yorkgettysburg/"
+    },
+    {
+      "city": "Youngstown",
+      "link": "/en-GB/cities/youngstown/"
+    },
+    {
+      "city": "Yuma",
+      "link": "/en-GB/cities/yuma/"
+    },
+    {
+      "city": "Zacatecas",
+      "link": "/en-GB/cities/zacatecas/"
+    },
+    {
+      "city": "Anapolis",
+      "link": "/en-GB/cities/anapolis/"
+    },
+    {
+      "city": "Angra dos Reis",
+      "link": "/en-GB/cities/angra-dos-reis/"
+    },
+    {
+      "city": "Antofagasta",
+      "link": "/en-GB/cities/antofagasta/"
+    },
+    {
+      "city": "Aracaju",
+      "link": "/en-GB/cities/aracaju/"
+    },
+    {
+      "city": "Aracatuba",
+      "link": "/en-GB/cities/aracatuba/"
+    },
+    {
+      "city": "Arapiraca",
+      "link": "/en-GB/cities/arapiraca/"
+    },
+    {
+      "city": "Arequipa",
+      "link": "/en-GB/cities/arequipa/"
+    },
+    {
+      "city": "Arica",
+      "link": "/en-GB/cities/arica/"
+    },
+    {
+      "city": "Armenia",
+      "link": "/en-GB/cities/armenia/"
+    },
+    {
+      "city": "Barranquilla",
+      "link": "/en-GB/cities/barranquilla/"
+    },
+    {
+      "city": "Barreiras",
+      "link": "/en-GB/cities/barreiras/"
+    },
+    {
+      "city": "Bauru",
+      "link": "/en-GB/cities/bauru/"
+    },
+    {
+      "city": "Belem",
+      "link": "/en-GB/cities/belem/"
+    },
+    {
+      "city": "Belo Horizonte",
+      "link": "/en-GB/cities/belo-horizonte/"
+    },
+    {
+      "city": "Blumenau",
+      "link": "/en-GB/cities/blumenau/"
+    },
+    {
+      "city": "Boa Vista",
+      "link": "/en-GB/cities/boa-vista/"
+    },
+    {
+      "city": "Bogota",
+      "link": "/en-GB/cities/bogota/"
+    },
+    {
+      "city": "Botucatu",
+      "link": "/en-GB/cities/botucatu/"
+    },
+    {
+      "city": "Braganca Paulista",
+      "link": "/en-GB/cities/braganca-paulista/"
+    },
+    {
+      "city": "Brasilia",
+      "link": "/en-GB/cities/brasilia/"
+    },
+    {
+      "city": "Bucaramanga",
+      "link": "/en-GB/cities/bucaramanga/"
+    },
+    {
+      "city": "Buenos Aires",
+      "link": "/en-GB/cities/buenos-aires/"
+    },
+    {
+      "city": "Cabo Frio",
+      "link": "/en-GB/cities/cabo-frio/"
+    },
+    {
+      "city": "Calama",
+      "link": "/en-GB/cities/calama/"
+    },
+    {
+      "city": "Cali - Colombia",
+      "link": "/en-GB/cities/cali/"
+    },
+    {
+      "city": "Campina Grande",
+      "link": "/en-GB/cities/campina-grande/"
+    },
+    {
+      "city": "Campinas",
+      "link": "/en-GB/cities/campinas/"
+    },
+    {
+      "city": "Campo Grande",
+      "link": "/en-GB/cities/campo-grande/"
+    },
+    {
+      "city": "Campos dos Goytacazes",
       "link": "/en-GB/cities/campos-dos-goytacazes/"
     },
-    { "name": "Cartagena", "link": "/en-GB/cities/cartagena/" },
-    { "name": "Caruaru", "link": "/en-GB/cities/caruaru/" },
-    { "name": "Cascavel", "link": "/en-GB/cities/cascavel/" },
-    { "name": "Caxias do Sul", "link": "/en-GB/cities/caxias-do-sul/" },
-    { "name": "Chapeco", "link": "/en-GB/cities/chapeco/" },
-    { "name": "Chiclayo", "link": "/en-GB/cities/chiclayo/" },
-    { "name": "Concepcion", "link": "/en-GB/cities/concepcion/" },
-    { "name": "Copiapo", "link": "/en-GB/cities/copiapo/" },
-    { "name": "Criciuma", "link": "/en-GB/cities/criciuma/" },
-    { "name": "Cucuta", "link": "/en-GB/cities/cucuta/" },
-    { "name": "Cuiaba", "link": "/en-GB/cities/cuiaba/" },
-    { "name": "Curitiba", "link": "/en-GB/cities/curitiba/" },
-    { "name": "Cusco", "link": "/en-GB/cities/cusco/" },
-    { "name": "Divinopolis", "link": "/en-GB/cities/divinopolis/" },
-    { "name": "Dourados", "link": "/en-GB/cities/dourados/" },
-    { "name": "Feira de Santana", "link": "/en-GB/cities/feira-de-santana/" },
-    { "name": "Florianopolis", "link": "/en-GB/cities/florianopolis/" },
-    { "name": "Fortaleza", "link": "/en-GB/cities/fortaleza/" },
-    { "name": "Garanhuns", "link": "/en-GB/cities/garanhuns/" },
-    { "name": "Goiania", "link": "/en-GB/cities/goiania/" },
-    { "name": "Guarapuava", "link": "/en-GB/cities/guarapuava/" },
-    { "name": "Guatemala name", "link": "/en-GB/cities/guatemala-name/" },
-    { "name": "Guayaquil", "link": "/en-GB/cities/guayaquil/" },
-    { "name": "Ibague", "link": "/en-GB/cities/ibague/" },
-    { "name": "Iguatu", "link": "/en-GB/cities/iguatu/" },
-    { "name": "Imperatriz", "link": "/en-GB/cities/imperatriz/" },
-    { "name": "Ipatinga", "link": "/en-GB/cities/ipatinga/" },
-    { "name": "Iquique", "link": "/en-GB/cities/iquique/" },
-    { "name": "Itabuna e Ilheus", "link": "/en-GB/cities/itabuna-e-ilheus/" },
-    { "name": "Itajai", "link": "/en-GB/cities/itajai/" },
-    { "name": "Itapipoca", "link": "/en-GB/cities/itapipoca/" },
-    { "name": "Jequie", "link": "/en-GB/cities/jequie/" },
-    { "name": "Joao Pessoa", "link": "/en-GB/cities/joao-pessoa/" },
-    { "name": "Joinville", "link": "/en-GB/cities/joinville/" },
-    { "name": "Juazeiro do Norte", "link": "/en-GB/cities/juazeiro-do-norte/" },
-    { "name": "Juiz de Fora", "link": "/en-GB/cities/juiz-de-fora/" },
-    { "name": "La Paz", "link": "/en-GB/cities/la-paz/" },
-    { "name": "La Serena", "link": "/en-GB/cities/la-serena/" },
-    { "name": "Lages", "link": "/en-GB/cities/lages/" },
-    { "name": "Lima", "link": "/en-GB/cities/lima/" },
-    { "name": "Londrina", "link": "/en-GB/cities/londrina/" },
-    { "name": "Macapa", "link": "/en-GB/cities/macapa/" },
-    { "name": "Maceio", "link": "/en-GB/cities/maceio/" },
-    { "name": "Manaus", "link": "/en-GB/cities/manaus/" },
-    { "name": "Manizales", "link": "/en-GB/cities/manizales/" },
-    { "name": "Maraba", "link": "/en-GB/cities/maraba/" },
-    { "name": "Maringa", "link": "/en-GB/cities/maringa/" },
-    { "name": "Medellin", "link": "/en-GB/cities/medellin/" },
-    { "name": "Monteria", "link": "/en-GB/cities/monteria/" },
-    { "name": "Montes Claros", "link": "/en-GB/cities/montes-claros/" },
-    { "name": "Montevideo", "link": "/en-GB/cities/montevideo/" },
-    { "name": "Mossoro", "link": "/en-GB/cities/mossoro/" },
-    { "name": "Natal", "link": "/en-GB/cities/natal/" },
-    { "name": "Neiva", "link": "/en-GB/cities/neiva/" },
-    { "name": "Osorno", "link": "/en-GB/cities/osorno/" },
-    { "name": "Ovalle", "link": "/en-GB/cities/ovalle/" },
-    { "name": "Palmas", "link": "/en-GB/cities/palmas/" },
-    { "name": "Panama name, PA", "link": "/en-GB/cities/panama-name/" },
-    { "name": "Paranagua", "link": "/en-GB/cities/paranagua/" },
-    { "name": "Parauapebas", "link": "/en-GB/cities/parauapebas/" },
-    { "name": "Parnaiba", "link": "/en-GB/cities/parnaiba/" },
-    { "name": "Passo Fundo", "link": "/en-GB/cities/passo-fundo/" },
-    { "name": "Pasto", "link": "/en-GB/cities/pasto/" },
-    { "name": "Patos", "link": "/en-GB/cities/patos/" },
-    { "name": "Paulo Afonso", "link": "/en-GB/cities/paulo-afonso/" },
-    { "name": "Pelotas", "link": "/en-GB/cities/pelotas/" },
-    { "name": "Pereira", "link": "/en-GB/cities/pereira/" },
-    { "name": "Petrolina", "link": "/en-GB/cities/petrolina/" },
-    { "name": "Piracicaba", "link": "/en-GB/cities/piracicaba/" },
-    { "name": "Piura", "link": "/en-GB/cities/piura/" },
-    { "name": "Ponta Grossa", "link": "/en-GB/cities/ponta-grossa/" },
-    { "name": "Popayan", "link": "/en-GB/cities/popayan/" },
-    { "name": "Port of Spain", "link": "/en-GB/cities/port-of-spain/" },
-    { "name": "Porto Alegre", "link": "/en-GB/cities/porto-alegre/" },
-    { "name": "Porto Seguro", "link": "/en-GB/cities/porto-seguro/" },
-    { "name": "Porto Velho", "link": "/en-GB/cities/porto-velho/" },
-    { "name": "Puerto Montt", "link": "/en-GB/cities/puerto-montt/" },
-    { "name": "Puerto Plata", "link": "/en-GB/cities/puerto-plata/" },
-    { "name": "Punta Arenas", "link": "/en-GB/cities/punta-arenas/" },
-    { "name": "Quito", "link": "/en-GB/cities/quito/" },
-    { "name": "Rancagua", "link": "/en-GB/cities/rancagua/" },
-    { "name": "Recife", "link": "/en-GB/cities/recife/" },
-    { "name": "Ribeirao Preto", "link": "/en-GB/cities/ribeirao-preto/" },
-    { "name": "Rio Branco", "link": "/en-GB/cities/rio-branco/" },
-    { "name": "Rio De Janeiro", "link": "/en-GB/cities/rio-de-janeiro/" },
-    { "name": "Rio Verde", "link": "/en-GB/cities/rio-verde/" },
-    { "name": "Rondonopolis", "link": "/en-GB/cities/rondonopolis/" },
-    { "name": "Salvador", "link": "/en-GB/cities/salvador/" },
-    { "name": "San Fernando", "link": "/en-GB/cities/san-fernando/" },
-    { "name": "San Jose, CR", "link": "/en-GB/cities/san-jose/" },
-    { "name": "San Salvador", "link": "/en-GB/cities/san-salvador/" },
     {
-      "name": "Santa Cruz do Capibaribe",
+      "city": "Cartagena",
+      "link": "/en-GB/cities/cartagena/"
+    },
+    {
+      "city": "Caruaru",
+      "link": "/en-GB/cities/caruaru/"
+    },
+    {
+      "city": "Cascavel",
+      "link": "/en-GB/cities/cascavel/"
+    },
+    {
+      "city": "Caxias do Sul",
+      "link": "/en-GB/cities/caxias-do-sul/"
+    },
+    {
+      "city": "Chapeco",
+      "link": "/en-GB/cities/chapeco/"
+    },
+    {
+      "city": "Chiclayo",
+      "link": "/en-GB/cities/chiclayo/"
+    },
+    {
+      "city": "Concepcion",
+      "link": "/en-GB/cities/concepcion/"
+    },
+    {
+      "city": "Copiapo",
+      "link": "/en-GB/cities/copiapo/"
+    },
+    {
+      "city": "Criciuma",
+      "link": "/en-GB/cities/criciuma/"
+    },
+    {
+      "city": "Cucuta",
+      "link": "/en-GB/cities/cucuta/"
+    },
+    {
+      "city": "Cuiaba",
+      "link": "/en-GB/cities/cuiaba/"
+    },
+    {
+      "city": "Curitiba",
+      "link": "/en-GB/cities/curitiba/"
+    },
+    {
+      "city": "Cusco",
+      "link": "/en-GB/cities/cusco/"
+    },
+    {
+      "city": "Divinopolis",
+      "link": "/en-GB/cities/divinopolis/"
+    },
+    {
+      "city": "Dourados",
+      "link": "/en-GB/cities/dourados/"
+    },
+    {
+      "city": "Feira de Santana",
+      "link": "/en-GB/cities/feira-de-santana/"
+    },
+    {
+      "city": "Florianopolis",
+      "link": "/en-GB/cities/florianopolis/"
+    },
+    {
+      "city": "Fortaleza",
+      "link": "/en-GB/cities/fortaleza/"
+    },
+    {
+      "city": "Franca",
+      "link": "/en-GB/cities/franca/"
+    },
+    {
+      "city": "Garanhuns",
+      "link": "/en-GB/cities/garanhuns/"
+    },
+    {
+      "city": "Goiania",
+      "link": "/en-GB/cities/goiania/"
+    },
+    {
+      "city": "Governador Valadares",
+      "link": "/en-GB/cities/governador-valadares/"
+    },
+    {
+      "city": "Guarapuava",
+      "link": "/en-GB/cities/guarapuava/"
+    },
+    {
+      "city": "Guatemala City",
+      "link": "/en-GB/cities/guatemala-city/"
+    },
+    {
+      "city": "Guayaquil",
+      "link": "/en-GB/cities/guayaquil/"
+    },
+    {
+      "city": "Ibague",
+      "link": "/en-GB/cities/ibague/"
+    },
+    {
+      "city": "Iguatu",
+      "link": "/en-GB/cities/iguatu/"
+    },
+    {
+      "city": "Imperatriz",
+      "link": "/en-GB/cities/imperatriz/"
+    },
+    {
+      "city": "Ipatinga",
+      "link": "/en-GB/cities/ipatinga/"
+    },
+    {
+      "city": "Iquique",
+      "link": "/en-GB/cities/iquique/"
+    },
+    {
+      "city": "Itabuna e Ilheus",
+      "link": "/en-GB/cities/itabuna-e-ilheus/"
+    },
+    {
+      "city": "Itajai",
+      "link": "/en-GB/cities/itajai/"
+    },
+    {
+      "city": "Itapipoca",
+      "link": "/en-GB/cities/itapipoca/"
+    },
+    {
+      "city": "Jequie",
+      "link": "/en-GB/cities/jequie/"
+    },
+    {
+      "city": "Joao Pessoa",
+      "link": "/en-GB/cities/joao-pessoa/"
+    },
+    {
+      "city": "Joinville",
+      "link": "/en-GB/cities/joinville/"
+    },
+    {
+      "city": "Juazeiro do Norte",
+      "link": "/en-GB/cities/juazeiro-do-norte/"
+    },
+    {
+      "city": "Juiz de Fora",
+      "link": "/en-GB/cities/juiz-de-fora/"
+    },
+    {
+      "city": "La Paz",
+      "link": "/en-GB/cities/la-paz/"
+    },
+    {
+      "city": "La Serena",
+      "link": "/en-GB/cities/la-serena/"
+    },
+    {
+      "city": "Lages",
+      "link": "/en-GB/cities/lages/"
+    },
+    {
+      "city": "Lima",
+      "link": "/en-GB/cities/lima/"
+    },
+    {
+      "city": "Londrina",
+      "link": "/en-GB/cities/londrina/"
+    },
+    {
+      "city": "Macae",
+      "link": "/en-GB/cities/macae/"
+    },
+    {
+      "city": "Macapa",
+      "link": "/en-GB/cities/macapa/"
+    },
+    {
+      "city": "Maceio",
+      "link": "/en-GB/cities/maceio/"
+    },
+    {
+      "city": "Manaus",
+      "link": "/en-GB/cities/manaus/"
+    },
+    {
+      "city": "Manizales",
+      "link": "/en-GB/cities/manizales/"
+    },
+    {
+      "city": "Maraba",
+      "link": "/en-GB/cities/maraba/"
+    },
+    {
+      "city": "Marilia",
+      "link": "/en-GB/cities/marilia/"
+    },
+    {
+      "city": "Maringa",
+      "link": "/en-GB/cities/maringa/"
+    },
+    {
+      "city": "Medellin",
+      "link": "/en-GB/cities/medellin/"
+    },
+    {
+      "city": "Mogi Guacu",
+      "link": "/en-GB/cities/mogi-guacu/"
+    },
+    {
+      "city": "Monteria",
+      "link": "/en-GB/cities/monteria/"
+    },
+    {
+      "city": "Montes Claros",
+      "link": "/en-GB/cities/montes-claros/"
+    },
+    {
+      "city": "Montevideo",
+      "link": "/en-GB/cities/montevideo/"
+    },
+    {
+      "city": "Mossoro",
+      "link": "/en-GB/cities/mossoro/"
+    },
+    {
+      "city": "Natal",
+      "link": "/en-GB/cities/natal/"
+    },
+    {
+      "city": "Neiva",
+      "link": "/en-GB/cities/neiva/"
+    },
+    {
+      "city": "Nova Friburgo",
+      "link": "/en-GB/cities/nova-friburgo/"
+    },
+    {
+      "city": "Osorno",
+      "link": "/en-GB/cities/osorno/"
+    },
+    {
+      "city": "Ovalle",
+      "link": "/en-GB/cities/ovalle/"
+    },
+    {
+      "city": "Palmas",
+      "link": "/en-GB/cities/palmas/"
+    },
+    {
+      "city": "Panama City, PA",
+      "link": "/en-GB/cities/panama-city/"
+    },
+    {
+      "city": "Paranagua",
+      "link": "/en-GB/cities/paranagua/"
+    },
+    {
+      "city": "Parauapebas",
+      "link": "/en-GB/cities/parauapebas/"
+    },
+    {
+      "city": "Parnaiba",
+      "link": "/en-GB/cities/parnaiba/"
+    },
+    {
+      "city": "Passo Fundo",
+      "link": "/en-GB/cities/passo-fundo/"
+    },
+    {
+      "city": "Pasto",
+      "link": "/en-GB/cities/pasto/"
+    },
+    {
+      "city": "Patos",
+      "link": "/en-GB/cities/patos/"
+    },
+    {
+      "city": "Paulo Afonso",
+      "link": "/en-GB/cities/paulo-afonso/"
+    },
+    {
+      "city": "Pelotas",
+      "link": "/en-GB/cities/pelotas/"
+    },
+    {
+      "city": "Pereira",
+      "link": "/en-GB/cities/pereira/"
+    },
+    {
+      "city": "Petrolina",
+      "link": "/en-GB/cities/petrolina/"
+    },
+    {
+      "city": "Petropolis",
+      "link": "/en-GB/cities/petropolis/"
+    },
+    {
+      "city": "Piracicaba",
+      "link": "/en-GB/cities/piracicaba/"
+    },
+    {
+      "city": "Piura",
+      "link": "/en-GB/cities/piura/"
+    },
+    {
+      "city": "Pocos de Caldas",
+      "link": "/en-GB/cities/pocos-de-caldas/"
+    },
+    {
+      "city": "Ponta Grossa",
+      "link": "/en-GB/cities/ponta-grossa/"
+    },
+    {
+      "city": "Popayan",
+      "link": "/en-GB/cities/popayan/"
+    },
+    {
+      "city": "Port of Spain",
+      "link": "/en-GB/cities/port-of-spain/"
+    },
+    {
+      "city": "Porto Alegre",
+      "link": "/en-GB/cities/porto-alegre/"
+    },
+    {
+      "city": "Porto Seguro",
+      "link": "/en-GB/cities/porto-seguro/"
+    },
+    {
+      "city": "Porto Velho",
+      "link": "/en-GB/cities/porto-velho/"
+    },
+    {
+      "city": "Pouso Alegre",
+      "link": "/en-GB/cities/pouso-alegre/"
+    },
+    {
+      "city": "Presidente Prudente",
+      "link": "/en-GB/cities/presidente-prudente/"
+    },
+    {
+      "city": "Puerto Montt",
+      "link": "/en-GB/cities/puerto-montt/"
+    },
+    {
+      "city": "Puerto Plata",
+      "link": "/en-GB/cities/puerto-plata/"
+    },
+    {
+      "city": "Punta Arenas",
+      "link": "/en-GB/cities/punta-arenas/"
+    },
+    {
+      "city": "Punta del Este",
+      "link": "/en-GB/cities/punta-del-este/"
+    },
+    {
+      "city": "Quito",
+      "link": "/en-GB/cities/quito/"
+    },
+    {
+      "city": "Rancagua",
+      "link": "/en-GB/cities/rancagua/"
+    },
+    {
+      "city": "Recife",
+      "link": "/en-GB/cities/recife/"
+    },
+    {
+      "city": "Ribeirao Preto",
+      "link": "/en-GB/cities/ribeirao-preto/"
+    },
+    {
+      "city": "Rio Branco",
+      "link": "/en-GB/cities/rio-branco/"
+    },
+    {
+      "city": "Rio De Janeiro",
+      "link": "/en-GB/cities/rio-de-janeiro/"
+    },
+    {
+      "city": "Rio Verde",
+      "link": "/en-GB/cities/rio-verde/"
+    },
+    {
+      "city": "Rondonopolis",
+      "link": "/en-GB/cities/rondonopolis/"
+    },
+    {
+      "city": "Salvador",
+      "link": "/en-GB/cities/salvador/"
+    },
+    {
+      "city": "San Fernando",
+      "link": "/en-GB/cities/san-fernando/"
+    },
+    {
+      "city": "San Jose, CR",
+      "link": "/en-GB/cities/san-jose/"
+    },
+    {
+      "city": "San Salvador",
+      "link": "/en-GB/cities/san-salvador/"
+    },
+    {
+      "city": "Santa Cruz do Capibaribe",
       "link": "/en-GB/cities/santa-cruz-do-capibaribe/"
     },
-    { "name": "Santa Cruz do Sul", "link": "/en-GB/cities/santa-cruz-do-sul/" },
-    { "name": "Santa Cruz, BO", "link": "/en-GB/cities/santa-cruz/" },
-    { "name": "Santa Maria", "link": "/en-GB/cities/santa-maria/" },
-    { "name": "Santa Marta", "link": "/en-GB/cities/santa-marta/" },
-    { "name": "Santarem", "link": "/en-GB/cities/santarem/" },
-    { "name": "Santiago", "link": "/en-GB/cities/santiago/" },
-    { "name": "Santiago, DR", "link": "/en-GB/cities/santiago-rd/" },
     {
-      "name": "Santo Antonio de Jesus",
+      "city": "Santa Cruz do Sul",
+      "link": "/en-GB/cities/santa-cruz-do-sul/"
+    },
+    {
+      "city": "Santa Cruz, BO",
+      "link": "/en-GB/cities/santa-cruz/"
+    },
+    {
+      "city": "Santa Maria",
+      "link": "/en-GB/cities/santa-maria/"
+    },
+    {
+      "city": "Santa Marta",
+      "link": "/en-GB/cities/santa-marta/"
+    },
+    {
+      "city": "Santarem",
+      "link": "/en-GB/cities/santarem/"
+    },
+    {
+      "city": "Santiago",
+      "link": "/en-GB/cities/santiago/"
+    },
+    {
+      "city": "Santiago, DR",
+      "link": "/en-GB/cities/santiago-rd/"
+    },
+    {
+      "city": "Santo Antonio de Jesus",
       "link": "/en-GB/cities/santo-antonio-de-jesus/"
     },
-    { "name": "Santo Domingo", "link": "/en-GB/cities/santo-domingo/" },
-    { "name": "Santos", "link": "/en-GB/cities/santos/" },
     {
-      "name": "Sao Jose do Rio Preto",
+      "city": "Santo Domingo",
+      "link": "/en-GB/cities/santo-domingo/"
+    },
+    {
+      "city": "Santos",
+      "link": "/en-GB/cities/santos/"
+    },
+    {
+      "city": "Sao Carlos",
+      "link": "/en-GB/cities/sao-carlos/"
+    },
+    {
+      "city": "Sao Jose do Rio Preto",
       "link": "/en-GB/cities/sao-jose-do-rio-preto/"
     },
     {
-      "name": "Sao Jose dos Campos",
+      "city": "Sao Jose dos Campos",
       "link": "/en-GB/cities/sao-jose-dos-campos/"
     },
-    { "name": "Sao Luis", "link": "/en-GB/cities/sao-luis/" },
-    { "name": "Sao Paulo", "link": "/en-GB/cities/sao-paulo/" },
-    { "name": "Sincelejo", "link": "/en-GB/cities/sincelejo/" },
-    { "name": "Sobral", "link": "/en-GB/cities/sobral/" },
-    { "name": "Sorocaba", "link": "/en-GB/cities/sorocaba/" },
-    { "name": "Talca", "link": "/en-GB/cities/talca/" },
     {
-      "name": "Teixeira de Freitas",
+      "city": "Sao Luis",
+      "link": "/en-GB/cities/sao-luis/"
+    },
+    {
+      "city": "Sao Paulo",
+      "link": "/en-GB/cities/sao-paulo/"
+    },
+    {
+      "city": "Sincelejo",
+      "link": "/en-GB/cities/sincelejo/"
+    },
+    {
+      "city": "Sobral",
+      "link": "/en-GB/cities/sobral/"
+    },
+    {
+      "city": "Sorocaba",
+      "link": "/en-GB/cities/sorocaba/"
+    },
+    {
+      "city": "Talca",
+      "link": "/en-GB/cities/talca/"
+    },
+    {
+      "city": "Teixeira de Freitas",
       "link": "/en-GB/cities/teixeira-de-freitas/"
     },
-    { "name": "Temuco", "link": "/en-GB/cities/temuco/" },
-    { "name": "Teresina", "link": "/en-GB/cities/teresina/" },
-    { "name": "Uberaba", "link": "/en-GB/cities/uberaba/" },
-    { "name": "Uberlandia", "link": "/en-GB/cities/uberlandia/" },
-    { "name": "Valdivia", "link": "/en-GB/cities/valdivia/" },
-    { "name": "Valledupar", "link": "/en-GB/cities/valledupar/" },
-    { "name": "Valparaiso", "link": "/en-GB/cities/valparaiso/" },
-    { "name": "Villavicencio", "link": "/en-GB/cities/villavicencio/" },
-    { "name": "Vitoria", "link": "/en-GB/cities/vitoria/" },
     {
-      "name": "Vitoria da Conquista",
+      "city": "Temuco",
+      "link": "/en-GB/cities/temuco/"
+    },
+    {
+      "city": "Teresina",
+      "link": "/en-GB/cities/teresina/"
+    },
+    {
+      "city": "Uberaba",
+      "link": "/en-GB/cities/uberaba/"
+    },
+    {
+      "city": "Uberlandia",
+      "link": "/en-GB/cities/uberlandia/"
+    },
+    {
+      "city": "Valdivia",
+      "link": "/en-GB/cities/valdivia/"
+    },
+    {
+      "city": "Valledupar",
+      "link": "/en-GB/cities/valledupar/"
+    },
+    {
+      "city": "Valparaiso",
+      "link": "/en-GB/cities/valparaiso/"
+    },
+    {
+      "city": "Villavicencio",
+      "link": "/en-GB/cities/villavicencio/"
+    },
+    {
+      "city": "Vitoria",
+      "link": "/en-GB/cities/vitoria/"
+    },
+    {
+      "city": "Vitoria da Conquista",
       "link": "/en-GB/cities/vitoria-da-conquista/"
     },
-    { "name": "Volta Redonda", "link": "/en-GB/cities/volta-redonda/" },
-    { "name": "Algarve", "link": "/en-GB/cities/algarve/" },
-    { "name": "Amsterdam", "link": "/en-GB/cities/amsterdam/" },
-    { "name": "Athens, GR", "link": "/en-GB/cities/athens-gr/" },
-    { "name": "Basel", "link": "/en-GB/cities/basel/" },
-    { "name": "Belfast", "link": "/en-GB/cities/belfast/" },
-    { "name": "Berlin", "link": "/en-GB/cities/berlin/" },
-    { "name": "Birmingham, UK", "link": "/en-GB/cities/birmingham/" },
-    { "name": "Bordeaux", "link": "/en-GB/cities/bordeaux/" },
-    { "name": "Brasov", "link": "/en-GB/cities/brasov/" },
-    { "name": "Bratislava", "link": "/en-GB/cities/bratislava/" },
     {
-      "name": "Brighton and Sussex",
+      "city": "Volta Redonda",
+      "link": "/en-GB/cities/volta-redonda/"
+    },
+    {
+      "city": "Algarve",
+      "link": "/en-GB/cities/algarve/"
+    },
+    {
+      "city": "Amsterdam",
+      "link": "/en-GB/cities/amsterdam/"
+    },
+    {
+      "city": "Athens, GR",
+      "link": "/en-GB/cities/athens-gr/"
+    },
+    {
+      "city": "Basel",
+      "link": "/en-GB/cities/basel/"
+    },
+    {
+      "city": "Belfast",
+      "link": "/en-GB/cities/belfast/"
+    },
+    {
+      "city": "Berlin",
+      "link": "/en-GB/cities/berlin/"
+    },
+    {
+      "city": "Birmingham, UK",
+      "link": "/en-GB/cities/birmingham/"
+    },
+    {
+      "city": "Bordeaux",
+      "link": "/en-GB/cities/bordeaux/"
+    },
+    {
+      "city": "Brasov",
+      "link": "/en-GB/cities/brasov/"
+    },
+    {
+      "city": "Bratislava",
+      "link": "/en-GB/cities/bratislava/"
+    },
+    {
+      "city": "Brighton and Sussex",
       "link": "/en-GB/cities/brighton-and-sussex/"
     },
-    { "name": "Brussels", "link": "/en-GB/cities/brussels/" },
-    { "name": "Bucharest", "link": "/en-GB/cities/bucharest/" },
-    { "name": "Budapest", "link": "/en-GB/cities/budapest/" },
     {
-      "name": "Cambridge and East Anglia",
+      "city": "Brussels",
+      "link": "/en-GB/cities/brussels/"
+    },
+    {
+      "city": "Bucharest",
+      "link": "/en-GB/cities/bucharest/"
+    },
+    {
+      "city": "Budapest",
+      "link": "/en-GB/cities/budapest/"
+    },
+    {
+      "city": "Cambridge and East Anglia",
       "link": "/en-GB/cities/east-anglia/"
     },
-    { "name": "Cardiff", "link": "/en-GB/cities/cardiff/" },
-    { "name": "Chelyabinsk", "link": "/en-GB/cities/chelyabinsk/" },
-    { "name": "Cluj", "link": "/en-GB/cities/cluj/" },
-    { "name": "Copenhagen", "link": "/en-GB/cities/copenhagen/" },
-    { "name": "Croatian Coast", "link": "/en-GB/cities/split/" },
-    { "name": "Dnipro", "link": "/en-GB/cities/dnipro/" },
-    { "name": "Dublin", "link": "/en-GB/cities/dublin/" },
-    { "name": "Edinburgh", "link": "/en-GB/cities/edinburgh/" },
-    { "name": "Ekaterinburg", "link": "/en-GB/cities/yekaterinburg/" },
-    { "name": "Geneva", "link": "/en-GB/cities/geneva/" },
-    { "name": "Glasgow", "link": "/en-GB/cities/glasgow-uk/" },
-    { "name": "Gothenburg", "link": "/en-GB/cities/gothenburg/" },
-    { "name": "Helsinki", "link": "/en-GB/cities/helsinki/" },
-    { "name": "Home Counties", "link": "/en-GB/cities/home-counties/" },
-    { "name": "Istanbul", "link": "/en-GB/cities/istanbul/" },
-    { "name": "Kazan", "link": "/en-GB/cities/kazan/" },
-    { "name": "Kharkiv", "link": "/en-GB/cities/kharkiv/" },
-    { "name": "Krakow", "link": "/en-GB/cities/krakow/" },
-    { "name": "Krasnodar", "link": "/en-GB/cities/krasnodar/" },
-    { "name": "Krasnoyarsk", "link": "/en-GB/cities/krasnoyarsk/" },
-    { "name": "Kyiv", "link": "/en-GB/cities/kyiv/" },
-    { "name": "Lausanne", "link": "/en-GB/cities/lausanne/" },
-    { "name": "Leeds", "link": "/en-GB/cities/leeds/" },
-    { "name": "Leicester", "link": "/en-GB/cities/leicester/" },
-    { "name": "Lille", "link": "/en-GB/cities/lille/" },
-    { "name": "Lisbon", "link": "/en-GB/cities/lisbon/" },
-    { "name": "Lodz", "link": "/en-GB/cities/lodz/" },
-    { "name": "London", "link": "/en-GB/cities/london/" },
-    { "name": "Lviv", "link": "/en-GB/cities/lviv/" },
-    { "name": "Lyon", "link": "/en-GB/cities/lyon/" },
-    { "name": "Madrid", "link": "/en-GB/cities/madrid/" },
-    { "name": "Malmö", "link": "/en-GB/cities/malmo/" },
-    { "name": "Manchester", "link": "/en-GB/cities/manchester/" },
-    { "name": "Marseille", "link": "/en-GB/cities/marseille/" },
-    { "name": "Merseyside", "link": "/en-GB/cities/liverpool/" },
-    { "name": "Milan", "link": "/en-GB/cities/milano/" },
-    { "name": "Minsk", "link": "/en-GB/cities/minsk/" },
-    { "name": "Montpellier", "link": "/en-GB/cities/montpellier/" },
-    { "name": "Moscow", "link": "/en-GB/cities/moscow/" },
-    { "name": "Munich", "link": "/en-GB/cities/munich/" },
-    { "name": "Nantes", "link": "/en-GB/cities/nantes/" },
-    { "name": "Nice", "link": "/en-GB/cities/cannes/" },
-    { "name": "Nizhny Novgorod", "link": "/en-GB/cities/nizhny-novgorod/" },
-    { "name": "North East, UK", "link": "/en-GB/cities/newcastle-uk/" },
-    { "name": "Nottingham", "link": "/en-GB/cities/nottingham/" },
-    { "name": "Novosibirsk", "link": "/en-GB/cities/novosibirsk/" },
-    { "name": "Odessa", "link": "/en-GB/cities/odessa/" },
-    { "name": "Omsk", "link": "/en-GB/cities/omsk/" },
-    { "name": "Oslo", "link": "/en-GB/cities/oslo/" },
-    { "name": "Paris", "link": "/en-GB/cities/paris/" },
-    { "name": "Perm", "link": "/en-GB/cities/perm/" },
-    { "name": "Porto", "link": "/en-GB/cities/porto/" },
-    { "name": "Poznan", "link": "/en-GB/cities/poznan/" },
-    { "name": "Prague", "link": "/en-GB/cities/prague/" },
-    { "name": "Rome", "link": "/en-GB/cities/rome/" },
-    { "name": "Rostov-On-Don", "link": "/en-GB/cities/rostovondon/" },
-    { "name": "Saint Petersburg", "link": "/en-GB/cities/saint-petersburg/" },
-    { "name": "Samara", "link": "/en-GB/cities/samara/" },
-    { "name": "Sheffield", "link": "/en-GB/cities/sheffield/" },
-    { "name": "Silesia", "link": "/en-GB/cities/silesia/" },
-    { "name": "Sochi", "link": "/en-GB/cities/sochi/" },
-    { "name": "South Coast, UK", "link": "/en-GB/cities/portsmouth/" },
-    { "name": "South West, UK", "link": "/en-GB/cities/bristol/" },
-    { "name": "rotterdam", "link": "/en-GB/cities/rotterdam/" },
-    { "name": "Stockholm", "link": "/en-GB/cities/stockholm/" },
-    { "name": "Stoke", "link": "/en-GB/cities/stoke/" },
-    { "name": "Strasbourg", "link": "/en-GB/cities/strasbourg/" },
-    { "name": "Tallinn", "link": "/en-GB/cities/tallinn/" },
-    { "name": "Timisoara", "link": "/en-GB/cities/timisoara/" },
-    { "name": "Toulouse", "link": "/en-GB/cities/toulouse/" },
-    { "name": "Trojmiasto", "link": "/en-GB/cities/gdansk/" },
-    { "name": "Ufa", "link": "/en-GB/cities/ufa/" },
-    { "name": "Vienna", "link": "/en-GB/cities/vienna/" },
-    { "name": "Vilnius", "link": "/en-GB/cities/vilnius/" },
-    { "name": "Vinnytsia", "link": "/en-GB/cities/vinnytsia/" },
-    { "name": "Voronezh", "link": "/en-GB/cities/voronezh/" },
-    { "name": "Warsaw", "link": "/en-GB/cities/warsaw/" },
-    { "name": "Wroclaw", "link": "/en-GB/cities/wroclaw/" },
-    { "name": "York", "link": "/en-GB/cities/york/" },
-    { "name": "Zagreb", "link": "/en-GB/cities/zagreb/" },
-    { "name": "Zaporizhia", "link": "/en-GB/cities/zaporizhia/" },
-    { "name": "Zurich", "link": "/en-GB/cities/zurich/" },
-    { "name": "Almaty", "link": "/en-GB/cities/almaty/" },
-    { "name": "Amman", "link": "/en-GB/cities/amman/" },
-    { "name": "Astana", "link": "/en-GB/cities/astana/" },
-    { "name": "Baku", "link": "/en-GB/cities/baku/" },
-    { "name": "Beirut", "link": "/en-GB/cities/beirut/" },
-    { "name": "Doha", "link": "/en-GB/cities/doha/" },
-    { "name": "Dubai", "link": "/en-GB/cities/dubai/" },
-    { "name": "Eastern Province, KSA", "link": "/en-GB/cities/dammam/" },
-    { "name": "Jeddah", "link": "/en-GB/cities/jeddah/" },
-    { "name": "Manama", "link": "/en-GB/cities/manama/" },
-    { "name": "Riyadh", "link": "/en-GB/cities/riyadh/" },
-    { "name": "Shymkent", "link": "/en-GB/cities/shymkent/" },
-    { "name": "Tel Aviv", "link": "/en-GB/cities/tel-aviv/" },
-    { "name": "Abuja", "link": "/en-GB/cities/abuja/" },
-    { "name": "Accra", "link": "/en-GB/cities/accra/" },
-    { "name": "Alexandria", "link": "/en-GB/cities/alexandria/" },
-    { "name": "Cairo", "link": "/en-GB/cities/cairo/" },
-    { "name": "Cape Town", "link": "/en-GB/cities/cape-town/" },
-    { "name": "Casablanca", "link": "/en-GB/cities/casablanca/" },
-    { "name": "Dar Es Salaam", "link": "/en-GB/cities/dar-es-salaam/" },
-    { "name": "Durban", "link": "/en-GB/cities/durban/" },
     {
-      "name": "Johannesburg and Pretoria",
+      "city": "Cardiff",
+      "link": "/en-GB/cities/cardiff/"
+    },
+    {
+      "city": "Chelyabinsk",
+      "link": "/en-GB/cities/chelyabinsk/"
+    },
+    {
+      "city": "Cluj",
+      "link": "/en-GB/cities/cluj/"
+    },
+    {
+      "city": "Copenhagen",
+      "link": "/en-GB/cities/copenhagen/"
+    },
+    {
+      "city": "Croatian Coast",
+      "link": "/en-GB/cities/split/"
+    },
+    {
+      "city": "Dnipro",
+      "link": "/en-GB/cities/dnipro/"
+    },
+    {
+      "city": "Dublin",
+      "link": "/en-GB/cities/dublin/"
+    },
+    {
+      "city": "Edinburgh",
+      "link": "/en-GB/cities/edinburgh/"
+    },
+    {
+      "city": "Ekaterinburg",
+      "link": "/en-GB/cities/yekaterinburg/"
+    },
+    {
+      "city": "Geneva",
+      "link": "/en-GB/cities/geneva/"
+    },
+    {
+      "city": "Glasgow",
+      "link": "/en-GB/cities/glasgow-uk/"
+    },
+    {
+      "city": "Gothenburg",
+      "link": "/en-GB/cities/gothenburg/"
+    },
+    {
+      "city": "Helsinki",
+      "link": "/en-GB/cities/helsinki/"
+    },
+    {
+      "city": "Home Counties",
+      "link": "/en-GB/cities/home-counties/"
+    },
+    {
+      "city": "Istanbul",
+      "link": "/en-GB/cities/istanbul/"
+    },
+    {
+      "city": "Kazan",
+      "link": "/en-GB/cities/kazan/"
+    },
+    {
+      "city": "Kharkiv",
+      "link": "/en-GB/cities/kharkiv/"
+    },
+    {
+      "city": "Krakow",
+      "link": "/en-GB/cities/krakow/"
+    },
+    {
+      "city": "Krasnodar",
+      "link": "/en-GB/cities/krasnodar/"
+    },
+    {
+      "city": "Krasnoyarsk",
+      "link": "/en-GB/cities/krasnoyarsk/"
+    },
+    {
+      "city": "Kyiv",
+      "link": "/en-GB/cities/kyiv/"
+    },
+    {
+      "city": "Lausanne",
+      "link": "/en-GB/cities/lausanne/"
+    },
+    {
+      "city": "Leeds",
+      "link": "/en-GB/cities/leeds/"
+    },
+    {
+      "city": "Leicester",
+      "link": "/en-GB/cities/leicester/"
+    },
+    {
+      "city": "Lille",
+      "link": "/en-GB/cities/lille/"
+    },
+    {
+      "city": "Lisbon",
+      "link": "/en-GB/cities/lisbon/"
+    },
+    {
+      "city": "Lodz",
+      "link": "/en-GB/cities/lodz/"
+    },
+    {
+      "city": "London",
+      "link": "/en-GB/cities/london/"
+    },
+    {
+      "city": "Lviv",
+      "link": "/en-GB/cities/lviv/"
+    },
+    {
+      "city": "Lyon",
+      "link": "/en-GB/cities/lyon/"
+    },
+    {
+      "city": "Madrid",
+      "link": "/en-GB/cities/madrid/"
+    },
+    {
+      "city": "Malmö",
+      "link": "/en-GB/cities/malmo/"
+    },
+    {
+      "city": "Manchester",
+      "link": "/en-GB/cities/manchester/"
+    },
+    {
+      "city": "Marseille",
+      "link": "/en-GB/cities/marseille/"
+    },
+    {
+      "city": "Merseyside",
+      "link": "/en-GB/cities/liverpool/"
+    },
+    {
+      "city": "Milan",
+      "link": "/en-GB/cities/milano/"
+    },
+    {
+      "city": "Minsk",
+      "link": "/en-GB/cities/minsk/"
+    },
+    {
+      "city": "Montpellier",
+      "link": "/en-GB/cities/montpellier/"
+    },
+    {
+      "city": "Moscow",
+      "link": "/en-GB/cities/moscow/"
+    },
+    {
+      "city": "Munich",
+      "link": "/en-GB/cities/munich/"
+    },
+    {
+      "city": "Nantes",
+      "link": "/en-GB/cities/nantes/"
+    },
+    {
+      "city": "Nice",
+      "link": "/en-GB/cities/cannes/"
+    },
+    {
+      "city": "Nizhny Novgorod",
+      "link": "/en-GB/cities/nizhny-novgorod/"
+    },
+    {
+      "city": "North East, UK",
+      "link": "/en-GB/cities/newcastle-uk/"
+    },
+    {
+      "city": "Nottingham",
+      "link": "/en-GB/cities/nottingham/"
+    },
+    {
+      "city": "Novosibirsk",
+      "link": "/en-GB/cities/novosibirsk/"
+    },
+    {
+      "city": "Odessa",
+      "link": "/en-GB/cities/odessa/"
+    },
+    {
+      "city": "Omsk",
+      "link": "/en-GB/cities/omsk/"
+    },
+    {
+      "city": "Oslo",
+      "link": "/en-GB/cities/oslo/"
+    },
+    {
+      "city": "Paris",
+      "link": "/en-GB/cities/paris/"
+    },
+    {
+      "city": "Perm",
+      "link": "/en-GB/cities/perm/"
+    },
+    {
+      "city": "Porto",
+      "link": "/en-GB/cities/porto/"
+    },
+    {
+      "city": "Poznan",
+      "link": "/en-GB/cities/poznan/"
+    },
+    {
+      "city": "Prague",
+      "link": "/en-GB/cities/prague/"
+    },
+    {
+      "city": "Rome",
+      "link": "/en-GB/cities/rome/"
+    },
+    {
+      "city": "Rostov-On-Don",
+      "link": "/en-GB/cities/rostovondon/"
+    },
+    {
+      "city": "Saint Petersburg",
+      "link": "/en-GB/cities/saint-petersburg/"
+    },
+    {
+      "city": "Samara",
+      "link": "/en-GB/cities/samara/"
+    },
+    {
+      "city": "Sheffield",
+      "link": "/en-GB/cities/sheffield/"
+    },
+    {
+      "city": "Silesia",
+      "link": "/en-GB/cities/silesia/"
+    },
+    {
+      "city": "Sochi",
+      "link": "/en-GB/cities/sochi/"
+    },
+    {
+      "city": "South Coast, UK",
+      "link": "/en-GB/cities/portsmouth/"
+    },
+    {
+      "city": "South West, UK",
+      "link": "/en-GB/cities/bristol/"
+    },
+    {
+      "city": "Southern Netherlands",
+      "link": "/en-GB/cities/rotterdam/"
+    },
+    {
+      "city": "Stockholm",
+      "link": "/en-GB/cities/stockholm/"
+    },
+    {
+      "city": "Stoke",
+      "link": "/en-GB/cities/stoke/"
+    },
+    {
+      "city": "Strasbourg",
+      "link": "/en-GB/cities/strasbourg/"
+    },
+    {
+      "city": "Tallinn",
+      "link": "/en-GB/cities/tallinn/"
+    },
+    {
+      "city": "Timisoara",
+      "link": "/en-GB/cities/timisoara/"
+    },
+    {
+      "city": "Toulouse",
+      "link": "/en-GB/cities/toulouse/"
+    },
+    {
+      "city": "Trojmiasto",
+      "link": "/en-GB/cities/gdansk/"
+    },
+    {
+      "city": "Ufa",
+      "link": "/en-GB/cities/ufa/"
+    },
+    {
+      "city": "Vienna",
+      "link": "/en-GB/cities/vienna/"
+    },
+    {
+      "city": "Vilnius",
+      "link": "/en-GB/cities/vilnius/"
+    },
+    {
+      "city": "Vinnytsia",
+      "link": "/en-GB/cities/vinnytsia/"
+    },
+    {
+      "city": "Voronezh",
+      "link": "/en-GB/cities/voronezh/"
+    },
+    {
+      "city": "Warsaw",
+      "link": "/en-GB/cities/warsaw/"
+    },
+    {
+      "city": "Wroclaw",
+      "link": "/en-GB/cities/wroclaw/"
+    },
+    {
+      "city": "York",
+      "link": "/en-GB/cities/york/"
+    },
+    {
+      "city": "Zagreb",
+      "link": "/en-GB/cities/zagreb/"
+    },
+    {
+      "city": "Zaporizhia",
+      "link": "/en-GB/cities/zaporizhia/"
+    },
+    {
+      "city": "Zurich",
+      "link": "/en-GB/cities/zurich/"
+    },
+    {
+      "city": "Almaty",
+      "link": "/en-GB/cities/almaty/"
+    },
+    {
+      "city": "Amman",
+      "link": "/en-GB/cities/amman/"
+    },
+    {
+      "city": "Astana",
+      "link": "/en-GB/cities/astana/"
+    },
+    {
+      "city": "Baku",
+      "link": "/en-GB/cities/baku/"
+    },
+    {
+      "city": "Beirut",
+      "link": "/en-GB/cities/beirut/"
+    },
+    {
+      "city": "Doha",
+      "link": "/en-GB/cities/doha/"
+    },
+    {
+      "city": "Dubai",
+      "link": "/en-GB/cities/dubai/"
+    },
+    {
+      "city": "Eastern Province, KSA",
+      "link": "/en-GB/cities/dammam/"
+    },
+    {
+      "city": "Jeddah",
+      "link": "/en-GB/cities/jeddah/"
+    },
+    {
+      "city": "Manama",
+      "link": "/en-GB/cities/manama/"
+    },
+    {
+      "city": "Riyadh",
+      "link": "/en-GB/cities/riyadh/"
+    },
+    {
+      "city": "Shymkent",
+      "link": "/en-GB/cities/shymkent/"
+    },
+    {
+      "city": "Tel Aviv",
+      "link": "/en-GB/cities/tel-aviv/"
+    },
+    {
+      "city": "Abuja",
+      "link": "/en-GB/cities/abuja/"
+    },
+    {
+      "city": "Accra",
+      "link": "/en-GB/cities/accra/"
+    },
+    {
+      "city": "Alexandria",
+      "link": "/en-GB/cities/alexandria/"
+    },
+    {
+      "city": "Cairo",
+      "link": "/en-GB/cities/cairo/"
+    },
+    {
+      "city": "Cape Town",
+      "link": "/en-GB/cities/cape-town/"
+    },
+    {
+      "city": "Casablanca",
+      "link": "/en-GB/cities/casablanca/"
+    },
+    {
+      "city": "Dar Es Salaam",
+      "link": "/en-GB/cities/dar-es-salaam/"
+    },
+    {
+      "city": "Durban",
+      "link": "/en-GB/cities/durban/"
+    },
+    {
+      "city": "Johannesburg and Pretoria",
       "link": "/en-GB/cities/johannesburg/"
     },
-    { "name": "Kampala", "link": "/en-GB/cities/kampala/" },
-    { "name": "Kumasi", "link": "/en-GB/cities/kumasi/" },
-    { "name": "Lagos", "link": "/en-GB/cities/lagos/" },
-    { "name": "Mombasa", "link": "/en-GB/cities/mombasa/" },
-    { "name": "Nairobi", "link": "/en-GB/cities/nairobi/" },
-    { "name": "Port Elizabeth", "link": "/en-GB/cities/port-elizabeth/" },
-    { "name": "Hong Kong", "link": "/en-GB/cities/hong-kong/" },
-    { "name": "Incheon", "link": "/en-GB/cities/incheon/" },
-    { "name": "Kaohsiung", "link": "/en-GB/cities/kaohsiung/" },
-    { "name": "Kyotango", "link": "/en-GB/cities/kyotango/" },
-    { "name": "Macau", "link": "/en-GB/cities/macau/" },
-    { "name": "Seoul", "link": "/en-GB/cities/seoul/" },
-    { "name": "Taichung", "link": "/en-GB/cities/taichung/" },
-    { "name": "Taipei", "link": "/en-GB/cities/taipei/" },
-    { "name": "Tokyo", "link": "/en-GB/cities/tokyo/" },
-    { "name": "Yokohama", "link": "/en-GB/cities/yokohama/" },
-    { "name": "Ahmedabad", "link": "/en-GB/cities/ahmedabad/" },
-    { "name": "Ajmer", "link": "/en-GB/cities/ajmer/" },
-    { "name": "Bangalore", "link": "/en-GB/cities/bangalore/" },
-    { "name": "Bhopal", "link": "/en-GB/cities/bhopal/" },
-    { "name": "Bhubaneswar", "link": "/en-GB/cities/bhubaneswar/" },
-    { "name": "Chandigarh", "link": "/en-GB/cities/chandigarh/" },
-    { "name": "Chennai", "link": "/en-GB/cities/chennai/" },
-    { "name": "Coimbatore", "link": "/en-GB/cities/coimbatore/" },
-    { "name": "Colombo", "link": "/en-GB/cities/colombo/" },
-    { "name": "Delhi NCR", "link": "/en-GB/cities/new-delhi/" },
-    { "name": "Dhaka", "link": "/en-GB/cities/dhaka/" },
-    { "name": "Faisalabad", "link": "/en-GB/cities/faisalabad/" },
-    { "name": "Gujranwala", "link": "/en-GB/cities/gujranwala/" },
-    { "name": "Guwahati", "link": "/en-GB/cities/guwahati/" },
-    { "name": "Hyderabad", "link": "/en-GB/cities/hyderabad/" },
     {
-      "name": "Hyderabad, Pakistan",
+      "city": "Kampala",
+      "link": "/en-GB/cities/kampala/"
+    },
+    {
+      "city": "Kumasi",
+      "link": "/en-GB/cities/kumasi/"
+    },
+    {
+      "city": "Lagos",
+      "link": "/en-GB/cities/lagos/"
+    },
+    {
+      "city": "Mombasa",
+      "link": "/en-GB/cities/mombasa/"
+    },
+    {
+      "city": "Nairobi",
+      "link": "/en-GB/cities/nairobi/"
+    },
+    {
+      "city": "Port Elizabeth",
+      "link": "/en-GB/cities/port-elizabeth/"
+    },
+    {
+      "city": "Hong Kong",
+      "link": "/en-GB/cities/hong-kong/"
+    },
+    {
+      "city": "Incheon",
+      "link": "/en-GB/cities/incheon/"
+    },
+    {
+      "city": "Kaohsiung",
+      "link": "/en-GB/cities/kaohsiung/"
+    },
+    {
+      "city": "Kyotango",
+      "link": "/en-GB/cities/kyotango/"
+    },
+    {
+      "city": "Macau",
+      "link": "/en-GB/cities/macau/"
+    },
+    {
+      "city": "Seoul",
+      "link": "/en-GB/cities/seoul/"
+    },
+    {
+      "city": "Taichung",
+      "link": "/en-GB/cities/taichung/"
+    },
+    {
+      "city": "Taipei",
+      "link": "/en-GB/cities/taipei/"
+    },
+    {
+      "city": "Tokyo",
+      "link": "/en-GB/cities/tokyo/"
+    },
+    {
+      "city": "Yokohama",
+      "link": "/en-GB/cities/yokohama/"
+    },
+    {
+      "city": "Ahmedabad",
+      "link": "/en-GB/cities/ahmedabad/"
+    },
+    {
+      "city": "Ajmer",
+      "link": "/en-GB/cities/ajmer/"
+    },
+    {
+      "city": "Amritsar",
+      "link": "/en-GB/cities/amritsar/"
+    },
+    {
+      "city": "Bangalore",
+      "link": "/en-GB/cities/bangalore/"
+    },
+    {
+      "city": "Bhopal",
+      "link": "/en-GB/cities/bhopal/"
+    },
+    {
+      "city": "Bhubaneswar",
+      "link": "/en-GB/cities/bhubaneswar/"
+    },
+    {
+      "city": "Chandigarh",
+      "link": "/en-GB/cities/chandigarh/"
+    },
+    {
+      "city": "Chennai",
+      "link": "/en-GB/cities/chennai/"
+    },
+    {
+      "city": "Coimbatore",
+      "link": "/en-GB/cities/coimbatore/"
+    },
+    {
+      "city": "Colombo",
+      "link": "/en-GB/cities/colombo/"
+    },
+    {
+      "city": "Delhi NCR",
+      "link": "/en-GB/cities/new-delhi/"
+    },
+    {
+      "city": "Dhaka",
+      "link": "/en-GB/cities/dhaka/"
+    },
+    {
+      "city": "Faisalabad",
+      "link": "/en-GB/cities/faisalabad/"
+    },
+    {
+      "city": "Gujranwala",
+      "link": "/en-GB/cities/gujranwala/"
+    },
+    {
+      "city": "Guwahati",
+      "link": "/en-GB/cities/guwahati/"
+    },
+    {
+      "city": "Hyderabad",
+      "link": "/en-GB/cities/hyderabad/"
+    },
+    {
+      "city": "Hyderabad, Pakistan",
       "link": "/en-GB/cities/hyderabad-pakistan/"
     },
-    { "name": "Indore", "link": "/en-GB/cities/indore/" },
-    { "name": "Islamabad", "link": "/en-GB/cities/islamabad/" },
-    { "name": "Jaipur", "link": "/en-GB/cities/jaipur/" },
-    { "name": "Jodhpur", "link": "/en-GB/cities/jodhpur/" },
-    { "name": "Karachi", "link": "/en-GB/cities/karachi/" },
-    { "name": "Kochi", "link": "/en-GB/cities/kochi/" },
-    { "name": "Kolkata", "link": "/en-GB/cities/kolkata/" },
-    { "name": "Lahore", "link": "/en-GB/cities/lahore/" },
-    { "name": "Lucknow", "link": "/en-GB/cities/lucknow/" },
-    { "name": "Ludhiana", "link": "/en-GB/cities/ludhiana/" },
-    { "name": "Mangalore", "link": "/en-GB/cities/mangalore/" },
-    { "name": "Mumbai", "link": "/en-GB/cities/mumbai/" },
-    { "name": "Mysore", "link": "/en-GB/cities/mysore/" },
-    { "name": "Nagpur", "link": "/en-GB/cities/nagpur/" },
-    { "name": "Nashik", "link": "/en-GB/cities/nashik/" },
-    { "name": "Pune", "link": "/en-GB/cities/pune/" },
-    { "name": "Surat", "link": "/en-GB/cities/surat/" },
     {
-      "name": "Thiruvananthapuram",
+      "city": "Indore",
+      "link": "/en-GB/cities/indore/"
+    },
+    {
+      "city": "Islamabad",
+      "link": "/en-GB/cities/islamabad/"
+    },
+    {
+      "city": "Jaipur",
+      "link": "/en-GB/cities/jaipur/"
+    },
+    {
+      "city": "Jodhpur",
+      "link": "/en-GB/cities/jodhpur/"
+    },
+    {
+      "city": "Karachi",
+      "link": "/en-GB/cities/karachi/"
+    },
+    {
+      "city": "Kochi",
+      "link": "/en-GB/cities/kochi/"
+    },
+    {
+      "city": "Kolkata",
+      "link": "/en-GB/cities/kolkata/"
+    },
+    {
+      "city": "Lahore",
+      "link": "/en-GB/cities/lahore/"
+    },
+    {
+      "city": "Lucknow",
+      "link": "/en-GB/cities/lucknow/"
+    },
+    {
+      "city": "Ludhiana",
+      "link": "/en-GB/cities/ludhiana/"
+    },
+    {
+      "city": "Mangalore",
+      "link": "/en-GB/cities/mangalore/"
+    },
+    {
+      "city": "Mumbai",
+      "link": "/en-GB/cities/mumbai/"
+    },
+    {
+      "city": "Mysore",
+      "link": "/en-GB/cities/mysore/"
+    },
+    {
+      "city": "Nagpur",
+      "link": "/en-GB/cities/nagpur/"
+    },
+    {
+      "city": "Nashik",
+      "link": "/en-GB/cities/nashik/"
+    },
+    {
+      "city": "Pune",
+      "link": "/en-GB/cities/pune/"
+    },
+    {
+      "city": "Surat",
+      "link": "/en-GB/cities/surat/"
+    },
+    {
+      "city": "Thiruvananthapuram",
       "link": "/en-GB/cities/thiruvananthapuram/"
     },
-    { "name": "Udaipur", "link": "/en-GB/cities/udaipur/" },
-    { "name": "Vadodara", "link": "/en-GB/cities/vadodara/" },
-    { "name": "Visakhapatnam", "link": "/en-GB/cities/visakhapatnam/" },
-    { "name": "Bali", "link": "/en-GB/cities/bali/" },
-    { "name": "Balikpapan", "link": "/en-GB/cities/balikpapan/" },
-    { "name": "Bandung", "link": "/en-GB/cities/bandung/" },
-    { "name": "Bangkok", "link": "/en-GB/cities/bangkok/" },
-    { "name": "Batu Pahat", "link": "/en-GB/cities/batu-pahat/" },
-    { "name": "Cebu", "link": "/en-GB/cities/cebu/" },
-    { "name": "Chiang Mai", "link": "/en-GB/cities/chiang-mai/" },
-    { "name": "Chiang Rai", "link": "/en-GB/cities/chiang-rai/" },
-    { "name": "Cirebon", "link": "/en-GB/cities/cirebon/" },
-    { "name": "Danang", "link": "/en-GB/cities/danang/" },
-    { "name": "Hanoi", "link": "/en-GB/cities/hanoi/" },
-    { "name": "Ho Chi Minh name", "link": "/en-GB/cities/ho-chi-minh-name/" },
-    { "name": "Ipoh", "link": "/en-GB/cities/ipoh/" },
-    { "name": "Jakarta", "link": "/en-GB/cities/jakarta/" },
-    { "name": "Johor Bahru", "link": "/en-GB/cities/johor-bahru/" },
-    { "name": "Khon Kaen", "link": "/en-GB/cities/khon-kaen/" },
-    { "name": "Kota Kinabalu", "link": "/en-GB/cities/kota-kinabalu/" },
-    { "name": "Kuala Lumpur", "link": "/en-GB/cities/kuala-lumpur/" },
-    { "name": "Kuala Terengganu", "link": "/en-GB/cities/kuala-terengganu/" },
-    { "name": "Kuantan", "link": "/en-GB/cities/kuantan/" },
-    { "name": "Kuching", "link": "/en-GB/cities/kuching/" },
-    { "name": "Lampung", "link": "/en-GB/cities/lampung/" },
-    { "name": "Makassar", "link": "/en-GB/cities/makassar/" },
-    { "name": "Malang", "link": "/en-GB/cities/malang/" },
-    { "name": "Manado", "link": "/en-GB/cities/manado/" },
-    { "name": "Manila", "link": "/en-GB/cities/manila/" },
-    { "name": "Medan", "link": "/en-GB/cities/medan/" },
-    { "name": "Melaka", "link": "/en-GB/cities/melaka/" },
-    { "name": "Nha Trang", "link": "/en-GB/cities/nha-trang/" },
-    { "name": "Palembang", "link": "/en-GB/cities/palembang/" },
-    { "name": "Pampanga", "link": "/en-GB/cities/pampanga/" },
-    { "name": "Pattaya", "link": "/en-GB/cities/pattaya/" },
-    { "name": "Pekanbaru", "link": "/en-GB/cities/pekanbaru/" },
-    { "name": "Penang", "link": "/en-GB/cities/penang/" },
-    { "name": "Phnom Penh", "link": "/en-GB/cities/phnom-penh/" },
-    { "name": "Pontianak", "link": "/en-GB/cities/pontianak/" },
-    { "name": "Sandakan", "link": "/en-GB/cities/sandakan/" },
-    { "name": "Semarang", "link": "/en-GB/cities/semarang/" },
-    { "name": "Singapore", "link": "/en-GB/cities/singapore/" },
-    { "name": "Surabaya", "link": "/en-GB/cities/surabaya/" },
-    { "name": "Surakarta", "link": "/en-GB/cities/surakarta/" },
-    { "name": "Yangon", "link": "/en-GB/cities/yangon/" },
-    { "name": "Yogyakarta", "link": "/en-GB/cities/yogyakarta/" },
-    { "name": "Adelaide", "link": "/en-GB/cities/adelaide/" },
-    { "name": "Auckland", "link": "/en-GB/cities/auckland/" },
-    { "name": "Bendigo", "link": "/en-GB/cities/bendigo/" },
-    { "name": "Bendigo and Ballarat", "link": "/en-GB/cities/ballarat/" },
-    { "name": "Brisbane", "link": "/en-GB/cities/brisbane/" },
-    { "name": "Byron Bay", "link": "/en-GB/cities/byron-bay/" },
-    { "name": "Cairns", "link": "/en-GB/cities/cairns/" },
-    { "name": "Canberra", "link": "/en-GB/cities/canberra/" },
-    { "name": "Christchurch", "link": "/en-GB/cities/christchurch/" },
-    { "name": "Geelong", "link": "/en-GB/cities/geelong/" },
-    { "name": "Gold Coast", "link": "/en-GB/cities/gold-coast/" },
-    { "name": "Hobart", "link": "/en-GB/cities/hobart/" },
-    { "name": "Melbourne", "link": "/en-GB/cities/melbourne/" },
     {
-      "name": "Mornington Peninsula",
+      "city": "Udaipur",
+      "link": "/en-GB/cities/udaipur/"
+    },
+    {
+      "city": "Vadodara",
+      "link": "/en-GB/cities/vadodara/"
+    },
+    {
+      "city": "Visakhapatnam",
+      "link": "/en-GB/cities/visakhapatnam/"
+    },
+    {
+      "city": "Bali",
+      "link": "/en-GB/cities/bali/"
+    },
+    {
+      "city": "Balikpapan",
+      "link": "/en-GB/cities/balikpapan/"
+    },
+    {
+      "city": "Bandung",
+      "link": "/en-GB/cities/bandung/"
+    },
+    {
+      "city": "Bangkok",
+      "link": "/en-GB/cities/bangkok/"
+    },
+    {
+      "city": "Batu Pahat",
+      "link": "/en-GB/cities/batu-pahat/"
+    },
+    {
+      "city": "Cebu",
+      "link": "/en-GB/cities/cebu/"
+    },
+    {
+      "city": "Chiang Mai",
+      "link": "/en-GB/cities/chiang-mai/"
+    },
+    {
+      "city": "Chiang Rai",
+      "link": "/en-GB/cities/chiang-rai/"
+    },
+    {
+      "city": "Cirebon",
+      "link": "/en-GB/cities/cirebon/"
+    },
+    {
+      "city": "Danang",
+      "link": "/en-GB/cities/danang/"
+    },
+    {
+      "city": "Hanoi",
+      "link": "/en-GB/cities/hanoi/"
+    },
+    {
+      "city": "Ho Chi Minh City",
+      "link": "/en-GB/cities/ho-chi-minh-city/"
+    },
+    {
+      "city": "Ipoh",
+      "link": "/en-GB/cities/ipoh/"
+    },
+    {
+      "city": "Jakarta",
+      "link": "/en-GB/cities/jakarta/"
+    },
+    {
+      "city": "Johor Bahru",
+      "link": "/en-GB/cities/johor-bahru/"
+    },
+    {
+      "city": "Khon Kaen",
+      "link": "/en-GB/cities/khon-kaen/"
+    },
+    {
+      "city": "Kota Kinabalu",
+      "link": "/en-GB/cities/kota-kinabalu/"
+    },
+    {
+      "city": "Kuala Lumpur",
+      "link": "/en-GB/cities/kuala-lumpur/"
+    },
+    {
+      "city": "Kuala Terengganu",
+      "link": "/en-GB/cities/kuala-terengganu/"
+    },
+    {
+      "city": "Kuantan",
+      "link": "/en-GB/cities/kuantan/"
+    },
+    {
+      "city": "Kuching",
+      "link": "/en-GB/cities/kuching/"
+    },
+    {
+      "city": "Lampung",
+      "link": "/en-GB/cities/lampung/"
+    },
+    {
+      "city": "Makassar",
+      "link": "/en-GB/cities/makassar/"
+    },
+    {
+      "city": "Malang",
+      "link": "/en-GB/cities/malang/"
+    },
+    {
+      "city": "Manado",
+      "link": "/en-GB/cities/manado/"
+    },
+    {
+      "city": "Manila",
+      "link": "/en-GB/cities/manila/"
+    },
+    {
+      "city": "Medan",
+      "link": "/en-GB/cities/medan/"
+    },
+    {
+      "city": "Melaka",
+      "link": "/en-GB/cities/melaka/"
+    },
+    {
+      "city": "Nha Trang",
+      "link": "/en-GB/cities/nha-trang/"
+    },
+    {
+      "city": "Palembang",
+      "link": "/en-GB/cities/palembang/"
+    },
+    {
+      "city": "Pampanga",
+      "link": "/en-GB/cities/pampanga/"
+    },
+    {
+      "city": "Pattaya",
+      "link": "/en-GB/cities/pattaya/"
+    },
+    {
+      "city": "Pekanbaru",
+      "link": "/en-GB/cities/pekanbaru/"
+    },
+    {
+      "city": "Penang",
+      "link": "/en-GB/cities/penang/"
+    },
+    {
+      "city": "Phnom Penh",
+      "link": "/en-GB/cities/phnom-penh/"
+    },
+    {
+      "city": "Pontianak",
+      "link": "/en-GB/cities/pontianak/"
+    },
+    {
+      "city": "Sandakan",
+      "link": "/en-GB/cities/sandakan/"
+    },
+    {
+      "city": "Semarang",
+      "link": "/en-GB/cities/semarang/"
+    },
+    {
+      "city": "Singapore",
+      "link": "/en-GB/cities/singapore/"
+    },
+    {
+      "city": "Surabaya",
+      "link": "/en-GB/cities/surabaya/"
+    },
+    {
+      "city": "Surakarta",
+      "link": "/en-GB/cities/surakarta/"
+    },
+    {
+      "city": "Yangon",
+      "link": "/en-GB/cities/yangon/"
+    },
+    {
+      "city": "Yogyakarta",
+      "link": "/en-GB/cities/yogyakarta/"
+    },
+    {
+      "city": "Adelaide",
+      "link": "/en-GB/cities/adelaide/"
+    },
+    {
+      "city": "Auckland",
+      "link": "/en-GB/cities/auckland/"
+    },
+    {
+      "city": "Bendigo and Ballarat",
+      "link": "/en-GB/cities/ballarat/"
+    },
+    {
+      "city": "Brisbane",
+      "link": "/en-GB/cities/brisbane/"
+    },
+    {
+      "city": "Byron Bay",
+      "link": "/en-GB/cities/byron-bay/"
+    },
+    {
+      "city": "Cairns",
+      "link": "/en-GB/cities/cairns/"
+    },
+    {
+      "city": "Canberra",
+      "link": "/en-GB/cities/canberra/"
+    },
+    {
+      "city": "Christchurch",
+      "link": "/en-GB/cities/christchurch/"
+    },
+    {
+      "city": "Geelong",
+      "link": "/en-GB/cities/geelong/"
+    },
+    {
+      "city": "Gold Coast",
+      "link": "/en-GB/cities/gold-coast/"
+    },
+    {
+      "city": "Hamilton, NZ",
+      "link": "/en-GB/cities/hamilton-nz/"
+    },
+    {
+      "city": "Hobart",
+      "link": "/en-GB/cities/hobart/"
+    },
+    {
+      "city": "Melbourne",
+      "link": "/en-GB/cities/melbourne/"
+    },
+    {
+      "city": "Mornington Peninsula",
       "link": "/en-GB/cities/mornington-peninsula/"
     },
-    { "name": "Newcastle", "link": "/en-GB/cities/newcastle/" },
-    { "name": "Perth", "link": "/en-GB/cities/perth/" },
-    { "name": "Sunshine Coast", "link": "/en-GB/cities/sunshine-coast/" },
-    { "name": "Sydney", "link": "/en-GB/cities/sydney/" },
-    { "name": "Toowoomba", "link": "/en-GB/cities/toowoomba/" },
-    { "name": "Townsville", "link": "/en-GB/cities/townsville/" },
-    { "name": "Wellington", "link": "/en-GB/cities/wellington/" },
-    { "name": "Wollongong", "link": "/en-GB/cities/wollongong/" }
+    {
+      "city": "Newcastle",
+      "link": "/en-GB/cities/newcastle/"
+    },
+    {
+      "city": "Perth",
+      "link": "/en-GB/cities/perth/"
+    },
+    {
+      "city": "Sunshine Coast",
+      "link": "/en-GB/cities/sunshine-coast/"
+    },
+    {
+      "city": "Sydney",
+      "link": "/en-GB/cities/sydney/"
+    },
+    {
+      "city": "Tauranga",
+      "link": "/en-GB/cities/tauranga/"
+    },
+    {
+      "city": "Toowoomba",
+      "link": "/en-GB/cities/toowoomba/"
+    },
+    {
+      "city": "Townsville",
+      "link": "/en-GB/cities/townsville/"
+    },
+    {
+      "city": "Wellington",
+      "link": "/en-GB/cities/wellington/"
+    },
+    {
+      "city": "Wollongong",
+      "link": "/en-GB/cities/wollongong/"
+    }
   ]
 }
