@@ -12,7 +12,7 @@ const Wrapper = styled(Row)`
   text-align: center;
   flex-direction: column;
 
-  @media (max-width: 767px and min-width: 450px) {
+  @media (max-width: 767px) and (max-height: 400px) {
     flex-direction: row;
   }
 
