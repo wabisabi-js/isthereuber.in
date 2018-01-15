@@ -15,6 +15,17 @@ const easytaxi = { cities: [] }
 
 const formatting = { spaces: 2, EOL: '\n' }
 
+const substitutions = {
+  uber: {
+    'Southern Netherlands': 'Rotterdam',
+  },
+}
+
+const fixCityName = (city, company) =>
+  substitutions[company] && substitutions[company][city]
+    ? substitutions[company][city]
+    : city
+
 osmosis
   .get('https://www.uber.com/en-GB/cities/')
   .find('h3 + ul li')
@@ -24,7 +35,7 @@ osmosis
   })
   .data(city => {
     uber.cities.push({
-      name: city.city,
+      name: fixCityName(city.city, 'uber'),
       link: city.link,
     })
   })
