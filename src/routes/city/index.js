@@ -8,6 +8,8 @@ import capitalize from 'capitalize'
 import is from 'styled-is'
 import removeAccents from 'remove-accents'
 import algoliasearch from 'algoliasearch'
+import { Pulsate } from 'styled-loaders'
+import { route } from 'preact-router'
 
 const Title = styled.h1`
   color: ${props => props.theme.secondary};
@@ -44,16 +46,17 @@ const Flex = styled.div`
 `
 
 const Company = styled.p`
-  color: white;
+  color: ${props => props.theme.secondary};
   font-size: 24px;
   padding: 0;
   margin: 0;
 `
 
 const GoBack = styled(Link)`
-  color: white;
+  color: ${props => props.theme.secondary};
   z-index: 99;
-  position: relative;
+  width: 100%;
+  text-align: center;
   font-size: 24px;
   text-decoration: none;
   position: absolute;
@@ -65,6 +68,7 @@ const Anchor = styled.li`
   text-decoration: underline;
   font-size: 24px;
   margin-bottom: 20px;
+  cursor: pointer;
 `
 
 const fixName = name =>
@@ -75,6 +79,12 @@ const fixName = name =>
 
 const fixCity = name => removeAccents(name)
 
+const fixNameB = name =>
+  removeAccents(name)
+    .split(' ')
+    .join('-')
+    .toLowerCase()
+
 class City extends Component {
   state = {
     cities: [],
@@ -84,6 +94,7 @@ class City extends Component {
 
   selectCity = city => {
     this.setState({ cities: [city], diff: false })
+    route(fixNameB(city.name), true)
   }
 
   componentDidMount() {
@@ -115,11 +126,11 @@ class City extends Component {
           loaded: true,
         })
       })
+    } else {
+      this.setState({
+        loaded: true,
+      })
     }
-
-    this.setState({
-      loaded: true,
-    })
   }
 
   render({ city, size }, { diff, cities, loaded }) {
@@ -137,6 +148,14 @@ class City extends Component {
               <Anchor onClick={() => this.selectCity(city)}>{city.name}</Anchor>
             ))}
           </ul>
+        </Flex>
+      )
+    }
+
+    if (!loaded) {
+      return (
+        <Flex>
+          <Pulsate color="white" />
         </Flex>
       )
     }

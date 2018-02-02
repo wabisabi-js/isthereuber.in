@@ -6118,7 +6118,7 @@ preact-transition-group@^1.1.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/preact-transition-group/-/preact-transition-group-1.1.1.tgz#f0a49327ea515ece34ea2be864c4a7d29e5d6e10"
 
-preact@^8.1.0, preact@^8.2.7:
+preact@^8.1.0, preact@^8.2.1, preact@^8.2.7:
   version "8.2.7"
   resolved "https://registry.yarnpkg.com/preact/-/preact-8.2.7.tgz#316249fb678cd5e93e7cee63cea7bfb62dbd6814"
 
@@ -6206,7 +6206,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.4, prop-types@^15.5.8, prop-types@^15.6.0:
+prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.5.8, prop-types@^15.6.0:
   version "15.6.0"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.6.0.tgz#ceaf083022fc46b4a35f69e13ef75aed0d639856"
   dependencies:
@@ -7308,7 +7308,7 @@ style-loader@^0.18.2:
     loader-utils "^1.0.2"
     schema-utils "^0.3.0"
 
-styled-components@^2.4.0:
+styled-components@^2.1.2, styled-components@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-2.4.0.tgz#086d0fd483d54638837fca3ea546a030b94adf75"
   dependencies:
@@ -7324,6 +7324,15 @@ styled-components@^2.4.0:
 styled-is@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/styled-is/-/styled-is-1.1.0.tgz#0cf8d32098fe6559eb0ec889790cc6c84f1f497f"
+
+styled-loaders@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/styled-loaders/-/styled-loaders-0.2.1.tgz#5c9130138fb91dd9d56c3994743b4e219ed5e582"
+  dependencies:
+    preact "^8.2.1"
+    preact-compat "^3.17.0"
+    prop-types "^15.5.10"
+    styled-components "^2.1.2"
 
 stylis@^3.4.0:
   version "3.4.8"

@@ -51,7 +51,8 @@
     "react-styled-flexboxgrid": "^2.1.1",
     "remove-accents": "^0.4.2",
     "styled-components": "^2.4.0",
-    "styled-is": "^1.1.0"
+    "styled-is": "^1.1.0",
+    "styled-loaders": "^0.2.1"
   },
   "lint-staged": {
     "*.js": [
