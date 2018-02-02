@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import { Row } from 'react-styled-flexboxgrid'
 import removeAccents from 'remove-accents'
 import Logo from '../../assets/logo.svg'
+import AlgoliaLogo from '../../assets/algolia.svg'
 
 const Wrapper = styled(Row)`
   height: 100%;
@@ -17,7 +18,6 @@ const Wrapper = styled(Row)`
   }
 
   @media (max-width: 360px) {
-    height: auto;
     top: 50%;
     position: relative;
     transform: translateY(-50%);
@@ -52,6 +52,15 @@ const Title = styled.h1`
     font-size: 30px;
     margin-top: 10px;
   }
+`
+const Algolia = styled.img`
+  left: 50%;
+  max-width: 150px;
+  width: 40%;
+  position: absolute;
+  bottom: 30px;
+  transform: translateX(-50%);
+  cursor: pointer;
 `
 
 const Input = styled.input`
@@ -123,6 +132,13 @@ export default class Home extends Component {
           </Form>
           ?
         </Title>
+        <a
+	href="https://www.algolia.com"
+	target="_blank"
+	rel="noopener noreferrer"
+        >
+          <Algolia src={AlgoliaLogo} />
+        </a>
       </Wrapper>
     )
   }
