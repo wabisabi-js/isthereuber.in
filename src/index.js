@@ -27,6 +27,11 @@ injectGlobal`
 		opacity: 1;
 		backface-visibility: hidden;
 	}
+
+	ul {
+		padding: 0;
+		margin: 0;
+	}
 `
 
 const theme = {
