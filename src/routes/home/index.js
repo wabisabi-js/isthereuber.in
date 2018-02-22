@@ -26,8 +26,8 @@ const Wrapper = styled(Row)`
   }
 `
 const rotate = keyframes`
-  from { transform: rotate(360deg) scale(0.5);}
-  to {transform: rotate(0deg) scale(1)}
+  from { transform: rotate(360deg);}
+  to {transform: rotate(0deg)}
 `
 
 const LogoImg = styled.img`
@@ -136,7 +136,7 @@ export default class Home extends Component {
   render({}, { value }) {
     return (<Wrapper>
         <audio autoPlay>
-          <source src="./assets/start.mp3" type="audio/mp3" />
+          <source src="./assets/pop.wav" type="audio/wav" />
         </audio>
         <LogoImg src={Logo} alt="Is There Uber In" height="150" />
         <Title>
