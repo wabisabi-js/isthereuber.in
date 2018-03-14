@@ -118,7 +118,7 @@ export default class Home extends Component {
   handleSubmit = e => {
     const { value } = this.state
     e.preventDefault()
-    this.setState({ value: '' }, () => route(fixName(value), true))
+    this.setState({ value: '' }, () => route(`search/${fixName(value)}`, true))
   }
 
   render({}, { value }) {

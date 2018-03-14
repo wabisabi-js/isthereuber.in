@@ -9,7 +9,6 @@ import is from 'styled-is'
 import removeAccents from 'remove-accents'
 import algoliasearch from 'algoliasearch'
 import { Pulsate } from 'styled-loaders'
-import { route } from 'preact-router'
 
 const Title = styled.h1`
   color: ${props => props.theme.secondary};
@@ -63,14 +62,6 @@ const GoBack = styled(Link)`
   bottom: 20px;
 `
 
-const Anchor = styled.li`
-  list-style: none;
-  text-decoration: underline;
-  font-size: 24px;
-  margin-bottom: 20px;
-  cursor: pointer;
-`
-
 const fixName = name =>
   name
     .split('-')
@@ -78,12 +69,6 @@ const fixName = name =>
     .toLowerCase()
 
 const fixCity = name => removeAccents(name)
-
-const fixNameB = name =>
-  removeAccents(name)
-    .split(' ')
-    .join('-')
-    .toLowerCase()
 
 class City extends Component {
   state = {
@@ -126,11 +111,6 @@ class City extends Component {
     }
   }
 
-  selectCity = city => {
-    this.search(fixNameB(city.name))
-    route(fixNameB(city.name), true)
-  }
-
   componentDidMount() {
     const { city } = this.props
     this.search(city)
@@ -139,20 +119,6 @@ class City extends Component {
   render({ city, size }, { diff, cities, loaded }) {
     const uber = cities.filter(c => c.company === 'uber')
     const other = cities.filter(c => c.company !== 'uber')
-    if (diff && loaded) {
-      return (
-        <Flex style={{ textAlign: 'center' }}>
-          <Subtitle>More than one city matches your search</Subtitle>
-          <Subtitle>What city did you mean ?</Subtitle>
-          <ul>
-            {uniqBy(cities, 'name').map(city => (
-              // eslint-disable-next-line
-              <Anchor onClick={() => this.selectCity(city)}>{city.name}</Anchor>
-            ))}
-          </ul>
-        </Flex>
-      )
-    }
 
     if (!loaded) {
       return (
@@ -164,7 +130,7 @@ class City extends Component {
 
     return (
       <Wrapper>
-        {loaded && (cities.length === 1 || !diff || !cities.length) ? (
+        {loaded ? (
           <Flex>
             {uber.length ? (
               [
