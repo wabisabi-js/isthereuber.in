@@ -88,18 +88,11 @@ const fixNameB = name =>
 class City extends Component {
   state = {
     cities: [],
-    dif: null,
+    diff: null,
     loaded: false,
   }
 
-  selectCity = city => {
-    this.setState({ cities: [city], diff: false })
-    route(fixNameB(city.name), true)
-  }
-
-  componentDidMount() {
-    const { city } = this.props
-
+  search = city => {
     const client = algoliasearch(
       '3OO1FYFEBH',
       'c6bc7348d7d5c62908beb5e8827248ed'
@@ -133,10 +126,19 @@ class City extends Component {
     }
   }
 
+  selectCity = city => {
+    this.search(fixNameB(city.name))
+    route(fixNameB(city.name), true)
+  }
+
+  componentDidMount() {
+    const { city } = this.props
+    this.search(city)
+  }
+
   render({ city, size }, { diff, cities, loaded }) {
     const uber = cities.filter(c => c.company === 'uber')
     const other = cities.filter(c => c.company !== 'uber')
-
     if (diff && loaded) {
       return (
         <Flex style={{ textAlign: 'center' }}>
