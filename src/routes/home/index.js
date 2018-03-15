@@ -1,10 +1,12 @@
 import { h, Component } from 'preact'
 import { route } from 'preact-router'
-import styled from 'styled-components'
+import styled, {  keyframes} from 'styled-components'
 import { Row } from 'react-styled-flexboxgrid'
 import removeAccents from 'remove-accents'
 import Logo from '../../assets/logo.svg'
 import AlgoliaLogo from '../../assets/algolia.svg'
+
+
 
 const Wrapper = styled(Row)`
   height: 100%;
@@ -23,29 +25,39 @@ const Wrapper = styled(Row)`
     transform: translateY(-50%);
   }
 `
+const rotate = keyframes`
+  from { transform: rotate(360deg);}
+  to {transform: rotate(0deg)}
+`
 
 const LogoImg = styled.img`
+  animation-name: ${rotate};
+  animation-duration:3s; 
+  animation-iteration-count:infinite;
   @media (max-width: 360px) {
     max-width: 100px;
   }
 `
+
+
 
 const Title = styled.h1`
   color: ${props => props.theme.secondary};
   font-size: 80px;
   margin: 0;
   margin-top: 40px;
+  text-align: center;
 
   @media (max-width: 1030px) {
     font-size: 55px;
   }
 
   @media (max-width: 435px) {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   @media (max-width: 767px) {
-    font-size: 50px;
+    font-size: 30px;
   }
 
   @media (max-width: 360px) {
@@ -122,8 +134,10 @@ export default class Home extends Component {
   }
 
   render({}, { value }) {
-    return (
-      <Wrapper>
+    return (<Wrapper>
+        <audio autoPlay>
+          <source src="./assets/pop.wav" type="audio/wav" />
+        </audio>
         <LogoImg src={Logo} alt="Is There Uber In" height="150" />
         <Title>
           Is there Uber in
@@ -132,14 +146,9 @@ export default class Home extends Component {
           </Form>
           ?
         </Title>
-        <a
-	href="https://www.algolia.com"
-	target="_blank"
-	rel="noopener noreferrer"
-        >
+        <a href="https://www.algolia.com" target="_blank" rel="noopener noreferrer">
           <Algolia src={AlgoliaLogo} />
         </a>
-      </Wrapper>
-    )
+      </Wrapper>)
   }
 }
