@@ -137,7 +137,7 @@ export default class Home extends Component {
 	target="_blank"
 	rel="noopener noreferrer"
         >
-          <Algolia src={AlgoliaLogo} />
+          <Algolia src={AlgoliaLogo} aria-label="Search by Algolia" />
         </a>
       </Wrapper>
     )
