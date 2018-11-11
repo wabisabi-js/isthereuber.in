@@ -5,3 +5,7 @@ cache:
   yarn: true
 node_js:
   - 8
+install:
+  -  npm install -g firebase-tools
+after_success:
+  - firebase deploy - project isthereuberin - token $FIREBASE_TOKEN.
