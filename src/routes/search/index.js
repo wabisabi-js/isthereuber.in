@@ -87,7 +87,7 @@ class Search extends Component {
   }
 
   render({ city }, { cities, loaded }) {
-    if (loaded && cities.length <= 1) {
+    if (loaded && uniqBy(cities, 'name').length <= 1) {
       this.selectCity(city)
     }
 
