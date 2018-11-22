@@ -5,6 +5,7 @@ import is from 'styled-is'
 import removeAccents from 'remove-accents'
 import algoliasearch from 'algoliasearch'
 import { route } from 'preact-router'
+import { Pulsate } from 'styled-loaders'
 
 const Subtitle = styled.h2`
   color: ${props => props.theme.secondary};
@@ -87,7 +88,15 @@ class Search extends Component {
   }
 
   render({ city }, { cities, loaded }) {
-    if (loaded && uniqBy(cities, 'name').length <= 1) {
+    if (!loaded) {
+      return (
+        <Flex>
+          <Pulsate color="white" />
+        </Flex>
+      )
+    }
+
+    if (uniqBy(cities, 'name').length <= 1) {
       this.selectCity(city)
     }
 
