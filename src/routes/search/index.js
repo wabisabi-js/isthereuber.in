@@ -3,7 +3,7 @@ import uniqBy from 'lodash.uniqby'
 
 import algoliasearch from 'algoliasearch'
 import { route } from 'preact-router'
-import { Pulsate } from 'styled-loaders'
+import { Pulsate } from '../../components/loading'
 import { Subtitle, Flex, Anchor } from './elements'
 import { fixName, fixNameB } from '../../utils/fixName'
 

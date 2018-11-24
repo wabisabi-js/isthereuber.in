@@ -1,9 +1,7 @@
 import { h, Component } from 'preact'
 import uniqBy from 'lodash.uniqby'
 import Confetti from 'react-confetti'
-import capitalize from 'capitalize'
-
-import { Pulsate } from 'styled-loaders'
+import Pulsate from '../../components/loading'
 import { Title, Subtitle, Wrapper, Flex, Company, GoBack } from './elements'
 import { search } from '../../utils/algolia'
 
@@ -80,7 +78,7 @@ class City extends Component {
 
                 <Flex row>
                   {uniqBy(other, 'company').map(c => (
-                    <Company>{capitalize(c.company)}</Company>
+                    <Company>{c.company}</Company>
                   ))}
                 </Flex>
               </div>

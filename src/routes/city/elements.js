@@ -38,6 +38,7 @@ export const Company = styled.p`
   font-size: 24px;
   padding: 0;
   margin: 0;
+  text-transform: capitalize;
 `
 
 export const GoBack = styled(Link)`

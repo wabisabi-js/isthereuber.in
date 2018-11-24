@@ -11,22 +11,21 @@
     "test": "eslint src",
     "format": "prettier --write 'src/**/*.{js,css,md}'",
     "posttest": "npm run format",
-    "precommit": "lint-staged",
     "seed": "node seed.js"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "eslintConfig": {
-    "extends": [
-      "eslint-config-synacor",
-      "prettier"
-    ],
+    "extends": ["eslint-config-synacor", "prettier"],
     "rules": {
       "react/display-name": "off",
       "react/no-did-mount-set-state": "off"
     }
   },
-  "eslintIgnore": [
-    "build/*"
-  ],
+  "eslintIgnore": ["build/*"],
   "devDependencies": {
     "babel-plugin-emotion": "^9.2.11",
     "eslint": "^5.9.0",
@@ -37,12 +36,11 @@
     "jsonfile": "^5.0.0",
     "lint-staged": "^8.1.0",
     "osmosis": "^1.1.8",
-    "preact-cli": "^2.1.1",
+    "preact-cli": "^2.2.1",
     "prettier": "^1.15.2"
   },
   "dependencies": {
     "algoliasearch": "^3.30.0",
-    "capitalize": "^2.0.0",
     "emotion": "^9.2.12",
     "emotion-theming": "^9.2.9",
     "lodash.uniqby": "^4.7.0",
@@ -52,14 +50,9 @@
     "react-confetti": "^2.3.0",
     "react-emotion": "^9.2.12",
     "react-emotion-flexboxgrid": "^9.0.0",
-    "react-sizeme": "^2.5.2",
-    "remove-accents": "^0.4.2",
-    "styled-loaders": "^0.3.0"
+    "remove-accents": "^0.4.2"
   },
   "lint-staged": {
-    "*.js": [
-      "eslint --fix",
-      "git add"
-    ]
+    "*.js": ["eslint --fix", "git add"]
   }
 }

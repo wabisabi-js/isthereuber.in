@@ -4,6 +4,7 @@ import Logo from '../../assets/logo.svg'
 import AlgoliaLogo from '../../assets/algolia.svg'
 import { Wrapper, LogoImg, Title, Algolia, Input, Form } from './elements'
 import { fixNameB as fixName } from '../../utils/fixName'
+
 export default class Home extends Component {
   state = {
     value: '',
