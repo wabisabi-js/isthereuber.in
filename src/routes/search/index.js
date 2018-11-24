@@ -43,14 +43,16 @@ class Search extends Component {
 
   getFlag = ({ name = '', objectID }) => {
     fetch(
-      `http://api.geonames.org/searchJSON?q=${name}&style=short&maxRows=1&username=saravieira`
+      `https://maps.googleapis.com/maps/api/geocode/json?address=${name}&key=AIzaSyDMpDkPdvwEG9mxQ3sA6vaKrq64V7trj_4`
     )
       .then(data => data.json())
-      .then(({ geonames }) =>
+      .then(({ results }) => {
+        const address = results[0].address_components
+        const country = address.find(a => a.types.includes('country'))
         this.setState({
-          [objectID]: geonames[0].countryCode,
+          [objectID]: country.short_name,
         })
-      )
+      })
   }
 
   componentDidMount() {
