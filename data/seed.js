@@ -1,120 +1,88 @@
-const osmosis = require('osmosis')
-const jsonfile = require('jsonfile')
+// const osmosis = require('osmosis')
 
-const file = 'src/data/uber.json'
-const fileCabify = 'src/data/cabify.json'
-const fileLyft = 'src/data/lyft.json'
-const fileTaxify = 'src/data/taxify.json'
-const fileEasytaxi = 'src/data/easytaxi.json'
+// const uber = []
+// const cabify = []
+// const lyft = []
+// const taxify = []
+// const mytaxi = []
+// const grab = []
 
-const uber = { cities: [] }
-const cabify = { cities: [] }
-const lyft = { cities: [] }
-const taxify = { cities: [] }
-const easytaxi = { cities: [] }
+// const substitutions = {
+//   uber: {
+//     'Southern Netherlands': 'Rotterdam',
+//   },
+// }
 
-const formatting = { spaces: 2, EOL: '\n' }
+// const fixCityName = (city, company) =>
+//   substitutions[company] && substitutions[company][city]
+//     ? substitutions[company][city]
+//     : city
 
-const substitutions = {
-  uber: {
-    'Southern Netherlands': 'Rotterdam',
-  },
-}
+// osmosis
+//   .get('https://www.uber.com/en-GB/cities/')
+//   .find('h3 + div a')
+//   .set('city')
+//   .data(data => {
+//     uber.push({
+//       name: fixCityName(data.city, 'uber'),
+//     })
+//   })
+//   .error(error => error)
+//   .done(() => console.log(uber))
 
-const fixCityName = (city, company) =>
-  substitutions[company] && substitutions[company][city]
-    ? substitutions[company][city]
-    : city
+// osmosis
+//   .get('https://cabify.com/en#cities-list')
+//   .find('.countries-list--cities li a')
+//   .set('city')
+//   .data(data => {
+//     cabify.push({
+//       name: data.city,
+//     })
+//   })
+//   .done(() => console.log(cabify))
 
-osmosis
-  .get('https://www.uber.com/en-GB/cities/')
-  .find('h3 + ul li')
-  .set({
-    city: 'a',
-    link: 'a@href',
-  })
-  .data(city => {
-    uber.cities.push({
-      name: fixCityName(city.city, 'uber'),
-      link: city.link,
-    })
-  })
-  .error(error => error)
-  .done(() =>
-    jsonfile.writeFile(file, uber, formatting, err => {
-      console.error(err)
-    })
-  )
+// osmosis
+//   .get('https://www.lyft.com/cities')
+//   .find('h6 + button + ul li a')
+//   .set('city')
+//   .data(data => {
+//     lyft.push({
+//       name: data.city,
+//     })
+//   })
+//   .done(() => console.log(lyft))
 
-osmosis
-  .get('https://cabify.com/en#cities-list')
-  .find('div.cities ul li')
-  .set({
-    name: 'a',
-    link: 'a@href',
-  })
-  .data(city => {
-    cabify.cities.push({
-      name: city.name,
-      link: city.link,
-    })
-  })
-  .done(() =>
-    jsonfile.writeFile(fileCabify, cabify, formatting, err => {
-      console.error(err)
-    })
-  )
+// osmosis
+//   .get('https://taxify.eu/cities/')
+//   .find('.list-inline li h4')
+//   .set('city')
+//   .data(data => {
+//     taxify.push({
+//       name: data.city,
+//     })
+//   })
+//   .done(() => console.log(taxify))
 
-osmosis
-  .get('https://www.lyft.com/cities')
-  .find('.list-unstyled .m-y-s')
-  .set({
-    name: 'a',
-    link: 'a@href',
-  })
-  .data(city => {
-    lyft.cities.push({
-      name: city.name,
-      link: city.link,
-    })
-  })
-  .done(() =>
-    jsonfile.writeFile(fileLyft, lyft, formatting, err => {
-      console.error(err)
-    })
-  )
+// osmosis
+//   .get('http://ie.mytaxi.com/europeanavailability')
+//   .find('.content__body p')
 
-osmosis
-  .get('https://taxify.eu/cities/')
-  .find('.list-inline li h4')
-  .set({
-    name: 'a',
-    link: 'a@href',
-  })
-  .data(city => {
-    taxify.cities.push({
-      name: city.name,
-      link: city.link,
-    })
-  })
-  .done(() =>
-    jsonfile.writeFile(fileTaxify, taxify, formatting, err => {
-      console.error(err)
-    })
-  )
+//   .data(data => {
+//     console.log(data)
+//     mytaxi.push({
+//       name: data,
+//     })
+//   })
+// // .done(() => console.log(mytaxi))
 
-osmosis
-  .get('http://www.easytaxi.com/cities/')
-  .find('#city li')
-  .set('name')
-  .data(city => {
-    easytaxi.cities.push({
-      name: city.name,
-      link: '/cities/#city',
-    })
-  })
-  .done(() =>
-    jsonfile.writeFile(fileEasytaxi, easytaxi, formatting, err => {
-      console.error(err)
-    })
-  )
+// osmosis
+//   .get('https://www.grab.com/sg/where-we-are/')
+//   .find('.city')
+//   .set('city')
+//   .data(data => {
+//     grab.push({
+//       name: data.city,
+//       company: 'Grab',
+//     })
+//   })
+//   .done(() => console.log(JSON.stringify(grab)))
