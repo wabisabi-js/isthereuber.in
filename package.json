@@ -19,11 +19,7 @@
     }
   },
   "eslintConfig": {
-    "extends": ["eslint-config-synacor", "prettier"],
-    "rules": {
-      "react/display-name": "off",
-      "react/no-did-mount-set-state": "off"
-    }
+    "extends": ["eslint-config-synacor", "prettier"]
   },
   "eslintIgnore": ["build/*"],
   "devDependencies": {

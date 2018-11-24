@@ -37,9 +37,11 @@ const Pulsate = styled.div`
   }
 `
 
-export default () => (
+const Loading = () => (
   <Pulsate>
     <div />
     <div />
   </Pulsate>
 )
+
+export default Loading
