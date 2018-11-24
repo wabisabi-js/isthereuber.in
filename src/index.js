@@ -14,6 +14,7 @@ const theme = {
 const Wrapper = styled.main`
   background: ${props => props.theme.primary};
   height: 100%;
+  overflow: auto;
 `
 
 const System = styled(Grid)`
