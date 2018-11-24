@@ -1,4 +1,4 @@
-# Is there Uber In ?
+# Is there Uber In?
 
 [![Build Status](https://travis-ci.org/SaraVieira/uber-cities.svg)](https://travis-ci.org/SaraVieira/uber-cities)
 
@@ -8,20 +8,19 @@ Check if there is an uber in the town you input
 
 Also checks for lyft, cabify, taxify, easytaxi and beat.
 
-## Why ?
+## Why
 
 I keep googling this on the internet and also in portugal uber's website is blocked
 
 ## Built With
 
     * Preact
-    * Styled Components
+    * Emotion
     * react-confetti
-    * styled-is
 
 ## Run Locally
 
-```
+```sh
 yarn
 yarn dev
 ```

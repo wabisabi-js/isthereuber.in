@@ -23,9 +23,15 @@ export default class Home extends Component {
       <Wrapper>
         <LogoImg src={Logo} alt="Is There Uber In" height="150" />
         <Title>
-          Is there Uber in
+          <label for="search">Is there Uber in</label>
           <Form onSubmit={this.handleSubmit}>
-            <Input type="text" value={value} onChange={this.handleChange} />
+            <Input
+	type="text"
+	id="search"
+	name="search"
+	value={value}
+	onChange={this.handleChange}
+            />
           </Form>
           ?
         </Title>

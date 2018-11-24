@@ -11,7 +11,7 @@ const theme = {
   black: '#3a3a3a',
 }
 
-const Wrapper = styled.div`
+const Wrapper = styled.main`
   background: ${props => props.theme.primary};
   height: 100%;
 `
