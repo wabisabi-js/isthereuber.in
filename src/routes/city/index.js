@@ -2,8 +2,17 @@ import { h, Component } from 'preact'
 import uniqBy from 'lodash.uniqby'
 import Confetti from 'react-confetti'
 import Pulsate from '../../components/loading'
-import { Title, Subtitle, Wrapper, Flex, Company, GoBack } from './elements'
+import {
+  Title,
+  Subtitle,
+  Wrapper,
+  Flex,
+  Company,
+  GoBack,
+  Message,
+} from './elements'
 import { search } from '../../utils/algolia'
+import edgeCases from '../../utils/edgeCases'
 
 class City extends Component {
   state = {
@@ -44,6 +53,8 @@ class City extends Component {
     const uber = cities.filter(c => c.company === 'uber')
     const other = cities.filter(c => c.company !== 'uber')
 
+    console.log(cities)
+
     if (!loaded) {
       return (
         <Flex>
@@ -64,6 +75,7 @@ class City extends Component {
                   />
                 </Wrapper>,
                 <Title>YES 🚗</Title>,
+                <Message>{edgeCases(cities[0].name)}</Message>,
               ]
             ) : (
               <Title>NO 😕</Title>

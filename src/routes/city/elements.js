@@ -11,6 +11,14 @@ export const Subtitle = styled.h2`
   font-size: 40px;
 `
 
+export const Message = styled.p`
+  color: ${props => props.theme.secondary};
+  font-size: 18px;
+  text-align: center;
+  max-width: 80%;
+  line-height: 1.5;
+`
+
 export const Wrapper = styled.div`
   position: absolute;
   top: 0;

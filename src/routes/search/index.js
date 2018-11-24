@@ -1,27 +1,19 @@
 import { h, Component } from 'preact'
 import uniqBy from 'lodash.uniqby'
-
-import algoliasearch from 'algoliasearch'
 import { route } from 'preact-router'
 import { Pulsate } from '../../components/loading'
 import { Subtitle, Flex, Anchor } from './elements'
-import { fixName, fixNameB } from '../../utils/fixName'
+import { fixNameB } from '../../utils/fixName'
+import { search } from '../../utils/algolia'
 
 class Search extends Component {
   state = {
     cities: [],
-    diff: null,
     loaded: false,
   }
 
   search = city => {
-    const client = algoliasearch(
-      '3OO1FYFEBH',
-      'c6bc7348d7d5c62908beb5e8827248ed'
-    )
-    const index = client.initIndex('cities')
-
-    index.search({ query: fixName(city) }, (err, content) => {
+    search(city, (err, content) => {
       if (err) {
         this.setState({
           loaded: true,
@@ -30,16 +22,35 @@ class Search extends Component {
         return
       }
 
-      this.setState({
-        cities: content.hits,
-        loaded: true,
-      })
+      this.setState(
+        {
+          cities: content.hits,
+          loaded: true,
+        },
+        () => {
+          if (uniqBy(content.hits, 'name').length > 1) {
+            content.hits.map(city => this.getFlag(city))
+          }
+        }
+      )
     })
   }
 
   selectCity = city => {
     this.search(fixNameB(city))
     route(`/${fixNameB(city)}`, true)
+  }
+
+  getFlag = async ({ name, objectID }) => {
+    const data = await fetch(
+      `http://api.geonames.org/searchJSON?q=${name ||
+        ''}&style=short&maxRows=1&username=saravieira`
+    )
+    const { geonames } = await data.json()
+
+    this.setState({
+      [objectID]: geonames[0].countryCode,
+    })
   }
 
   componentDidMount() {
@@ -68,6 +79,13 @@ class Search extends Component {
             // eslint-disable-next-line
             <Anchor onClick={() => this.selectCity(city.name)}>
               {city.name}
+              {this.state[city.objectID] ? (
+                <img
+	src={`https://www.countryflags.io/${
+                    this.state[city.objectID]
+                  }/flat/32.png`}
+                />
+              ) : null}
             </Anchor>
           ))}
         </ul>

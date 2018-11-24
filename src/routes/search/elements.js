@@ -21,7 +21,14 @@ export const Flex = styled.div`
 export const Anchor = styled.li`
   list-style: none;
   text-decoration: underline;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 24px;
   margin-bottom: 20px;
   cursor: pointer;
+
+  img {
+    margin-left: 10px;
+  }
 `
