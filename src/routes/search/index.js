@@ -41,16 +41,16 @@ class Search extends Component {
     route(`/${fixNameB(city)}`, true)
   }
 
-  getFlag = async ({ name, objectID }) => {
-    const data = await fetch(
-      `http://api.geonames.org/searchJSON?q=${name ||
-        ''}&style=short&maxRows=1&username=saravieira`
+  getFlag = ({ name = '', objectID }) => {
+    fetch(
+      `http://api.geonames.org/searchJSON?q=${name}&style=short&maxRows=1&username=saravieira`
     )
-    const { geonames } = await data.json()
-
-    this.setState({
-      [objectID]: geonames[0].countryCode,
-    })
+      .then(data => data.json())
+      .then(({ geonames }) =>
+        this.setState({
+          [objectID]: geonames[0].countryCode,
+        })
+      )
   }
 
   componentDidMount() {

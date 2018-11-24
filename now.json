@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "alias": "https://isthereuber.in",
   "type": "docker"
 }
