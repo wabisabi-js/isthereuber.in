@@ -5,6 +5,7 @@ import { Pulsate } from '../../components/loading'
 import { Subtitle, Flex, Anchor } from './elements'
 import { fixNameB } from '../../utils/fixName'
 import { search } from '../../utils/algolia'
+import getCountryPerCity from '../../utils/getFlag'
 
 class Search extends Component {
   state = {
@@ -42,17 +43,11 @@ class Search extends Component {
   }
 
   getFlag = ({ name = '', objectID }) => {
-    fetch(
-      `https://maps.googleapis.com/maps/api/geocode/json?address=${name}&key=AIzaSyDMpDkPdvwEG9mxQ3sA6vaKrq64V7trj_4`
-    )
-      .then(data => data.json())
-      .then(({ results }) => {
-        const address = results[0].address_components
-        const country = address.find(a => a.types.includes('country'))
-        this.setState({
-          [objectID]: country.short_name,
-        })
+    getCountryPerCity(name).then(({ short_name }) =>
+      this.setState({
+        [objectID]: short_name,
       })
+    )
   }
 
   componentDidMount() {
