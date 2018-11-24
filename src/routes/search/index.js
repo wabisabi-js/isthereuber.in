@@ -1,52 +1,11 @@
 import { h, Component } from 'preact'
 import uniqBy from 'lodash.uniqby'
-import styled from 'styled-components'
-import is from 'styled-is'
-import removeAccents from 'remove-accents'
+
 import algoliasearch from 'algoliasearch'
 import { route } from 'preact-router'
 import { Pulsate } from 'styled-loaders'
-
-const Subtitle = styled.h2`
-  color: ${props => props.theme.secondary};
-  font-size: 40px;
-`
-
-const Flex = styled.div`
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  height: 100%;
-
-  p:not(:last-child) {
-    padding-right: 20px;
-  }
-
-  ${is('row')`
-		flex-direction: row;
-	`};
-`
-
-const Anchor = styled.li`
-  list-style: none;
-  text-decoration: underline;
-  font-size: 24px;
-  margin-bottom: 20px;
-  cursor: pointer;
-`
-
-const fixName = name =>
-  name
-    .split('-')
-    .join(' ')
-    .toLowerCase()
-
-const fixNameB = name =>
-  removeAccents(name)
-    .split(' ')
-    .join('-')
-    .toLowerCase()
+import { Subtitle, Flex, Anchor } from './elements'
+import { fixName, fixNameB } from '../../utils/fixName'
 
 class Search extends Component {
   state = {

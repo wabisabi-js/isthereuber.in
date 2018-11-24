@@ -1,6 +1,7 @@
 import App from './components/app'
-import styled, { ThemeProvider, injectGlobal } from 'styled-components'
-import { Grid } from 'react-styled-flexboxgrid'
+import styled, { injectGlobal } from 'react-emotion'
+import { ThemeProvider } from 'emotion-theming'
+import { Grid } from 'react-emotion-flexboxgrid'
 
 injectGlobal`
 	@import url('https://fonts.googleapis.com/css?family=Roboto');
@@ -24,6 +25,7 @@ injectGlobal`
 
 	#app {
 		height: 100%;
+		width: 100%;
 		opacity: 1;
 		backface-visibility: hidden;
 	}

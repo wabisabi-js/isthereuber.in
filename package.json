@@ -28,31 +28,33 @@
     "build/*"
   ],
   "devDependencies": {
-    "eslint": "^4.15.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-config-synacor": "^2.0.4",
-    "husky": "^0.14.3",
-    "if-env": "^1.0.0",
-    "jsonfile": "^4.0.0",
-    "lint-staged": "^6.0.0",
-    "osmosis": "^1.1.6",
+    "babel-plugin-emotion": "^9.2.11",
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-config-synacor": "^3.0.3",
+    "husky": "^1.2.0",
+    "if-env": "^1.0.4",
+    "jsonfile": "^5.0.0",
+    "lint-staged": "^8.1.0",
+    "osmosis": "^1.1.8",
     "preact-cli": "^2.1.1",
-    "prettier": "^1.10.2"
+    "prettier": "^1.15.2"
   },
   "dependencies": {
-    "algoliasearch": "^3.24.9",
-    "capitalize": "^1.0.0",
+    "algoliasearch": "^3.30.0",
+    "capitalize": "^2.0.0",
+    "emotion": "^9.2.12",
+    "emotion-theming": "^9.2.9",
     "lodash.uniqby": "^4.7.0",
-    "preact": "^8.2.7",
-    "preact-compat": "^3.17.0",
-    "preact-router": "^2.6.0",
-    "react-confetti": "^2.0.2",
-    "react-sizeme": "^2.3.6",
-    "react-styled-flexboxgrid": "^2.1.1",
+    "preact": "^8.3.1",
+    "preact-compat": "^3.18.4",
+    "preact-router": "^2.6.1",
+    "react-confetti": "^2.3.0",
+    "react-emotion": "^9.2.12",
+    "react-emotion-flexboxgrid": "^9.0.0",
+    "react-sizeme": "^2.5.2",
     "remove-accents": "^0.4.2",
-    "styled-components": "^2.4.0",
-    "styled-is": "^1.1.0",
-    "styled-loaders": "^0.2.1"
+    "styled-loaders": "^0.3.0"
   },
   "lint-staged": {
     "*.js": [
