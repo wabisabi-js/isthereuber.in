@@ -2,6 +2,7 @@ import { h, Component } from 'preact'
 import Confetti from 'react-confetti'
 import Pulsate from '../../components/loading'
 import {
+  Alternative,
   Title,
   Subtitle,
   Wrapper,
@@ -13,6 +14,7 @@ import {
 import { search } from '../../utils/algolia'
 import edgeCases from '../../utils/edgeCases'
 import ReactCountryFlag from 'react-country-flag'
+import { getAppStoreLink } from '../../utils/appStores'
 
 class City extends Component {
   state = {
@@ -88,13 +90,13 @@ class City extends Component {
                   <Subtitle>But there is</Subtitle>
                 )}
 
-                <Flex row>
+                <Alternative row>
                   {city.company
                     .filter(item => item !== 'uber')
                     .map(c => (
-                      <Company>{c}</Company>
-                    ))}
-                </Flex>
+                    <Company href={getAppStoreLink(c)} target="_blank">{c}</Company>
+                  ))}
+                </Alternative>
               </div>
             ) : null}
             <GoBack href="/">Search Again 🔎</GoBack>
