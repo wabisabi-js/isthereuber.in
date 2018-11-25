@@ -46,7 +46,7 @@ export const Title = styled.h1`
 
   @media (max-width: 360px) {
     font-size: 30px;
-    padding-bottom: 80px;
+    margin-top: 10px;
   }
 
   @media (max-height: 360px) {
