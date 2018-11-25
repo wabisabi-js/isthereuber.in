@@ -41,11 +41,17 @@ export const Title = styled.h1`
 
   @media (max-width: 767px) {
     font-size: 50px;
+    margin-top: 10px;
   }
 
   @media (max-width: 360px) {
     font-size: 30px;
-    margin-top: 10px;
+    padding-bottom: 80px;
+  }
+
+  @media (max-height: 360px) {
+    font-size: 30px;
+    padding-bottom: 80px;
   }
 `
 export const Algolia = styled.img`
@@ -56,6 +62,15 @@ export const Algolia = styled.img`
   bottom: 30px;
   transform: translateX(-50%);
   cursor: pointer;
+
+  @media (max-height: 360px) {
+    bottom: 15px;
+  }
+
+  /** Simply no space to display this */
+  @media (max-height: 300px) {
+    display: none;
+  }
 `
 
 export const Input = styled.input`
@@ -85,6 +100,10 @@ export const Input = styled.input`
     font-size: 40px;
     height: 40px;
     margin-top: 20px;
+  }
+
+  @media (max-height: 360px) {
+    font-size: 30px;
   }
 
   @media (max-width: 360px) {
