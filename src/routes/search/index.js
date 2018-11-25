@@ -1,7 +1,7 @@
 import { h, Component } from 'preact'
 import uniqBy from 'lodash.uniqby'
 import { route } from 'preact-router'
-import { Pulsate } from '../../components/loading'
+import Pulsate from '../../components/loading'
 import { Subtitle, Flex, Anchor } from './elements'
 import { fixNameB } from '../../utils/fixName'
 import { search } from '../../utils/algolia'
