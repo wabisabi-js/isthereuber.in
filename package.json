@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run -s serve || npm run -s dev",
-    "build": "preact build -p --template src/template.html",
+    "build": "preact build -p --template src/template.html && cp _redirects build/_redirects",
     "serve": "preact build && preact serve",
     "deploy": "preact build && now && now alias",
     "dev": "preact watch",
