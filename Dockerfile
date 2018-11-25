@@ -1,4 +1,3 @@
-
 FROM nginx:alpine
 LABEL author="Sara Vieira"
 COPY ./build /var/www

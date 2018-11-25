@@ -23,6 +23,8 @@ module.exports = ({ url, selector, company }) => {
         company,
       })
     })
-    .error(error => error)
+    .log(console.log)
+    .error(console.log)
+    .debug(console.log)
     .done(() => console.log(arr))
 }
