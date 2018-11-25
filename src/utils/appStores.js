@@ -3,7 +3,7 @@ import MobileDetect from "mobile-detect";
 const ios = "ios";
 const android = "android";
 const md = new MobileDetect((typeof window !== "undefined") ? window.navigator.userAgent : "");
-const mobileOs = md && (md.os('iOS') || md.match('Mac')) ? ios : android;
+const mobileOs = md && (md.os() === 'iOS' || md.match('Mac')) ? ios : android; 
 
 const sanitizeAppName = (name) => name.toLowerCase().replace(' ', '');
 const storeLinks = {
