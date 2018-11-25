@@ -1,5 +1,4 @@
 import { h, Component } from 'preact'
-import uniqBy from 'lodash.uniqby'
 import Confetti from 'react-confetti'
 import Pulsate from '../../components/loading'
 import {
@@ -49,11 +48,8 @@ class City extends Component {
     this.search(city)
   }
 
-  render({ city }, { cities, loaded }) {
-    const uber = cities.filter(c => c.company === 'uber')
-    const other = cities.filter(c => c.company !== 'uber')
-
-    console.log(cities)
+  render({}, { cities, loaded }) {
+    const city = cities[0]
 
     if (!loaded) {
       return (
@@ -66,7 +62,7 @@ class City extends Component {
       <Wrapper>
         {loaded ? (
           <Flex>
-            {uber.length ? (
+            {city.company.includes('uber') ? (
               [
                 <Wrapper>
                   <Confetti
@@ -80,18 +76,20 @@ class City extends Component {
             ) : (
               <Title>NO 😕</Title>
             )}
-            {other.length ? (
+            {city.company.filter(item => item !== 'uber').length ? (
               <div>
-                {uber.length ? (
+                {city.company.includes('uber') ? (
                   <Subtitle>There is also</Subtitle>
                 ) : (
                   <Subtitle>But there is</Subtitle>
                 )}
 
                 <Flex row>
-                  {uniqBy(other, 'company').map(c => (
-                    <Company>{c.company}</Company>
-                  ))}
+                  {city.company
+                    .filter(item => item !== 'uber')
+                    .map(c => (
+                      <Company>{c}</Company>
+                    ))}
                 </Flex>
               </div>
             ) : null}

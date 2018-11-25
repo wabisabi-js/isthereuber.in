@@ -7020,6 +7020,11 @@ react-confetti@^2.3.0:
   resolved "https://registry.yarnpkg.com/react-confetti/-/react-confetti-2.3.0.tgz#04928400ade075abebf0a349902d1ffb4e75d453"
   integrity sha512-qi6Qh8zF3T80bgUK2/iZsYQum+2sLWyhjUpp4nO0uEvaUeIpSfVoj1FH9BLraPmkonn6sCQBK3pFKuS3zY1mJw==
 
+react-country-flag@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-country-flag/-/react-country-flag-1.0.1.tgz#30594a8500f98fa30a3ff4b909d985c47b130a7f"
+  integrity sha512-kIdiwofJbNjkz3ZNiJuRzKttEZCyBVkT6AUmeLp6Y8W1b2Tng+1dSuMV4WmXZ1FDM6mfRcoSGiwAj4PUoE8kZw==
+
 react-emotion-flexboxgrid@^9.0.0:
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/react-emotion-flexboxgrid/-/react-emotion-flexboxgrid-9.0.0.tgz#312bc78054648604cd67223591a41be2005692ad"

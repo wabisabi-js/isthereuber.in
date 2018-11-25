@@ -5,7 +5,7 @@ import Pulsate from '../../components/loading'
 import { Subtitle, Flex, Anchor } from './elements'
 import { fixNameB } from '../../utils/fixName'
 import { search } from '../../utils/algolia'
-import getCountryPerCity from '../../utils/getFlag'
+import ReactCountryFlag from 'react-country-flag'
 
 class Search extends Component {
   state = {
@@ -23,31 +23,16 @@ class Search extends Component {
         return
       }
 
-      this.setState(
-        {
-          cities: content.hits,
-          loaded: true,
-        },
-        () => {
-          if (uniqBy(content.hits, 'name').length > 1) {
-            content.hits.map(city => this.getFlag(city))
-          }
-        }
-      )
+      this.setState({
+        cities: content.hits,
+        loaded: true,
+      })
     })
   }
 
   selectCity = city => {
     this.search(fixNameB(city))
     route(`/${fixNameB(city)}`, true)
-  }
-
-  getFlag = ({ name = '', objectID }) => {
-    getCountryPerCity(name).then(({ short_name }) =>
-      this.setState({
-        [objectID]: short_name,
-      })
-    )
   }
 
   componentDidMount() {
@@ -68,7 +53,11 @@ class Search extends Component {
     }
 
     return (
-      <Flex style={{ textAlign: 'center' }}>
+      <Flex
+	style={{
+          textAlign: 'center',
+        }}
+      >
         <Subtitle>More than one city matches your search</Subtitle>
         <Subtitle>What city did you mean ?</Subtitle>
         <ul>
@@ -76,13 +65,7 @@ class Search extends Component {
             // eslint-disable-next-line
             <Anchor onClick={() => this.selectCity(city.name)}>
               {city.name}
-              {this.state[city.objectID] ? (
-                <img
-	src={`https://www.countryflags.io/${
-                    this.state[city.objectID]
-                  }/flat/32.png`}
-                />
-              ) : null}
+              <ReactCountryFlag code={city.info.country.short_name} />
             </Anchor>
           ))}
         </ul>

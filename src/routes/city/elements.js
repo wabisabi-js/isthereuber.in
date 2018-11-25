@@ -9,6 +9,7 @@ export const Title = styled.h1`
 export const Subtitle = styled.h2`
   color: ${props => props.theme.secondary};
   font-size: 40px;
+  text-align: center;
 `
 
 export const Message = styled.p`
@@ -33,6 +34,9 @@ export const Flex = styled.div`
   justify-content: center;
   flex-direction: column;
   height: 100%;
+  max-width: 100%;
+  flex-shrink: 0;
+  flex-wrap: wrap;
 
   p:not(:last-child) {
     padding-right: 20px;
@@ -47,6 +51,7 @@ export const Company = styled.p`
   padding: 0;
   margin: 0;
   text-transform: capitalize;
+  margin-bottom: 20px;
 `
 
 export const GoBack = styled(Link)`

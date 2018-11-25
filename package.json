@@ -39,7 +39,8 @@
     "lint-staged": "^8.1.0",
     "osmosis": "^1.1.8",
     "preact-cli": "^2.2.1",
-    "prettier": "^1.15.2"
+    "prettier": "^1.15.2",
+    "react-country-flag": "^1.0.1"
   },
   "dependencies": {
     "algoliasearch": "^3.30.0",

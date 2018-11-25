@@ -28,7 +28,7 @@ export const Anchor = styled.li`
   margin-bottom: 20px;
   cursor: pointer;
 
-  img {
+  span {
     margin-left: 10px;
   }
 `
