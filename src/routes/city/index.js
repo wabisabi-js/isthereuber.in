@@ -71,7 +71,7 @@ class City extends Component {
                   />
                 </Wrapper>,
                 <Title>YES 🚗</Title>,
-                <Message>{edgeCases(cities[0].name)}</Message>,
+                <Message>{edgeCases(cities[0])}</Message>,
               ]
             ) : (
               <Title>NO 😕</Title>
