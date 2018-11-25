@@ -3,9 +3,9 @@ import MobileDetect from "mobile-detect";
 const ios = "ios";
 const android = "android";
 const md = new MobileDetect((typeof window !== "undefined") ? window.navigator.userAgent : "");
-const mobileOs = md.os('iOS') || md.match('Mac') ? ios : android;
+const mobileOs = md && (md.os('iOS') || md.match('Mac')) ? ios : android;
 
-const defaultApp = "default";
+const sanitizeAppName = (name) => name.toLowerCase().replace(' ', '');
 const storeLinks = {
     uber: {
         ios: "https://itunes.apple.com/us/app/uber/id368677368?mt=8",
@@ -53,4 +53,4 @@ const storeLinks = {
     }
 };
 
-export const getAppStoreLink = (app) => storeLinks[app.toLowerCase() || defaultApp][mobileOs];
+export const getAppStoreLink = (app) => storeLinks[sanitizeAppName(app || 'default')][mobileOs];
