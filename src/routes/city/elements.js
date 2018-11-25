@@ -45,11 +45,19 @@ export const Flex = styled.div`
   flex-direction: ${props => (props.row ? 'row' : 'column')};
 `
 
-export const Company = styled.p`
+export const Alternative = styled(Flex)`
+  a:not(:last-child) {
+    padding-right: 20px;
+  }
+`;
+
+export const Company = styled.a`
   color: ${props => props.theme.secondary};
+  z-index: 99;
   font-size: 24px;
   padding: 0;
   margin: 0;
+  text-decoration: none;
   text-transform: capitalize;
   margin-bottom: 20px;
 `

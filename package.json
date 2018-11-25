@@ -50,6 +50,7 @@
     "isomorphic-fetch": "^2.2.1",
     "limiter": "^1.1.3",
     "lodash.uniqby": "^4.7.0",
+    "mobile-detect": "^1.4.3",
     "preact": "^8.3.1",
     "preact-compat": "^3.18.4",
     "preact-router": "^2.6.1",
