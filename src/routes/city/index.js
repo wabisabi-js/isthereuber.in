@@ -12,6 +12,7 @@ import {
 } from './elements'
 import { search } from '../../utils/algolia'
 import edgeCases from '../../utils/edgeCases'
+import ReactCountryFlag from 'react-country-flag'
 
 class City extends Component {
   state = {
@@ -70,7 +71,10 @@ class City extends Component {
 	height={window.innerHeight}
                   />
                 </Wrapper>,
-                <Title>YES 🚗</Title>,
+                <Title>
+                  YES 🚗{' '}
+                  <ReactCountryFlag code={city.info.country.short_name} />
+                </Title>,
                 <Message>{edgeCases(cities[0])}</Message>,
               ]
             ) : (
