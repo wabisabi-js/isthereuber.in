@@ -94,7 +94,7 @@ class City extends Component {
                   {city.company
                     .filter(item => item !== 'uber')
                     .map(c => (
-                    <Company href={getAppStoreLink(c.company)} target="_blank">{c.company}</Company>
+                    <Company href={getAppStoreLink(c)} target="_blank">{c}</Company>
                   ))}
                 </Alternative>
               </div>
