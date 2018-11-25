@@ -21,6 +21,12 @@ const cases = [
     message: 'A ride from Charles de Gaule Airport to Paris is legally set at 50-55€, and 30-35€ from Orly Airport. Beware of frauds.',
     name: 'paris',
   },
+  {
+    type: 'safety',
+    message:
+      'Be aware! Some taxi drivers may attack your uber driver.',
+    name: 'istanbul',
+  },
 ]
 
 export default city =>
