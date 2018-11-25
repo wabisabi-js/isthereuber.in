@@ -26,7 +26,7 @@ module.exports = [
     }
   },
   {
-    name: "Bali (termasuk Gianyar dan Tabanan)",
+    name: "Bali",
     company: "go-JEK",
     info: {
       formatted_address: "Tabanan Regency, Bali, Indonesia",
