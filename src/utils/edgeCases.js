@@ -33,6 +33,11 @@ const cases = [
     'Uber drivers only take payment by cash. If they think you\'ll pay by card then they\'ll cancel the ride',
     name: 'san salvador',
   },
+  {
+    type: 'service',
+    message: 'Only Uber Black is available in Seoul.',
+    name: 'seoul',
+  }
 ]
 
 export default city =>
