@@ -6,7 +6,7 @@ https://isthereuber.in
 
 Check if there is an uber in the town you input
 
-Also checks for lyft, cabify, taxify, easytaxi, beat and mytaxi.
+Also checks for a lot more providers
 
 ## Why
 
