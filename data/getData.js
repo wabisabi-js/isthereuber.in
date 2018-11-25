@@ -15,31 +15,7 @@ const fixCityName = (city, company) =>
     ? substitutions[company][city]
     : city
 
-const getLocation = name =>
-  fetch(
-    `https://maps.googleapis.com/maps/api/geocode/json?address=${name}&key=AIzaSyDMpDkPdvwEG9mxQ3sA6vaKrq64V7trj_4`
-  )
-    .then(data => data.json())
-    .then(({ results }) => results[0] || { address_components: [] })
-    .catch(console.log)
-
-module.exports = async ({ url, selector, company }) => {
-  const arr = []
-  await osmosis
-    .get(url)
-    .find(selector)
-    .set('city')
-    .data(data => {
-      arr.push({
-        name: fixCityName(data.city, company),
-        company,
-      })
-    })
-    // .log(console.log)
-    // .error(console.log)
-    // .debug(console.log)
-    .done(() => arr)
-
+const leMap = async (arr, company) => {
   const map = arr.map(async a => {
     const data = await getLocation(removeAccents(a.name))
 
@@ -79,4 +55,32 @@ module.exports = async ({ url, selector, company }) => {
 
     console.log('The file was saved!')
   })
+}
+
+const getLocation = name =>
+  fetch(
+    `https://maps.googleapis.com/maps/api/geocode/json?address=${name}&key=AIzaSyDMpDkPdvwEG9mxQ3sA6vaKrq64V7trj_4`
+  )
+    .then(data => data.json())
+    .then(({ results }) => results[0] || { address_components: [] })
+    .catch(console.log)
+
+module.exports = async ({ url, selector, company }) => {
+  const arr = []
+  await osmosis
+    .get(url)
+    .find(selector)
+    .set('city')
+    .data(data => {
+      arr.push({
+        name: fixCityName(data.city, company),
+        company,
+      })
+    })
+    // .log(console.log)
+    // .error(console.log)
+    // .debug(console.log)
+    .done(() => arr)
+
+  leMap(arr, company)
 }
