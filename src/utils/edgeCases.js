@@ -27,6 +27,12 @@ const cases = [
       'Be aware! Some taxi drivers may attack your uber driver.',
     name: 'istanbul',
   },
+  {
+    type: 'price',
+    message:
+    'Uber drivers only take payment by cash. If they think you\'ll pay by card then they\'ll cancel the ride',
+    name: 'san salvador',
+  },
 ]
 
 export default city =>
