@@ -18,7 +18,7 @@ export default class Home extends Component {
     this.setState({ value: '' }, () => route(`search/${fixName(value)}`, true))
   }
 
-  render({ }, { value }) {
+  render({}, { value }) {
     return (
       <Wrapper>
         <LogoImg src={Logo} alt="Is There Uber In" height="150" />
