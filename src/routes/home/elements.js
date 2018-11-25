@@ -68,7 +68,7 @@ export const Algolia = styled.img`
   }
 
   /** Simply no space to display this */
-  @media (max-height: 300px) {
+  @media (max-height: 200px) {
     display: none;
   }
 `
