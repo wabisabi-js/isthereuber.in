@@ -1,8 +1,8 @@
 import MobileDetect from "mobile-detect";
 
-const ios = "ios"
-const android = "android"
-const md = new MobileDetect(window.navigator.userAgent)
+const ios = "ios";
+const android = "android";
+const md = new MobileDetect((typeof window !== "undefined") ? window.navigator.userAgent : "");
 const mobileOs = md.os('iOS') || md.match('Mac') ? ios : android;
 
 const storeLinks = {
@@ -42,6 +42,6 @@ const storeLinks = {
         ios: "https://itunes.apple.com/us/app/beat-ride-app/id436031420?mt=8",
         android: "https://play.google.com/store/apps/details?id=gr.androiddev.taxibeat"
     }
-}
+};
 
-export const getAppStoreLink = (app) => storeLinks[app.toLowerCase()][mobileOs]
+export const getAppStoreLink = (app) => storeLinks[app.toLowerCase()][mobileOs];
