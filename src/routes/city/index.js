@@ -62,7 +62,7 @@ class City extends Component {
       <Wrapper>
         {loaded ? (
           <Flex>
-            {city.company.includes('uber') ? (
+            {city && city.company.includes('uber') ? (
               [
                 <Wrapper>
                   <Confetti
@@ -76,7 +76,7 @@ class City extends Component {
             ) : (
               <Title>NO 😕</Title>
             )}
-            {city.company.filter(item => item !== 'uber').length ? (
+            {city && city.company.filter(item => item !== 'uber').length ? (
               <div>
                 {city.company.includes('uber') ? (
                   <Subtitle>There is also</Subtitle>
