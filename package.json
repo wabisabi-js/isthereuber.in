@@ -12,7 +12,9 @@
     "test": "eslint src",
     "format": "prettier --write 'src/**/*.{js,css,md}'",
     "posttest": "npm run format",
-    "seed": "node data/seed.js"
+    "seed": "node data/seed.js",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
   },
   "husky": {
     "hooks": {
@@ -29,6 +31,7 @@
     "build/*"
   ],
   "devDependencies": {
+    "all-contributors-cli": "^5.4.1",
     "babel-plugin-emotion": "^9.2.11",
     "eslint": "^5.9.0",
     "eslint-config-prettier": "^3.3.0",
