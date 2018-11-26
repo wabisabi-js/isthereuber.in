@@ -34,7 +34,7 @@ const cases = [
   {
     type: 'service',
     message: 'There are really few cars',
-    country: ['helsinki'],
+    city: ['helsinki'],
   },
 ]
 
