@@ -6540,13 +6540,13 @@ module.exports = [
     name: 'Barcelona',
     company: 'uber',
     info: {
-      formatted_address: '5160 S Yale Ave, Tulsa, OK 74135, USA',
+      formatted_address: 'Barcelona, Spain',
       country: {
-        long_name: 'United States',
-        short_name: 'US',
+        long_name: 'Spain',
+        short_name: 'ES',
         types: ['country', 'political'],
       },
-      place_id: 'ChIJSY13SOyStocR5jP7TlOgSmQ',
+      place_id: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ',
     },
   },
   {
