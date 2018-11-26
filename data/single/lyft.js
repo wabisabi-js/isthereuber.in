@@ -7351,14 +7351,14 @@ module.exports = [
     name: "Odessa",
     company: "lyft",
     info: {
-      formatted_address: "Odesa, Odessa Oblast, Ukraine, 65000",
+      formatted_address: 'Odessa, TX, USA',
       country: {
-        long_name: "Ukraine",
-        short_name: "UA",
-        types: ["country", "political"]
+        long_name: 'United States',
+        short_name: 'US',
+        types: ['country', 'political'],
       },
-      place_id: "ChIJQ0yGC4oxxkARbBfyjOKPnxI"
-    }
+      place_id: 'ChIJ-XwTOWrJ-4YRRl9hVDSrJRY',
+    },
   },
   {
     name: "Pearland",
