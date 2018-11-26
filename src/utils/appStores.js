@@ -62,6 +62,16 @@ const storeLinks = {
     android:
       'https://play.google.com/store/apps/details?id=com.gettaxi.android&hl=en',
   },
+  taksini: {
+    ios: 'https://itunes.apple.com/fi/app/l%C3%A4hitaksi/id997696813?mt=8',
+    android:
+      'https://play.google.com/store/apps/details?id=dk.frogne.lahitaksi',
+  },
+  'taksi helsinki': {
+    ios: 'https://itunes.apple.com/fi/app/taksi-helsinki/id499496168?mt=8',
+    android:
+      'https://play.google.com/store/apps/details?id=fi.taksihelsinki.taksimobipro&hl=en',
+  },
   default: {
     ios: '#',
     android: '#',
