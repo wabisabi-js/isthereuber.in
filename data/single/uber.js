@@ -8566,19 +8566,6 @@ module.exports = [
     },
   },
   {
-    name: 'Casablanca',
-    company: 'uber',
-    info: {
-      formatted_address: 'Casablanca, Morocco',
-      country: {
-        long_name: 'Morocco',
-        short_name: 'MA',
-        types: ['country', 'political'],
-      },
-      place_id: 'ChIJOxGqeEfNpw0R0w8xT9jBBgs',
-    },
-  },
-  {
     name: 'Dar Es Salaam',
     company: 'uber',
     info: {
