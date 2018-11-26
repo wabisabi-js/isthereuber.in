@@ -11,7 +11,6 @@ module.exports = [
       },
       place_id: 'ChIJRWkGKjmOVoYRX6kjIr_m2Qc',
     },
-    link: '/en-GB/cities/abilene/',
   },
   {
     name: 'Aguascalientes',
@@ -25,7 +24,6 @@ module.exports = [
       },
       place_id: 'ChIJ-9nkOhTsKYQRIFKcZ3hpAQQ',
     },
-    link: '/en-GB/cities/aguascalientes/',
   },
   {
     name: 'Akron',
@@ -39,7 +37,6 @@ module.exports = [
       },
       place_id: 'ChIJt_oui5XXMIgRBG0m_ZVsySk',
     },
-    link: '/en-GB/cities/akron/',
   },
   {
     name: 'Albuquerque',
@@ -53,7 +50,6 @@ module.exports = [
       },
       place_id: 'ChIJe4MJ090KIocR_fbZuM7408A',
     },
-    link: '/en-GB/cities/albuquerque/',
   },
   {
     name: 'Amarillo',
@@ -67,7 +63,6 @@ module.exports = [
       },
       place_id: 'ChIJA89FstRIAYcRr9I2aBzR89A',
     },
-    link: '/en-GB/cities/amarillo/',
   },
   {
     name: 'Ames',
@@ -81,7 +76,6 @@ module.exports = [
       },
       place_id: 'ChIJa6A0RmJw7ocRAFLHPAhWMSc',
     },
-    link: '/en-GB/cities/ames/',
   },
   {
     name: 'Anchorage',
@@ -95,7 +89,6 @@ module.exports = [
       },
       place_id: 'ChIJQT-zBHaRyFYR42iEp1q6fSU',
     },
-    link: '/en-GB/cities/anchorage/',
   },
   {
     name: 'Ann Arbor',
@@ -109,7 +102,6 @@ module.exports = [
       },
       place_id: 'ChIJMx9D1A2wPIgR4rXIhkb5Cds',
     },
-    link: '/en-GB/cities/ann-arbor/',
   },
   {
     name: 'Asheville, NC',
@@ -123,7 +115,6 @@ module.exports = [
       },
       place_id: 'ChIJCW8PPKmMWYgRXTo0BsEx75Q',
     },
-    link: '/en-GB/cities/asheville-nc/',
   },
   {
     name: 'Athens',
@@ -137,7 +128,6 @@ module.exports = [
       },
       place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic',
     },
-    link: '/en-GB/cities/athens/',
   },
   {
     name: 'Atlanta',
@@ -151,7 +141,6 @@ module.exports = [
       },
       place_id: 'ChIJjQmTaV0E9YgRC2MLmS_e_mY',
     },
-    link: '/en-GB/cities/atlanta/',
   },
   {
     name: 'Auburn',
@@ -165,7 +154,6 @@ module.exports = [
       },
       place_id: 'ChIJg_ibsy_xjIgRWJPTNZKRJcs',
     },
-    link: '/en-GB/cities/auburn/',
   },
   {
     name: 'Augusta',
@@ -179,7 +167,6 @@ module.exports = [
       },
       place_id: 'ChIJQaoLFpfQ-YgR5Auq4_2K5z4',
     },
-    link: '/en-GB/cities/augusta/',
   },
   {
     name: 'Austin',
@@ -193,7 +180,6 @@ module.exports = [
       },
       place_id: 'ChIJLwPMoJm1RIYRetVp1EtGm10',
     },
-    link: '/en-GB/cities/austin/',
   },
   {
     name: 'Bakersfield',
@@ -207,7 +193,6 @@ module.exports = [
       },
       place_id: 'ChIJDcuUuchr6oARyHT-mAkMNlk',
     },
-    link: '/en-GB/cities/bakersfield/',
   },
   {
     name: 'Baltimore-Maryland',
@@ -221,7 +206,6 @@ module.exports = [
       },
       place_id: 'ChIJt4P01q4DyIkRWOcjQqiWSAQ',
     },
-    link: '/en-GB/cities/baltimore/',
   },
   {
     name: 'Baton Rouge',
@@ -235,7 +219,6 @@ module.exports = [
       },
       place_id: 'ChIJy3RfMmc4JIYRHZpXkdvxIyE',
     },
-    link: '/en-GB/cities/baton-rouge/',
   },
   {
     name: 'Beaumont',
@@ -249,7 +232,6 @@ module.exports = [
       },
       place_id: 'ChIJVVVVVRUuuocRPbBDWGS1dJU',
     },
-    link: '/en-GB/cities/beaumont/',
   },
   {
     name: 'Bellingham',
@@ -263,7 +245,6 @@ module.exports = [
       },
       place_id: 'ChIJF4dF8i6WhVQR8OA5zamcetU',
     },
-    link: '/en-GB/cities/bellingham/',
   },
   {
     name: 'Big Island',
@@ -277,7 +258,6 @@ module.exports = [
       },
       place_id: 'ChIJWTr3xcHnU3kRNIHX-ZKkVRQ',
     },
-    link: '/en-GB/cities/hawaii/',
   },
   {
     name: 'Billings',
@@ -291,7 +271,6 @@ module.exports = [
       },
       place_id: 'ChIJl536iIhvSFMRULV58dRWNTc',
     },
-    link: '/en-GB/cities/billings/',
   },
   {
     name: 'Birmingham, AL',
@@ -305,7 +284,6 @@ module.exports = [
       },
       place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU',
     },
-    link: '/en-GB/cities/birmingham-al/',
   },
   {
     name: 'Bismarck',
@@ -319,7 +297,6 @@ module.exports = [
       },
       place_id: 'ChIJY-nYVxKD11IRk8q7-RK9qsw',
     },
-    link: '/en-GB/cities/bismarck/',
   },
   {
     name: 'Bloomington, IN',
@@ -333,7 +310,6 @@ module.exports = [
       },
       place_id: 'ChIJ59iDtPZdbIgR2TOtiy2RGuk',
     },
-    link: '/en-GB/cities/bloomington/',
   },
   {
     name: 'Boise',
@@ -347,7 +323,6 @@ module.exports = [
       },
       place_id: 'ChIJnbRH6XLxrlQRm51nNpuYW5o',
     },
-    link: '/en-GB/cities/boise/',
   },
   {
     name: 'Boone',
@@ -361,7 +336,6 @@ module.exports = [
       },
       place_id: 'ChIJZVqUaSjRUIgR6ab1eWE0Cm4',
     },
-    link: '/en-GB/cities/boone/',
   },
   {
     name: 'Boston',
@@ -375,7 +349,6 @@ module.exports = [
       },
       place_id: 'ChIJGzE9DS1l44kRoOhiASS_fHg',
     },
-    link: '/en-GB/cities/boston/',
   },
   {
     name: 'Bowling Green, KY',
@@ -389,7 +362,6 @@ module.exports = [
       },
       place_id: 'ChIJ0-T66bzoZYgRTyx5IJCsCqc',
     },
-    link: '/en-GB/cities/bowling-green-ky/',
   },
   {
     name: 'Bozeman',
@@ -403,7 +375,6 @@ module.exports = [
       },
       place_id: 'ChIJE4i6T0xERVMRqmA792TQ9WM',
     },
-    link: '/en-GB/cities/bozeman/',
   },
   {
     name: 'Calgary',
@@ -417,7 +388,6 @@ module.exports = [
       },
       place_id: 'ChIJ1T-EnwNwcVMROrZStrE7bSY',
     },
-    link: '/en-GB/cities/calgary/',
   },
   {
     name: 'Campeche',
@@ -431,13 +401,12 @@ module.exports = [
       },
       place_id: 'ChIJFeLHS0LD6IURw_yqe4z3i-Y',
     },
-    link: '/en-GB/cities/campeche/',
   },
   {
     name: 'Cancun',
     company: 'uber',
     info: {
-      formatted_address: 'Canc√∫n, Quintana Roo, Mexico',
+      formatted_address: 'Cancún, Quintana Roo, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -445,7 +414,6 @@ module.exports = [
       },
       place_id: 'ChIJ21P2rgUrTI8Ris1fYjy3Ms4',
     },
-    link: '/en-GB/cities/cancun/',
   },
   {
     name: 'Carbondale',
@@ -459,7 +427,6 @@ module.exports = [
       },
       place_id: 'ChIJ1yELJZerQYcRz0qT93lh0Hc',
     },
-    link: '/en-GB/cities/carbondale/',
   },
   {
     name: 'Cedar Rapids',
@@ -473,7 +440,6 @@ module.exports = [
       },
       place_id: 'ChIJUUIvoHpf5IcRwN3mLENg7lU',
     },
-    link: '/en-GB/cities/cedar-rapids/',
   },
   {
     name: 'Celaya',
@@ -487,7 +453,6 @@ module.exports = [
       },
       place_id: 'ChIJdcZgHmS6LIQRRyd9mq3Tj5k',
     },
-    link: '/en-GB/cities/celaya/',
   },
   {
     name: 'Central Atlantic Coast, FL',
@@ -501,7 +466,6 @@ module.exports = [
       },
       place_id: 'ChIJHYG9W2YO3ogRXhxt1Jxs6bk',
     },
-    link: '/en-GB/cities/daytona-beach/',
   },
   {
     name: 'Central Oregon',
@@ -515,7 +479,6 @@ module.exports = [
       },
       place_id: 'ChIJVWqfm3xuk1QRdrgLettlTH0',
     },
-    link: '/en-GB/cities/eastern-oregon/',
   },
   {
     name: 'Champaign',
@@ -529,7 +492,6 @@ module.exports = [
       },
       place_id: 'ChIJG2mX3o3QDIgRz791tEd49TA',
     },
-    link: '/en-GB/cities/champaign/',
   },
   {
     name: 'Charleston, SC',
@@ -543,7 +505,6 @@ module.exports = [
       },
       place_id: 'ChIJdySo3EJ6_ogRa-zhruD3-jU',
     },
-    link: '/en-GB/cities/charleston/',
   },
   {
     name: 'Charlotte',
@@ -557,7 +518,6 @@ module.exports = [
       },
       place_id: 'ChIJgRo4_MQfVIgRZNFDv-ZQRog',
     },
-    link: '/en-GB/cities/charlotte/',
   },
   {
     name: 'Charlottesville-Harrisonburg',
@@ -572,7 +532,6 @@ module.exports = [
       },
       place_id: 'ChIJjzGKMZyIs4kRXDEgqKfIj5c',
     },
-    link: '/en-GB/cities/charlottesville-va/',
   },
   {
     name: 'Chattanooga',
@@ -586,7 +545,6 @@ module.exports = [
       },
       place_id: 'ChIJheeDikBgYIgRqiiHiR8mcSQ',
     },
-    link: '/en-GB/cities/chattanooga/',
   },
   {
     name: 'Chicago',
@@ -600,7 +558,6 @@ module.exports = [
       },
       place_id: 'ChIJ7cv00DwsDogRAMDACa2m4K8',
     },
-    link: '/en-GB/cities/chicago/',
   },
   {
     name: 'Chihuahua',
@@ -614,7 +571,6 @@ module.exports = [
       },
       place_id: 'ChIJCaSRhS91loYRB36nQFPig5s',
     },
-    link: '/en-GB/cities/chihuahua/',
   },
   {
     name: 'Cincinnati',
@@ -628,7 +584,6 @@ module.exports = [
       },
       place_id: 'ChIJ-SE43rFRQIgRF5PA5It--2k',
     },
-    link: '/en-GB/cities/cincinnati/',
   },
   {
     name: 'Ciudad Juarez',
@@ -642,13 +597,12 @@ module.exports = [
       },
       place_id: 'ChIJnTILPcte54YRdHmcVABhGQs',
     },
-    link: '/en-GB/cities/ciudad-juarez/',
   },
   {
     name: 'Ciudad Obregon',
     company: 'uber',
     info: {
-      formatted_address: 'Ciudad Obreg√≥n, Sonora, Mexico',
+      formatted_address: 'Ciudad Obregón, Sonora, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -656,7 +610,6 @@ module.exports = [
       },
       place_id: 'ChIJuf91y-EVyIYRrhU1zao4HzE',
     },
-    link: '/en-GB/cities/ciudad-obregon/',
   },
   {
     name: 'Cleveland',
@@ -670,7 +623,6 @@ module.exports = [
       },
       place_id: 'ChIJLWto4y7vMIgRQhhi91XLBO0',
     },
-    link: '/en-GB/cities/cleveland/',
   },
   {
     name: 'Coastal Georgia',
@@ -684,7 +636,6 @@ module.exports = [
       },
       place_id: 'ChIJIYeemZfX5IgR3omZMOZq3xQ',
     },
-    link: '/en-GB/cities/georgia-coast/',
   },
   {
     name: "Coeur D'Alene",
@@ -698,7 +649,6 @@ module.exports = [
       },
       place_id: 'ChIJj3xVuvi0YVMRkFK_BVuZ5V8',
     },
-    link: '/en-GB/cities/coeur-dalene/',
   },
   {
     name: 'College Station',
@@ -712,7 +662,6 @@ module.exports = [
       },
       place_id: 'ChIJozxGGYaERoYRyWq_tk3Hack',
     },
-    link: '/en-GB/cities/college-station/',
   },
   {
     name: 'Colorado Springs',
@@ -726,7 +675,6 @@ module.exports = [
       },
       place_id: 'ChIJK9LmoS5BE4cRE2vo9ZLrjkE',
     },
-    link: '/en-GB/cities/colorado-springs/',
   },
   {
     name: 'Columbia, MO',
@@ -740,7 +688,6 @@ module.exports = [
       },
       place_id: 'ChIJyYKBu_Or3IcRIG-9ui1pEaA',
     },
-    link: '/en-GB/cities/columbia-mo/',
   },
   {
     name: 'Columbia, SC',
@@ -754,7 +701,6 @@ module.exports = [
       },
       place_id: 'ChIJ49ExeWml-IgRlvp5s_QIKPM',
     },
-    link: '/en-GB/cities/columbia/',
   },
   {
     name: 'Columbus',
@@ -768,7 +714,6 @@ module.exports = [
       },
       place_id: 'ChIJcd6QucGJOIgRM7Wxz_hmMuQ',
     },
-    link: '/en-GB/cities/columbus/',
   },
   {
     name: 'Columbus, GA',
@@ -782,7 +727,6 @@ module.exports = [
       },
       place_id: 'ChIJ9TE1WBvNjIgRYQPh7qlQjHI',
     },
-    link: '/en-GB/cities/columbus-ga/',
   },
   {
     name: 'Connecticut',
@@ -796,7 +740,6 @@ module.exports = [
       },
       place_id: 'ChIJpVER8hFT5okR5XBhBVttmq4',
     },
-    link: '/en-GB/cities/connecticut/',
   },
   {
     name: 'Cookeville',
@@ -810,7 +753,6 @@ module.exports = [
       },
       place_id: 'ChIJWUzxDKcYZ4gRHV5A6ufMTi8',
     },
-    link: '/en-GB/cities/cookeville/',
   },
   {
     name: 'Corpus Christi',
@@ -824,7 +766,6 @@ module.exports = [
       },
       place_id: 'ChIJs9KSYYBfaIYRj5AOiZNQ0a4',
     },
-    link: '/en-GB/cities/corpus-christi/',
   },
   {
     name: 'Cuernavaca',
@@ -838,13 +779,12 @@ module.exports = [
       },
       place_id: 'ChIJra8im0nezYURoZC3ubW8tsk',
     },
-    link: '/en-GB/cities/cuernavaca/',
   },
   {
     name: 'Culiacan',
     company: 'uber',
     info: {
-      formatted_address: 'Culiac√°n, Sinaloa, Mexico',
+      formatted_address: 'Culiacán, Sinaloa, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -852,7 +792,6 @@ module.exports = [
       },
       place_id: 'ChIJj_lHd8fWvIYRzCMt6_Dr2Y0',
     },
-    link: '/en-GB/cities/culiacan/',
   },
   {
     name: 'Dallas-Fort Worth',
@@ -866,7 +805,6 @@ module.exports = [
       },
       place_id: 'ChIJS5dFe_cZTIYRj2dH9qSb7Lk',
     },
-    link: '/en-GB/cities/dallas/',
   },
   {
     name: 'Dayton',
@@ -880,7 +818,6 @@ module.exports = [
       },
       place_id: 'ChIJAxTdrtWAQIgR5EwO8pLjQKY',
     },
-    link: '/en-GB/cities/dayton/',
   },
   {
     name: 'Delaware',
@@ -894,7 +831,6 @@ module.exports = [
       },
       place_id: 'ChIJO9YMTXYFx4kReOgEjBItHZQ',
     },
-    link: '/en-GB/cities/wilmington-de/',
   },
   {
     name: 'Denver',
@@ -908,7 +844,6 @@ module.exports = [
       },
       place_id: 'ChIJzxcfI6qAa4cR1jaKJ_j0jhE',
     },
-    link: '/en-GB/cities/denver/',
   },
   {
     name: 'Des Moines',
@@ -922,7 +857,6 @@ module.exports = [
       },
       place_id: 'ChIJ5x5hwaSZ7ocRsuSRJlEoAHE',
     },
-    link: '/en-GB/cities/des-moines/',
   },
   {
     name: 'Detroit',
@@ -936,7 +870,6 @@ module.exports = [
       },
       place_id: 'ChIJdR3LEAHKJIgR0sS5NU6Gdlc',
     },
-    link: '/en-GB/cities/detroit/',
   },
   {
     name: 'Dickinson',
@@ -950,7 +883,6 @@ module.exports = [
       },
       place_id: 'ChIJGX5zSyoeyYkRViBUZ1NlcwU',
     },
-    link: '/en-GB/cities/dickinson/',
   },
   {
     name: 'Dothan',
@@ -964,7 +896,6 @@ module.exports = [
       },
       place_id: 'ChIJjaXCA1SNkogRryfBw72yLy4',
     },
-    link: '/en-GB/cities/dothan/',
   },
   {
     name: 'DuBois',
@@ -978,7 +909,6 @@ module.exports = [
       },
       place_id: 'ChIJK4OATIJeTVMR7v8lixrmVDQ',
     },
-    link: '/en-GB/cities/dubois/',
   },
   {
     name: 'Dubuque',
@@ -992,7 +922,6 @@ module.exports = [
       },
       place_id: 'ChIJ04aKwIQr44cRR3GjJsYevrQ',
     },
-    link: '/en-GB/cities/dubuque/',
   },
   {
     name: 'Duluth',
@@ -1006,7 +935,6 @@ module.exports = [
       },
       place_id: 'ChIJ_zcueH5SrlIRcgxY63a__ZA',
     },
-    link: '/en-GB/cities/duluth/',
   },
   {
     name: 'Eagle Pass',
@@ -1020,7 +948,6 @@ module.exports = [
       },
       place_id: 'ChIJz5V7uzSMX4YR5jhfm3T6Mw4',
     },
-    link: '/en-GB/cities/eagle-pass/',
   },
   {
     name: 'East Alabama',
@@ -1034,7 +961,6 @@ module.exports = [
       },
       place_id: 'ChIJdf5LHzR_hogR6czIUzU0VV4',
     },
-    link: '/en-GB/cities/east-alabama/',
   },
   {
     name: 'Eastern Idaho',
@@ -1048,7 +974,6 @@ module.exports = [
       },
       place_id: 'ChIJIatIYp5eVFMR8_ZiWwP8SMU',
     },
-    link: '/en-GB/cities/eastern-idaho/',
   },
   {
     name: 'Eastern North Carolina',
@@ -1062,7 +987,6 @@ module.exports = [
       },
       place_id: 'ChIJbdGHuWWerokR-db62EyKtAI',
     },
-    link: '/en-GB/cities/eastern-north-carolina/',
   },
   {
     name: 'Eastern Shore',
@@ -1076,7 +1000,6 @@ module.exports = [
       },
       place_id: 'ChIJBZSIZChomogRwHoTSQKDyfM',
     },
-    link: '/en-GB/cities/annapolis/',
   },
   {
     name: 'Eastern Washington',
@@ -1090,7 +1013,6 @@ module.exports = [
       },
       place_id: 'ChIJ4z_DL6A4nlQRr2cmvozrjLU',
     },
-    link: '/en-GB/cities/tricities-wa/',
   },
   {
     name: 'Eastern WV',
@@ -1104,7 +1026,6 @@ module.exports = [
       },
       place_id: 'ChIJM8SCT4YTtYkRM4kfa55SeN0',
     },
-    link: '/en-GB/cities/morgantown-wv/',
   },
   {
     name: 'Eau Claire',
@@ -1118,7 +1039,6 @@ module.exports = [
       },
       place_id: 'ChIJs9ETUBW9-IcRdZOTQ-uLQz0',
     },
-    link: '/en-GB/cities/eau-claire/',
   },
   {
     name: 'Edmonton',
@@ -1132,7 +1052,6 @@ module.exports = [
       },
       place_id: 'ChIJI__egEUioFMRXRX2SgygH0E',
     },
-    link: '/en-GB/cities/edmonton/',
   },
   {
     name: 'El Paso',
@@ -1146,7 +1065,6 @@ module.exports = [
       },
       place_id: 'ChIJaTv-xYs_54YRIgKdq-OEkeM',
     },
-    link: '/en-GB/cities/el-paso/',
   },
   {
     name: 'Erie',
@@ -1160,7 +1078,6 @@ module.exports = [
       },
       place_id: 'ChIJH_eyPeF_LYgRClsdEi6u84k',
     },
-    link: '/en-GB/cities/erie/',
   },
   {
     name: 'Eugene, OR',
@@ -1174,7 +1091,6 @@ module.exports = [
       },
       place_id: 'ChIJGRlQrLAZwVQRTYlDSolh7Fc',
     },
-    link: '/en-GB/cities/eugene-or/',
   },
   {
     name: 'Evansville, IN',
@@ -1188,7 +1104,6 @@ module.exports = [
       },
       place_id: 'ChIJLXdWMRPVcYgRnckqETlJLrU',
     },
-    link: '/en-GB/cities/evansville-in/',
   },
   {
     name: 'Fairbanks',
@@ -1202,7 +1117,6 @@ module.exports = [
       },
       place_id: 'ChIJqWX9Z09FMlEROvf-CeAF2LM',
     },
-    link: '/en-GB/cities/fairbanks/',
   },
   {
     name: 'Fargo - Moorhead',
@@ -1216,7 +1130,6 @@ module.exports = [
       },
       place_id: 'ChIJRXFnhI3LyFIRyqqRJ6UwqoE',
     },
-    link: '/en-GB/cities/fargo/',
   },
   {
     name: 'Fayetteville, AR',
@@ -1230,7 +1143,6 @@ module.exports = [
       },
       place_id: 'ChIJnT61L3tvyYcRz8i0_GnwGUU',
     },
-    link: '/en-GB/cities/fayetteville-ar/',
   },
   {
     name: 'Fayetteville, NC',
@@ -1244,7 +1156,6 @@ module.exports = [
       },
       place_id: 'ChIJI0qSQk8Tq4kRmzt2EnWeq6M',
     },
-    link: '/en-GB/cities/fayetteville/',
   },
   {
     name: 'Flagstaff',
@@ -1258,7 +1169,6 @@ module.exports = [
       },
       place_id: 'ChIJMSYu2veOLYcRALPbzqE8H44',
     },
-    link: '/en-GB/cities/flagstaff/',
   },
   {
     name: 'Flint',
@@ -1272,7 +1182,6 @@ module.exports = [
       },
       place_id: 'ChIJF3OXpft4I4gRa2gzjgk6hcE',
     },
-    link: '/en-GB/cities/flint/',
   },
   {
     name: 'Florence, SC',
@@ -1286,7 +1195,6 @@ module.exports = [
       },
       place_id: 'ChIJ6Q_xH9ZmVYgRKh7Z9YE7PKw',
     },
-    link: '/en-GB/cities/florence-sc/',
   },
   {
     name: 'Florida Keys',
@@ -1300,7 +1208,6 @@ module.exports = [
       },
       place_id: 'ChIJteHhqO_Q0IgRBwHZCFdw1Gs',
     },
-    link: '/en-GB/cities/florida-keys/',
   },
   {
     name: 'Fort Collins',
@@ -1314,7 +1221,6 @@ module.exports = [
       },
       place_id: 'ChIJrTDwkEVKaYcRgkCrtChCsak',
     },
-    link: '/en-GB/cities/fort-collins/',
   },
   {
     name: 'Fort Myers-Naples',
@@ -1328,7 +1234,6 @@ module.exports = [
       },
       place_id: 'ChIJKVSoiQFC24gRiiW6ClMIKcY',
     },
-    link: '/en-GB/cities/fort-myers/',
   },
   {
     name: 'Fort Wayne',
@@ -1342,7 +1247,6 @@ module.exports = [
       },
       place_id: 'ChIJS4Ei_93kFYgRk_dCdhR7B4A',
     },
-    link: '/en-GB/cities/fort-wayne/',
   },
   {
     name: 'Fresno',
@@ -1356,7 +1260,6 @@ module.exports = [
       },
       place_id: 'ChIJnU6eVOFdlIAREbijSWRAEns',
     },
-    link: '/en-GB/cities/fresno/',
   },
   {
     name: 'Gainesville',
@@ -1370,7 +1273,6 @@ module.exports = [
       },
       place_id: 'ChIJKyy_aSEg5ogRlo0QKF1554A',
     },
-    link: '/en-GB/cities/gainesville/',
   },
   {
     name: 'Gallup',
@@ -1384,7 +1286,6 @@ module.exports = [
       },
       place_id: 'ChIJD1RlL43eJIcRTIA7ZQRp1V8',
     },
-    link: '/en-GB/cities/gallup/',
   },
   {
     name: 'Gatineau',
@@ -1398,7 +1299,6 @@ module.exports = [
       },
       place_id: 'ChIJU-6rC34azkwRVgkUGnD17Xw',
     },
-    link: '/en-GB/cities/gatineau/',
   },
   {
     name: 'Golden Triangle',
@@ -1412,7 +1312,6 @@ module.exports = [
       },
       place_id: 'ChIJkTWrPifLTYYR8Ogbw1fElQE',
     },
-    link: '/en-GB/cities/golden-triangle/',
   },
   {
     name: 'Grand Forks',
@@ -1426,7 +1325,6 @@ module.exports = [
       },
       place_id: 'ChIJJV68WzWBxlIRWj1ffNiUaws',
     },
-    link: '/en-GB/cities/grand-forks/',
   },
   {
     name: 'Grand Rapids',
@@ -1440,7 +1338,6 @@ module.exports = [
       },
       place_id: 'ChIJFShQu2BUGIgR0KjTG8uqk6U',
     },
-    link: '/en-GB/cities/grand-rapids/',
   },
   {
     name: 'Greater Maine',
@@ -1454,7 +1351,6 @@ module.exports = [
       },
       place_id: 'ChIJbRf_Tk9LrkwR9Fpxw396vP4',
     },
-    link: '/en-GB/cities/maine/',
   },
   {
     name: 'Greater Williamsport',
@@ -1468,7 +1364,6 @@ module.exports = [
       },
       place_id: 'ChIJH6axRpOoz4kR-w4yzx_Fp70',
     },
-    link: '/en-GB/cities/greater-williamsport/',
   },
   {
     name: 'Green Bay',
@@ -1482,7 +1377,6 @@ module.exports = [
       },
       place_id: 'ChIJ84CzCejiAogRcfXcFFIEcGM',
     },
-    link: '/en-GB/cities/green-bay/',
   },
   {
     name: 'Greenville, SC',
@@ -1496,7 +1390,6 @@ module.exports = [
       },
       place_id: 'ChIJBRH6YmaPV4gRlnYlv3edqtg',
     },
-    link: '/en-GB/cities/greenville-sc/',
   },
   {
     name: 'Guadalajara',
@@ -1510,7 +1403,6 @@ module.exports = [
       },
       place_id: 'ChIJm9MvtYyxKIQRUFeGvwKTPdY',
     },
-    link: '/en-GB/cities/guadalajara/',
   },
   {
     name: 'Guanajuato',
@@ -1524,7 +1416,6 @@ module.exports = [
       },
       place_id: 'ChIJ6_EMi_VzK4QRdB5XZdGw9CU',
     },
-    link: '/en-GB/cities/guanajuato/',
   },
   {
     name: 'Guasave',
@@ -1538,7 +1429,6 @@ module.exports = [
       },
       place_id: 'ChIJczjs56O_u4YR2V5OIG49B0U',
     },
-    link: '/en-GB/cities/guasave/',
   },
   {
     name: 'Guaymas',
@@ -1552,7 +1442,6 @@ module.exports = [
       },
       place_id: 'ChIJ7x3QuPQVyYYRhPkF6AJU2ZY',
     },
-    link: '/en-GB/cities/guaymas/',
   },
   {
     name: 'Gulfport-Biloxi',
@@ -1566,7 +1455,6 @@ module.exports = [
       },
       place_id: 'ChIJ5RQB6G4WnIgRRJWBbkRNYcI',
     },
-    link: '/en-GB/cities/gulfportbiloxi/',
   },
   {
     name: 'Hamilton',
@@ -1580,7 +1468,6 @@ module.exports = [
       },
       place_id: 'ChIJq45aIOiEt4cR2L4lzDbCuj4',
     },
-    link: '/en-GB/cities/hamilton/',
   },
   {
     name: 'Hampton Roads',
@@ -1594,7 +1481,6 @@ module.exports = [
       },
       place_id: 'ChIJZ6rL34qbuokRlqTU1mq8-9k',
     },
-    link: '/en-GB/cities/virginia-beach/',
   },
   {
     name: 'Harrisburg',
@@ -1608,7 +1494,6 @@ module.exports = [
       },
       place_id: 'ChIJl54HuBbByIkR1UaNEshCbrs',
     },
-    link: '/en-GB/cities/harrisburg/',
   },
   {
     name: 'Hattiesburg, MS',
@@ -1622,7 +1507,6 @@ module.exports = [
       },
       place_id: 'ChIJ3yio1UncnIgRyrUcLZK_sXQ',
     },
-    link: '/en-GB/cities/hattiesburg-ms/',
   },
   {
     name: 'Hermosillo',
@@ -1636,7 +1520,6 @@ module.exports = [
       },
       place_id: 'ChIJ5a7femiEzoYR-X-I6ZVTPbM',
     },
-    link: '/en-GB/cities/hermosillo/',
   },
   {
     name: 'Honolulu',
@@ -1650,7 +1533,6 @@ module.exports = [
       },
       place_id: 'ChIJTUbDjDsYAHwRbJen81_1KEs',
     },
-    link: '/en-GB/cities/honolulu/',
   },
   {
     name: 'Houston',
@@ -1664,7 +1546,6 @@ module.exports = [
       },
       place_id: 'ChIJAYWNSLS4QIYROwVl894CDco',
     },
-    link: '/en-GB/cities/houston/',
   },
   {
     name: 'Huntsville, AL',
@@ -1678,7 +1559,6 @@ module.exports = [
       },
       place_id: 'ChIJjYmizWdrYogRa1YEyIl-LJo',
     },
-    link: '/en-GB/cities/huntsville-al/',
   },
   {
     name: 'Indianapolis',
@@ -1692,7 +1572,6 @@ module.exports = [
       },
       place_id: 'ChIJA2p5p_9Qa4gRfOq5QPadjtY',
     },
-    link: '/en-GB/cities/indianapolis/',
   },
   {
     name: 'Inland Empire',
@@ -1706,7 +1585,6 @@ module.exports = [
       },
       place_id: 'ChIJsVgntPM5xYAR17AuvXq8jzI',
     },
-    link: '/en-GB/cities/inland-empire/',
   },
   {
     name: 'Iowa City',
@@ -1720,7 +1598,6 @@ module.exports = [
       },
       place_id: 'ChIJF4ggasFB5IcRsIIFh2cYcW0',
     },
-    link: '/en-GB/cities/iowa-city/',
   },
   {
     name: 'Irapuato',
@@ -1734,7 +1611,6 @@ module.exports = [
       },
       place_id: 'ChIJ9SR-ex9-LIQRm2jpzR4I_cc',
     },
-    link: '/en-GB/cities/irapuato/',
   },
   {
     name: 'Jackson',
@@ -1748,7 +1624,6 @@ module.exports = [
       },
       place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI',
     },
-    link: '/en-GB/cities/jackson/',
   },
   {
     name: 'Jackson, TN',
@@ -1762,7 +1637,6 @@ module.exports = [
       },
       place_id: 'ChIJ0XHNiLYFfIgRnRQ7gD12eK4',
     },
-    link: '/en-GB/cities/jackson-tn/',
   },
   {
     name: 'Jacksonville',
@@ -1776,7 +1650,6 @@ module.exports = [
       },
       place_id: 'ChIJ66_O8Ra35YgR4sf8ljh9zcQ',
     },
-    link: '/en-GB/cities/jacksonville/',
   },
   {
     name: 'Johnstown-Altoona',
@@ -1790,7 +1663,6 @@ module.exports = [
       },
       place_id: 'ChIJqzntva2Wy4kRGmtADqOboXA',
     },
-    link: '/en-GB/cities/johnstownaltoona/',
   },
   {
     name: 'Jonesboro',
@@ -1804,7 +1676,6 @@ module.exports = [
       },
       place_id: 'ChIJL-zX3N8o1IcR5u4R_rT1NGA',
     },
-    link: '/en-GB/cities/jonesboro/',
   },
   {
     name: 'Juneau',
@@ -1818,7 +1689,6 @@ module.exports = [
       },
       place_id: 'ChIJjzpqb2zeAFQREfNprlryXgY',
     },
-    link: '/en-GB/cities/juneau/',
   },
   {
     name: 'Kalamazoo',
@@ -1832,7 +1702,6 @@ module.exports = [
       },
       place_id: 'ChIJuZIxSXmdF4gRCTBXSdL4fNo',
     },
-    link: '/en-GB/cities/kalamazoo/',
   },
   {
     name: 'Kansas City',
@@ -1846,7 +1715,6 @@ module.exports = [
       },
       place_id: 'ChIJl5npr173wIcRolGqauYlhVU',
     },
-    link: '/en-GB/cities/kansas-city/',
   },
   {
     name: 'Kauai',
@@ -1860,7 +1728,6 @@ module.exports = [
       },
       place_id: 'ChIJR7CeJbsEB3wRijctofUaMvY',
     },
-    link: '/en-GB/cities/kauai/',
   },
   {
     name: 'Killeen',
@@ -1874,7 +1741,6 @@ module.exports = [
       },
       place_id: 'ChIJXVOYyI9LRYYR2j9j0feBS3k',
     },
-    link: '/en-GB/cities/killeen/',
   },
   {
     name: 'Kingston',
@@ -1888,7 +1754,6 @@ module.exports = [
       },
       place_id: 'ChIJJ4HJLQEP3YkRE8kyWFqJ10E',
     },
-    link: '/en-GB/cities/kingston/',
   },
   {
     name: 'Kitchener-Waterloo',
@@ -1902,7 +1767,6 @@ module.exports = [
       },
       place_id: 'ChIJBVHuA4z0K4gRS1Rf3-b4JZU',
     },
-    link: '/en-GB/cities/kitchenerwaterloo/',
   },
   {
     name: 'Knoxville',
@@ -1916,7 +1780,6 @@ module.exports = [
       },
       place_id: 'ChIJqULORiIWXIgRxTT1xNqS6ns',
     },
-    link: '/en-GB/cities/knoxville/',
   },
   {
     name: 'La Crosse',
@@ -1930,7 +1793,6 @@ module.exports = [
       },
       place_id: 'ChIJlbMyZ99U-YcRsCI3GRWIqX8',
     },
-    link: '/en-GB/cities/la-crosse/',
   },
   {
     name: 'La Paz, Mexico',
@@ -1944,7 +1806,6 @@ module.exports = [
       },
       place_id: 'ChIJVxDa9d7Sr4YRtqPxwOjSdUg',
     },
-    link: '/en-GB/cities/la-paz-mexico/',
   },
   {
     name: 'Lafayette, LA',
@@ -1958,7 +1819,6 @@ module.exports = [
       },
       place_id: 'ChIJm9jFZEOcJIYRE__3kiR1Ssk',
     },
-    link: '/en-GB/cities/lafayette-la/',
   },
   {
     name: 'Lancaster, PA',
@@ -1972,7 +1832,6 @@ module.exports = [
       },
       place_id: 'ChIJnRLnFlAfxokR1p1HPfkfGoU',
     },
-    link: '/en-GB/cities/lancaster-pa/',
   },
   {
     name: 'Lansing',
@@ -1986,7 +1845,6 @@ module.exports = [
       },
       place_id: 'ChIJN4wxfxzAIogRnp0CiSO2eEM',
     },
-    link: '/en-GB/cities/lansing/',
   },
   {
     name: 'Laredo',
@@ -2000,7 +1858,6 @@ module.exports = [
       },
       place_id: 'ChIJJT35p2zAYIYRkXRWSVN6QLQ',
     },
-    link: '/en-GB/cities/laredo/',
   },
   {
     name: 'Las Cruces',
@@ -2014,7 +1871,6 @@ module.exports = [
       },
       place_id: 'ChIJaZgGRcca3oYRvTI_8R3QbWM',
     },
-    link: '/en-GB/cities/las-cruces/',
   },
   {
     name: 'Las Vegas',
@@ -2028,7 +1884,6 @@ module.exports = [
       },
       place_id: 'ChIJ0X31pIK3voARo3mz1ebVzDo',
     },
-    link: '/en-GB/cities/las-vegas/',
   },
   {
     name: 'Lawrence',
@@ -2042,7 +1897,6 @@ module.exports = [
       },
       place_id: 'ChIJ772KcsAH44kR29UfTrU8HY0',
     },
-    link: '/en-GB/cities/lawrence/',
   },
   {
     name: 'Lawton',
@@ -2056,7 +1910,6 @@ module.exports = [
       },
       place_id: 'ChIJRQ0hWeIerYcRUk5y8sb6LGE',
     },
-    link: '/en-GB/cities/lawton/',
   },
   {
     name: 'Lehigh Valley',
@@ -2070,7 +1923,6 @@ module.exports = [
       },
       place_id: 'ChIJ08p65Qc5xIkRXIAf2mtkdrc',
     },
-    link: '/en-GB/cities/allentown/',
   },
   {
     name: 'Leon',
@@ -2084,7 +1936,6 @@ module.exports = [
       },
       place_id: 'ChIJpS60CuyBt4cRMyoKQXgFYhM',
     },
-    link: '/en-GB/cities/leon/',
   },
   {
     name: 'Lethbridge',
@@ -2098,7 +1949,6 @@ module.exports = [
       },
       place_id: 'ChIJI81a8UqGblMRrr6VYuN4XBw',
     },
-    link: '/en-GB/cities/lethbridge/',
   },
   {
     name: 'Lexington',
@@ -2112,7 +1962,6 @@ module.exports = [
       },
       place_id: 'ChIJJeuczClEQogR3U-MkEGD8IQ',
     },
-    link: '/en-GB/cities/lexington/',
   },
   {
     name: 'Lincoln',
@@ -2126,7 +1975,6 @@ module.exports = [
       },
       place_id: 'ChIJs2Jz41WCyYcR01gDA8CmiJw',
     },
-    link: '/en-GB/cities/lincoln/',
   },
   {
     name: 'Little Rock',
@@ -2140,7 +1988,6 @@ module.exports = [
       },
       place_id: 'ChIJm1YfoTSh0ocRF1vzDRD1BTQ',
     },
-    link: '/en-GB/cities/little-rock/',
   },
   {
     name: 'London, Ont',
@@ -2154,7 +2001,6 @@ module.exports = [
       },
       place_id: 'ChIJC5uNqA7yLogRlWsFmmnXxyg',
     },
-    link: '/en-GB/cities/london-ont/',
   },
   {
     name: 'Los Angeles',
@@ -2168,7 +2014,6 @@ module.exports = [
       },
       place_id: 'ChIJE9on3F3HwoAR9AhGJW_fL-I',
     },
-    link: '/en-GB/cities/los-angeles/',
   },
   {
     name: 'Los Cabos',
@@ -2182,7 +2027,6 @@ module.exports = [
       },
       place_id: 'ChIJoQjlifNKr4YRaLiiwWLfpEs',
     },
-    link: '/en-GB/cities/los-cabos/',
   },
   {
     name: 'Los Mochis',
@@ -2196,7 +2040,6 @@ module.exports = [
       },
       place_id: 'ChIJw-o1tkIvuoYRCIgyUkfDJLY',
     },
-    link: '/en-GB/cities/los-mochis/',
   },
   {
     name: 'Louisville',
@@ -2210,7 +2053,6 @@ module.exports = [
       },
       place_id: 'ChIJEdVbsxoLaYgRMv1xICi009Q',
     },
-    link: '/en-GB/cities/louisville/',
   },
   {
     name: 'Lubbock',
@@ -2224,7 +2066,6 @@ module.exports = [
       },
       place_id: 'ChIJOd19060S_oYRh0LoIikE8Bo',
     },
-    link: '/en-GB/cities/lubbock/',
   },
   {
     name: 'Macon',
@@ -2238,7 +2079,6 @@ module.exports = [
       },
       place_id: 'ChIJDeOBiEv484gRoaS_8Tx9se4',
     },
-    link: '/en-GB/cities/macon/',
   },
   {
     name: 'Madison',
@@ -2252,7 +2092,6 @@ module.exports = [
       },
       place_id: 'ChIJ_xkgOm1TBogRmEFIurX8DE4',
     },
-    link: '/en-GB/cities/madison/',
   },
   {
     name: 'Manhattan',
@@ -2266,7 +2105,6 @@ module.exports = [
       },
       place_id: 'ChIJYeZuBI9YwokRjMDs_IEyCwo',
     },
-    link: '/en-GB/cities/manhattan/',
   },
   {
     name: 'Mankato',
@@ -2280,7 +2118,6 @@ module.exports = [
       },
       place_id: 'ChIJaYUeBKYw9IcR0E7GWl88Ewc',
     },
-    link: '/en-GB/cities/mankato/',
   },
   {
     name: 'Maui',
@@ -2294,13 +2131,12 @@ module.exports = [
       },
       place_id: 'ChIJ3WFMzEorVXkRfz4R3EHnQ8w',
     },
-    link: '/en-GB/cities/maui/',
   },
   {
     name: 'Mayaguez',
     company: 'uber',
     info: {
-      formatted_address: 'Mayag√ºez, Puerto Rico',
+      formatted_address: 'Mayagüez, Puerto Rico',
       country: {
         long_name: 'Puerto Rico',
         short_name: 'PR',
@@ -2308,7 +2144,6 @@ module.exports = [
       },
       place_id: 'ChIJ4ZqVo0qyAowR6OdMAqn8EXU',
     },
-    link: '/en-GB/cities/mayaguez/',
   },
   {
     name: 'Mazatlan',
@@ -2322,7 +2157,6 @@ module.exports = [
       },
       place_id: 'ChIJwTcYaEFTn4YRsnI88arEpGI',
     },
-    link: '/en-GB/cities/mazatlan/',
   },
   {
     name: 'Memphis',
@@ -2336,13 +2170,12 @@ module.exports = [
       },
       place_id: 'ChIJRZdD6h5-1YcR_rYaYBXzk9E',
     },
-    link: '/en-GB/cities/memphis/',
   },
   {
     name: 'Merida',
     company: 'uber',
     info: {
-      formatted_address: 'M√©rida, Yucatan, Mexico',
+      formatted_address: 'Mérida, Yucatan, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -2350,7 +2183,6 @@ module.exports = [
       },
       place_id: 'ChIJFw1Fq1xxVo8RCeurFVcV_F0',
     },
-    link: '/en-GB/cities/merida/',
   },
   {
     name: 'Meridian',
@@ -2364,7 +2196,6 @@ module.exports = [
       },
       place_id: 'ChIJpS60CuyBt4cR4xkQKFEkuHw',
     },
-    link: '/en-GB/cities/meridian/',
   },
   {
     name: 'Mexicali',
@@ -2378,7 +2209,6 @@ module.exports = [
       },
       place_id: 'ChIJ0913qAxw14ARmvXN5aAzANQ',
     },
-    link: '/en-GB/cities/mexicali/',
   },
   {
     name: 'Mexico City',
@@ -2392,7 +2222,6 @@ module.exports = [
       },
       place_id: 'ChIJB3UJ2yYAzoURQeheJnYQBlQ',
     },
-    link: '/en-GB/cities/mexico-city/',
   },
   {
     name: 'Miami',
@@ -2406,7 +2235,6 @@ module.exports = [
       },
       place_id: 'ChIJEcHIDqKw2YgRZU-t3XHylv8',
     },
-    link: '/en-GB/cities/miami/',
   },
   {
     name: 'Midland-Odessa',
@@ -2420,7 +2248,6 @@ module.exports = [
       },
       place_id: 'ChIJ-XwTOWrJ-4YRRl9hVDSrJRY',
     },
-    link: '/en-GB/cities/midland/',
   },
   {
     name: 'Milwaukee',
@@ -2434,7 +2261,6 @@ module.exports = [
       },
       place_id: 'ChIJ50eLV9cCBYgRhHtBtSIZX0Q',
     },
-    link: '/en-GB/cities/milwaukee/',
   },
   {
     name: 'Minneapolis - St. Paul',
@@ -2448,7 +2274,6 @@ module.exports = [
       },
       place_id: 'ChIJj1O3W_0p9ocRIKSuqIbBcNA',
     },
-    link: '/en-GB/cities/minneapolis/',
   },
   {
     name: 'Mississippi Delta',
@@ -2462,7 +2287,6 @@ module.exports = [
       },
       place_id: 'ChIJ0XhuuCYOn4gRR2XOdLW0Avs',
     },
-    link: '/en-GB/cities/mississippi-delta/',
   },
   {
     name: 'Missoula',
@@ -2476,7 +2300,6 @@ module.exports = [
       },
       place_id: 'ChIJy2fzUCrMXVMRLoCUyncS4-k',
     },
-    link: '/en-GB/cities/missoula/',
   },
   {
     name: 'Mobile, AL',
@@ -2490,7 +2313,6 @@ module.exports = [
       },
       place_id: 'ChIJqfhM8R1OmogRGp6Jd1QO6Ew',
     },
-    link: '/en-GB/cities/mobile-al/',
   },
   {
     name: 'Modesto',
@@ -2504,7 +2326,6 @@ module.exports = [
       },
       place_id: 'ChIJUV989PZTkIARK2M3xDK6lL8',
     },
-    link: '/en-GB/cities/modesto/',
   },
   {
     name: 'Monclova',
@@ -2518,7 +2339,6 @@ module.exports = [
       },
       place_id: 'ChIJiWBfvDMkioYRxC0G1qfEgL0',
     },
-    link: '/en-GB/cities/monclova/',
   },
   {
     name: 'Monroe',
@@ -2532,7 +2352,6 @@ module.exports = [
       },
       place_id: 'ChIJpS60CuyBt4cRuoDfVj7tdNg',
     },
-    link: '/en-GB/cities/monroe/',
   },
   {
     name: 'Monterrey',
@@ -2546,7 +2365,6 @@ module.exports = [
       },
       place_id: 'ChIJ9fg3tDGVYoYRlJjIasrT06M',
     },
-    link: '/en-GB/cities/monterrey/',
   },
   {
     name: 'Montgomery, AL',
@@ -2560,7 +2378,6 @@ module.exports = [
       },
       place_id: 'ChIJ-YHUsJSBjogR_4VCNR1RG44',
     },
-    link: '/en-GB/cities/montgomery/',
   },
   {
     name: 'Montreal',
@@ -2574,13 +2391,12 @@ module.exports = [
       },
       place_id: 'ChIJDbdkHFQayUwR7-8fITgxTmU',
     },
-    link: '/en-GB/cities/montreal/',
   },
   {
     name: 'Morelia',
     company: 'uber',
     info: {
-      formatted_address: 'Morelia, Michoac√°n, Mexico',
+      formatted_address: 'Morelia, Michoacán, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -2588,7 +2404,6 @@ module.exports = [
       },
       place_id: 'ChIJ46edsqILLYQRIIacZ3hpAQQ',
     },
-    link: '/en-GB/cities/morelia/',
   },
   {
     name: 'Myrtle Beach',
@@ -2602,7 +2417,6 @@ module.exports = [
       },
       place_id: 'ChIJASFVO5VoAIkRGJbQtRWxD7w',
     },
-    link: '/en-GB/cities/myrtle-beach/',
   },
   {
     name: 'Nacogdoches',
@@ -2616,7 +2430,6 @@ module.exports = [
       },
       place_id: 'ChIJh4cVpF-JN4YR7qP73BYW24g',
     },
-    link: '/en-GB/cities/nacogdoches/',
   },
   {
     name: 'Nashville',
@@ -2630,7 +2443,6 @@ module.exports = [
       },
       place_id: 'ChIJPZDrEzLsZIgRoNrpodC5P30',
     },
-    link: '/en-GB/cities/nashville/',
   },
   {
     name: 'Navojoa',
@@ -2644,7 +2456,6 @@ module.exports = [
       },
       place_id: 'ChIJ35MR8hobuIYR1_q3VdPmiwk',
     },
-    link: '/en-GB/cities/navojoa/',
   },
   {
     name: 'New Hampshire',
@@ -2658,7 +2469,6 @@ module.exports = [
       },
       place_id: 'ChIJ66bAnUtEs0wR64CmJa8CyNc',
     },
-    link: '/en-GB/cities/manchester-nh/',
   },
   {
     name: 'New Jersey',
@@ -2672,7 +2482,6 @@ module.exports = [
       },
       place_id: 'ChIJn0AAnpX7wIkRjW0_-Ad70iw',
     },
-    link: '/en-GB/cities/new-jersey/',
   },
   {
     name: 'New Jersey (Shore)',
@@ -2686,7 +2495,6 @@ module.exports = [
       },
       place_id: 'ChIJs5GIQ1GdwYkRsoWsQpzbfm8',
     },
-    link: '/en-GB/cities/new-jersey-shore/',
   },
   {
     name: 'New Orleans',
@@ -2700,7 +2508,6 @@ module.exports = [
       },
       place_id: 'ChIJZYIRslSkIIYRtNMiXuhbBts',
     },
-    link: '/en-GB/cities/new-orleans/',
   },
   {
     name: 'New York City',
@@ -2714,7 +2521,6 @@ module.exports = [
       },
       place_id: 'ChIJOwg_06VPwokRYv534QaPC8g',
     },
-    link: '/en-GB/cities/new-york/',
   },
   {
     name: 'Niagara Region',
@@ -2728,7 +2534,6 @@ module.exports = [
       },
       place_id: 'ChIJt96TyZ5M04kRliMZDZNGf-8',
     },
-    link: '/en-GB/cities/niagara-region/',
   },
   {
     name: 'Nogales',
@@ -2742,7 +2547,6 @@ module.exports = [
       },
       place_id: 'ChIJ78y8Aran1oYRd9n5T3wK3FU',
     },
-    link: '/en-GB/cities/nogales/',
   },
   {
     name: 'North Georgia',
@@ -2756,7 +2560,6 @@ module.exports = [
       },
       place_id: 'ChIJT-A2qiVmX4gRKXoTQ1CLE3o',
     },
-    link: '/en-GB/cities/north-georgia/',
   },
   {
     name: 'Northern Missouri',
@@ -2770,7 +2573,6 @@ module.exports = [
       },
       place_id: 'ChIJ7QmlmLtVxocRNzcgJNd_3WI',
     },
-    link: '/en-GB/cities/northern-missouri/',
   },
   {
     name: 'Nuevo Vallarta',
@@ -2784,7 +2586,6 @@ module.exports = [
       },
       place_id: 'ChIJx1CMEKNGIYQRPWRRqm8GtUw',
     },
-    link: '/en-GB/cities/nuevo-vallarta/',
   },
   {
     name: 'NW Indiana',
@@ -2798,7 +2599,6 @@ module.exports = [
       },
       place_id: 'ChIJHRv42bxQa4gRcuwyy84vEH4',
     },
-    link: '/en-GB/cities/nw-indiana/',
   },
   {
     name: 'NYC Suburbs',
@@ -2812,7 +2612,6 @@ module.exports = [
       },
       place_id: 'ChIJk6mJ2gBZwokRZKrWZXFPiaM',
     },
-    link: '/en-GB/cities/nyc-suburbs/',
   },
   {
     name: 'Ocala, FL',
@@ -2826,7 +2625,6 @@ module.exports = [
       },
       place_id: 'ChIJ5Ty6HFQr5ogRNgU4seQ79fU',
     },
-    link: '/en-GB/cities/ocala-fl/',
   },
   {
     name: 'Oklahoma City',
@@ -2840,7 +2638,6 @@ module.exports = [
       },
       place_id: 'ChIJgdL4flSKrYcRnTpP0XQSojM',
     },
-    link: '/en-GB/cities/oklahoma-city/',
   },
   {
     name: 'Olympia',
@@ -2854,7 +2651,6 @@ module.exports = [
       },
       place_id: 'ChIJaVUorsHJkVQRgxuI4pdhFE8',
     },
-    link: '/en-GB/cities/olympia/',
   },
   {
     name: 'Omaha',
@@ -2868,7 +2664,6 @@ module.exports = [
       },
       place_id: 'ChIJ7fwMtciNk4cRBLY3rk9NQkY',
     },
-    link: '/en-GB/cities/omaha/',
   },
   {
     name: 'Orange County',
@@ -2882,7 +2677,6 @@ module.exports = [
       },
       place_id: 'ChIJz_fVVFyS3IARB9bwj2HDpt4',
     },
-    link: '/en-GB/cities/orange-county/',
   },
   {
     name: 'Orlando',
@@ -2896,7 +2690,6 @@ module.exports = [
       },
       place_id: 'ChIJd7zN_thz54gRnr-lPAaywwo',
     },
-    link: '/en-GB/cities/orlando/',
   },
   {
     name: 'Ottawa',
@@ -2910,7 +2703,6 @@ module.exports = [
       },
       place_id: 'ChIJrxNRX7IFzkwR7RXdMeFRaoo',
     },
-    link: '/en-GB/cities/ottawa/',
   },
   {
     name: 'Outer Banks, NC',
@@ -2924,7 +2716,6 @@ module.exports = [
       },
       place_id: 'ChIJcWxzpzxbpIkRszbSdWERdxs',
     },
-    link: '/en-GB/cities/outer-banks-nc/',
   },
   {
     name: 'Oxford',
@@ -2938,7 +2729,6 @@ module.exports = [
       },
       place_id: 'ChIJW0iM76nGdkgR7a8BoIMY_9I',
     },
-    link: '/en-GB/cities/oxford/',
   },
   {
     name: 'Palm Springs',
@@ -2952,7 +2742,6 @@ module.exports = [
       },
       place_id: 'ChIJs-Xb_9Qa24ARfHntwodp5aE',
     },
-    link: '/en-GB/cities/palm-springs/',
   },
   {
     name: 'Panama City, Fl',
@@ -2966,7 +2755,6 @@ module.exports = [
       },
       place_id: 'ChIJQWPGKlaBk4gR8wFHLNVeWL8',
     },
-    link: '/en-GB/cities/panama-city-fl/',
   },
   {
     name: 'Peninsula and SW WA',
@@ -2980,7 +2768,6 @@ module.exports = [
       },
       place_id: 'ChIJL-50s5Q9jlQRwYNoMogQxbg',
     },
-    link: '/en-GB/cities/peninsulasw-wa/',
   },
   {
     name: 'Pensacola, FL',
@@ -2994,7 +2781,6 @@ module.exports = [
       },
       place_id: 'ChIJu6rLrEW_kIgRfGV5MW6axqc',
     },
-    link: '/en-GB/cities/pensacola-fl/',
   },
   {
     name: 'Peoria, IL',
@@ -3008,7 +2794,6 @@ module.exports = [
       },
       place_id: 'ChIJrXlYU1xZCogR24B9azL0-8o',
     },
-    link: '/en-GB/cities/peoria-il/',
   },
   {
     name: 'Philadelphia',
@@ -3022,7 +2807,6 @@ module.exports = [
       },
       place_id: 'ChIJ60u11Ni3xokRwVg-jNgU9Yk',
     },
-    link: '/en-GB/cities/philadelphia/',
   },
   {
     name: 'Phoenix',
@@ -3036,7 +2820,6 @@ module.exports = [
       },
       place_id: 'ChIJy3mhUO0SK4cRrBtKNfjHaYw',
     },
-    link: '/en-GB/cities/phoenix/',
   },
   {
     name: 'Piedmont Triad',
@@ -3051,7 +2834,6 @@ module.exports = [
       },
       place_id: 'ChIJA7xuwaAEU4gRUUmkLjJc-3w',
     },
-    link: '/en-GB/cities/greensboro/',
   },
   {
     name: 'Piedras Negras',
@@ -3065,7 +2847,6 @@ module.exports = [
       },
       place_id: 'ChIJk5GI0pmLX4YRwmG4QrQzSpU',
     },
-    link: '/en-GB/cities/piedras-negras/',
   },
   {
     name: 'Pittsburgh',
@@ -3079,7 +2860,6 @@ module.exports = [
       },
       place_id: 'ChIJA4UGSG_xNIgRNBuiWqEV-Y0',
     },
-    link: '/en-GB/cities/pittsburgh/',
   },
   {
     name: 'Ponce',
@@ -3093,7 +2873,6 @@ module.exports = [
       },
       place_id: 'ChIJf98dO4HVHIwR4u4GccSSSyc',
     },
-    link: '/en-GB/cities/ponce/',
   },
   {
     name: 'Portland',
@@ -3107,7 +2886,6 @@ module.exports = [
       },
       place_id: 'ChIJJ3SpfQsLlVQRkYXR9ua5Nhw',
     },
-    link: '/en-GB/cities/portland/',
   },
   {
     name: 'Portland, ME',
@@ -3121,7 +2899,6 @@ module.exports = [
       },
       place_id: 'ChIJLe6wqnKcskwRKfpyM7W2nX4',
     },
-    link: '/en-GB/cities/portland-me/',
   },
   {
     name: 'Puebla',
@@ -3135,7 +2912,6 @@ module.exports = [
       },
       place_id: 'ChIJO3q8Xr3Az4URla2U5B1Gpkg',
     },
-    link: '/en-GB/cities/puebla/',
   },
   {
     name: 'Puerto Vallarta',
@@ -3149,7 +2925,6 @@ module.exports = [
       },
       place_id: 'ChIJf8hjUGNFIYQRdFK_hZm_z3k',
     },
-    link: '/en-GB/cities/puerto-vallarta/',
   },
   {
     name: 'Quad Cities',
@@ -3164,7 +2939,6 @@ module.exports = [
       },
       place_id: 'ChIJQ740FcIx4ocRdXbu7OGdCdY',
     },
-    link: '/en-GB/cities/quad-cities/',
   },
   {
     name: 'Quebec City',
@@ -3178,13 +2952,12 @@ module.exports = [
       },
       place_id: 'ChIJk4jbBYqWuEwRAzro8GMtxY8',
     },
-    link: '/en-GB/cities/quebec-city/',
   },
   {
     name: 'Queretaro',
     company: 'uber',
     info: {
-      formatted_address: 'Santiago de Quer√©taro, Qro., Mexico',
+      formatted_address: 'Santiago de Querétaro, Qro., Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -3192,7 +2965,6 @@ module.exports = [
       },
       place_id: 'ChIJVZJb3I9b04URL4MbVqqUsJc',
     },
-    link: '/en-GB/cities/queretaro/',
   },
   {
     name: 'Raleigh-Durham',
@@ -3206,7 +2978,6 @@ module.exports = [
       },
       place_id: 'ChIJg0bJTpDvrIkRzLsntbr-LiA',
     },
-    link: '/en-GB/cities/raleigh/',
   },
   {
     name: 'Reading, PA',
@@ -3220,7 +2991,6 @@ module.exports = [
       },
       place_id: 'ChIJuaiGUMpwxokR8Bm_9Uml7uI',
     },
-    link: '/en-GB/cities/reading-pa/',
   },
   {
     name: 'Red Deer',
@@ -3235,7 +3005,6 @@ module.exports = [
       },
       place_id: 'ChIJyUG3rC42B4cRntKV-MBcucs',
     },
-    link: '/en-GB/cities/red-deer/',
   },
   {
     name: 'Reno',
@@ -3249,7 +3018,6 @@ module.exports = [
       },
       place_id: 'ChIJnaCSkq5AmYARh_c4dM7FxUA',
     },
-    link: '/en-GB/cities/reno/',
   },
   {
     name: 'Rhode Island',
@@ -3263,7 +3031,6 @@ module.exports = [
       },
       place_id: 'ChIJD9cOYhQ15IkR5wbB57wYTh4',
     },
-    link: '/en-GB/cities/providence/',
   },
   {
     name: 'Richmond',
@@ -3277,7 +3044,6 @@ module.exports = [
       },
       place_id: 'ChIJ7cmZVwkRsYkRxTxC4m0-2L8',
     },
-    link: '/en-GB/cities/richmond/',
   },
   {
     name: 'Rio Grande Valley',
@@ -3291,7 +3057,6 @@ module.exports = [
       },
       place_id: 'ChIJTYynFUuiZYYRDPE5FvAb3Cw',
     },
-    link: '/en-GB/cities/brownsville/',
   },
   {
     name: 'Roanoke-Blacksburg',
@@ -3306,7 +3071,6 @@ module.exports = [
       },
       place_id: 'ChIJbda4EfIOTYgREtSMOXjV-tc',
     },
-    link: '/en-GB/cities/roanoke/',
   },
   {
     name: 'Rochester, MN',
@@ -3320,7 +3084,6 @@ module.exports = [
       },
       place_id: 'ChIJSyxfo0tf94cRPcZhVhcclfA',
     },
-    link: '/en-GB/cities/rochester-mn/',
   },
   {
     name: 'Rockford',
@@ -3334,7 +3097,6 @@ module.exports = [
       },
       place_id: 'ChIJ2wAD_c25CIgRgGePgpfYygo',
     },
-    link: '/en-GB/cities/rockford/',
   },
   {
     name: 'Rockies',
@@ -3343,7 +3105,6 @@ module.exports = [
       formatted_address: 'Rocky Mountains',
       place_id: 'ChIJXXjR62arU1MRYF83d5yj0FE',
     },
-    link: '/en-GB/cities/rockies/',
   },
   {
     name: 'Sacramento',
@@ -3357,7 +3118,6 @@ module.exports = [
       },
       place_id: 'ChIJ-ZeDsnLGmoAR238ZdKpqH5I',
     },
-    link: '/en-GB/cities/sacramento/',
   },
   {
     name: 'Salamanca',
@@ -3371,7 +3131,6 @@ module.exports = [
       },
       place_id: 'ChIJRXzdx10mPw0Rqqm_C9Dkei8',
     },
-    link: '/en-GB/cities/salamanca/',
   },
   {
     name: 'Salt Lake City',
@@ -3385,7 +3144,6 @@ module.exports = [
       },
       place_id: 'ChIJ7THRiJQ9UocRyjFNSKC3U1s',
     },
-    link: '/en-GB/cities/salt-lake-city/',
   },
   {
     name: 'Saltillo',
@@ -3399,7 +3157,6 @@ module.exports = [
       },
       place_id: 'ChIJ7xnfeJANiIYRwDBHeUGSUak',
     },
-    link: '/en-GB/cities/saltillo/',
   },
   {
     name: 'San Angelo',
@@ -3413,7 +3170,6 @@ module.exports = [
       },
       place_id: 'ChIJkXE7pYPlV4YRQsdUNws9foI',
     },
-    link: '/en-GB/cities/san-angelo/',
   },
   {
     name: 'San Antonio',
@@ -3427,7 +3183,6 @@ module.exports = [
       },
       place_id: 'ChIJrw7QBK9YXIYRvBagEDvhVgg',
     },
-    link: '/en-GB/cities/san-antonio/',
   },
   {
     name: 'San Diego',
@@ -3441,7 +3196,6 @@ module.exports = [
       },
       place_id: 'ChIJSx6SrQ9T2YARed8V_f0hOg0',
     },
-    link: '/en-GB/cities/san-diego/',
   },
   {
     name: 'San Francisco Bay Area',
@@ -3455,7 +3209,6 @@ module.exports = [
       },
       place_id: 'ChIJtdeIpqODhYARqR9GV4QbiYw',
     },
-    link: '/en-GB/cities/san-francisco/',
   },
   {
     name: 'San Juan, PR',
@@ -3469,7 +3222,6 @@ module.exports = [
       },
       place_id: 'ChIJbxlo4m9oA4wR3FqTXA9_a60',
     },
-    link: '/en-GB/cities/san-juan-pr/',
   },
   {
     name: 'San Luis Obispo',
@@ -3483,7 +3235,6 @@ module.exports = [
       },
       place_id: 'ChIJJ8Jse77m7IARRg_vzsKQArw',
     },
-    link: '/en-GB/cities/san-luis-obispo/',
   },
   {
     name: 'San Luis Potosi',
@@ -3497,13 +3248,12 @@ module.exports = [
       },
       place_id: 'ChIJefusBQCiKoQRV4Lhrynu0g4',
     },
-    link: '/en-GB/cities/san-luis-potosi/',
   },
   {
     name: 'San Luis Rio Colorado',
     company: 'uber',
     info: {
-      formatted_address: 'San Luis R√≠o Colorado, Sonora, Mexico',
+      formatted_address: 'San Luis Río Colorado, Sonora, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -3511,7 +3261,6 @@ module.exports = [
       },
       place_id: 'ChIJrZlmMP8F1oARedtdfaKfS4Q',
     },
-    link: '/en-GB/cities/san-luis-rio-colorado/',
   },
   {
     name: 'San Miguel de Allende',
@@ -3525,7 +3274,6 @@ module.exports = [
       },
       place_id: 'ChIJD7xxmK9RK4QRpLAHHQMBMWU',
     },
-    link: '/en-GB/cities/san-miguel-de-allende/',
   },
   {
     name: 'Santa Barbara',
@@ -3539,7 +3287,6 @@ module.exports = [
       },
       place_id: 'ChIJ1YMtb8cU6YARSHa612Q60cg',
     },
-    link: '/en-GB/cities/santa-barbara/',
   },
   {
     name: 'Santa Fe',
@@ -3553,7 +3300,6 @@ module.exports = [
       },
       place_id: 'ChIJqVKY50NQGIcRQN-I_XMjkIw',
     },
-    link: '/en-GB/cities/santa-fe/',
   },
   {
     name: 'Sarasota',
@@ -3567,7 +3313,6 @@ module.exports = [
       },
       place_id: 'ChIJK8KyneY3w4gR2RVXHR00NeM',
     },
-    link: '/en-GB/cities/sarasota/',
   },
   {
     name: 'Savannah-Hilton Head',
@@ -3582,7 +3327,6 @@ module.exports = [
       },
       place_id: 'ChIJiRNnApyh-4gRHpCW-Hff0C0',
     },
-    link: '/en-GB/cities/savannah/',
   },
   {
     name: 'Seattle',
@@ -3596,7 +3340,6 @@ module.exports = [
       },
       place_id: 'ChIJVTPokywQkFQRmtVEaUZlJRA',
     },
-    link: '/en-GB/cities/seattle/',
   },
   {
     name: 'Shreveport, LA',
@@ -3610,7 +3353,6 @@ module.exports = [
       },
       place_id: 'ChIJH-mYF40qMYYR3ZykhxYsvS4',
     },
-    link: '/en-GB/cities/shreveport-la/',
   },
   {
     name: 'Sioux City',
@@ -3624,7 +3366,6 @@ module.exports = [
       },
       place_id: 'ChIJCVJtRzZ5kocRjExonssKmCE',
     },
-    link: '/en-GB/cities/sioux-city/',
   },
   {
     name: 'South Alabama',
@@ -3638,7 +3379,6 @@ module.exports = [
       },
       place_id: 'ChIJyaTxdo2ym4gRJSXKvDgn710',
     },
-    link: '/en-GB/cities/south-alabama/',
   },
   {
     name: 'South Bend',
@@ -3652,7 +3392,6 @@ module.exports = [
       },
       place_id: 'ChIJE9NhSsQyEYgRBDKjb7PZSpc',
     },
-    link: '/en-GB/cities/south-bend/',
   },
   {
     name: 'South Georgia',
@@ -3667,7 +3406,6 @@ module.exports = [
       },
       place_id: 'ChIJGRAN1gQNy74RYQU4RsTznd4',
     },
-    link: '/en-GB/cities/south-georgia/',
   },
   {
     name: 'South Tennessee',
@@ -3681,7 +3419,6 @@ module.exports = [
       },
       place_id: 'ChIJGwQEbfCuYYgRn4HgcytpG2k',
     },
-    link: '/en-GB/cities/south-tennessee/',
   },
   {
     name: 'Southern Arkansas',
@@ -3695,7 +3432,6 @@ module.exports = [
       },
       place_id: 'ChIJbyhnMjrPM4YRxIoX2UCAgLw',
     },
-    link: '/en-GB/cities/southern-arkansas/',
   },
   {
     name: 'Southern Oregon',
@@ -3709,7 +3445,6 @@ module.exports = [
       },
       place_id: 'ChIJffBbhegNxlQRyq1bp4KiPOY',
     },
-    link: '/en-GB/cities/eugene/',
   },
   {
     name: 'Southern Utah',
@@ -3723,7 +3458,6 @@ module.exports = [
       },
       place_id: 'ChIJfd_0871htYAR3Ee3JYI7pOg',
     },
-    link: '/en-GB/cities/st-george/',
   },
   {
     name: 'Spokane',
@@ -3737,7 +3471,6 @@ module.exports = [
       },
       place_id: 'ChIJ5ee7MFwYnlQRsdmEC9bJ_N0',
     },
-    link: '/en-GB/cities/spokane/',
   },
   {
     name: 'Springfield, IL',
@@ -3751,7 +3484,6 @@ module.exports = [
       },
       place_id: 'ChIJd9HbJB05dYgRIm2ozO6CLOc',
     },
-    link: '/en-GB/cities/springfield-il/',
   },
   {
     name: 'Springfield, Mo',
@@ -3765,7 +3497,6 @@ module.exports = [
       },
       place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws',
     },
-    link: '/en-GB/cities/springfield-mo/',
   },
   {
     name: 'St Cloud',
@@ -3779,7 +3510,6 @@ module.exports = [
       },
       place_id: 'ChIJ9QLLgqmKtFIRRH-L0A7mtFU',
     },
-    link: '/en-GB/cities/st-cloud/',
   },
   {
     name: 'St Louis',
@@ -3793,7 +3523,6 @@ module.exports = [
       },
       place_id: 'ChIJ-Y7t-qm02IcRW-C7IsrqOb4',
     },
-    link: '/en-GB/cities/st-louis/',
   },
   {
     name: 'State College',
@@ -3807,7 +3536,6 @@ module.exports = [
       },
       place_id: 'ChIJc9s7wZmozokRkYA8g8LG4Zw',
     },
-    link: '/en-GB/cities/state-college/',
   },
   {
     name: 'Stillwater',
@@ -3821,7 +3549,6 @@ module.exports = [
       },
       place_id: 'ChIJt0_FFvIx9ocRj-jY6s2OuUs',
     },
-    link: '/en-GB/cities/stillwater/',
   },
   {
     name: 'Tacoma',
@@ -3835,7 +3562,6 @@ module.exports = [
       },
       place_id: 'ChIJZ5VlK-5UkFQRgp6w6wecIWI',
     },
-    link: '/en-GB/cities/tacoma/',
   },
   {
     name: 'Tallahassee',
@@ -3849,7 +3575,6 @@ module.exports = [
       },
       place_id: 'ChIJU0sSh1GK7IgR-LH91HoH7us',
     },
-    link: '/en-GB/cities/tallahassee/',
   },
   {
     name: 'Tampa Bay',
@@ -3863,7 +3588,6 @@ module.exports = [
       },
       place_id: 'ChIJnalYKh0fw4gRbXf5teHhXTA',
     },
-    link: '/en-GB/cities/tampa/',
   },
   {
     name: 'Taos',
@@ -3877,7 +3601,6 @@ module.exports = [
       },
       place_id: 'ChIJsfwRf9pkF4cRgrepYYOR6pA',
     },
-    link: '/en-GB/cities/taos/',
   },
   {
     name: 'Tepic',
@@ -3891,7 +3614,6 @@ module.exports = [
       },
       place_id: 'ChIJ2889idg1J4QReS0M9EVGeIM',
     },
-    link: '/en-GB/cities/tepic/',
   },
   {
     name: 'Terre Haute',
@@ -3905,7 +3627,6 @@ module.exports = [
       },
       place_id: 'ChIJ79yRikdlbYgRiO_jX2eoP4A',
     },
-    link: '/en-GB/cities/terre-haute/',
   },
   {
     name: 'Texarkana',
@@ -3919,7 +3640,6 @@ module.exports = [
       },
       place_id: 'ChIJV2SgwjJBNIYRcFvbYZI8WJ0',
     },
-    link: '/en-GB/cities/texarkana/',
   },
   {
     name: 'the Hamptons',
@@ -3933,7 +3653,6 @@ module.exports = [
       },
       place_id: 'ChIJG6mpkc6V6IkRUWCATXOJAbw',
     },
-    link: '/en-GB/cities/hamptons/',
   },
   {
     name: 'The Shoals',
@@ -3947,7 +3666,6 @@ module.exports = [
       },
       place_id: 'ChIJYwPCKrVOfYgRIbMsaSKksfE',
     },
-    link: '/en-GB/cities/the-shoals/',
   },
   {
     name: 'Tijuana',
@@ -3961,7 +3679,6 @@ module.exports = [
       },
       place_id: 'ChIJ03tYJgI52YARViTmpK9LchQ',
     },
-    link: '/en-GB/cities/tijuana/',
   },
   {
     name: 'Toledo',
@@ -3975,7 +3692,6 @@ module.exports = [
       },
       place_id: 'ChIJeU4e_C2HO4gRRcM6RZ_IPHw',
     },
-    link: '/en-GB/cities/toledo/',
   },
   {
     name: 'Toluca',
@@ -3989,7 +3705,6 @@ module.exports = [
       },
       place_id: 'ChIJuetQKomJzYURxAgCVdVKP60',
     },
-    link: '/en-GB/cities/toluca/',
   },
   {
     name: 'Topeka',
@@ -4003,7 +3718,6 @@ module.exports = [
       },
       place_id: 'ChIJKXrs2uQCv4cR8KfjatDnK74',
     },
-    link: '/en-GB/cities/topeka/',
   },
   {
     name: 'Toronto',
@@ -4017,13 +3731,12 @@ module.exports = [
       },
       place_id: 'ChIJpTvG15DL1IkRd8S0KlBVNTI',
     },
-    link: '/en-GB/cities/toronto/',
   },
   {
     name: 'Torreon',
     company: 'uber',
     info: {
-      formatted_address: 'Torre√≥n, Coahuila, Mexico',
+      formatted_address: 'Torreón, Coahuila, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -4031,7 +3744,6 @@ module.exports = [
       },
       place_id: 'ChIJ-7NFu6nbj4YRHaCucJl6zIs',
     },
-    link: '/en-GB/cities/torreon/',
   },
   {
     name: 'Traverse City',
@@ -4045,7 +3757,6 @@ module.exports = [
       },
       place_id: 'ChIJ3Sna17IyHogRIVZ0Pz_cv0c',
     },
-    link: '/en-GB/cities/traverse-city/',
   },
   {
     name: 'Tri-Cities',
@@ -4059,7 +3770,6 @@ module.exports = [
       },
       place_id: 'ChIJR6FyPhl7mFQRxXVfzv1W0g8',
     },
-    link: '/en-GB/cities/tricities/',
   },
   {
     name: 'Tri-Cities, MI',
@@ -4073,7 +3783,6 @@ module.exports = [
       },
       place_id: 'ChIJxckJNtvdI4gRoz3n419NeZA',
     },
-    link: '/en-GB/cities/tricities-mi/',
   },
   {
     name: 'Tucson',
@@ -4087,7 +3796,6 @@ module.exports = [
       },
       place_id: 'ChIJK-0sC0Fl1oYRFccWTTgtw3M',
     },
-    link: '/en-GB/cities/tucson/',
   },
   {
     name: 'Tulsa',
@@ -4101,7 +3809,6 @@ module.exports = [
       },
       place_id: 'ChIJjy7R3biStocR92rZG8gQaec',
     },
-    link: '/en-GB/cities/tulsa/',
   },
   {
     name: 'Tuscaloosa',
@@ -4115,7 +3822,6 @@ module.exports = [
       },
       place_id: 'ChIJZ0DCkS6viIgRWCuJFv37q6w',
     },
-    link: '/en-GB/cities/tuscaloosa/',
   },
   {
     name: 'Tyler',
@@ -4129,7 +3835,6 @@ module.exports = [
       },
       place_id: 'ChIJ4_mrHgXMSYYRHHB3cX1cKD4',
     },
-    link: '/en-GB/cities/tyler/',
   },
   {
     name: 'Upstate NY',
@@ -4144,13 +3849,12 @@ module.exports = [
       },
       place_id: 'ChIJwRAm1mH02YkRa9ojIV0wQq4',
     },
-    link: '/en-GB/cities/upstate-ny/',
   },
   {
     name: 'Uruapan',
     company: 'uber',
     info: {
-      formatted_address: 'Uruapan, Michoac√°n, Mexico',
+      formatted_address: 'Uruapan, Michoacán, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -4158,7 +3862,6 @@ module.exports = [
       },
       place_id: 'ChIJUUj-wljiLYQRNJ8jH-KbflM',
     },
-    link: '/en-GB/cities/uruapan/',
   },
   {
     name: 'Ventura',
@@ -4172,7 +3875,6 @@ module.exports = [
       },
       place_id: 'ChIJTTmXUBWt6YAR6Op6Nnz17yQ',
     },
-    link: '/en-GB/cities/ventura/',
   },
   {
     name: 'Veracruz',
@@ -4186,7 +3888,6 @@ module.exports = [
       },
       place_id: 'ChIJxXjKRUJBw4URmwE26ULWpBg',
     },
-    link: '/en-GB/cities/veracruz/',
   },
   {
     name: 'Vermont',
@@ -4200,7 +3901,6 @@ module.exports = [
       },
       place_id: 'ChIJ_87aSGzctEwRtGtUNnSJTSY',
     },
-    link: '/en-GB/cities/burlington/',
   },
   {
     name: 'Villahermosa',
@@ -4214,7 +3914,6 @@ module.exports = [
       },
       place_id: 'ChIJUwZC15bX7YURlOiKVWJ7YPU',
     },
-    link: '/en-GB/cities/villahermosa/',
   },
   {
     name: 'Waco',
@@ -4228,7 +3927,6 @@ module.exports = [
       },
       place_id: 'ChIJ01EBI_GCT4YREKrR1gNL1_s',
     },
-    link: '/en-GB/cities/waco/',
   },
   {
     name: 'Washington D.C.',
@@ -4242,7 +3940,6 @@ module.exports = [
       },
       place_id: 'ChIJW-T2Wt7Gt4kRKl2I1CJFUsI',
     },
-    link: '/en-GB/cities/washington-DC/',
   },
   {
     name: 'Waterloo-Cedar Falls',
@@ -4256,7 +3953,6 @@ module.exports = [
       },
       place_id: 'ChIJRxPIgVFV5YcR6TEAweInq_I',
     },
-    link: '/en-GB/cities/waterloocedar-falls/',
   },
   {
     name: 'West Lafayette',
@@ -4270,7 +3966,6 @@ module.exports = [
       },
       place_id: 'ChIJLQRlIUf9EogR7xuhqJPidd8',
     },
-    link: '/en-GB/cities/west-lafayette/',
   },
   {
     name: 'West Texas',
@@ -4284,7 +3979,6 @@ module.exports = [
       },
       place_id: 'ChIJx6UMz2Z1T4YRRUWiHKb3Jfs',
     },
-    link: '/en-GB/cities/texas-suburbs/',
   },
   {
     name: 'Western Arizona',
@@ -4298,7 +3992,6 @@ module.exports = [
       },
       place_id: 'ChIJ0XjS0UBg1oARM_Zu7GJCRFU',
     },
-    link: '/en-GB/cities/western-arizona/',
   },
   {
     name: 'Western MA',
@@ -4313,7 +4006,6 @@ module.exports = [
       },
       place_id: 'ChIJY-EmbDjd5okRf_DomDOHWPs',
     },
-    link: '/en-GB/cities/springfield-ma/',
   },
   {
     name: 'Western WV',
@@ -4327,7 +4019,6 @@ module.exports = [
       },
       place_id: 'ChIJ7dQgR3x7NYgRMNj61lX1ck0',
     },
-    link: '/en-GB/cities/charleston-wv/',
   },
   {
     name: 'Wichita',
@@ -4341,7 +4032,6 @@ module.exports = [
       },
       place_id: 'ChIJLRh_0mrbuocRPj3TdL_VlpM',
     },
-    link: '/en-GB/cities/wichita/',
   },
   {
     name: 'Wichita Falls',
@@ -4355,7 +4045,6 @@ module.exports = [
       },
       place_id: 'ChIJ9dpicJIgU4YRAFLq78v6Bh0',
     },
-    link: '/en-GB/cities/wichita-falls/',
   },
   {
     name: 'Wilkes-Barre Scranton',
@@ -4369,7 +4058,6 @@ module.exports = [
       },
       place_id: 'ChIJcR8svUcaxYkRSUsDAH3guxY',
     },
-    link: '/en-GB/cities/wilkesbarre-scranton/',
   },
   {
     name: 'Willamette Valley',
@@ -4383,7 +4071,6 @@ module.exports = [
       },
       place_id: 'ChIJbezwJP6hlVQRBDL4exvIWSo',
     },
-    link: '/en-GB/cities/salem/',
   },
   {
     name: 'Wilmington, NC',
@@ -4397,7 +4084,6 @@ module.exports = [
       },
       place_id: 'ChIJ1a7rDaL1qYkRMjAJhDhJZl4',
     },
-    link: '/en-GB/cities/wilmington-nc/',
   },
   {
     name: 'Windsor',
@@ -4412,7 +4098,6 @@ module.exports = [
       },
       place_id: 'ChIJTwidy5CNtocRYARRrXscXpI',
     },
-    link: '/en-GB/cities/windsor/',
   },
   {
     name: 'Winnipeg',
@@ -4426,7 +4111,6 @@ module.exports = [
       },
       place_id: 'ChIJESsa-ftz6lIRZMq5xvoaKis',
     },
-    link: '/en-GB/cities/winnipeg/',
   },
   {
     name: 'Worcester',
@@ -4440,7 +4124,6 @@ module.exports = [
       },
       place_id: 'ChIJDYsqWlgG5IkRbU3Kf9h9E54',
     },
-    link: '/en-GB/cities/worcester/',
   },
   {
     name: 'Wyoming',
@@ -4454,7 +4137,6 @@ module.exports = [
       },
       place_id: 'ChIJaS7hSDTiXocRLzh90nkisCY',
     },
-    link: '/en-GB/cities/cheyenne/',
   },
   {
     name: 'York-Gettysburg',
@@ -4468,7 +4150,6 @@ module.exports = [
       },
       place_id: 'ChIJh_U1Y6SsyYkRo9iQ2msmyus',
     },
-    link: '/en-GB/cities/yorkgettysburg/',
   },
   {
     name: 'Youngstown',
@@ -4482,7 +4163,6 @@ module.exports = [
       },
       place_id: 'ChIJn7yTaNHhM4gRRPDMDGpyLF0',
     },
-    link: '/en-GB/cities/youngstown/',
   },
   {
     name: 'Yuma',
@@ -4496,7 +4176,6 @@ module.exports = [
       },
       place_id: 'ChIJ2a1NIYdi1oARWEKe9Qc6qc8',
     },
-    link: '/en-GB/cities/yuma/',
   },
   {
     name: 'Zacatecas',
@@ -4510,13 +4189,12 @@ module.exports = [
       },
       place_id: 'ChIJb_7JfqDRgYYRmG0lXv0tHxw',
     },
-    link: '/en-GB/cities/zacatecas/',
   },
   {
     name: 'Anapolis',
     company: 'uber',
     info: {
-      formatted_address: 'An√°polis - State of Goi√°s, Brazil',
+      formatted_address: 'Anápolis - State of Goiás, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4524,7 +4202,6 @@ module.exports = [
       },
       place_id: 'ChIJqVDsbeOjXpMRCBYCgShRFLI',
     },
-    link: '/en-GB/cities/anapolis/',
   },
   {
     name: 'Angra dos Reis',
@@ -4538,7 +4215,6 @@ module.exports = [
       },
       place_id: 'ChIJ2ynufgxOnAARRlz7jzN4Gcs',
     },
-    link: '/en-GB/cities/angra-dos-reis/',
   },
   {
     name: 'Antofagasta',
@@ -4552,7 +4228,6 @@ module.exports = [
       },
       place_id: 'ChIJaWRlmRmKpZYRlm8eTfQVvp8',
     },
-    link: '/en-GB/cities/antofagasta/',
   },
   {
     name: 'Aracaju',
@@ -4566,13 +4241,12 @@ module.exports = [
       },
       place_id: 'ChIJzSe-FUCwGgcRNjvskv00RIA',
     },
-    link: '/en-GB/cities/aracaju/',
   },
   {
     name: 'Aracatuba',
     company: 'uber',
     info: {
-      formatted_address: 'Ara√ßatuba, SP, Brazil',
+      formatted_address: 'Araçatuba, SP, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4580,7 +4254,6 @@ module.exports = [
       },
       place_id: 'ChIJAfGqendElpQRJx0Kzs-iseg',
     },
-    link: '/en-GB/cities/aracatuba/',
   },
   {
     name: 'Arapiraca',
@@ -4594,7 +4267,6 @@ module.exports = [
       },
       place_id: 'ChIJWd-3hwvVBQcRJKos4pkPDWA',
     },
-    link: '/en-GB/cities/arapiraca/',
   },
   {
     name: 'Arequipa',
@@ -4608,7 +4280,6 @@ module.exports = [
       },
       place_id: 'ChIJs7mFd0hKQpERNiCUuRKmxKM',
     },
-    link: '/en-GB/cities/arequipa/',
   },
   {
     name: 'Arica',
@@ -4622,7 +4293,6 @@ module.exports = [
       },
       place_id: 'ChIJNcIy2YqpWpERHdfYBGyI9Sc',
     },
-    link: '/en-GB/cities/arica/',
   },
   {
     name: 'Barbacena',
@@ -4636,7 +4306,6 @@ module.exports = [
       },
       place_id: 'ChIJxzZvpXX1oQAR4oSg6EuCKzU',
     },
-    link: '/en-GB/cities/barbacena/',
   },
   {
     name: 'Barranquilla',
@@ -4650,7 +4319,6 @@ module.exports = [
       },
       place_id: 'ChIJBeYq0UQt9I4Rshe5gUWEMyY',
     },
-    link: '/en-GB/cities/barranquilla/',
   },
   {
     name: 'Barreiras',
@@ -4664,13 +4332,12 @@ module.exports = [
       },
       place_id: 'ChIJaa7UEK6KXwcRxbgtLDYPgZc',
     },
-    link: '/en-GB/cities/barreiras/',
   },
   {
     name: 'Bauru',
     company: 'uber',
     info: {
-      formatted_address: 'Bauru, State of S√£o Paulo, Brazil',
+      formatted_address: 'Bauru, State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4678,13 +4345,12 @@ module.exports = [
       },
       place_id: 'ChIJIaLaDZxov5QRoDShb482HCU',
     },
-    link: '/en-GB/cities/bauru/',
   },
   {
     name: 'Belem',
     company: 'uber',
     info: {
-      formatted_address: '4409 Boul St-Laurent, Montr√©al, QC H2W 1Z8, Canada',
+      formatted_address: '4409 Boul St-Laurent, Montréal, QC H2W 1Z8, Canada',
       country: {
         long_name: 'Canada',
         short_name: 'CA',
@@ -4692,7 +4358,6 @@ module.exports = [
       },
       place_id: 'ChIJO35879IbyUwRCB0AdbXmoyU',
     },
-    link: '/en-GB/cities/belem/',
   },
   {
     name: 'Belo Horizonte',
@@ -4706,7 +4371,6 @@ module.exports = [
       },
       place_id: 'ChIJMyzPysqQpgARlznSOl55NVs',
     },
-    link: '/en-GB/cities/belo-horizonte/',
   },
   {
     name: 'Blumenau',
@@ -4720,7 +4384,6 @@ module.exports = [
       },
       place_id: 'ChIJlTBci0Ae35QRRHYavCCF-6w',
     },
-    link: '/en-GB/cities/blumenau/',
   },
   {
     name: 'Boa Vista',
@@ -4734,13 +4397,12 @@ module.exports = [
       },
       place_id: 'ChIJ4_T0Wg5QmoAR8zw6cWaWkRY',
     },
-    link: '/en-GB/cities/boa-vista/',
   },
   {
     name: 'Bogota',
     company: 'uber',
     info: {
-      formatted_address: 'Bogot√°, Bogota, Colombia',
+      formatted_address: 'Bogotá, Bogota, Colombia',
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
@@ -4748,7 +4410,6 @@ module.exports = [
       },
       place_id: 'ChIJKcumLf2bP44RFDmjIFVjnSM',
     },
-    link: '/en-GB/cities/bogota/',
   },
   {
     name: 'Botucatu',
@@ -4762,13 +4423,12 @@ module.exports = [
       },
       place_id: 'ChIJK1hO3Q4mx5QRm9H4aEHnj3k',
     },
-    link: '/en-GB/cities/botucatu/',
   },
   {
     name: 'Braganca Paulista',
     company: 'uber',
     info: {
-      formatted_address: 'Bragan√ßa Paulista, State of S√£o Paulo, Brazil',
+      formatted_address: 'Bragança Paulista, State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4776,7 +4436,6 @@ module.exports = [
       },
       place_id: 'ChIJFzt3ILfLzpQR1KK6w_WVAmc',
     },
-    link: '/en-GB/cities/braganca-paulista/',
   },
   {
     name: 'Brasilia',
@@ -4790,7 +4449,6 @@ module.exports = [
       },
       place_id: 'ChIJo5Fb5Bg9WpMRf13YC2LT6CQ',
     },
-    link: '/en-GB/cities/brasilia/',
   },
   {
     name: 'Bucaramanga',
@@ -4804,7 +4462,6 @@ module.exports = [
       },
       place_id: 'ChIJ7cBR93oVaI4RbMNIEVXkoHU',
     },
-    link: '/en-GB/cities/bucaramanga/',
   },
   {
     name: 'Buenos Aires',
@@ -4818,7 +4475,6 @@ module.exports = [
       },
       place_id: 'ChIJvQz5TjvKvJURh47oiC6Bs6A',
     },
-    link: '/en-GB/cities/buenos-aires/',
   },
   {
     name: 'Cabo Frio',
@@ -4832,14 +4488,13 @@ module.exports = [
       },
       place_id: 'ChIJ8TZiEu79lgARfHS8Cf9AgBw',
     },
-    link: '/en-GB/cities/cabo-frio/',
   },
   {
     name: 'Cachoeiro de Itapemirim',
     company: 'uber',
     info: {
       formatted_address:
-        'Cachoeiro de Itapemirim, State of Esp√≠rito Santo, Brazil',
+        'Cachoeiro de Itapemirim, State of Espírito Santo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4847,7 +4502,6 @@ module.exports = [
       },
       place_id: 'ChIJuez3fj1duQARlSqCKtuqaAo',
     },
-    link: '/en-GB/cities/cachoeiro-de-itapemirim/',
   },
   {
     name: 'Calama',
@@ -4861,7 +4515,6 @@ module.exports = [
       },
       place_id: 'ChIJDYullY-Xq5YRBiPHJzYJev4',
     },
-    link: '/en-GB/cities/calama/',
   },
   {
     name: 'Cali - Colombia',
@@ -4875,13 +4528,12 @@ module.exports = [
       },
       place_id: 'ChIJ8bNLzPCmMI4RaGGuUum1Dx8',
     },
-    link: '/en-GB/cities/cali/',
   },
   {
     name: 'Campina Grande',
     company: 'uber',
     info: {
-      formatted_address: 'Campina Grande, State of Para√≠ba, Brazil',
+      formatted_address: 'Campina Grande, State of Paraíba, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4889,13 +4541,12 @@ module.exports = [
       },
       place_id: 'ChIJhRwgQ18erAcRUa-mOuxqZck',
     },
-    link: '/en-GB/cities/campina-grande/',
   },
   {
     name: 'Campinas',
     company: 'uber',
     info: {
-      formatted_address: 'Campinas - State of S√£o Paulo, Brazil',
+      formatted_address: 'Campinas - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4903,7 +4554,6 @@ module.exports = [
       },
       place_id: 'ChIJSSZVovbIyJQRNjUEWBwAdXQ',
     },
-    link: '/en-GB/cities/campinas/',
   },
   {
     name: 'Campo Grande',
@@ -4917,7 +4567,6 @@ module.exports = [
       },
       place_id: 'ChIJJ58ra3LmhpQRwdKEvJ5GqPU',
     },
-    link: '/en-GB/cities/campo-grande/',
   },
   {
     name: 'Campos dos Goytacazes',
@@ -4932,7 +4581,6 @@ module.exports = [
       },
       place_id: 'ChIJH7YOMmYtvAARUEpQfx0y2Io',
     },
-    link: '/en-GB/cities/campos-dos-goytacazes/',
   },
   {
     name: 'Cartagena',
@@ -4946,7 +4594,6 @@ module.exports = [
       },
       place_id: 'ChIJUROdrucl9o4RyiY_Ay45YbE',
     },
-    link: '/en-GB/cities/cartagena/',
   },
   {
     name: 'Caruaru',
@@ -4960,7 +4607,6 @@ module.exports = [
       },
       place_id: 'ChIJbf3X6JaLqQcR9T42nnxcCqM',
     },
-    link: '/en-GB/cities/caruaru/',
   },
   {
     name: 'Cascavel',
@@ -4974,14 +4620,13 @@ module.exports = [
       },
       place_id: 'ChIJYU33xx7U85QRvF9a4OwyrOs',
     },
-    link: '/en-GB/cities/cascavel/',
   },
   {
     name: 'Caxias do Sul',
     company: 'uber',
     info: {
       formatted_address:
-        'Caxias do Sul - Gal√≥polis, Caxias do Sul - RS, Brazil',
+        'Caxias do Sul - Galópolis, Caxias do Sul - RS, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4989,13 +4634,12 @@ module.exports = [
       },
       place_id: 'ChIJc_A1ZNG8HpUR9Dt3tQf3FPU',
     },
-    link: '/en-GB/cities/caxias-do-sul/',
   },
   {
     name: 'Chapeco',
     company: 'uber',
     info: {
-      formatted_address: 'Chapec√≥, SC, Brazil',
+      formatted_address: 'Chapecó, SC, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5003,7 +4647,6 @@ module.exports = [
       },
       place_id: 'ChIJpe-YQMm15JQRavvr1OAKgWs',
     },
-    link: '/en-GB/cities/chapeco/',
   },
   {
     name: 'Chiclayo',
@@ -5017,13 +4660,12 @@ module.exports = [
       },
       place_id: 'ChIJ_99jKSPvTJARuxR4SkXjA6c',
     },
-    link: '/en-GB/cities/chiclayo/',
   },
   {
     name: 'Concepcion',
     company: 'uber',
     info: {
-      formatted_address: 'Concepci√≥n, B√≠o B√≠o Region, Chile',
+      formatted_address: 'Concepción, Bío Bío Region, Chile',
       country: {
         long_name: 'Chile',
         short_name: 'CL',
@@ -5031,7 +4673,6 @@ module.exports = [
       },
       place_id: 'ChIJO8a70s21aZYRmCYhUrc3y0Q',
     },
-    link: '/en-GB/cities/concepcion/',
   },
   {
     name: 'Conselheiro Lafaiete',
@@ -5045,13 +4686,12 @@ module.exports = [
       },
       place_id: 'ChIJZ8e3oujfowARSB1ergAuecY',
     },
-    link: '/en-GB/cities/conselheiro-lafaiate/',
   },
   {
     name: 'Copiapo',
     company: 'uber',
     info: {
-      formatted_address: 'Copiap√≥, Atacama Region, Chile',
+      formatted_address: 'Copiapó, Atacama Region, Chile',
       country: {
         long_name: 'Chile',
         short_name: 'CL',
@@ -5059,13 +4699,12 @@ module.exports = [
       },
       place_id: 'ChIJcW0xLQsEmJYReg-k8cCWBfg',
     },
-    link: '/en-GB/cities/copiapo/',
   },
   {
     name: 'Coyhaique',
     company: 'uber',
     info: {
-      formatted_address: 'Coyhaique, Ays√©n Region, Chile',
+      formatted_address: 'Coyhaique, Aysén Region, Chile',
       country: {
         long_name: 'Chile',
         short_name: 'CL',
@@ -5073,13 +4712,12 @@ module.exports = [
       },
       place_id: 'ChIJt2xgenDZ8r0RgaUvBY2RhUU',
     },
-    link: '/en-GB/cities/coyhaique/',
   },
   {
     name: 'Criciuma',
     company: 'uber',
     info: {
-      formatted_address: 'Crici√∫ma - State of Santa Catarina, Brazil',
+      formatted_address: 'Criciúma - State of Santa Catarina, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5087,13 +4725,12 @@ module.exports = [
       },
       place_id: 'ChIJXaqBOGF_IZURy420-zsZRPg',
     },
-    link: '/en-GB/cities/criciuma/',
   },
   {
     name: 'Cucuta',
     company: 'uber',
     info: {
-      formatted_address: 'C√∫cuta, Cucuta, North Santander, Colombia',
+      formatted_address: 'Cúcuta, Cucuta, North Santander, Colombia',
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
@@ -5101,14 +4738,13 @@ module.exports = [
       },
       place_id: 'ChIJi9JdZJxFZo4Rqlzb9B9scyY',
     },
-    link: '/en-GB/cities/cucuta/',
   },
   {
     name: 'Cuiaba',
     company: 'uber',
     info: {
       formatted_address:
-        'Cuiab√° - Coxip√≥ da Ponte, Cuiab√° - State of Mato Grosso, Brazil',
+        'Cuiabá - Coxipó da Ponte, Cuiabá - State of Mato Grosso, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5116,13 +4752,12 @@ module.exports = [
       },
       place_id: 'ChIJxU_YcGalnZMRDlEOkAhOUE4',
     },
-    link: '/en-GB/cities/cuiaba/',
   },
   {
     name: 'Curitiba',
     company: 'uber',
     info: {
-      formatted_address: 'Curitiba - State of Paran√°, Brazil',
+      formatted_address: 'Curitiba - State of Paraná, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5130,7 +4765,6 @@ module.exports = [
       },
       place_id: 'ChIJ8Q8J_PXj3JQRR7crCbCDejw',
     },
-    link: '/en-GB/cities/curitiba/',
   },
   {
     name: 'Cusco',
@@ -5144,13 +4778,12 @@ module.exports = [
       },
       place_id: 'ChIJMYRZJtjVbZERXTEYI8yWqSo',
     },
-    link: '/en-GB/cities/cusco/',
   },
   {
     name: 'Divinopolis',
     company: 'uber',
     info: {
-      formatted_address: 'Divin√≥polis, MG, Brazil',
+      formatted_address: 'Divinópolis, MG, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5158,7 +4791,6 @@ module.exports = [
       },
       place_id: 'ChIJL84bJLyloAARfbF3UL056fc',
     },
-    link: '/en-GB/cities/divinopolis/',
   },
   {
     name: 'Dourados',
@@ -5172,14 +4804,13 @@ module.exports = [
       },
       place_id: 'ChIJJ8613jeoiZQR-OpnYwh8KGc',
     },
-    link: '/en-GB/cities/dourados/',
   },
   {
     name: 'Feira de Santana',
     company: 'uber',
     info: {
       formatted_address:
-        'Feira de Santana - Maria Quit√©ria, Feira de Santana - State of Bahia, Brazil',
+        'Feira de Santana - Maria Quitéria, Feira de Santana - State of Bahia, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5187,13 +4818,12 @@ module.exports = [
       },
       place_id: 'ChIJqW120Ns5FAcR_l-d39hYTe0',
     },
-    link: '/en-GB/cities/feira-de-santana/',
   },
   {
     name: 'Florianopolis',
     company: 'uber',
     info: {
-      formatted_address: 'Florian√≥polis - State of Santa Catarina, Brazil',
+      formatted_address: 'Florianópolis - State of Santa Catarina, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5201,13 +4831,12 @@ module.exports = [
       },
       place_id: 'ChIJn7h-4b9JJ5URGCq6n0zj1tM',
     },
-    link: '/en-GB/cities/florianopolis/',
   },
   {
     name: 'Fortaleza',
     company: 'uber',
     info: {
-      formatted_address: 'Fortaleza - State of Cear√°, Brazil',
+      formatted_address: 'Fortaleza - State of Ceará, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5215,13 +4844,12 @@ module.exports = [
       },
       place_id: 'ChIJP3hMRj9MxwcRyjdrDArGYUY',
     },
-    link: '/en-GB/cities/fortaleza/',
   },
   {
     name: 'Foz do Iguacu',
     company: 'uber',
     info: {
-      formatted_address: 'Foz do Igua√ßu, State of Paran√°, Brazil',
+      formatted_address: 'Foz do Iguaçu, State of Paraná, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5229,7 +4857,6 @@ module.exports = [
       },
       place_id: 'ChIJQwpTruuQ9pQRUqnEtHOUlyE',
     },
-    link: '/en-GB/cities/foz-do-iguacu/',
   },
   {
     name: 'Franca',
@@ -5244,7 +4871,6 @@ module.exports = [
       },
       place_id: 'ChIJn5whZetbwokRt7D_NYRc_zI',
     },
-    link: '/en-GB/cities/franca/',
   },
   {
     name: 'Garanhuns',
@@ -5258,13 +4884,12 @@ module.exports = [
       },
       place_id: 'ChIJZcoBs-kMBwcRLWO3ueRBYY4',
     },
-    link: '/en-GB/cities/garanhuns/',
   },
   {
     name: 'Goiania',
     company: 'uber',
     info: {
-      formatted_address: 'Goi√¢nia - State of Goi√°s, Brazil',
+      formatted_address: 'Goiânia - State of Goiás, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5272,7 +4897,6 @@ module.exports = [
       },
       place_id: 'ChIJ94wk4e3wXpMR0R_B0L__7bo',
     },
-    link: '/en-GB/cities/goiania/',
   },
   {
     name: 'Governador Valadares',
@@ -5286,13 +4910,12 @@ module.exports = [
       },
       place_id: 'ChIJxwYufJSnsQARb6oo9plDRXY',
     },
-    link: '/en-GB/cities/governador-valadares/',
   },
   {
     name: 'Guarapuava',
     company: 'uber',
     info: {
-      formatted_address: 'Guarapuava - Boqueir√£o, Guarapuava - PR, Brazil',
+      formatted_address: 'Guarapuava - Boqueirão, Guarapuava - PR, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5300,7 +4923,6 @@ module.exports = [
       },
       place_id: 'ChIJJUJuWcY375QRyFw1ohekJcs',
     },
-    link: '/en-GB/cities/guarapuava/',
   },
   {
     name: 'Guatemala City',
@@ -5314,7 +4936,6 @@ module.exports = [
       },
       place_id: 'ChIJRTNcZYChiYURJXuGW4HHcko',
     },
-    link: '/en-GB/cities/guatemala-city/',
   },
   {
     name: 'Guayaquil',
@@ -5328,13 +4949,12 @@ module.exports = [
       },
       place_id: 'ChIJX4BV6MsTLZARc6T89JKkFYA',
     },
-    link: '/en-GB/cities/guayaquil/',
   },
   {
     name: 'Ibague',
     company: 'uber',
     info: {
-      formatted_address: 'Ibagu√©, Ibague, Tolima, Colombia',
+      formatted_address: 'Ibagué, Ibague, Tolima, Colombia',
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
@@ -5342,7 +4962,6 @@ module.exports = [
       },
       place_id: 'ChIJX01fEZHEOI4RHkDSWTjkyuA',
     },
-    link: '/en-GB/cities/ibague/',
   },
   {
     name: 'Iguatu',
@@ -5356,13 +4975,12 @@ module.exports = [
       },
       place_id: 'ChIJc-mMzFweowcROhJ8E2VLD-k',
     },
-    link: '/en-GB/cities/iguatu/',
   },
   {
     name: 'Imperatriz',
     company: 'uber',
     info: {
-      formatted_address: 'Imperatriz - Cama√ßari, Imperatriz - MA, Brazil',
+      formatted_address: 'Imperatriz - Camaçari, Imperatriz - MA, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5370,7 +4988,6 @@ module.exports = [
       },
       place_id: 'ChIJj5c4eKVfxZIRhZbHo9VSJZs',
     },
-    link: '/en-GB/cities/imperatriz/',
   },
   {
     name: 'Ipatinga',
@@ -5384,13 +5001,12 @@ module.exports = [
       },
       place_id: 'ChIJ2Uf-Rhv_rwARvfwP1ndcboo',
     },
-    link: '/en-GB/cities/ipatinga/',
   },
   {
     name: 'Iquique',
     company: 'uber',
     info: {
-      formatted_address: 'Iquique, Tarapac√° Region, Chile',
+      formatted_address: 'Iquique, Tarapacá Region, Chile',
       country: {
         long_name: 'Chile',
         short_name: 'CL',
@@ -5398,7 +5014,6 @@ module.exports = [
       },
       place_id: 'ChIJNZk2-GPzUpERMEnJqa6qVyo',
     },
-    link: '/en-GB/cities/iquique/',
   },
   {
     name: 'Itabira',
@@ -5412,14 +5027,13 @@ module.exports = [
       },
       place_id: 'ChIJS7521hOhpQAR14IVxfgdGwo',
     },
-    link: '/en-GB/cities/itabira/',
   },
   {
     name: 'Itabuna e Ilheus',
     company: 'uber',
     info: {
       formatted_address:
-        'R. Agamenon Magalh√£es, 10 - Malhado, Ilh√©us - BA, 45651-606, Brazil',
+        'R. Agamenon Magalhães, 10 - Malhado, Ilhéus - BA, 45651-606, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5427,13 +5041,12 @@ module.exports = [
       },
       place_id: 'ChIJWQeJ_k4KOQcRV3Hfh138Nvg',
     },
-    link: '/en-GB/cities/itabuna-e-ilheus/',
   },
   {
     name: 'Itajai',
     company: 'uber',
     info: {
-      formatted_address: 'Itaja√≠ - State of Santa Catarina, Brazil',
+      formatted_address: 'Itajaí - State of Santa Catarina, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5441,13 +5054,12 @@ module.exports = [
       },
       place_id: 'ChIJO2aUG2XM2JQRezBAlGEtb1A',
     },
-    link: '/en-GB/cities/itajai/',
   },
   {
     name: 'Itajuba',
     company: 'uber',
     info: {
-      formatted_address: 'Itajub√° - State of Minas Gerais, Brazil',
+      formatted_address: 'Itajubá - State of Minas Gerais, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5455,7 +5067,6 @@ module.exports = [
       },
       place_id: 'ChIJqaEx6rRjy5QRJqhc0McmTe0',
     },
-    link: '/en-GB/cities/itajuba/',
   },
   {
     name: 'Itaperuna',
@@ -5470,7 +5081,6 @@ module.exports = [
       },
       place_id: 'ChIJB3VUh29gvAAR30s8mXDwVeg',
     },
-    link: '/en-GB/cities/itaperuna/',
   },
   {
     name: 'Itapipoca',
@@ -5484,13 +5094,12 @@ module.exports = [
       },
       place_id: 'ChIJESLvsGSzwQcR7A2pNAai78Y',
     },
-    link: '/en-GB/cities/itapipoca/',
   },
   {
     name: 'Jequie',
     company: 'uber',
     info: {
-      formatted_address: 'Jequi√©, BA, Brazil',
+      formatted_address: 'Jequié, BA, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5498,13 +5107,12 @@ module.exports = [
       },
       place_id: 'ChIJJWhnZT-vQAcRi4m9zrNwsZg',
     },
-    link: '/en-GB/cities/jequie/',
   },
   {
     name: 'Joao Pessoa',
     company: 'uber',
     info: {
-      formatted_address: 'Jo√£o Pessoa, State of Para√≠ba, Brazil',
+      formatted_address: 'João Pessoa, State of Paraíba, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5512,7 +5120,6 @@ module.exports = [
       },
       place_id: 'ChIJ16OaATnorAcRNNsmbZxKQW4',
     },
-    link: '/en-GB/cities/joao-pessoa/',
   },
   {
     name: 'Joinville',
@@ -5526,13 +5133,12 @@ module.exports = [
       },
       place_id: 'ChIJN6uxnfOj3pQR-ulh8Z2YS7w',
     },
-    link: '/en-GB/cities/joinville/',
   },
   {
     name: 'Juazeiro do Norte',
     company: 'uber',
     info: {
-      formatted_address: 'Juazeiro do Norte - State of Cear√°, Brazil',
+      formatted_address: 'Juazeiro do Norte - State of Ceará, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5540,7 +5146,6 @@ module.exports = [
       },
       place_id: 'ChIJPcW8U6J4oQcRjYrYaYgc0Qw',
     },
-    link: '/en-GB/cities/juazeiro-do-norte/',
   },
   {
     name: 'Juiz de Fora',
@@ -5554,7 +5159,6 @@ module.exports = [
       },
       place_id: 'ChIJoV344UOcmAARaKSgsyawNmI',
     },
-    link: '/en-GB/cities/juiz-de-fora/',
   },
   {
     name: 'La Paz',
@@ -5568,7 +5172,6 @@ module.exports = [
       },
       place_id: 'ChIJD6T1BArfXpERs4pFtHb821c',
     },
-    link: '/en-GB/cities/la-paz/',
   },
   {
     name: 'La Serena',
@@ -5582,7 +5185,6 @@ module.exports = [
       },
       place_id: 'ChIJyfOJk2TKkZYRy0zY0bOHF4o',
     },
-    link: '/en-GB/cities/la-serena/',
   },
   {
     name: 'Lages',
@@ -5596,7 +5198,6 @@ module.exports = [
       },
       place_id: 'ChIJW49rtNce4JQRlC3mmgAMnUg',
     },
-    link: '/en-GB/cities/lages/',
   },
   {
     name: 'Liberia',
@@ -5610,7 +5211,6 @@ module.exports = [
       },
       place_id: 'ChIJwfyp1AP4CQ8Rc2PRMmso038',
     },
-    link: '/en-GB/cities/liberia/',
   },
   {
     name: 'Lima',
@@ -5624,13 +5224,12 @@ module.exports = [
       },
       place_id: 'ChIJxz7uGfbFBZERSi5FzLlsIBQ',
     },
-    link: '/en-GB/cities/lima/',
   },
   {
     name: 'Linhares',
     company: 'uber',
     info: {
-      formatted_address: 'Linhares - State of Esp√≠rito Santo, Brazil',
+      formatted_address: 'Linhares - State of Espírito Santo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5638,13 +5237,12 @@ module.exports = [
       },
       place_id: 'ChIJRUyuK_cktgARHxV0tHkDQQg',
     },
-    link: '/en-GB/cities/linhares/',
   },
   {
     name: 'Londrina',
     company: 'uber',
     info: {
-      formatted_address: 'Londrina, State of Paran√°, Brazil',
+      formatted_address: 'Londrina, State of Paraná, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5652,7 +5250,6 @@ module.exports = [
       },
       place_id: 'ChIJbVivV1pD65QRcfkUxqURrCM',
     },
-    link: '/en-GB/cities/londrina/',
   },
   {
     name: 'Los Andes',
@@ -5666,13 +5263,12 @@ module.exports = [
       },
       place_id: 'ChIJU-2y9KVF5IkRZUJPYKz0qgw',
     },
-    link: '/en-GB/cities/los-andes/',
   },
   {
     name: 'Macae',
     company: 'uber',
     info: {
-      formatted_address: 'Maca√© - State of Rio de Janeiro, Brazil',
+      formatted_address: 'Macaé - State of Rio de Janeiro, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5680,13 +5276,12 @@ module.exports = [
       },
       place_id: 'ChIJyfSClY4wlgARsrGm4Em0n-s',
     },
-    link: '/en-GB/cities/macae/',
   },
   {
     name: 'Macapa',
     company: 'uber',
     info: {
-      formatted_address: 'Macap√°, AP, Brazil',
+      formatted_address: 'Macapá, AP, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5694,14 +5289,13 @@ module.exports = [
       },
       place_id: 'ChIJNxpLa-DlYY0Rlw_fMPN9NVY',
     },
-    link: '/en-GB/cities/macapa/',
   },
   {
     name: 'Maceio',
     company: 'uber',
     info: {
       formatted_address:
-        'Macei√≥ - Jardim da Sa√∫de, Macei√≥ - State of Alagoas, Brazil',
+        'Maceió - Jardim da Saúde, Maceió - State of Alagoas, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5709,7 +5303,6 @@ module.exports = [
       },
       place_id: 'ChIJSYho1vxGAQcRU3bgQ1tyLO4',
     },
-    link: '/en-GB/cities/maceio/',
   },
   {
     name: 'Manaus',
@@ -5723,13 +5316,12 @@ module.exports = [
       },
       place_id: 'ChIJt0d2s8gbbJIRzKll959cSCs',
     },
-    link: '/en-GB/cities/manaus/',
   },
   {
     name: 'Maraba',
     company: 'uber',
     info: {
-      formatted_address: 'Marab√° - State of Par√°, Brazil',
+      formatted_address: 'Marabá - State of Pará, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5737,13 +5329,12 @@ module.exports = [
       },
       place_id: 'ChIJh62I-NCmw5IRPW3GBiLBxH0',
     },
-    link: '/en-GB/cities/maraba/',
   },
   {
     name: 'Marilia',
     company: 'uber',
     info: {
-      formatted_address: 'Mar√≠lia - State of S√£o Paulo, Brazil',
+      formatted_address: 'Marília - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5751,14 +5342,13 @@ module.exports = [
       },
       place_id: 'ChIJiQpK7urWv5QRCgRGaN9LwLY',
     },
-    link: '/en-GB/cities/marilia/',
   },
   {
     name: 'Maringa',
     company: 'uber',
     info: {
       formatted_address:
-        'Maring√° - Floriano, Maring√° - State of Paran√°, Brazil',
+        'Maringá - Floriano, Maringá - State of Paraná, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5766,7 +5356,6 @@ module.exports = [
       },
       place_id: 'ChIJH4xhQu7W7JQRJTngKChZVsM',
     },
-    link: '/en-GB/cities/maringa/',
   },
   {
     name: 'Medellin',
@@ -5780,7 +5369,6 @@ module.exports = [
       },
       place_id: 'ChIJ291STu8oRI4RcqxwksPWL3I',
     },
-    link: '/en-GB/cities/medellin/',
   },
   {
     name: 'Mendoza',
@@ -5795,13 +5383,12 @@ module.exports = [
       },
       place_id: 'ChIJv3lRxD4JfpYROvoO0vZ4WiA',
     },
-    link: '/en-GB/cities/mendoza/',
   },
   {
     name: 'Mogi Guacu',
     company: 'uber',
     info: {
-      formatted_address: 'Mogi Gua√ßu - State of S√£o Paulo, Brazil',
+      formatted_address: 'Mogi Guaçu - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5809,13 +5396,12 @@ module.exports = [
       },
       place_id: 'ChIJd3oMGQNFyJQRUFpQPpvlEQQ',
     },
-    link: '/en-GB/cities/mogi-guacu/',
   },
   {
     name: 'Monteria',
     company: 'uber',
     info: {
-      formatted_address: 'Monter√≠a, Cordoba, Colombia',
+      formatted_address: 'Montería, Cordoba, Colombia',
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
@@ -5823,7 +5409,6 @@ module.exports = [
       },
       place_id: 'ChIJrTFwpeUvWo4RoMDXLq3L4ZI',
     },
-    link: '/en-GB/cities/monteria/',
   },
   {
     name: 'Montes Claros',
@@ -5837,7 +5422,6 @@ module.exports = [
       },
       place_id: 'ChIJ9ebcMLRUqwARuxsEsEj5GyM',
     },
-    link: '/en-GB/cities/montes-claros/',
   },
   {
     name: 'Montevideo',
@@ -5851,13 +5435,12 @@ module.exports = [
       },
       place_id: 'ChIJ0_c7xv-An5URmexbNS4bMms',
     },
-    link: '/en-GB/cities/montevideo/',
   },
   {
     name: 'Mossoro',
     company: 'uber',
     info: {
-      formatted_address: 'Mossor√≥, State of Rio Grande do Norte, Brazil',
+      formatted_address: 'Mossoró, State of Rio Grande do Norte, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5865,7 +5448,6 @@ module.exports = [
       },
       place_id: 'ChIJC87VdOAGugcRvp7xXf5PaUY',
     },
-    link: '/en-GB/cities/mossoro/',
   },
   {
     name: 'Natal',
@@ -5879,7 +5461,6 @@ module.exports = [
       },
       place_id: 'ChIJMQVGJqyqswcRae0P8ExAi10',
     },
-    link: '/en-GB/cities/natal/',
   },
   {
     name: 'Nova Friburgo',
@@ -5893,7 +5474,6 @@ module.exports = [
       },
       place_id: 'ChIJgxIVb5OKlwARxBexv8AWK_8',
     },
-    link: '/en-GB/cities/nova-friburgo/',
   },
   {
     name: 'Osorno',
@@ -5907,7 +5487,6 @@ module.exports = [
       },
       place_id: 'ChIJ1djjEn02FpYR9OZ0Ry_a7qE',
     },
-    link: '/en-GB/cities/osorno/',
   },
   {
     name: 'Ovalle',
@@ -5921,7 +5500,6 @@ module.exports = [
       },
       place_id: 'ChIJr6Omn9hNjpYRnJ_nO-wQ3Bw',
     },
-    link: '/en-GB/cities/ovalle/',
   },
   {
     name: 'Palmas',
@@ -5935,7 +5513,6 @@ module.exports = [
       },
       place_id: 'ChIJVxIfkTk0O5MRj4Fc0HCAOwk',
     },
-    link: '/en-GB/cities/palmas/',
   },
   {
     name: 'Panama City, PA',
@@ -5949,13 +5526,12 @@ module.exports = [
       },
       place_id: 'ChIJYwPo2_GorI8RDsFC8PFdoqs',
     },
-    link: '/en-GB/cities/panama-city/',
   },
   {
     name: 'Paranagua',
     company: 'uber',
     info: {
-      formatted_address: 'Paranagu√° - State of Paran√°, Brazil',
+      formatted_address: 'Paranaguá - State of Paraná, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5963,13 +5539,12 @@ module.exports = [
       },
       place_id: 'ChIJ7cM9yeWa25QRi66o5HhStac',
     },
-    link: '/en-GB/cities/paranagua/',
   },
   {
     name: 'Parauapebas',
     company: 'uber',
     info: {
-      formatted_address: 'Parauapebas - State of Par√°, 68515-000, Brazil',
+      formatted_address: 'Parauapebas - State of Pará, 68515-000, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5977,13 +5552,12 @@ module.exports = [
       },
       place_id: 'ChIJWS_ctRhR3ZIRO4UICbAREU8',
     },
-    link: '/en-GB/cities/parauapebas/',
   },
   {
     name: 'Parnaiba',
     company: 'uber',
     info: {
-      formatted_address: 'Parna√≠ba, State of Piau√≠, Brazil',
+      formatted_address: 'Parnaíba, State of Piauí, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5991,7 +5565,6 @@ module.exports = [
       },
       place_id: 'ChIJdWyS1dw67AcRkrt1qp0fNUU',
     },
-    link: '/en-GB/cities/parnaiba/',
   },
   {
     name: 'Passo Fundo',
@@ -6005,7 +5578,6 @@ module.exports = [
       },
       place_id: 'ChIJq-eMfn6_4pQRTpv0eQeWKLM',
     },
-    link: '/en-GB/cities/passo-fundo/',
   },
   {
     name: 'Patos',
@@ -6019,7 +5591,6 @@ module.exports = [
       },
       place_id: 'ChIJKdLEUoaNhVQR2RxbHf3Sb4g',
     },
-    link: '/en-GB/cities/patos/',
   },
   {
     name: 'Patos de Minas',
@@ -6033,7 +5604,6 @@ module.exports = [
       },
       place_id: 'ChIJgyg_z7ljrpQR8jKa5hgoTG4',
     },
-    link: '/en-GB/cities/patos-de-minas/',
   },
   {
     name: 'Paulo Afonso',
@@ -6047,7 +5617,6 @@ module.exports = [
       },
       place_id: 'ChIJ75cFjz05CQcRQonitvYRyRI',
     },
-    link: '/en-GB/cities/paulo-afonso/',
   },
   {
     name: 'Pelotas',
@@ -6061,7 +5630,6 @@ module.exports = [
       },
       place_id: 'ChIJR2R5rZFJEJURT2S9wa60upk',
     },
-    link: '/en-GB/cities/pelotas/',
   },
   {
     name: 'Pereira',
@@ -6075,7 +5643,6 @@ module.exports = [
       },
       place_id: 'ChIJ_cFW60iHOI4RvN_x-RCUs5U',
     },
-    link: '/en-GB/cities/pereira/',
   },
   {
     name: 'Petrolina',
@@ -6089,7 +5656,6 @@ module.exports = [
       },
       place_id: 'ChIJSdayUoR6cwcR7QpOycAd56A',
     },
-    link: '/en-GB/cities/petrolina/',
   },
   {
     name: 'Petropolis',
@@ -6104,13 +5670,12 @@ module.exports = [
       },
       place_id: 'ChIJJy8wt8Aq34cRoUw6iFdDtp0',
     },
-    link: '/en-GB/cities/petropolis/',
   },
   {
     name: 'Piracicaba',
     company: 'uber',
     info: {
-      formatted_address: 'Piracicaba - State of S√£o Paulo, Brazil',
+      formatted_address: 'Piracicaba - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6118,7 +5683,6 @@ module.exports = [
       },
       place_id: 'ChIJzUuGr6UxxpQRLLFOdG64dBs',
     },
-    link: '/en-GB/cities/piracicaba/',
   },
   {
     name: 'Piura',
@@ -6132,13 +5696,12 @@ module.exports = [
       },
       place_id: 'ChIJtzk8eXwQSpARKP4BHI2U6B0',
     },
-    link: '/en-GB/cities/piura/',
   },
   {
     name: 'Pocos de Caldas',
     company: 'uber',
     info: {
-      formatted_address: 'Po√ßos de Caldas - State of Minas Gerais, Brazil',
+      formatted_address: 'Poços de Caldas - State of Minas Gerais, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6146,13 +5709,12 @@ module.exports = [
       },
       place_id: 'ChIJGxVaLsPCyZQR_IlFh3OHx5A',
     },
-    link: '/en-GB/cities/pocos-de-caldas/',
   },
   {
     name: 'Ponta Grossa',
     company: 'uber',
     info: {
-      formatted_address: 'Ponta Grossa - State of Paran√°, Brazil',
+      formatted_address: 'Ponta Grossa - State of Paraná, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6160,13 +5722,12 @@ module.exports = [
       },
       place_id: 'ChIJdVV0sxAD6JQR2A1NEFjxTqM',
     },
-    link: '/en-GB/cities/ponta-grossa/',
   },
   {
     name: 'Popayan',
     company: 'uber',
     info: {
-      formatted_address: 'Popay√°n, Cauca, Colombia',
+      formatted_address: 'Popayán, Cauca, Colombia',
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
@@ -6174,7 +5735,6 @@ module.exports = [
       },
       place_id: 'ChIJfdQowBEDMI4RTqWHCX_WC4g',
     },
-    link: '/en-GB/cities/popayan/',
   },
   {
     name: 'Porto Alegre',
@@ -6188,7 +5748,6 @@ module.exports = [
       },
       place_id: 'ChIJHctqVtKcGZURH-mHn6gRMWA',
     },
-    link: '/en-GB/cities/porto-alegre/',
   },
   {
     name: 'Porto Seguro',
@@ -6202,7 +5761,6 @@ module.exports = [
       },
       place_id: 'ChIJ_4a8SqmWNgcRD-iVnFL5fWc',
     },
-    link: '/en-GB/cities/porto-seguro/',
   },
   {
     name: 'Porto Velho',
@@ -6216,7 +5774,6 @@ module.exports = [
       },
       place_id: 'ChIJS_Ioc6YCxYUR1nwOek4HDvg',
     },
-    link: '/en-GB/cities/porto-velho/',
   },
   {
     name: 'Pouso Alegre',
@@ -6231,13 +5788,12 @@ module.exports = [
       },
       place_id: 'ChIJV24Pax7Hy5QRUteNDX8V7L0',
     },
-    link: '/en-GB/cities/pouso-alegre/',
   },
   {
     name: 'Presidente Prudente',
     company: 'uber',
     info: {
-      formatted_address: 'Presidente Prudente - State of S√£o Paulo, Brazil',
+      formatted_address: 'Presidente Prudente - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6245,7 +5801,6 @@ module.exports = [
       },
       place_id: 'ChIJWwxXEbP1k5QRua9G_AFYR9o',
     },
-    link: '/en-GB/cities/presidente-prudente/',
   },
   {
     name: 'Puerto Montt',
@@ -6259,7 +5814,6 @@ module.exports = [
       },
       place_id: 'ChIJB_QgaU06GJYR38mleVrxo4Y',
     },
-    link: '/en-GB/cities/puerto-montt/',
   },
   {
     name: 'Puerto Plata',
@@ -6273,14 +5827,13 @@ module.exports = [
       },
       place_id: 'ChIJdfpGAD_usY4RZ3TZhgIwwRA',
     },
-    link: '/en-GB/cities/puerto-plata/',
   },
   {
     name: 'Punta Arenas',
     company: 'uber',
     info: {
       formatted_address:
-        'Punta Arenas, Magallanes y la Ant√°rtica Chilena Region, Chile',
+        'Punta Arenas, Magallanes y la Antártica Chilena Region, Chile',
       country: {
         long_name: 'Chile',
         short_name: 'CL',
@@ -6288,7 +5841,6 @@ module.exports = [
       },
       place_id: 'ChIJIcwJs1jKUrwRFmlFZYtqYfo',
     },
-    link: '/en-GB/cities/punta-arenas/',
   },
   {
     name: 'Punta del Este',
@@ -6302,7 +5854,6 @@ module.exports = [
       },
       place_id: 'ChIJvQvEyJ4FdZURk8_TwoMB3Zs',
     },
-    link: '/en-GB/cities/punta-del-este/',
   },
   {
     name: 'Quito',
@@ -6316,7 +5867,6 @@ module.exports = [
       },
       place_id: 'ChIJn3xCAkCa1ZERclXvWOGRuUQ',
     },
-    link: '/en-GB/cities/quito/',
   },
   {
     name: 'Rancagua',
@@ -6330,7 +5880,6 @@ module.exports = [
       },
       place_id: 'ChIJ0xPvvWdDY5YR91StZoP8c9k',
     },
-    link: '/en-GB/cities/rancagua/',
   },
   {
     name: 'Recife',
@@ -6344,14 +5893,13 @@ module.exports = [
       },
       place_id: 'ChIJ5UbEiG8ZqwcR1H9EIin1njw',
     },
-    link: '/en-GB/cities/recife/',
   },
   {
     name: 'Ribeirao Preto',
     company: 'uber',
     info: {
       formatted_address:
-        'Ribeirao Preto - Conquista, Ribeir√£o Preto - State of S√£o Paulo, Brazil',
+        'Ribeirao Preto - Conquista, Ribeirão Preto - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6359,7 +5907,6 @@ module.exports = [
       },
       place_id: 'ChIJHcKsaB2_uZQROerevgruuDc',
     },
-    link: '/en-GB/cities/ribeirao-preto/',
   },
   {
     name: 'Rio Branco',
@@ -6373,7 +5920,6 @@ module.exports = [
       },
       place_id: 'ChIJG7dkUx9kf5ERtlPdjrhiOsc',
     },
-    link: '/en-GB/cities/rio-branco/',
   },
   {
     name: 'Rio De Janeiro',
@@ -6387,7 +5933,6 @@ module.exports = [
       },
       place_id: 'ChIJW6AIkVXemwARTtIvZ2xC3FA',
     },
-    link: '/en-GB/cities/rio-de-janeiro/',
   },
   {
     name: 'Rio Verde',
@@ -6401,13 +5946,12 @@ module.exports = [
       },
       place_id: 'ChIJE7LmcXuFK4cRaUJhZjy1mgw',
     },
-    link: '/en-GB/cities/rio-verde/',
   },
   {
     name: 'Rondonopolis',
     company: 'uber',
     info: {
-      formatted_address: 'Rondon√≥polis - State of Mato Grosso, Brazil',
+      formatted_address: 'Rondonópolis - State of Mato Grosso, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6415,7 +5959,6 @@ module.exports = [
       },
       place_id: 'ChIJ5wNH_ga6eZMRv_VDDxdWRyU',
     },
-    link: '/en-GB/cities/rondonopolis/',
   },
   {
     name: 'Salvador',
@@ -6429,13 +5972,12 @@ module.exports = [
       },
       place_id: 'ChIJs6U8onwDFgcRmGYiLJHHnxs',
     },
-    link: '/en-GB/cities/salvador/',
   },
   {
     name: 'San Jose, CR',
     company: 'uber',
     info: {
-      formatted_address: 'San Jos√© Province, San Jos√©, Costa Rica',
+      formatted_address: 'San José Province, San José, Costa Rica',
       country: {
         long_name: 'Costa Rica',
         short_name: 'CR',
@@ -6443,7 +5985,6 @@ module.exports = [
       },
       place_id: 'ChIJxRUNxULjoI8RgrgRn2pqdOY',
     },
-    link: '/en-GB/cities/san-jose/',
   },
   {
     name: 'San Salvador',
@@ -6457,7 +5998,6 @@ module.exports = [
       },
       place_id: 'ChIJXXcRtGcwY48Rllz7k4iXdR8',
     },
-    link: '/en-GB/cities/san-salvador/',
   },
   {
     name: 'Santa Cruz do Capibaribe',
@@ -6471,7 +6011,6 @@ module.exports = [
       },
       place_id: 'ChIJI7hiz4pzqQcRPAsiU8N1Ye0',
     },
-    link: '/en-GB/cities/santa-cruz-do-capibaribe/',
   },
   {
     name: 'Santa Cruz do Sul',
@@ -6485,7 +6024,6 @@ module.exports = [
       },
       place_id: 'ChIJ9WYIJm6jHJURBUcEX1kI8YQ',
     },
-    link: '/en-GB/cities/santa-cruz-do-sul/',
   },
   {
     name: 'Santa Cruz, BO',
@@ -6499,7 +6037,6 @@ module.exports = [
       },
       place_id: 'ChIJYxrApxzo8ZMRG2FnpFMKi1w',
     },
-    link: '/en-GB/cities/santa-cruz/',
   },
   {
     name: 'Santa Maria',
@@ -6513,7 +6050,6 @@ module.exports = [
       },
       place_id: 'ChIJCcZUDKoP7IARjjRaimVS_Qs',
     },
-    link: '/en-GB/cities/santa-maria/',
   },
   {
     name: 'Santarem',
@@ -6524,10 +6060,9 @@ module.exports = [
         short_name: 'PT',
         types: ['country', 'political'],
       },
-      formatted_address: 'Santar√©m, Portugal',
+      formatted_address: 'Santarém, Portugal',
       place_id: 'ChIJw7IlYcvsGA0RYDqQ5L3rAAQ',
     },
-    link: '/en-GB/cities/santarem/',
   },
   {
     name: 'Santiago',
@@ -6541,7 +6076,6 @@ module.exports = [
       },
       place_id: 'ChIJL68lBEHFYpYRMQkPQDzVdYQ',
     },
-    link: '/en-GB/cities/santiago/',
   },
   {
     name: 'Santiago, DR',
@@ -6555,13 +6089,12 @@ module.exports = [
       },
       place_id: 'ChIJn4nlOMjFsY4RKYR2uFmw1HU',
     },
-    link: '/en-GB/cities/santiago-rd/',
   },
   {
     name: 'Santo Antonio de Jesus',
     company: 'uber',
     info: {
-      formatted_address: 'Santo Ant√¥nio de Jesus, State of Bahia, Brazil',
+      formatted_address: 'Santo Antônio de Jesus, State of Bahia, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6569,7 +6102,6 @@ module.exports = [
       },
       place_id: 'ChIJI_OjpkUqPgcRwjWqc-lqbJQ',
     },
-    link: '/en-GB/cities/santo-antonio-de-jesus/',
   },
   {
     name: 'Santo Domingo',
@@ -6583,7 +6115,6 @@ module.exports = [
       },
       place_id: 'ChIJq6V-EPGJr44RZMEVJ7iHxdY',
     },
-    link: '/en-GB/cities/santo-domingo/',
   },
   {
     name: 'Santos',
@@ -6597,7 +6128,6 @@ module.exports = [
       },
       place_id: 'ChIJ87Pfi_YQyYcRmmfSRaw13Kg',
     },
-    link: '/en-GB/cities/santos/',
   },
   {
     name: 'Sao Carlos',
@@ -6609,16 +6139,15 @@ module.exports = [
         types: ['country', 'political'],
       },
       place_id: 'ChIJgdGduyZ3uJQRvJlZUHF9nQ0',
-      formatted_address: 'S√£o Carlos, SP, Brazil',
+      formatted_address: 'São Carlos, SP, Brazil',
     },
-    link: '/en-GB/cities/sao-carlos/',
   },
   {
     name: 'Sao Jose do Rio Preto',
     company: 'uber',
     info: {
       formatted_address:
-        'Sao Jose do Rio Preto, S√£o Jos√© do Rio Preto - State of S√£o Paulo, Brazil',
+        'Sao Jose do Rio Preto, São José do Rio Preto - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6626,14 +6155,13 @@ module.exports = [
       },
       place_id: 'ChIJifctTGGtvZQRCSxkcPCwL48',
     },
-    link: '/en-GB/cities/sao-jose-do-rio-preto/',
   },
   {
     name: 'Sao Jose dos Campos',
     company: 'uber',
     info: {
       formatted_address:
-        'S√£o Jos√© dos Campos, Sao Jose dos Campos - State of S√£o Paulo, Brazil',
+        'São José dos Campos, Sao Jose dos Campos - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6641,14 +6169,13 @@ module.exports = [
       },
       place_id: 'ChIJ58KMhbNLzJQRwfhoMaMlugA',
     },
-    link: '/en-GB/cities/sao-jose-dos-campos/',
   },
   {
     name: 'Sao Luis',
     company: 'uber',
     info: {
       formatted_address:
-        'S√£o Lu√≠s - Vila Maranh√£o, S√£o Lu√≠s - State of Maranh√£o, Brazil',
+        'São Luís - Vila Maranhão, São Luís - State of Maranhão, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6656,13 +6183,12 @@ module.exports = [
       },
       place_id: 'ChIJIW1_b_CP9gcRR96jWeQCMZg',
     },
-    link: '/en-GB/cities/sao-luis/',
   },
   {
     name: 'Sao Paulo',
     company: 'uber',
     info: {
-      formatted_address: 'S√£o Paulo, State of S√£o Paulo, Brazil',
+      formatted_address: 'São Paulo, State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6670,13 +6196,12 @@ module.exports = [
       },
       place_id: 'ChIJ0WGkg4FEzpQRrlsz_whLqZs',
     },
-    link: '/en-GB/cities/sao-paulo/',
   },
   {
     name: 'Sobral',
     company: 'uber',
     info: {
-      formatted_address: 'Sobral - State of Cear√°, Brazil',
+      formatted_address: 'Sobral - State of Ceará, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6684,13 +6209,12 @@ module.exports = [
       },
       place_id: 'ChIJF7JU1y-16gcRGibD9Badx3c',
     },
-    link: '/en-GB/cities/sobral/',
   },
   {
     name: 'Sorocaba',
     company: 'uber',
     info: {
-      formatted_address: 'Sorocaba - State of S√£o Paulo, Brazil',
+      formatted_address: 'Sorocaba - State of São Paulo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6698,7 +6222,6 @@ module.exports = [
       },
       place_id: 'ChIJA_VI67yKxZQRG3jQWayZf5Q',
     },
-    link: '/en-GB/cities/sorocaba/',
   },
   {
     name: 'Talca',
@@ -6712,7 +6235,6 @@ module.exports = [
       },
       place_id: 'ChIJfdAHrKLGZZYRuMjar_5XViY',
     },
-    link: '/en-GB/cities/talca/',
   },
   {
     name: 'Teixeira de Freitas',
@@ -6726,7 +6248,6 @@ module.exports = [
       },
       place_id: 'ChIJ7xf0wKlGNQcRWxwfNx-Mjpk',
     },
-    link: '/en-GB/cities/teixeira-de-freitas/',
   },
   {
     name: 'Temuco',
@@ -6740,13 +6261,12 @@ module.exports = [
       },
       place_id: 'ChIJIyIaws7TFJYRCIQA_4eI-sI',
     },
-    link: '/en-GB/cities/temuco/',
   },
   {
     name: 'Teresina',
     company: 'uber',
     info: {
-      formatted_address: 'Teresina - State of Piau√≠, Brazil',
+      formatted_address: 'Teresina - State of Piauí, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6754,7 +6274,6 @@ module.exports = [
       },
       place_id: 'ChIJsSaF37Q0jgcRWXN9u73PKSw',
     },
-    link: '/en-GB/cities/teresina/',
   },
   {
     name: 'Tres Rios',
@@ -6769,7 +6288,6 @@ module.exports = [
       },
       place_id: 'ChIJ0zabNmnxNIgRGsahePeD4zc',
     },
-    link: '/en-GB/cities/tres-rios/',
   },
   {
     name: 'Uba',
@@ -6783,7 +6301,6 @@ module.exports = [
       },
       place_id: 'ChIJM04a5HLzk4cRqMDX_lTkD2o',
     },
-    link: '/en-GB/cities/uba/',
   },
   {
     name: 'Uberaba',
@@ -6797,13 +6314,12 @@ module.exports = [
       },
       place_id: 'ChIJN3ZiYjHQupQRXOH4sO3Zg44',
     },
-    link: '/en-GB/cities/uberaba/',
   },
   {
     name: 'Uberlandia',
     company: 'uber',
     info: {
-      formatted_address: 'Uberl√¢ndia, State of Minas Gerais, Brazil',
+      formatted_address: 'Uberlândia, State of Minas Gerais, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6811,13 +6327,12 @@ module.exports = [
       },
       place_id: 'ChIJ77q7EAxFpJQRnFxtYZMMN64',
     },
-    link: '/en-GB/cities/uberlandia/',
   },
   {
     name: 'Valdivia',
     company: 'uber',
     info: {
-      formatted_address: 'Valdivia, Los R√≠os Region, Chile',
+      formatted_address: 'Valdivia, Los Ríos Region, Chile',
       country: {
         long_name: 'Chile',
         short_name: 'CL',
@@ -6825,7 +6340,6 @@ module.exports = [
       },
       place_id: 'ChIJAUXeIE_pFZYRE3hTURAwt4k',
     },
-    link: '/en-GB/cities/valdivia/',
   },
   {
     name: 'Valenca',
@@ -6839,7 +6353,6 @@ module.exports = [
       },
       place_id: 'ChIJvS-5J7tSwokRQvSoqhgeJYI',
     },
-    link: '/en-GB/cities/valenca/',
   },
   {
     name: 'Valledupar',
@@ -6853,7 +6366,6 @@ module.exports = [
       },
       place_id: 'ChIJ13HP1rW5io4RSiNMsSU2pIQ',
     },
-    link: '/en-GB/cities/valledupar/',
   },
   {
     name: 'Valparaiso',
@@ -6867,7 +6379,6 @@ module.exports = [
       },
       place_id: 'ChIJC0BDeA6aEYgRTELnjqNFwoA',
     },
-    link: '/en-GB/cities/valparaiso/',
   },
   {
     name: 'Varginha',
@@ -6881,13 +6392,12 @@ module.exports = [
       },
       place_id: 'ChIJCQyKfpKSypQR4CAwqYF4WmA',
     },
-    link: '/en-GB/cities/varginha/',
   },
   {
     name: 'Vitoria',
     company: 'uber',
     info: {
-      formatted_address: 'Vitoria, Vit√≥ria - State of Esp√≠rito Santo, Brazil',
+      formatted_address: 'Vitoria, Vitória - State of Espírito Santo, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6895,13 +6405,12 @@ module.exports = [
       },
       place_id: 'ChIJ6U43hV09uAARCdgOp35eWZc',
     },
-    link: '/en-GB/cities/vitoria/',
   },
   {
     name: 'Vitoria da Conquista',
     company: 'uber',
     info: {
-      formatted_address: 'Vit√≥ria da Conquista, State of Bahia, Brazil',
+      formatted_address: 'Vitória da Conquista, State of Bahia, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6909,7 +6418,6 @@ module.exports = [
       },
       place_id: 'ChIJBeQlMAc7RgcR4yrZK0VFvng',
     },
-    link: '/en-GB/cities/vitoria-da-conquista/',
   },
   {
     name: 'Volta Redonda',
@@ -6923,7 +6431,6 @@ module.exports = [
       },
       place_id: 'ChIJT5ORgQ2YngARaluKrskOov0',
     },
-    link: '/en-GB/cities/volta-redonda/',
   },
   {
     name: 'Albacete',
@@ -6937,7 +6444,6 @@ module.exports = [
       },
       place_id: 'ChIJFY0h--JfZg0RgGEY1jHNaYI',
     },
-    link: '/en-GB/cities/albacete/',
   },
   {
     name: 'Algarve',
@@ -6951,7 +6457,6 @@ module.exports = [
       },
       place_id: 'ChIJ78_RVe5UBQ0RRQ6REi5l4oA',
     },
-    link: '/en-GB/cities/algarve/',
   },
   {
     name: 'Amiens',
@@ -6965,7 +6470,6 @@ module.exports = [
       },
       place_id: 'ChIJC3aL1xOE50cR4CBigT7xCgQ',
     },
-    link: '/en-GB/cities/amiens/',
   },
   {
     name: 'Amsterdam',
@@ -6979,7 +6483,6 @@ module.exports = [
       },
       place_id: 'ChIJVXealLU_xkcRja_At0z9AGY',
     },
-    link: '/en-GB/cities/amsterdam/',
   },
   {
     name: 'Angers',
@@ -6993,7 +6496,6 @@ module.exports = [
       },
       place_id: 'ChIJnY7lANp4CEgRMJwNHlI3DQQ',
     },
-    link: '/en-GB/cities/angers/',
   },
   {
     name: 'Annecy',
@@ -7007,7 +6509,6 @@ module.exports = [
       },
       place_id: 'ChIJyVEFHPqPi0cRujQFYoEWeEI',
     },
-    link: '/en-GB/cities/annecy/',
   },
   {
     name: 'Athens, GR',
@@ -7021,7 +6522,6 @@ module.exports = [
       },
       place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic',
     },
-    link: '/en-GB/cities/athens-gr/',
   },
   {
     name: 'Avignon',
@@ -7035,7 +6535,6 @@ module.exports = [
       },
       place_id: 'ChIJB528OYfrtRIRNnsd-m6bQuY',
     },
-    link: '/en-GB/cities/avignon/',
   },
   {
     name: 'Barcelona',
@@ -7049,7 +6548,6 @@ module.exports = [
       },
       place_id: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ',
     },
-    link: '/en-GB/cities/barcelona/',
   },
   {
     name: 'Basel',
@@ -7063,7 +6561,6 @@ module.exports = [
       },
       place_id: 'ChIJTzBpJ8dJkEcRkIpt83DrHDY',
     },
-    link: '/en-GB/cities/basel/',
   },
   {
     name: 'Belfast',
@@ -7077,7 +6574,6 @@ module.exports = [
       },
       place_id: 'ChIJO4rQ1_3_YEgRMcXH7ywWVy4',
     },
-    link: '/en-GB/cities/belfast/',
   },
   {
     name: 'Berlin',
@@ -7091,13 +6587,12 @@ module.exports = [
       },
       place_id: 'ChIJAVkDPzdOqEcRcDteW0YgIQQ',
     },
-    link: '/en-GB/cities/berlin/',
   },
   {
     name: 'Besancon',
     company: 'uber',
     info: {
-      formatted_address: '25000 Besan√ßon, France',
+      formatted_address: '25000 Besançon, France',
       country: {
         long_name: 'France',
         short_name: 'FR',
@@ -7105,7 +6600,6 @@ module.exports = [
       },
       place_id: 'ChIJCxPu8PpijUcRMO0TszTOCQQ',
     },
-    link: '/en-GB/cities/saint-etienne/',
   },
   {
     name: 'Birmingham, UK',
@@ -7119,7 +6613,6 @@ module.exports = [
       },
       place_id: 'ChIJc3FBGy2UcEgRmHnurvD-gco',
     },
-    link: '/en-GB/cities/birmingham/',
   },
   {
     name: 'Bordeaux',
@@ -7133,13 +6626,12 @@ module.exports = [
       },
       place_id: 'ChIJgcpR9-gnVQ0RiXo5ewOGY3k',
     },
-    link: '/en-GB/cities/bordeaux/',
   },
   {
     name: 'Brasov',
     company: 'uber',
     info: {
-      formatted_address: 'Bra»ôov, Romania',
+      formatted_address: 'Brașov, Romania',
       country: {
         long_name: 'Romania',
         short_name: 'RO',
@@ -7147,7 +6639,6 @@ module.exports = [
       },
       place_id: 'ChIJ8RSiKoZbs0ARDx45VO_y9Ww',
     },
-    link: '/en-GB/cities/brasov/',
   },
   {
     name: 'Brest',
@@ -7161,12 +6652,10 @@ module.exports = [
       },
       place_id: 'ChIJk1uS2eG7FkgRqzCcF1iDSMY',
     },
-    link: '/en-GB/cities/brest/',
   },
   {
     name: 'Brighton',
     company: 'uber',
-    link: '/en-GB/cities/brighton-and-sussex/',
     info: {
       formatted_address: 'Brighton, UK',
       country: {
@@ -7189,7 +6678,6 @@ module.exports = [
       },
       place_id: 'ChIJ_58PdIbEw0cRMIBML6uZAAE',
     },
-    link: '/en-GB/cities/brussels/',
   },
   {
     name: 'Bucharest',
@@ -7203,7 +6691,6 @@ module.exports = [
       },
       place_id: 'ChIJT608vzr5sUARKKacfOMyBqw',
     },
-    link: '/en-GB/cities/bucharest/',
   },
   {
     name: 'Budapest',
@@ -7217,7 +6704,6 @@ module.exports = [
       },
       place_id: 'ChIJyc_U0TTDQUcRYBEeDCnEAAQ',
     },
-    link: '/en-GB/cities/budapest/',
   },
   {
     name: 'Cambridge and East Anglia',
@@ -7231,7 +6717,6 @@ module.exports = [
       },
       place_id: 'ChIJLQEq84ld2EcRIT1eo-Ego2M',
     },
-    link: '/en-GB/cities/east-anglia/',
   },
   {
     name: 'Cardiff',
@@ -7245,13 +6730,12 @@ module.exports = [
       },
       place_id: 'ChIJ9VPsNNQCbkgRDmeGZdsGNBQ',
     },
-    link: '/en-GB/cities/cardiff/',
   },
   {
     name: 'Castellon',
     company: 'uber',
     info: {
-      formatted_address: 'Castell√≥n de la Plana, Castell√≥n, Spain',
+      formatted_address: 'Castellón de la Plana, Castellón, Spain',
       country: {
         long_name: 'Spain',
         short_name: 'ES',
@@ -7259,7 +6743,6 @@ module.exports = [
       },
       place_id: 'ChIJl8EruCv-Xw0RSU_G4Usgib8',
     },
-    link: '/en-GB/cities/castellon/',
   },
   {
     name: 'Chelyabinsk',
@@ -7273,7 +6756,6 @@ module.exports = [
       },
       place_id: 'ChIJjTpKEMuSxUMRvxEXbSpKIu8',
     },
-    link: '/en-GB/cities/chelyabinsk/',
   },
   {
     name: 'Cherbourg',
@@ -7287,7 +6769,6 @@ module.exports = [
       },
       place_id: 'ChIJjRgznQuXDEgRkH65T0gUDAQ',
     },
-    link: '/en-GB/cities/chartres/',
   },
   {
     name: 'Clermont Ferrand',
@@ -7301,7 +6782,6 @@ module.exports = [
       },
       place_id: 'ChIJB4Uuf90b90cRIm-gOGAwlDk',
     },
-    link: '/en-GB/cities/clermont-ferrand/',
   },
   {
     name: 'Cluj',
@@ -7315,7 +6795,6 @@ module.exports = [
       },
       place_id: 'ChIJiwtskR8MSUcRixQfMxxgvAs',
     },
-    link: '/en-GB/cities/cluj/',
   },
   {
     name: 'Coimbra',
@@ -7329,7 +6808,6 @@ module.exports = [
       },
       place_id: 'ChIJbdGsShT5Ig0RuaZCe0dkRWM',
     },
-    link: '/en-GB/cities/coimbra/',
   },
   {
     name: 'Cologne',
@@ -7343,13 +6821,12 @@ module.exports = [
       },
       place_id: 'ChIJ5S-raZElv0cR8HcqSvxgJwQ',
     },
-    link: '/en-GB/cities/cologne/',
   },
   {
     name: 'Cordoba',
     company: 'uber',
     info: {
-      formatted_address: 'C√≥rdoba, Spain',
+      formatted_address: 'Córdoba, Spain',
       country: {
         long_name: 'Spain',
         short_name: 'ES',
@@ -7357,7 +6834,6 @@ module.exports = [
       },
       place_id: 'ChIJ7wpe-SbfbA0Rw1aEEOjS8U0',
     },
-    link: '/en-GB/cities/cordoba-es/',
   },
   {
     name: 'Corsica',
@@ -7371,7 +6847,6 @@ module.exports = [
       },
       place_id: 'ChIJcQmbsAMk1xIRjcuhcewihag',
     },
-    link: '/en-GB/cities/le-mans/',
   },
   {
     name: 'Croatian Coast',
@@ -7385,7 +6860,6 @@ module.exports = [
       },
       place_id: 'ChIJKbyE3x2hZEcRusxjjhxgXE8',
     },
-    link: '/en-GB/cities/split/',
   },
   {
     name: 'Dijon',
@@ -7399,7 +6873,6 @@ module.exports = [
       },
       place_id: 'ChIJdZb974yd8kcR0FgUszTOCQQ',
     },
-    link: '/en-GB/cities/dijon/',
   },
   {
     name: 'Dnipro',
@@ -7413,7 +6886,6 @@ module.exports = [
       },
       place_id: 'ChIJj0YI_QPj20ARuhrB8tXzHAo',
     },
-    link: '/en-GB/cities/dnipro/',
   },
   {
     name: 'Dublin',
@@ -7427,13 +6899,12 @@ module.exports = [
       },
       place_id: 'ChIJL6wn6oAOZ0gRoHExl6nHAAo',
     },
-    link: '/en-GB/cities/dublin/',
   },
   {
     name: 'Dusseldorf',
     company: 'uber',
     info: {
-      formatted_address: 'D√ºsseldorf, Germany',
+      formatted_address: 'Düsseldorf, Germany',
       place_id: 'ChIJB1lG8XvJuEcRsHMqSvxgJwQ',
       country: {
         long_name: 'Germany',
@@ -7441,7 +6912,6 @@ module.exports = [
         types: ['country', 'political'],
       },
     },
-    link: '/en-GB/cities/dusseldorf/',
   },
   {
     name: 'Edinburgh',
@@ -7455,7 +6925,6 @@ module.exports = [
       },
       place_id: 'ChIJIyaYpQC4h0gRJxfnfHsU8mQ',
     },
-    link: '/en-GB/cities/edinburgh/',
   },
   {
     name: 'Ekaterinburg',
@@ -7469,7 +6938,6 @@ module.exports = [
         types: ['country', 'political'],
       },
     },
-    link: '/en-GB/cities/yekaterinburg/',
   },
   {
     name: 'Frankfurt',
@@ -7483,7 +6951,6 @@ module.exports = [
       },
       place_id: 'ChIJxZZwR28JvUcRAMawKVBDIgQ',
     },
-    link: '/en-GB/cities/frankfurt/',
   },
   {
     name: 'Geneva',
@@ -7497,7 +6964,6 @@ module.exports = [
         types: ['country', 'political'],
       },
     },
-    link: '/en-GB/cities/geneva/',
   },
   {
     name: 'Girona',
@@ -7511,7 +6977,6 @@ module.exports = [
       },
       place_id: 'ChIJq_3ImCfnuhIRb2oppbZFOK8',
     },
-    link: '/en-GB/cities/girona/',
   },
   {
     name: 'Glasgow',
@@ -7525,7 +6990,6 @@ module.exports = [
       },
       place_id: 'ChIJ685WIFYViEgRHlHvBbiD5nE',
     },
-    link: '/en-GB/cities/glasgow-uk/',
   },
   {
     name: 'Gothenburg',
@@ -7539,7 +7003,6 @@ module.exports = [
       },
       place_id: 'ChIJPwdslmeOT0YRQHwOKXiQAQQ',
     },
-    link: '/en-GB/cities/gothenburg/',
   },
   {
     name: 'Grenoble',
@@ -7553,7 +7016,6 @@ module.exports = [
         types: ['country', 'political'],
       },
     },
-    link: '/en-GB/cities/grenoble/',
   },
   {
     name: 'Hamburg',
@@ -7567,7 +7029,6 @@ module.exports = [
       },
       place_id: 'ChIJuRMYfoNhsUcRoDrWe_I9JgQ',
     },
-    link: '/en-GB/cities/hamburg/',
   },
   {
     name: 'Helsinki',
@@ -7581,7 +7042,19 @@ module.exports = [
       },
       place_id: 'ChIJkQYhlscLkkYRY_fiO4S9Ts0',
     },
-    link: '/en-GB/cities/helsinki/',
+  },
+  {
+    name: 'Home Counties',
+    company: 'uber',
+    info: {
+      formatted_address: '1017 Western Rd, London, ON N6G 1G5, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political'],
+      },
+      place_id: 'ChIJMfG39PTtLogR6o56SgrPQac',
+    },
   },
   {
     name: 'Istanbul',
@@ -7595,13 +7068,12 @@ module.exports = [
       },
       place_id: 'ChIJawhoAASnyhQR0LABvJj-zOE',
     },
-    link: '/en-GB/cities/istanbul/',
   },
   {
     name: 'Jerez',
     company: 'uber',
     info: {
-      formatted_address: 'Jerez, C√°diz, Spain',
+      formatted_address: 'Jerez, Cádiz, Spain',
       country: {
         long_name: 'Spain',
         short_name: 'ES',
@@ -7609,7 +7081,6 @@ module.exports = [
       },
       place_id: 'ChIJn6NESOjGDQ0R6v_Q8_U-rG0',
     },
-    link: '/en-GB/cities/jerez/',
   },
   {
     name: 'Kazan',
@@ -7623,7 +7094,6 @@ module.exports = [
       },
       place_id: 'ChIJmc2sfCutXkERZYyttbl3y38',
     },
-    link: '/en-GB/cities/kazan/',
   },
   {
     name: 'Kharkiv',
@@ -7637,13 +7107,12 @@ module.exports = [
       },
       place_id: 'ChIJiw-rY5-gJ0ERCr6kGmgYTC0',
     },
-    link: '/en-GB/cities/kharkiv/',
   },
   {
     name: 'Krakow',
     company: 'uber',
     info: {
-      formatted_address: 'Krak√≥w, Poland',
+      formatted_address: 'Kraków, Poland',
       country: {
         long_name: 'Poland',
         short_name: 'PL',
@@ -7651,7 +7120,6 @@ module.exports = [
       },
       place_id: 'ChIJ0RhONcBEFkcRv4pHdrW2a7Q',
     },
-    link: '/en-GB/cities/krakow/',
   },
   {
     name: 'Krasnodar',
@@ -7665,7 +7133,6 @@ module.exports = [
       },
       place_id: 'ChIJszVFcWRF8EARtr7EVk95IPc',
     },
-    link: '/en-GB/cities/krasnodar/',
   },
   {
     name: 'Krasnoyarsk',
@@ -7679,7 +7146,6 @@ module.exports = [
         types: ['country', 'political'],
       },
     },
-    link: '/en-GB/cities/krasnoyarsk/',
   },
   {
     name: 'Kyiv',
@@ -7693,7 +7159,6 @@ module.exports = [
       },
       place_id: 'ChIJBUVa4U7P1EAR_kYBF9IxSXY',
     },
-    link: '/en-GB/cities/kyiv/',
   },
   {
     name: 'La Rochelle',
@@ -7707,7 +7172,6 @@ module.exports = [
       },
       place_id: 'ChIJdT0lyYNTAUgRQJbuYJLTBQQ',
     },
-    link: '/en-GB/cities/la-rochelle/',
   },
   {
     name: 'Lausanne',
@@ -7721,7 +7185,6 @@ module.exports = [
       },
       place_id: 'ChIJ5aeJzT4pjEcRXu7iysk_F-s',
     },
-    link: '/en-GB/cities/lausanne/',
   },
   {
     name: 'Leeds',
@@ -7735,7 +7198,6 @@ module.exports = [
       formatted_address: 'Leeds, UK',
       place_id: 'ChIJmb1k2ko-eUgRqdwTAv26rVE',
     },
-    link: '/en-GB/cities/leeds/',
   },
   {
     name: 'Leicester',
@@ -7749,7 +7211,6 @@ module.exports = [
       formatted_address: 'Leicester, UK',
       place_id: 'ChIJc2y3SatCd0gRuJy0byodFZo',
     },
-    link: '/en-GB/cities/leicester/',
   },
   {
     name: 'Leipzig',
@@ -7763,7 +7224,6 @@ module.exports = [
       },
       place_id: 'ChIJcywPIBj4pkcRUvW0udKA35M',
     },
-    link: '/en-GB/cities/leipzig/',
   },
   {
     name: 'Leuven',
@@ -7777,7 +7237,6 @@ module.exports = [
       },
       place_id: 'ChIJhd-7XtBgwUcRkFZNL6uZAAQ',
     },
-    link: '/en-GB/cities/leuven/',
   },
   {
     name: 'Lille',
@@ -7791,7 +7250,6 @@ module.exports = [
       },
       place_id: 'ChIJEW4ls3nVwkcRYGNkgT7xCgQ',
     },
-    link: '/en-GB/cities/lille/',
   },
   {
     name: 'Limoges',
@@ -7805,7 +7263,6 @@ module.exports = [
       },
       place_id: 'ChIJYQRo5q80-UcREU02WTFKvhA',
     },
-    link: '/en-GB/cities/limoges/',
   },
   {
     name: 'Lisbon',
@@ -7819,7 +7276,6 @@ module.exports = [
       },
       place_id: 'ChIJO_PkYRozGQ0R0DaQ5L3rAAQ',
     },
-    link: '/en-GB/cities/lisbon/',
   },
   {
     name: 'Lleida',
@@ -7833,13 +7289,12 @@ module.exports = [
       formatted_address: 'Lleida, Spain',
       place_id: 'ChIJf9M750jgphIRr6pZ0qIu06A',
     },
-    link: '/en-GB/cities/lerida/',
   },
   {
     name: 'Lodz',
     company: 'uber',
     info: {
-      formatted_address: '≈Å√≥d≈∫, Poland',
+      formatted_address: 'Łódź, Poland',
       country: {
         long_name: 'Poland',
         short_name: 'PL',
@@ -7847,7 +7302,6 @@ module.exports = [
       },
       place_id: 'ChIJr1ZFdSTLG0cRrNshm2OufMs',
     },
-    link: '/en-GB/cities/lodz/',
   },
   {
     name: 'London',
@@ -7861,7 +7315,6 @@ module.exports = [
       },
       place_id: 'ChIJdd4hrwug2EcRmSrV3Vo6llI',
     },
-    link: '/en-GB/cities/london/',
   },
   {
     name: 'Lorient',
@@ -7875,7 +7328,6 @@ module.exports = [
       place_id: 'ChIJ7QlmqlZeEEgR6uTNDHdnM6k',
       formatted_address: '56100 Lorient, France',
     },
-    link: '/en-GB/cities/lorient/',
   },
   {
     name: 'Lviv',
@@ -7889,7 +7341,6 @@ module.exports = [
       },
       place_id: 'ChIJV5oQCXzdOkcR4ngjARfFI0I',
     },
-    link: '/en-GB/cities/lviv/',
   },
   {
     name: 'Lyon',
@@ -7903,7 +7354,6 @@ module.exports = [
       },
       place_id: 'ChIJl4foalHq9EcR8CG75CqrCAQ',
     },
-    link: '/en-GB/cities/lyon/',
   },
   {
     name: 'Madrid',
@@ -7917,13 +7367,12 @@ module.exports = [
       },
       place_id: 'ChIJgTwKgJcpQg0RaSKMYcHeNsQ',
     },
-    link: '/en-GB/cities/madrid/',
   },
   {
-    name: 'M√°laga',
+    name: 'Málaga',
     company: 'uber',
     info: {
-      formatted_address: 'M√°laga, Spain',
+      formatted_address: 'Málaga, Spain',
       country: {
         long_name: 'Spain',
         short_name: 'ES',
@@ -7931,13 +7380,12 @@ module.exports = [
       },
       place_id: 'ChIJUdEwjWn2cg0RgOZ2pXjSAwQ',
     },
-    link: '/en-GB/cities/malaga/',
   },
   {
-    name: 'Malm√∂',
+    name: 'Malmö',
     company: 'uber',
     info: {
-      formatted_address: 'Malm√∂, Sweden',
+      formatted_address: 'Malmö, Sweden',
       country: {
         long_name: 'Sweden',
         short_name: 'SE',
@@ -7945,7 +7393,6 @@ module.exports = [
       },
       place_id: 'ChIJ_5HEdKUFU0YR5YhIvd8FqdM',
     },
-    link: '/en-GB/cities/malmo/',
   },
   {
     name: 'Manchester',
@@ -7959,7 +7406,6 @@ module.exports = [
       },
       place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk',
     },
-    link: '/en-GB/cities/manchester/',
   },
   {
     name: 'Marseille',
@@ -7973,7 +7419,6 @@ module.exports = [
       },
       place_id: 'ChIJM1PaREO_yRIRIAKX_aUZCAQ',
     },
-    link: '/en-GB/cities/marseille/',
   },
   {
     name: 'Merseyside',
@@ -7987,7 +7432,6 @@ module.exports = [
       },
       place_id: 'ChIJc2fVfoPXekgRApLOHfrVYYY',
     },
-    link: '/en-GB/cities/liverpool/',
   },
   {
     name: 'Milan',
@@ -8001,7 +7445,6 @@ module.exports = [
       },
       place_id: 'ChIJ53USP0nBhkcRjQ50xhPN_zw',
     },
-    link: '/en-GB/cities/milano/',
   },
   {
     name: 'Minsk',
@@ -8015,7 +7458,6 @@ module.exports = [
       },
       place_id: 'ChIJ02oeW9PP20YR2XC13VO4YQs',
     },
-    link: '/en-GB/cities/minsk/',
   },
   {
     name: 'Montpellier',
@@ -8029,7 +7471,6 @@ module.exports = [
       },
       place_id: 'ChIJsZ3dJQevthIRAuiUKHRWh60',
     },
-    link: '/en-GB/cities/montpellier/',
   },
   {
     name: 'Moscow',
@@ -8043,7 +7484,6 @@ module.exports = [
       },
       place_id: 'ChIJybDUc_xKtUYRTM9XV8zWRD0',
     },
-    link: '/en-GB/cities/moscow/',
   },
   {
     name: 'Mulhouse',
@@ -8057,7 +7497,6 @@ module.exports = [
       },
       place_id: 'ChIJa5SIHWybkUcRYDM5mrlfCgQ',
     },
-    link: '/en-GB/cities/mulhouse/',
   },
   {
     name: 'Munich',
@@ -8071,7 +7510,6 @@ module.exports = [
       },
       place_id: 'ChIJ2V-Mo_l1nkcRfZixfUq4DAE',
     },
-    link: '/en-GB/cities/munich/',
   },
   {
     name: 'Namur',
@@ -8085,7 +7523,6 @@ module.exports = [
       },
       place_id: 'ChIJP2UsDG2ZwUcRBVIWxLYmVsE',
     },
-    link: '/en-GB/cities/namur/',
   },
   {
     name: 'Nancy',
@@ -8099,7 +7536,6 @@ module.exports = [
       },
       place_id: 'ChIJU9w3ySCgBogREV4sq4YyPF0',
     },
-    link: '/en-GB/cities/nancy/',
   },
   {
     name: 'Nantes',
@@ -8113,7 +7549,6 @@ module.exports = [
       },
       place_id: 'ChIJra6o8IHuBUgRMO0NHlI3DQQ',
     },
-    link: '/en-GB/cities/nantes/',
   },
   {
     name: 'Napoli',
@@ -8127,7 +7562,6 @@ module.exports = [
       },
       place_id: 'ChIJuXvzpV_Cx4cR_SJ_8EPVdSE',
     },
-    link: '/en-GB/cities/napoli/',
   },
   {
     name: 'Nice',
@@ -8141,7 +7575,6 @@ module.exports = [
       },
       place_id: 'ChIJMS2FahDQzRIRcJqX_aUZCAQ',
     },
-    link: '/en-GB/cities/cannes/',
   },
   {
     name: 'Nizhny Novgorod',
@@ -8155,22 +7588,8 @@ module.exports = [
       },
       place_id: 'ChIJUTID7vnVUUERqleWhM_A0yg',
     },
-    link: '/en-GB/cities/nizhny-novgorod/',
   },
-  {
-    name: 'Newcastle',
-    company: 'uber',
-    info: {
-      formatted_address: "Newcastle upon Tyne, UK",
-      country: {
-        long_name: 'United Kingdom',
-        short_name: 'GB',
-        types: ['country', 'political'],
-      },
-      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs',
-    },
-    link: '/en-GB/cities/newcastle-uk/',
-  },
+  { name: 'North East, UK', company: 'uber', info: {} },
   {
     name: 'Nottingham',
     company: 'uber',
@@ -8183,7 +7602,6 @@ module.exports = [
       },
       place_id: 'ChIJzXkHOdIyeEgRFdsZGSBjgBA',
     },
-    link: '/en-GB/cities/nottingham/',
   },
   {
     name: 'Novosibirsk',
@@ -8197,7 +7615,6 @@ module.exports = [
       },
       place_id: 'ChIJl03MkOHl30IRhenT4XMGOps',
     },
-    link: '/en-GB/cities/novosibirsk/',
   },
   {
     name: 'Odessa',
@@ -8211,7 +7628,6 @@ module.exports = [
       },
       place_id: 'ChIJQ0yGC4oxxkARbBfyjOKPnxI',
     },
-    link: '/en-GB/cities/odessa/',
   },
   {
     name: 'Omsk',
@@ -8225,7 +7641,6 @@ module.exports = [
       },
       place_id: 'ChIJCwkB9uL9qkMRGpumYTjD714',
     },
-    link: '/en-GB/cities/omsk/',
   },
   {
     name: 'Orleans',
@@ -8239,7 +7654,6 @@ module.exports = [
       },
       place_id: 'ChIJnylrD3zrtocRKR3vKEWm2fA',
     },
-    link: '/en-GB/cities/orleans/',
   },
   {
     name: 'Oslo',
@@ -8253,7 +7667,6 @@ module.exports = [
       },
       place_id: 'ChIJOfBn8mFuQUYRmh4j019gkn4',
     },
-    link: '/en-GB/cities/oslo/',
   },
   {
     name: 'Paris',
@@ -8267,7 +7680,6 @@ module.exports = [
       },
       place_id: 'ChIJD7fiBh9u5kcRYJSMaMOCCwQ',
     },
-    link: '/en-GB/cities/paris/',
   },
   {
     name: 'Perm',
@@ -8281,7 +7693,6 @@ module.exports = [
       },
       place_id: 'ChIJC_KG2OHG6EMRDop6uALKSps',
     },
-    link: '/en-GB/cities/perm/',
   },
   {
     name: 'Perpignan',
@@ -8295,7 +7706,6 @@ module.exports = [
       },
       place_id: 'ChIJ_Yj9gE5usBIRT93yIGUwgxw',
     },
-    link: '/en-GB/cities/perpignan/',
   },
   {
     name: 'Poitiers',
@@ -8309,7 +7719,6 @@ module.exports = [
       },
       place_id: 'ChIJq7OeQ3K-_UcRk5DgxRkj3pc',
     },
-    link: '/en-GB/cities/poitiers/',
   },
   {
     name: 'Porto',
@@ -8323,13 +7732,12 @@ module.exports = [
       },
       place_id: 'ChIJwVPhxKtlJA0RvBSxQFbZSKY',
     },
-    link: '/en-GB/cities/porto/',
   },
   {
     name: 'Poznan',
     company: 'uber',
     info: {
-      formatted_address: 'Pozna≈Ñ, Poland',
+      formatted_address: 'Poznań, Poland',
       country: {
         long_name: 'Poland',
         short_name: 'PL',
@@ -8337,7 +7745,6 @@ module.exports = [
       },
       place_id: 'ChIJtwrh7NJEBEcR0b80A5gx6qQ',
     },
-    link: '/en-GB/cities/poznan/',
   },
   {
     name: 'Prague',
@@ -8351,7 +7758,6 @@ module.exports = [
       },
       place_id: 'ChIJi3lwCZyTC0cRkEAWZg-vAAQ',
     },
-    link: '/en-GB/cities/prague/',
   },
   {
     name: 'Reggio Emilia',
@@ -8365,7 +7771,6 @@ module.exports = [
       },
       place_id: 'ChIJs_nlB1scgEcRNQOGTL5Q5tk',
     },
-    link: '/en-GB/cities/reggio-emilia/',
   },
   {
     name: 'Reims',
@@ -8379,7 +7784,6 @@ module.exports = [
       },
       place_id: 'ChIJCTtTSjN06UcRwEU7mrlfCgQ',
     },
-    link: '/en-GB/cities/reims/',
   },
   {
     name: 'Rennes',
@@ -8393,7 +7797,6 @@ module.exports = [
       },
       place_id: 'ChIJhZDWpy_eDkgRMKvkNs2lDAQ',
     },
-    link: '/en-GB/cities/rennes/',
   },
   {
     name: 'Rimini',
@@ -8407,7 +7810,6 @@ module.exports = [
       },
       place_id: 'ChIJK1mmj6TDLBMRnUTxF9uE8sE',
     },
-    link: '/en-GB/cities/rimini/',
   },
   {
     name: 'Rome',
@@ -8421,7 +7823,6 @@ module.exports = [
       },
       place_id: 'ChIJu46S-ZZhLxMROG5lkwZ3D7k',
     },
-    link: '/en-GB/cities/rome/',
   },
   {
     name: 'Rostov-On-Don',
@@ -8435,7 +7836,6 @@ module.exports = [
       },
       place_id: 'ChIJ77a0w3fH40ARBE2L5FG0SII',
     },
-    link: '/en-GB/cities/rostovondon/',
   },
   {
     name: 'Rouen',
@@ -8449,7 +7849,6 @@ module.exports = [
       },
       place_id: 'ChIJq_pxynbe4EcR1pOfpO-rHD0',
     },
-    link: '/en-GB/cities/rouen/',
   },
   {
     name: 'Saint Petersburg',
@@ -8463,7 +7862,6 @@ module.exports = [
       },
       place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20',
     },
-    link: '/en-GB/cities/saint-petersburg/',
   },
   {
     name: 'Saint Quentin',
@@ -8477,7 +7875,6 @@ module.exports = [
       },
       place_id: 'ChIJxRzgiGEY6EcRQNRpgT7xCgQ',
     },
-    link: '/en-GB/cities/metz/',
   },
   {
     name: 'Samara',
@@ -8491,7 +7888,6 @@ module.exports = [
       },
       place_id: 'ChIJ03nYK-IYZkERCwM6u6nNlbo',
     },
-    link: '/en-GB/cities/samara/',
   },
   {
     name: 'Seville',
@@ -8505,7 +7901,6 @@ module.exports = [
       },
       place_id: 'ChIJkWK-FBFsEg0RSFb-HGIY8DQ',
     },
-    link: '/en-GB/cities/seville/',
   },
   {
     name: 'Sheffield',
@@ -8519,7 +7914,6 @@ module.exports = [
       },
       place_id: 'ChIJFb7o-qkKeUgReLAGr_UnKD4',
     },
-    link: '/en-GB/cities/sheffield/',
   },
   {
     name: 'Silesia',
@@ -8533,7 +7927,6 @@ module.exports = [
       },
       place_id: 'ChIJZ3F-7VXrSFMRrgLuRfoPHuw',
     },
-    link: '/en-GB/cities/silesia/',
   },
   {
     name: 'Sochi',
@@ -8547,7 +7940,6 @@ module.exports = [
       },
       place_id: 'ChIJI0SDEeHU9UAR-F1daoZhb24',
     },
-    link: '/en-GB/cities/sochi/',
   },
   {
     name: 'South Coast, UK',
@@ -8561,7 +7953,6 @@ module.exports = [
       },
       place_id: 'ChIJc40--i1ddEgR79S_heTWUPg',
     },
-    link: '/en-GB/cities/portsmouth/',
   },
   {
     name: 'South West, UK',
@@ -8575,7 +7966,6 @@ module.exports = [
       },
       place_id: 'ChIJC_d1ROPGakgRpqpEQmUBQ_U',
     },
-    link: '/en-GB/cities/bristol/',
   },
   {
     name: 'Rotterdam',
@@ -8589,7 +7979,6 @@ module.exports = [
       },
       place_id: 'ChIJfcRUX2C3xUcRhUtelay7KVI',
     },
-    link: '/en-GB/cities/rotterdam/',
   },
   {
     name: 'Stockholm',
@@ -8603,7 +7992,6 @@ module.exports = [
       },
       place_id: 'ChIJywtkGTF2X0YRZnedZ9MnDag',
     },
-    link: '/en-GB/cities/stockholm/',
   },
   {
     name: 'Stoke',
@@ -8617,7 +8005,6 @@ module.exports = [
       },
       place_id: 'ChIJDUSuD1IRekgRBO7KAi_NzfE',
     },
-    link: '/en-GB/cities/stoke/',
   },
   {
     name: 'Strasbourg',
@@ -8631,7 +8018,6 @@ module.exports = [
       },
       place_id: 'ChIJwbIYXknIlkcRHyTnGDFIGpc',
     },
-    link: '/en-GB/cities/strasbourg/',
   },
   {
     name: 'Stuttgart',
@@ -8645,7 +8031,6 @@ module.exports = [
       },
       place_id: 'ChIJ04-twTTbmUcR5M-RdxzB1Xk',
     },
-    link: '/en-GB/cities/stuttgart/',
   },
   {
     name: 'Tallinn',
@@ -8659,13 +8044,12 @@ module.exports = [
       },
       place_id: 'ChIJvxZW35mUkkYRcGL8GG2zAAQ',
     },
-    link: '/en-GB/cities/tallinn/',
   },
   {
     name: 'Timisoara',
     company: 'uber',
     info: {
-      formatted_address: 'Timi»ôoara, Romania',
+      formatted_address: 'Timișoara, Romania',
       country: {
         long_name: 'Romania',
         short_name: 'RO',
@@ -8673,7 +8057,6 @@ module.exports = [
       },
       place_id: 'ChIJp7UPy31nRUcRSWeTc2Svf1M',
     },
-    link: '/en-GB/cities/timisoara/',
   },
   {
     name: 'Toulon',
@@ -8687,7 +8070,6 @@ module.exports = [
       },
       place_id: 'ChIJ_bI1ewIbyRIRMMiP_aUZCAQ',
     },
-    link: '/en-GB/cities/toulon-fr/',
   },
   {
     name: 'Toulouse',
@@ -8701,7 +8083,6 @@ module.exports = [
       },
       place_id: 'ChIJ_1J17G-7rhIRMBBBL5z2BgQ',
     },
-    link: '/en-GB/cities/toulouse/',
   },
   {
     name: 'Tours',
@@ -8715,7 +8096,6 @@ module.exports = [
       },
       place_id: 'ChIJh_eURBMUyYcRo7rVJD_fOwM',
     },
-    link: '/en-GB/cities/tours/',
   },
   {
     name: 'Trieste',
@@ -8729,7 +8109,6 @@ module.exports = [
       },
       place_id: 'ChIJM_Xt5AZre0cRUCvd1IQkamY',
     },
-    link: '/en-GB/cities/trieste/',
   },
   {
     name: 'Trojmiasto',
@@ -8743,7 +8122,6 @@ module.exports = [
       },
       place_id: 'ChIJWzKNT6IK_UYRrGV5Nivo1_Y',
     },
-    link: '/en-GB/cities/gdansk/',
   },
   {
     name: 'Troyes',
@@ -8757,7 +8135,6 @@ module.exports = [
       },
       place_id: 'ChIJsbeH51eY7kcRdU_oZlUS3Vc',
     },
-    link: '/en-GB/cities/troyes/',
   },
   {
     name: 'Ufa',
@@ -8771,21 +8148,19 @@ module.exports = [
       },
       place_id: 'ChIJ4bwWkiU62UMRzJLaHpLA7qw',
     },
-    link: '/en-GB/cities/ufa/',
   },
   {
     name: 'Valencia',
     company: 'uber',
     info: {
-      formatted_address: 'Valencia, Spain',
+      formatted_address: "Valencia, Spain",
       country: {
-        long_name: 'Spain',
-        short_name: 'ES',
-        types: ['country', 'political'],
+        long_name: "Spain",
+        short_name: "ES",
+        types: ["country", "political"]
       },
-      place_id: 'ChIJb7Dv8ExPYA0ROR1_HwFRo7Q',
-    },
-    link: '/en-GB/cities/valencia/',
+      place_id: "ChIJb7Dv8ExPYA0ROR1_HwFRo7Q"
+    }
   },
   {
     name: 'Vienna',
@@ -8799,7 +8174,6 @@ module.exports = [
       },
       place_id: 'ChIJn8o2UZ4HbUcRRluiUYrlwv0',
     },
-    link: '/en-GB/cities/vienna/',
   },
   {
     name: 'Vilnius',
@@ -8813,7 +8187,6 @@ module.exports = [
       },
       place_id: 'ChIJ9QhkXPuT3UYRQNzpcIzRAAQ',
     },
-    link: '/en-GB/cities/vilnius/',
   },
   {
     name: 'Vinnytsia',
@@ -8827,7 +8200,6 @@ module.exports = [
       },
       place_id: 'ChIJiWRaGWVbLUcR_nTd7lnh1Ms',
     },
-    link: '/en-GB/cities/vinnytsia/',
   },
   {
     name: 'Voronezh',
@@ -8841,7 +8213,6 @@ module.exports = [
       },
       place_id: 'ChIJE-h06FwvO0ERvWKn-w5M2Ug',
     },
-    link: '/en-GB/cities/voronezh/',
   },
   {
     name: 'Warsaw',
@@ -8855,13 +8226,12 @@ module.exports = [
       },
       place_id: 'ChIJAZ-GmmbMHkcR_NPqiCq-8HI',
     },
-    link: '/en-GB/cities/warsaw/',
   },
   {
     name: 'Wroclaw',
     company: 'uber',
     info: {
-      formatted_address: 'Wroc≈Çaw, Poland',
+      formatted_address: 'Wrocław, Poland',
       country: {
         long_name: 'Poland',
         short_name: 'PL',
@@ -8869,7 +8239,6 @@ module.exports = [
       },
       place_id: 'ChIJv4q11MLpD0cR9eAFwq5WCbc',
     },
-    link: '/en-GB/cities/wroclaw/',
   },
   {
     name: 'York',
@@ -8883,7 +8252,6 @@ module.exports = [
       },
       place_id: 'ChIJ8WWY4UDDeEgR0eRUiomrdEc',
     },
-    link: '/en-GB/cities/york/',
   },
   {
     name: 'Zagreb',
@@ -8897,7 +8265,6 @@ module.exports = [
       },
       place_id: 'ChIJOcwCyZLWZUcRisL7KJYkRTo',
     },
-    link: '/en-GB/cities/zagreb/',
   },
   {
     name: 'Zaporizhia',
@@ -8911,13 +8278,12 @@ module.exports = [
       },
       place_id: 'ChIJA7uF-j1n3EARSj9NB9lcZ34',
     },
-    link: '/en-GB/cities/zaporizhia/',
   },
   {
     name: 'Zurich',
     company: 'uber',
     info: {
-      formatted_address: 'Z√ºrich, Switzerland',
+      formatted_address: 'Zürich, Switzerland',
       country: {
         long_name: 'Switzerland',
         short_name: 'CH',
@@ -8925,7 +8291,6 @@ module.exports = [
       },
       place_id: 'ChIJGaK-SZcLkEcRA9wf5_GNbuY',
     },
-    link: '/en-GB/cities/zurich/',
   },
   {
     name: 'Almaty',
@@ -8939,7 +8304,6 @@ module.exports = [
       },
       place_id: 'ChIJq8vFFn1ugzgRdm2YrY9mRD0',
     },
-    link: '/en-GB/cities/almaty/',
   },
   {
     name: 'Amman',
@@ -8953,7 +8317,6 @@ module.exports = [
       },
       place_id: 'ChIJr4F5XbhfGxUR6GXc-MAwHGM',
     },
-    link: '/en-GB/cities/amman/',
   },
   {
     name: 'Astana',
@@ -8967,7 +8330,6 @@ module.exports = [
       },
       place_id: 'ChIJCUa1fcSARUIRKJKx3Y0U-Zc',
     },
-    link: '/en-GB/cities/astana/',
   },
   {
     name: 'Baku',
@@ -8981,7 +8343,6 @@ module.exports = [
       },
       place_id: 'ChIJ-Rwh1mt9MEARa2zlel5rPzQ',
     },
-    link: '/en-GB/cities/baku/',
   },
   {
     name: 'Beirut',
@@ -8995,7 +8356,6 @@ module.exports = [
       },
       place_id: 'ChIJj6eAWCEXHxURtDaY6bqCkXI',
     },
-    link: '/en-GB/cities/beirut/',
   },
   {
     name: 'Doha',
@@ -9009,7 +8369,6 @@ module.exports = [
       },
       place_id: 'ChIJf-jc_zTFRT4RsdTPeJ8x2UQ',
     },
-    link: '/en-GB/cities/doha/',
   },
   {
     name: 'Dubai',
@@ -9023,7 +8382,6 @@ module.exports = [
       },
       place_id: 'ChIJRcbZaklDXz4RYlEphFBu5r0',
     },
-    link: '/en-GB/cities/dubai/',
   },
   {
     name: 'Eastern Province, KSA',
@@ -9037,7 +8395,6 @@ module.exports = [
       },
       place_id: 'ChIJhYY947MZQD4Rpli7AuRzsW0',
     },
-    link: '/en-GB/cities/dammam/',
   },
   {
     name: 'Jeddah',
@@ -9051,7 +8408,6 @@ module.exports = [
       },
       place_id: 'ChIJWX4TsR_QwxUR2xixN5dXWeA',
     },
-    link: '/en-GB/cities/jeddah/',
   },
   {
     name: 'Madinah',
@@ -9065,7 +8421,6 @@ module.exports = [
       },
       place_id: 'ChIJ1SDSl1G-vRUR2Qg76k9RVC4',
     },
-    link: '/en-GB/cities/madinah/',
   },
   {
     name: 'Manama',
@@ -9079,7 +8434,6 @@ module.exports = [
       },
       place_id: 'ChIJLaZ2J3KvST4RwmAPB6Y4Z4s',
     },
-    link: '/en-GB/cities/manama/',
   },
   {
     name: 'Qassim',
@@ -9093,7 +8447,6 @@ module.exports = [
       },
       place_id: 'ChIJO77ib61ZfxURqgANOx1i--E',
     },
-    link: '/en-GB/cities/qassim/',
   },
   {
     name: 'Riyadh',
@@ -9107,7 +8460,6 @@ module.exports = [
       },
       place_id: 'ChIJmZNIDYkDLz4R1Z_nmBxNl7o',
     },
-    link: '/en-GB/cities/riyadh/',
   },
   {
     name: 'Shymkent',
@@ -9121,7 +8473,6 @@ module.exports = [
       },
       place_id: 'ChIJu4FmVFbyqDgRmzZb54K1Z6E',
     },
-    link: '/en-GB/cities/shymkent/',
   },
   {
     name: 'Tel Aviv',
@@ -9135,7 +8486,6 @@ module.exports = [
       },
       place_id: 'ChIJH3w7GaZMHRURkD-WwKJy-8E',
     },
-    link: '/en-GB/cities/tel-aviv/',
   },
   {
     name: 'Abuja',
@@ -9149,7 +8499,6 @@ module.exports = [
       },
       place_id: 'ChIJ2S_WTF90ThARK6EOorQXvVM',
     },
-    link: '/en-GB/cities/abuja/',
   },
   {
     name: 'Accra',
@@ -9163,7 +8512,6 @@ module.exports = [
       },
       place_id: 'ChIJc6e3soSQ3w8R0y0OZdhO0b4',
     },
-    link: '/en-GB/cities/accra/',
   },
   {
     name: 'Alexandria',
@@ -9177,7 +8525,6 @@ module.exports = [
       },
       place_id: 'ChIJ8aukkz5NtokRLAHB24Ym9dc',
     },
-    link: '/en-GB/cities/alexandria/',
   },
   {
     name: 'Cairo',
@@ -9191,7 +8538,6 @@ module.exports = [
       },
       place_id: 'ChIJ674hC6Y_WBQRujtC6Jay33k',
     },
-    link: '/en-GB/cities/cairo/',
   },
   {
     name: 'Cape Town',
@@ -9205,7 +8551,6 @@ module.exports = [
       },
       place_id: 'ChIJ1-4miA9QzB0Rh6ooKPzhf2g',
     },
-    link: '/en-GB/cities/cape-town/',
   },
   {
     name: 'Dar Es Salaam',
@@ -9219,7 +8564,6 @@ module.exports = [
       },
       place_id: 'ChIJ8dabFq5LXBgR3aGGoCZrD5Q',
     },
-    link: '/en-GB/cities/dar-es-salaam/',
   },
   {
     name: 'Durban',
@@ -9233,7 +8577,6 @@ module.exports = [
       },
       place_id: 'ChIJt2G8AQCq9x4RgW6qxEZVp8w',
     },
-    link: '/en-GB/cities/durban/',
   },
   {
     name: 'Johannesburg and Pretoria',
@@ -9248,7 +8591,6 @@ module.exports = [
       },
       place_id: 'ChIJWcD54dxdlR4R0ILB7Mu66IM',
     },
-    link: '/en-GB/cities/johannesburg/',
   },
   {
     name: 'Kampala',
@@ -9262,7 +8604,6 @@ module.exports = [
       },
       place_id: 'ChIJm7N0nQ-8fRcR7G9r2T2QOEU',
     },
-    link: '/en-GB/cities/kampala/',
   },
   {
     name: 'Kumasi',
@@ -9276,7 +8617,6 @@ module.exports = [
       },
       place_id: 'ChIJSUxOmuWT2w8RguZlex1xnII',
     },
-    link: '/en-GB/cities/kumasi/',
   },
   {
     name: 'Lagos',
@@ -9290,7 +8630,6 @@ module.exports = [
       },
       place_id: 'ChIJwYCC5iqLOxARy9nDZ6OHntw',
     },
-    link: '/en-GB/cities/lagos/',
   },
   {
     name: 'Mauritius',
@@ -9304,7 +8643,6 @@ module.exports = [
       },
       place_id: 'ChIJyXRE-U1QfCERMdBrEcLZA0I',
     },
-    link: '/en-GB/cities/port-louis/',
   },
   {
     name: 'Mombasa',
@@ -9318,7 +8656,6 @@ module.exports = [
       },
       place_id: 'ChIJfSzAjucSQBgRWtvQNbyLYcs',
     },
-    link: '/en-GB/cities/mombasa/',
   },
   {
     name: 'Nairobi',
@@ -9332,7 +8669,6 @@ module.exports = [
       },
       place_id: 'ChIJp0lN2HIRLxgRTJKXslQCz_c',
     },
-    link: '/en-GB/cities/nairobi/',
   },
   {
     name: 'Port Elizabeth',
@@ -9346,13 +8682,12 @@ module.exports = [
       },
       place_id: 'ChIJK9b_RQApex4RJkKJzTcj_YY',
     },
-    link: '/en-GB/cities/port-elizabeth/',
   },
   {
     name: 'Awaji Island',
     company: 'uber',
     info: {
-      formatted_address: 'Awaji Island, Hy≈çgo Prefecture, Japan',
+      formatted_address: 'Awaji Island, Hyōgo Prefecture, Japan',
       country: {
         long_name: 'Japan',
         short_name: 'JP',
@@ -9360,7 +8695,6 @@ module.exports = [
       },
       place_id: 'ChIJ4c_Ev226VDURfjDOhruS1ao',
     },
-    link: '/en-GB/cities/awaji-island/',
   },
   {
     name: 'Fukuoka',
@@ -9374,7 +8708,6 @@ module.exports = [
       },
       place_id: 'ChIJKYSE6aHtQTURg4c5NplyCvY',
     },
-    link: '/en-GB/cities/fukuoka/',
   },
   {
     name: 'Hong Kong',
@@ -9388,7 +8721,6 @@ module.exports = [
       },
       place_id: 'ChIJD5gyo-3iAzQRfMnq27qzivA',
     },
-    link: '/en-GB/cities/hong-kong/',
   },
   {
     name: 'Hsinchu',
@@ -9402,7 +8734,6 @@ module.exports = [
       },
       place_id: 'ChIJEUtLGts1aDQRDDvTtbzcCdQ',
     },
-    link: '/en-GB/cities/hsinchu/',
   },
   {
     name: 'Incheon',
@@ -9416,7 +8747,6 @@ module.exports = [
       },
       place_id: 'ChIJR4ITliVveTURQmG3LJD9N30',
     },
-    link: '/en-GB/cities/incheon/',
   },
   {
     name: 'Kaohsiung',
@@ -9430,7 +8760,6 @@ module.exports = [
       },
       place_id: 'ChIJG3R6elFDbjQRNypzVEqiJkg',
     },
-    link: '/en-GB/cities/kaohsiung/',
   },
   {
     name: 'Kobe',
@@ -9444,13 +8773,12 @@ module.exports = [
       },
       place_id: 'ChIJc_k37JTfuocRLU12lZYIr6k',
     },
-    link: '/en-GB/cities/kobe/',
   },
   {
     name: 'Kyotango',
     company: 'uber',
     info: {
-      formatted_address: 'Ky≈çtango, Kyoto Prefecture, Japan',
+      formatted_address: 'Kyōtango, Kyoto Prefecture, Japan',
       country: {
         long_name: 'Japan',
         short_name: 'JP',
@@ -9458,7 +8786,6 @@ module.exports = [
       },
       place_id: 'ChIJT079tGW7_18RSR1Yd4jVXvs',
     },
-    link: '/en-GB/cities/kyotango/',
   },
   {
     name: 'Kyoto',
@@ -9472,7 +8799,6 @@ module.exports = [
       },
       place_id: 'ChIJ8cM8zdaoAWARPR27azYdlsA',
     },
-    link: '/en-GB/cities/kyoto/',
   },
   {
     name: 'Macau',
@@ -9486,7 +8812,6 @@ module.exports = [
       },
       place_id: 'ChIJ88g14uB6ATQR9qyFtCzje8Y',
     },
-    link: '/en-GB/cities/macau/',
   },
   {
     name: 'Nagoya',
@@ -9500,7 +8825,6 @@ module.exports = [
       },
       place_id: 'ChIJZSN7EJ5wA2ARUrPO6NQilio',
     },
-    link: '/en-GB/cities/nagoya/',
   },
   {
     name: 'Osaka',
@@ -9514,7 +8838,6 @@ module.exports = [
       formatted_address: 'Osaka, Osaka Prefecture, Japan',
       place_id: 'ChIJ4eIGNFXmAGAR5y9q5G7BW8U',
     },
-    link: '/en-GB/cities/osaka/',
   },
   {
     name: 'Seoul',
@@ -9528,7 +8851,6 @@ module.exports = [
       },
       place_id: 'ChIJzWXFYYuifDUR64Pq5LTtioU',
     },
-    link: '/en-GB/cities/seoul/',
   },
   {
     name: 'Taichung',
@@ -9542,7 +8864,6 @@ module.exports = [
       },
       place_id: 'ChIJ7yJ5-d8XaTQRf0SmfuQ-Uoc',
     },
-    link: '/en-GB/cities/taichung/',
   },
   {
     name: 'Taipei',
@@ -9556,7 +8877,6 @@ module.exports = [
       },
       place_id: 'ChIJmQrivHKsQjQR4MIK3c41aj8',
     },
-    link: '/en-GB/cities/taipei/',
   },
   {
     name: 'Taoyuan',
@@ -9570,7 +8890,6 @@ module.exports = [
       },
       place_id: 'ChIJP4bazg49aDQRakg6WFJP5FQ',
     },
-    link: '/en-GB/cities/taoyuan/',
   },
   {
     name: 'Tokyo',
@@ -9584,7 +8903,6 @@ module.exports = [
       },
       place_id: 'ChIJ51cu8IcbXWARiRtXIothAS4',
     },
-    link: '/en-GB/cities/tokyo/',
   },
   {
     name: 'Yokohama',
@@ -9598,7 +8916,6 @@ module.exports = [
       },
       place_id: 'ChIJCWW2u-xbGGARAFQoYPaDlgY',
     },
-    link: '/en-GB/cities/yokohama/',
   },
   {
     name: 'Ahmedabad',
@@ -9612,7 +8929,6 @@ module.exports = [
       },
       place_id: 'ChIJSdRbuoqEXjkRFmVPYRHdzk8',
     },
-    link: '/en-GB/cities/ahmedabad/',
   },
   {
     name: 'Ajmer',
@@ -9626,7 +8942,6 @@ module.exports = [
       },
       place_id: 'ChIJAc23_NjmazkR7gCB6xKPr8s',
     },
-    link: '/en-GB/cities/ajmer/',
   },
   {
     name: 'Amritsar',
@@ -9640,7 +8955,6 @@ module.exports = [
       },
       place_id: 'ChIJVXOeVqpkGTkRfe-E7ltgou4',
     },
-    link: '/en-GB/cities/amritsar/',
   },
   {
     name: 'Aurangabad',
@@ -9654,7 +8968,6 @@ module.exports = [
       },
       place_id: 'ChIJY7xpoxWY2zsRPqeiKYtTLXE',
     },
-    link: '/en-GB/cities/aurangabad/',
   },
   {
     name: 'Bangalore',
@@ -9668,7 +8981,6 @@ module.exports = [
       },
       place_id: 'ChIJbU60yXAWrjsR4E9-UejD3_g',
     },
-    link: '/en-GB/cities/bangalore/',
   },
   {
     name: 'Bhopal',
@@ -9682,7 +8994,6 @@ module.exports = [
       },
       place_id: 'ChIJvY_Wj49CfDkR-NRy1RZXFQI',
     },
-    link: '/en-GB/cities/bhopal/',
   },
   {
     name: 'Bhubaneswar',
@@ -9696,7 +9007,6 @@ module.exports = [
       },
       place_id: 'ChIJpQoX1dIJGToRqD-zaCsOWPw',
     },
-    link: '/en-GB/cities/bhubaneswar/',
   },
   {
     name: 'Chandigarh',
@@ -9710,7 +9020,6 @@ module.exports = [
       },
       place_id: 'ChIJa8lu5gvtDzkR_hlzUvln_6U',
     },
-    link: '/en-GB/cities/chandigarh/',
   },
   {
     name: 'Chennai',
@@ -9724,7 +9033,6 @@ module.exports = [
       },
       place_id: 'ChIJYTN9T-plUjoRM9RjaAunYW4',
     },
-    link: '/en-GB/cities/chennai/',
   },
   {
     name: 'Chittagong',
@@ -9738,7 +9046,6 @@ module.exports = [
       },
       place_id: 'ChIJ09-VQKbYrDAR2QVpy1vMFVA',
     },
-    link: '/en-GB/cities/chittagong/',
   },
   {
     name: 'Coimbatore',
@@ -9752,7 +9059,6 @@ module.exports = [
       },
       place_id: 'ChIJtRyXL69ZqDsRgtI-GB7IwS8',
     },
-    link: '/en-GB/cities/coimbatore/',
   },
   {
     name: 'Colombo',
@@ -9766,7 +9072,6 @@ module.exports = [
       },
       place_id: 'ChIJA3B6D9FT4joRjYPTMk0uCzI',
     },
-    link: '/en-GB/cities/colombo/',
   },
   {
     name: 'Delhi NCR',
@@ -9780,7 +9085,6 @@ module.exports = [
       },
       place_id: 'ChIJ4ZrhZpThDDkRbN7VX1brzkU',
     },
-    link: '/en-GB/cities/new-delhi/',
   },
   {
     name: 'Dhaka',
@@ -9794,7 +9098,6 @@ module.exports = [
       },
       place_id: 'ChIJgWsCh7C4VTcRwgRZ3btjpY8',
     },
-    link: '/en-GB/cities/dhaka/',
   },
   {
     name: 'Faisalabad',
@@ -9808,7 +9111,6 @@ module.exports = [
       },
       place_id: 'ChIJqVyllahCIjkRxnEmk4iPxd4',
     },
-    link: '/en-GB/cities/faisalabad/',
   },
   {
     name: 'Gujranwala',
@@ -9822,7 +9124,6 @@ module.exports = [
       },
       place_id: 'ChIJKesg1YMpHzkRaKPnha8z-wY',
     },
-    link: '/en-GB/cities/gujranwala/',
   },
   {
     name: 'Guwahati',
@@ -9836,7 +9137,6 @@ module.exports = [
       },
       place_id: 'ChIJ_zORfyhaWjcRMt5rQzITvSs',
     },
-    link: '/en-GB/cities/guwahati/',
   },
   {
     name: 'Hyderabad',
@@ -9850,7 +9150,6 @@ module.exports = [
       },
       place_id: 'ChIJx9Lr6tqZyzsRwvu6koO3k64',
     },
-    link: '/en-GB/cities/hyderabad/',
   },
   {
     name: 'Hyderabad, Pakistan',
@@ -9864,7 +9163,6 @@ module.exports = [
       },
       place_id: 'ChIJw_NE1PZwTDkRheJBPRi8C8A',
     },
-    link: '/en-GB/cities/hyderabad-pakistan/',
   },
   {
     name: 'Indore',
@@ -9878,7 +9176,6 @@ module.exports = [
       },
       place_id: 'ChIJ2w1BG638YjkR9EBiNdrEbgk',
     },
-    link: '/en-GB/cities/indore/',
   },
   {
     name: 'Islamabad',
@@ -9892,7 +9189,6 @@ module.exports = [
       },
       place_id: 'ChIJL3KReNC_3zgRtgLbO1xRWWA',
     },
-    link: '/en-GB/cities/islamabad/',
   },
   {
     name: 'Jaipur',
@@ -9906,7 +9202,6 @@ module.exports = [
       },
       place_id: 'ChIJgeJXTN9KbDkRCS7yDDrG4Qw',
     },
-    link: '/en-GB/cities/jaipur/',
   },
   {
     name: 'Jodhpur',
@@ -9920,7 +9215,6 @@ module.exports = [
       },
       place_id: 'ChIJucwGqk6MQTkRuKvhClvqFIE',
     },
-    link: '/en-GB/cities/jodhpur/',
   },
   {
     name: 'Karachi',
@@ -9934,7 +9228,6 @@ module.exports = [
       },
       place_id: 'ChIJv0sdZQY-sz4RIwxaVUQv-Zw',
     },
-    link: '/en-GB/cities/karachi/',
   },
   {
     name: 'Kochi',
@@ -9948,7 +9241,6 @@ module.exports = [
       },
       place_id: 'ChIJv8a-SlENCDsRkkGEpcqC1Qs',
     },
-    link: '/en-GB/cities/kochi/',
   },
   {
     name: 'Kolkata',
@@ -9962,7 +9254,6 @@ module.exports = [
       },
       place_id: 'ChIJZ_YISduC-DkRvCxsj-Yw40M',
     },
-    link: '/en-GB/cities/kolkata/',
   },
   {
     name: 'Lahore',
@@ -9976,7 +9267,6 @@ module.exports = [
       },
       place_id: 'ChIJ2QeB5YMEGTkRYiR-zGy-OsI',
     },
-    link: '/en-GB/cities/lahore/',
   },
   {
     name: 'Lucknow',
@@ -9990,7 +9280,6 @@ module.exports = [
       },
       place_id: 'ChIJa7EyH5n9mzkR54uXCYm6zJM',
     },
-    link: '/en-GB/cities/lucknow/',
   },
   {
     name: 'Ludhiana',
@@ -10004,7 +9293,6 @@ module.exports = [
       },
       place_id: 'ChIJfVo0YnSDGjkREAbGjjQCEWg',
     },
-    link: '/en-GB/cities/ludhiana/',
   },
   {
     name: 'Mangalore',
@@ -10018,7 +9306,6 @@ module.exports = [
       },
       place_id: 'ChIJj0i_N0xaozsRZP78dHq8e4I',
     },
-    link: '/en-GB/cities/mangalore/',
   },
   {
     name: 'Multan',
@@ -10032,7 +9319,6 @@ module.exports = [
       },
       place_id: 'ChIJ2afeeFcxOzkRL9RVTscv17o',
     },
-    link: '/en-GB/cities/multan/',
   },
   {
     name: 'Mumbai',
@@ -10046,7 +9332,6 @@ module.exports = [
       },
       place_id: 'ChIJwe1EZjDG5zsRaYxkjY_tpF0',
     },
-    link: '/en-GB/cities/mumbai/',
   },
   {
     name: 'Mysore',
@@ -10060,7 +9345,6 @@ module.exports = [
       },
       place_id: 'ChIJ-S5XHThwrzsRbTn4wOjsiSs',
     },
-    link: '/en-GB/cities/mysore/',
   },
   {
     name: 'Nagpur',
@@ -10074,7 +9358,6 @@ module.exports = [
       },
       place_id: 'ChIJE68fo6XA1DsRKz670AZ9sxk',
     },
-    link: '/en-GB/cities/nagpur/',
   },
   {
     name: 'Nashik',
@@ -10088,7 +9371,6 @@ module.exports = [
       },
       place_id: 'ChIJsxSZsJDS3TsRXCEonV2EB8s',
     },
-    link: '/en-GB/cities/nashik/',
   },
   {
     name: 'Peshawar',
@@ -10102,7 +9384,6 @@ module.exports = [
       },
       place_id: 'ChIJz3kOD7kX2TgREqRYdWOyFqg',
     },
-    link: '/en-GB/cities/peshawar/',
   },
   {
     name: 'Puducherry',
@@ -10116,7 +9397,6 @@ module.exports = [
       },
       place_id: 'ChIJlUfE5URgUzoR00k9CrLLEOg',
     },
-    link: '/en-GB/cities/puducherry/',
   },
   {
     name: 'Pune',
@@ -10130,7 +9410,6 @@ module.exports = [
       },
       place_id: 'ChIJARFGZy6_wjsRQ-Oenb9DjYI',
     },
-    link: '/en-GB/cities/pune/',
   },
   {
     name: 'Surat',
@@ -10144,7 +9423,6 @@ module.exports = [
       },
       place_id: 'ChIJYxUdQVlO4DsRQrA4CSlYRf4',
     },
-    link: '/en-GB/cities/surat/',
   },
   {
     name: 'Thiruvananthapuram',
@@ -10158,7 +9436,6 @@ module.exports = [
       },
       place_id: 'ChIJR827Bbi7BTsRy4FcXKufQxU',
     },
-    link: '/en-GB/cities/thiruvananthapuram/',
   },
   {
     name: 'Udaipur',
@@ -10172,7 +9449,6 @@ module.exports = [
       },
       place_id: 'ChIJEUShUGXlZzkRsGi4VYTC2Ns',
     },
-    link: '/en-GB/cities/udaipur/',
   },
   {
     name: 'Vadodara',
@@ -10186,7 +9462,6 @@ module.exports = [
       },
       place_id: 'ChIJq92jkavIXzkRuD9H4b_TOaw',
     },
-    link: '/en-GB/cities/vadodara/',
   },
   {
     name: 'Vijayawada',
@@ -10200,7 +9475,6 @@ module.exports = [
       },
       place_id: 'ChIJS5QtSPnvNToRZQJKq4R-m5M',
     },
-    link: '/en-GB/cities/vijayawada/',
   },
   {
     name: 'Visakhapatnam',
@@ -10214,7 +9488,6 @@ module.exports = [
       },
       place_id: 'ChIJP5fmiRNDOToRaIRJlQPC2ZI',
     },
-    link: '/en-GB/cities/visakhapatnam/',
   },
   {
     name: 'Adelaide',
@@ -10228,7 +9501,6 @@ module.exports = [
       },
       place_id: 'ChIJP7Mmxcc1t2oRQMaOYlQ2AwQ',
     },
-    link: '/en-GB/cities/adelaide/',
   },
   {
     name: 'Auckland',
@@ -10242,7 +9514,6 @@ module.exports = [
       },
       place_id: 'ChIJ--acWvtHDW0RF5miQ2HvAAU',
     },
-    link: '/en-GB/cities/auckland/',
   },
   {
     name: 'Bathurst',
@@ -10256,7 +9527,6 @@ module.exports = [
       },
       place_id: 'ChIJ73m0BjPkEWsRYCJEkLQJBgU',
     },
-    link: '/en-GB/cities/bathurst/',
   },
   {
     name: 'Bendigo and Ballarat',
@@ -10270,7 +9540,6 @@ module.exports = [
       },
       place_id: 'ChIJyZlpa4xE0WoRHei1tIOLmRY',
     },
-    link: '/en-GB/cities/ballarat/',
   },
   {
     name: 'Brisbane',
@@ -10284,7 +9553,6 @@ module.exports = [
       },
       place_id: 'ChIJM9KTrJpXkWsRQK_e81qjAgQ',
     },
-    link: '/en-GB/cities/brisbane/',
   },
   {
     name: 'Bunbury',
@@ -10298,7 +9566,6 @@ module.exports = [
       },
       place_id: 'ChIJ0f9k2au22YgRTu6RXB5wgaA',
     },
-    link: '/en-GB/cities/bunbury/',
   },
   {
     name: 'Bundaberg',
@@ -10312,7 +9579,6 @@ module.exports = [
       },
       place_id: 'ChIJU1lsDkq562sRwAshf_HuAAU',
     },
-    link: '/en-GB/cities/bundaberg/',
   },
   {
     name: 'Busselton',
@@ -10326,7 +9592,6 @@ module.exports = [
       },
       place_id: 'ChIJ8W_tFhI5LioRIA16JDj2AAU',
     },
-    link: '/en-GB/cities/busselton/',
   },
   {
     name: 'Byron Bay',
@@ -10340,7 +9605,6 @@ module.exports = [
       },
       place_id: 'ChIJK3Y-LYVikGsR0PJDkLQJBgQ',
     },
-    link: '/en-GB/cities/byron-bay/',
   },
   {
     name: 'Cairns',
@@ -10354,7 +9618,6 @@ module.exports = [
       },
       place_id: 'ChIJEySiW1VieGkRYHggf_HuAAQ',
     },
-    link: '/en-GB/cities/cairns/',
   },
   {
     name: 'Canberra',
@@ -10368,7 +9631,6 @@ module.exports = [
       },
       place_id: 'ChIJIZBcsGlNFmsRYFZpp27qAAU',
     },
-    link: '/en-GB/cities/canberra/',
   },
   {
     name: 'Christchurch',
@@ -10382,7 +9644,6 @@ module.exports = [
       },
       place_id: 'ChIJAe3FY0gvMm0RRZl5hIbvAAU',
     },
-    link: '/en-GB/cities/christchurch/',
   },
   {
     name: 'Coffs Harbour',
@@ -10396,7 +9657,6 @@ module.exports = [
       },
       place_id: 'ChIJHaTYiwkOnGsREC1EkLQJBgU',
     },
-    link: '/en-GB/cities/coffs-harbour/',
   },
   {
     name: 'Darwin',
@@ -10411,7 +9671,6 @@ module.exports = [
       },
       place_id: 'ChIJLfmGIOiEt4cRa66zOEoP45E',
     },
-    link: '/en-GB/cities/darwin/',
   },
   {
     name: 'Dunedin',
@@ -10425,7 +9684,6 @@ module.exports = [
       },
       place_id: 'ChIJYSuhxQ3xwogR9RBIc5e9p88',
     },
-    link: '/en-GB/cities/dunedin/',
   },
   {
     name: 'Geelong',
@@ -10439,7 +9697,6 @@ module.exports = [
       },
       place_id: 'ChIJz9ClKRwU1GoRkOmMIXVWBAU',
     },
-    link: '/en-GB/cities/geelong/',
   },
   {
     name: 'Gladstone',
@@ -10453,7 +9710,6 @@ module.exports = [
       },
       place_id: 'ChIJI8q6w4n3wIcRUP7PD6MlXvU',
     },
-    link: '/en-GB/cities/gladstone/',
   },
   {
     name: 'Gold Coast',
@@ -10467,7 +9723,6 @@ module.exports = [
       },
       place_id: 'ChIJt2BdK0cakWsRcK_e81qjAgM',
     },
-    link: '/en-GB/cities/gold-coast/',
   },
   {
     name: 'Hamilton, NZ',
@@ -10481,7 +9736,6 @@ module.exports = [
       },
       place_id: 'ChIJITamh3QibW0RA5miQ2HvAAU',
     },
-    link: '/en-GB/cities/hamilton-nz/',
   },
   {
     name: 'Hervey Bay',
@@ -10495,7 +9749,6 @@ module.exports = [
       },
       place_id: 'ChIJ_VCIQcV962sRoPUgf_HuAAQ',
     },
-    link: '/en-GB/cities/hervey-bay/',
   },
   {
     name: 'Hobart',
@@ -10509,7 +9762,6 @@ module.exports = [
       },
       place_id: 'ChIJb2c1q73luocR0MRMPMppv98',
     },
-    link: '/en-GB/cities/hobart/',
   },
   {
     name: 'Horsham',
@@ -10523,7 +9775,6 @@ module.exports = [
       },
       place_id: 'ChIJuYUqkIWvxokRQAZtXPmw77o',
     },
-    link: '/en-GB/cities/horsham/',
   },
   {
     name: 'Launceston',
@@ -10537,7 +9788,6 @@ module.exports = [
       },
       place_id: 'ChIJXf2ELuGmcKoRkBne0E3JAwU',
     },
-    link: '/en-GB/cities/launceston/',
   },
   {
     name: 'Mackay',
@@ -10551,7 +9801,6 @@ module.exports = [
       },
       place_id: 'ChIJB1bTovfT22sRAAQhf_HuAAU',
     },
-    link: '/en-GB/cities/mackay/',
   },
   {
     name: 'Melbourne',
@@ -10565,7 +9814,6 @@ module.exports = [
       },
       place_id: 'ChIJ90260rVG1moRkM2MIXVWBAQ',
     },
-    link: '/en-GB/cities/melbourne/',
   },
   {
     name: 'Mornington Peninsula',
@@ -10579,7 +9827,6 @@ module.exports = [
       },
       place_id: 'ChIJcVC2pWDP1WoRgrwLtSh9Ly8',
     },
-    link: '/en-GB/cities/mornington-peninsula/',
   },
   {
     name: 'Newcastle',
@@ -10593,7 +9840,6 @@ module.exports = [
       },
       place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs',
     },
-    link: '/en-GB/cities/newcastle/',
   },
   {
     name: 'Orange',
@@ -10607,7 +9853,6 @@ module.exports = [
       },
       place_id: 'ChIJDUmY6Z98yIcRAT0mxh_O5wE',
     },
-    link: '/en-GB/cities/orange/',
   },
   {
     name: 'Perth',
@@ -10621,7 +9866,6 @@ module.exports = [
       },
       place_id: 'ChIJPXNH22yWMioR0FXfNbXwBAM',
     },
-    link: '/en-GB/cities/perth/',
   },
   {
     name: 'Port Macquarie',
@@ -10635,7 +9879,6 @@ module.exports = [
       },
       place_id: 'ChIJwcnsNFz_nWsRQC5EkLQJBgU',
     },
-    link: '/en-GB/cities/port-macquarie/',
   },
   {
     name: 'Queenstown',
@@ -10649,7 +9892,6 @@ module.exports = [
       },
       place_id: 'ChIJX96o1_Ed1akRAKZ5hIbvAAU',
     },
-    link: '/en-GB/cities/queenstown/',
   },
   {
     name: 'Rockhampton',
@@ -10663,7 +9905,6 @@ module.exports = [
       },
       place_id: 'ChIJHQZ8RqIAw2sRMAAhf_HuAAU',
     },
-    link: '/en-GB/cities/rockhampton/',
   },
   {
     name: 'Shepparton',
@@ -10677,7 +9918,6 @@ module.exports = [
       },
       place_id: 'ChIJq_oI_w2E2GoRMNugMKR5BQU',
     },
-    link: '/en-GB/cities/shepparton/',
   },
   {
     name: 'Sunshine Coast',
@@ -10691,7 +9931,6 @@ module.exports = [
       },
       place_id: 'ChIJ7Uh9bbZ_k2sRUK_e81qjAgM',
     },
-    link: '/en-GB/cities/sunshine-coast/',
   },
   {
     name: 'Surf Coast',
@@ -10705,7 +9944,6 @@ module.exports = [
       },
       place_id: 'ChIJIe6EesN41GoR-pO-nxsXn08',
     },
-    link: '/en-GB/cities/surf-coast/',
   },
   {
     name: 'Sydney',
@@ -10719,7 +9957,6 @@ module.exports = [
       },
       place_id: 'ChIJP3Sa8ziYEmsRUKgyFmh9AQM',
     },
-    link: '/en-GB/cities/sydney/',
   },
   {
     name: 'Tamworth',
@@ -10733,7 +9970,6 @@ module.exports = [
       },
       place_id: 'ChIJH9ZCOLaYCmsRcClEkLQJBgU',
     },
-    link: '/en-GB/cities/tamworth/',
   },
   {
     name: 'Tauranga',
@@ -10747,7 +9983,6 @@ module.exports = [
       },
       place_id: 'ChIJ5WTUe-d2bm0RJpmjQ2HvAAU',
     },
-    link: '/en-GB/cities/tauranga/',
   },
   {
     name: 'Toowoomba',
@@ -10761,7 +9996,6 @@ module.exports = [
       },
       place_id: 'ChIJj2XjSLpElmsRUL8gf_HuAAQ',
     },
-    link: '/en-GB/cities/toowoomba/',
   },
   {
     name: 'Townsville',
@@ -10775,7 +10009,6 @@ module.exports = [
       },
       place_id: 'ChIJ59Fz1dv41WsRsP4gf_HuAAU',
     },
-    link: '/en-GB/cities/townsville/',
   },
   {
     name: 'Wagga Wagga',
@@ -10789,7 +10022,6 @@ module.exports = [
       },
       place_id: 'ChIJd7Z4Op2ZGGsR8CZEkLQJBgU',
     },
-    link: '/en-GB/cities/wagga-wagga/',
   },
   {
     name: 'Warrnambool',
@@ -10803,7 +10035,6 @@ module.exports = [
       },
       place_id: 'ChIJocRftslNzWoR4NWgMKR5BQU',
     },
-    link: '/en-GB/cities/warrnambool/',
   },
   {
     name: 'Wellington',
@@ -10817,7 +10048,6 @@ module.exports = [
       },
       place_id: 'ChIJy3TpSfyxOG0RcLQTomPvAAo',
     },
-    link: '/en-GB/cities/wellington/',
   },
   {
     name: 'Wollongong',
@@ -10831,6 +10061,5 @@ module.exports = [
       },
       place_id: 'ChIJe1YLH6UZE2sRIOcyFmh9AQU',
     },
-    link: '/en-GB/cities/wollongong/',
   },
 ]

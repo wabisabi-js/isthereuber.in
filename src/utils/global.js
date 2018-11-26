@@ -31,4 +31,10 @@ export default injectGlobal`
 		padding: 0;
 		margin: 0;
 	}
+
+a {
+	position: relative;
+	z-index: 99;
+}
+
 `

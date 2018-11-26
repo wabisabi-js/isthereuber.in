@@ -15,6 +15,7 @@ import { search } from '../../utils/algolia'
 import edgeCases from '../../utils/edgeCases'
 import ReactCountryFlag from 'react-country-flag'
 import { getAppStoreLink } from '../../utils/appStores'
+import uberData from '../../../data/single/uber'
 
 class City extends Component {
   state = {
@@ -53,6 +54,8 @@ class City extends Component {
 
   render({}, { cities, loaded }) {
     const city = cities[0]
+    const match =
+      city && uberData.find(a => a.info.place_id === city.info.place_id)
 
     if (!loaded) {
       return (
@@ -73,10 +76,17 @@ class City extends Component {
 	height={window.innerHeight}
                   />
                 </Wrapper>,
-                <Title>
-                  YES 🚗{' '}
-                  <ReactCountryFlag code={city.info.country.short_name} />
-                </Title>,
+                <a
+	style={{ textDecoration: 'none' }}
+	href={match ? `https://www.uber.com${match.link}` : null}
+	target="_blank"
+	rel="noopener noreferrer"
+                >
+                  <Title>
+                    YES 🚗{' '}
+                    <ReactCountryFlag code={city.info.country.short_name} />
+                  </Title>
+                </a>,
                 <Message>{edgeCases(cities[0])}</Message>,
               ]
             ) : (
@@ -94,8 +104,10 @@ class City extends Component {
                   {city.company
                     .filter(item => item !== 'uber')
                     .map(c => (
-                    <Company href={getAppStoreLink(c)} target="_blank">{c}</Company>
-                  ))}
+                      <Company href={getAppStoreLink(c)} target="_blank">
+                        {c}
+                      </Company>
+                    ))}
                 </Alternative>
               </div>
             ) : null}
