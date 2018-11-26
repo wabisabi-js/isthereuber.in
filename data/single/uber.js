@@ -6654,16 +6654,16 @@ module.exports = [
     },
   },
   {
-    name: 'Brighton and Sussex',
+    name: 'Brighton',
     company: 'uber',
     info: {
-      formatted_address: '94 N - S Rd, Falmer, Brighton BN1 9PX, UK',
+      formatted_address: 'Brighton, UK',
       country: {
         long_name: 'United Kingdom',
-        short_name: 'GB',
+        short_name: 'UK',
         types: ['country', 'political'],
       },
-      place_id: 'ChIJESUDDsqIdUgRkcoEfQ2KVXk',
+      place_id: 'ChIJZ0Ep9gmFdUgR-Q59cnqvxpw-394',
     },
   },
   {
@@ -8166,14 +8166,14 @@ module.exports = [
     name: 'Valencia',
     company: 'uber',
     info: {
-      formatted_address: '1800 South Kirkman Road, Orlando, FL 32811, USA',
+      formatted_address: "Valencia, Spain",
       country: {
-        long_name: 'United States',
-        short_name: 'US',
-        types: ['country', 'political'],
+        long_name: "Spain",
+        short_name: "ES",
+        types: ["country", "political"]
       },
-      place_id: 'ChIJzwL2jhh554gRfpxsbwmx9QE',
-    },
+      place_id: "ChIJb7Dv8ExPYA0ROR1_HwFRo7Q"
+    }
   },
   {
     name: 'Vienna',

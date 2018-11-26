@@ -498,13 +498,13 @@ module.exports = [
     name: 'Valencia',
     company: 'cabify',
     info: {
-      formatted_address: '1800 South Kirkman Road, Orlando, FL 32811, USA',
+      formatted_address: 'Valencia, Spain',
       country: {
-        long_name: 'United States',
-        short_name: 'US',
+        long_name: 'Spain',
+        short_name: 'ES',
         types: ['country', 'political'],
       },
-      place_id: 'ChIJzwL2jhh554gRfpxsbwmx9QE',
+      place_id: 'ChIJb7Dv8ExPYA0ROR1_HwFRo7Q',
     },
   },
 ]

@@ -1317,13 +1317,13 @@ module.exports = [
     name: 'Potsdam',
     company: 'blacklane',
     info: {
-      formatted_address: 'Potsdam, NY 13676, USA',
+      formatted_address: 'Potsdam, Germany',
       country: {
-        long_name: 'United States',
-        short_name: 'US',
+        long_name: 'Germany',
+        short_name: 'DE',
         types: ['country', 'political'],
       },
-      place_id: 'ChIJl-PSVsZgzEwRe1tS7kV0d40',
+      place_id: 'ChIJt9Y6hM31qEcRm-yqC5j4ZcU',
     },
   },
   {
@@ -1642,13 +1642,13 @@ module.exports = [
     name: 'Limerick',
     company: 'blacklane',
     info: {
-      formatted_address: '653 W Ridge Pike, Limerick, PA 19468, USA',
+      formatted_address: 'Limerick, Ireland',
       country: {
-        long_name: 'United States',
-        short_name: 'US',
+        long_name: 'Ireland',
+        short_name: 'IE',
         types: ['country', 'political'],
       },
-      place_id: 'ChIJx7NdICWFxokR1-_9kFXaL10',
+      place_id: 'ChIJE1FUH2FcW0gRMHMxl6nHAAo',
     },
   },
   {
@@ -2618,13 +2618,13 @@ module.exports = [
     name: 'Valencia',
     company: 'blacklane',
     info: {
-      formatted_address: '1800 South Kirkman Road, Orlando, FL 32811, USA',
+      formatted_address: 'Valencia, Spain',
       country: {
-        long_name: 'United States',
-        short_name: 'US',
+        long_name: 'Spain',
+        short_name: 'ES',
         types: ['country', 'political'],
       },
-      place_id: 'ChIJzwL2jhh554gRfpxsbwmx9QE',
+      place_id: 'ChIJb7Dv8ExPYA0ROR1_HwFRo7Q',
     },
   },
   {
