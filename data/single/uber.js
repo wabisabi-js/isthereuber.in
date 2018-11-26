@@ -7556,20 +7556,6 @@ module.exports = [
     link: '/en-GB/cities/grenoble/',
   },
   {
-    name: 'Hamburg',
-    company: 'uber',
-    info: {
-      formatted_address: 'Hamburg, Germany',
-      country: {
-        long_name: 'Germany',
-        short_name: 'DE',
-        types: ['country', 'political'],
-      },
-      place_id: 'ChIJuRMYfoNhsUcRoDrWe_I9JgQ',
-    },
-    link: '/en-GB/cities/hamburg/',
-  },
-  {
     name: 'Helsinki',
     company: 'uber',
     info: {
