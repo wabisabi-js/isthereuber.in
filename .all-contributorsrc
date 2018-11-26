@@ -18,6 +18,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "machour",
+      "name": "Mehdi Achour",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/304450?v=4",
+      "profile": "https://twitter.com/mac_hour",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
