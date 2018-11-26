@@ -16,13 +16,13 @@ module.exports = [
     company: "myTaxi",
     name: "Cork",
     info: {
-      formatted_address: "109 E Grande Blvd, Tyler, TX 75703, USA",
+      formatted_address: "Cork, Ireland",
       country: {
-        long_name: "United States",
-        short_name: "US",
+        long_name: "Ireland",
+        short_name: "IE",
         types: ["country", "political"]
       },
-      place_id: "ChIJmV59un3MSYYR3zEvZ_58SCU"
+      place_id: "ChIJYbm-kQiQREgR0MUxl6nHAAo"
     }
   },
   {
@@ -55,26 +55,26 @@ module.exports = [
     company: "myTaxi",
     name: "Limerick",
     info: {
-      formatted_address: "1023 Limerick Ln, Healdsburg, CA 95448, USA",
+      formatted_address: "Limerick, Ireland",
       country: {
-        long_name: "United States",
-        short_name: "US",
+        long_name: "Ireland",
+        short_name: "IE",
         types: ["country", "political"]
       },
-      place_id: "ChIJ8SXGiWAWhIAR2F9fhNvCMK4"
+      place_id: "ChIJE1FUH2FcW0gRMHMxl6nHAAo"
     }
   },
   {
     company: "myTaxi",
     name: "Waterford",
     info: {
-      formatted_address: "Waterford Twp, MI, USA",
+      formatted_address: "Waterford, Ireland",
       country: {
-        long_name: "United States",
-        short_name: "US",
+        long_name: "Ireland",
+        short_name: "IE",
         types: ["country", "political"]
       },
-      place_id: "ChIJgVI6Fka9JIgREvVhuMqAXsY"
+      place_id: "ChIJTeTZY5zGQkgR-7lni4iBu8U"
     }
   },
   {
@@ -185,13 +185,13 @@ module.exports = [
     company: "myTaxi",
     name: "Brighton",
     info: {
-      formatted_address: "233 Branson Landing Blvd, Branson, MO 65616, USA",
+      formatted_address: "Brighton, UK",
       country: {
-        long_name: "United States",
-        short_name: "US",
+        long_name: "United Kingdom",
+        short_name: "UK",
         types: ["country", "political"]
       },
-      place_id: "ChIJEUBrP4MDz4cR5GN82St-394"
+      place_id: "ChIJZ0Ep9gmFdUgR-Q59cnqvxpw-394"
     }
   },
   {
@@ -378,15 +378,15 @@ module.exports = [
   },
   {
     company: "myTaxi",
-    name: "Hanover",
+    name: "Hannover",
     info: {
-      formatted_address: "204 W North St, Hanover, KS 66945, USA",
+      formatted_address: "Hannover, Germany",
       country: {
-        long_name: "United States",
-        short_name: "US",
+        long_name: "Germany",
+        short_name: "DE",
         types: ["country", "political"]
       },
-      place_id: "ChIJk8LCKa0llocR54_qcsyAwAU"
+      place_id: "ChIJhU9JTVELsEcRIEeslG2sJQQ"
     }
   },
   {
@@ -523,13 +523,13 @@ module.exports = [
     company: "myTaxi",
     name: "Potsdam",
     info: {
-      formatted_address: "Potsdam, NY 13676, USA",
+      formatted_address: "Potsdam, Germany",
       country: {
-        long_name: "United States",
-        short_name: "US",
+        long_name: "Germany",
+        short_name: "DE",
         types: ["country", "political"]
       },
-      place_id: "ChIJl-PSVsZgzEwRe1tS7kV0d40"
+      place_id: "ChIJt9Y6hM31qEcRm-yqC5j4ZcU"
     }
   },
   {
@@ -666,13 +666,13 @@ module.exports = [
     company: "myTaxi",
     name: "Valencia",
     info: {
-      formatted_address: "1800 South Kirkman Road, Orlando, FL 32811, USA",
+      formatted_address: "Valencia, Spain",
       country: {
-        long_name: "United States",
-        short_name: "US",
+        long_name: "Spain",
+        short_name: "ES",
         types: ["country", "political"]
       },
-      place_id: "ChIJzwL2jhh554gRfpxsbwmx9QE"
+      place_id: "ChIJb7Dv8ExPYA0ROR1_HwFRo7Q"
     }
   },
   {
