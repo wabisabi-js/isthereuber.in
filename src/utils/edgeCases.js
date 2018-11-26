@@ -31,6 +31,11 @@ const cases = [
     message: 'It is preferred to take Yandex Taxi',
     country: ['russia'],
   },
+  {
+    type: 'service',
+    message: 'There are really few cars',
+    country: ['helsinki'],
+  },
 ]
 
 export default ({
