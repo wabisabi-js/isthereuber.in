@@ -73,6 +73,10 @@ export const Algolia = styled.img`
   }
 `
 
+export const AlgoliaLink = styled.a`
+  position: static;
+`
+
 export const Input = styled.input`
   border: none;
   border-bottom: 1px solid ${props => props.theme.secondary};

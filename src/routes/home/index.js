@@ -2,7 +2,7 @@ import { h, Component } from 'preact'
 import { route } from 'preact-router'
 import Logo from '../../assets/logo.svg'
 import AlgoliaLogo from '../../assets/algolia.svg'
-import { Wrapper, LogoImg, Title, Algolia, Input, Form } from './elements'
+import { Wrapper, LogoImg, Title, Algolia, AlgoliaLink, Input, Form } from './elements'
 import { fixNameB as fixName } from '../../utils/fixName'
 
 export default class Home extends Component {
@@ -35,13 +35,13 @@ export default class Home extends Component {
           </Form>
           ?
         </Title>
-        <a
+        <AlgoliaLink
 	href="https://www.algolia.com"
 	target="_blank"
 	rel="noopener noreferrer"
         >
           <Algolia src={AlgoliaLogo} aria-label="Search by Algolia" />
-        </a>
+        </AlgoliaLink>
       </Wrapper>
     )
   }
