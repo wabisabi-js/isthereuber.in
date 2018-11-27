@@ -15,6 +15,10 @@ const newArray = data.reduce((acc, curr) => {
   if (acc.find(a => curr.info.place_id === a.info.place_id)) {
     const current = acc.find(a => curr.info.place_id === a.info.place_id)
 
+    if (curr.link) {
+      current.link = curr.link
+    }
+
     if (!current.company.includes(curr.company))
       current.company.push(curr.company)
   } else {

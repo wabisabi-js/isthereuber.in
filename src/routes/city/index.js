@@ -15,7 +15,6 @@ import { search } from '../../utils/algolia'
 import edgeCases from '../../utils/edgeCases'
 import ReactCountryFlag from 'react-country-flag'
 import { getAppStoreLink } from '../../utils/appStores'
-import uberData from '../../../data/single/uber'
 
 class City extends Component {
   state = {
@@ -54,8 +53,6 @@ class City extends Component {
 
   render({}, { cities, loaded }) {
     const city = cities[0]
-    const match =
-      city && uberData.find(a => a.info.place_id === city.info.place_id)
 
     if (!loaded) {
       return (
@@ -78,7 +75,7 @@ class City extends Component {
                 </Wrapper>,
                 <a
 	style={{ textDecoration: 'none' }}
-	href={match ? `https://www.uber.com${match.link}` : null}
+	href={`https://www.uber.com${city.link}`}
 	target="_blank"
 	rel="noopener noreferrer"
                 >
