@@ -33,20 +33,20 @@ export default class Home extends Component {
         <Title>
           <label for="search">Is there Uber in</label>
           <Form onSubmit={this.handleSubmit}>
-            <Input
-              type="text"
-              id="search"
-              name="search"
-              value={value}
-              onChange={this.handleChange}
+            <Input 
+	type="text"
+	id="search"
+	name="search"
+	value={value}
+	onChange={this.handleChange}
             />
           </Form>
           ?
         </Title>
-        <AlgoliaLink
-          href="https://www.algolia.com"
-          target="_blank"
-          rel="noopener noreferrer"
+        <AlgoliaLink 
+	href="https://www.algolia.com"
+	target="_blank"
+	rel="noopener noreferrer"
         >
           <Algolia src={AlgoliaLogo} aria-label="Search by Algolia" />
         </AlgoliaLink>
