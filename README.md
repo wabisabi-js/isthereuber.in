@@ -4,30 +4,63 @@
 
 https://isthereuber.in
 
-Check if there is an uber in the town you input
+Check if there is an uber in the city/country you input
 
-Also checks for a lot more providers
-
-## Why
-
-I keep googling this on the internet and also in portugal uber's website is blocked
-
-## Built With
-
-    * Preact
-    * Emotion
-    * react-confetti
+Also checks for a lot more providers. Full list [here](./data/single/)
 
 ## Run Locally
 
 ```sh
-yarn
-yarn dev
+yarn # npm install
+yarn dev # npm run dev
 ```
 
-![Main](https://i.imgur.com/GVOZqEk.png) ![City](https://i.imgur.com/ZSJbba6.png)
+## FAQ
 
-License: MIT
+### Why?
+
+As someone who travels a lot this is something I kept googling when going to a city.
+
+### Why is my city here when it doesn't have uber?
+
+I'm sorry I broke your heart but I get all of this data from the uber website here: https://www.uber.com/en-GB/cities/ because they don't have an API for this so the website is know to be out of date. If this happens please don't yell. You can remove the city [here](./data/single/uber.js) or create an issue but be nice about it.
+
+### I want to add a provider
+
+Dope! If you don't have experience with programming please create an issue with either the link to a place I can get all the cities or just a list of all the cities and I will add it :)
+
+If you have some experience there is a file [here](./data/newProvider.js) you can fill in that will create a new file with all that data so I can merge and push to algolia. There is also a file with the [appStore links](./src/utils/appStores.js) that would be great if you could add too as well. If there is no apps don't worry it will default to no link.
+
+To run the node file go to the terminal and type:
+
+```sh
+node data/newProvider.js
+```
+
+### I tried to run it and it breaks on my machine
+
+There are some problems with the module osmosis in some versions of node so if you don't plan on going to scrape the web please remove it from the dependencies and try again. I will try to change the module for scrapping to avoid this.
+
+### Can I use your data?
+
+Sure! But unfortunately this is on a free algolia thingy so I can't promise any uptime :( You can also use my files if you want.
+
+Here is the info:
+
+```plain
+app: UEHWANDHH2
+read only key: e930d02e3899db88f80b01a000521d56
+index-name: cities
+```
+
+---
+
+## Built With
+
+- Preact
+- Emotion
+- react-confetti
+- Algolia
 
 ## Contributors
 
@@ -39,6 +72,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars3.githubusercontent.com/u/3196685?v=4" width="100px;"/><br /><sub><b>Eduardo</b></sub>](https://eduarmreyes-portfolio.herokuapp.com/)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=eduarmreyes "Code") | [<img src="https://avatars2.githubusercontent.com/u/5872126?v=4" width="100px;"/><br /><sub><b>Eli Schutze</b></sub>](http://twitter.com/elibelly)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=elischutze "Code") | [<img src="https://avatars3.githubusercontent.com/u/2957624?v=4" width="100px;"/><br /><sub><b>Erdi Köse</b></sub>](https://erdkse.com)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=erdkse "Code") | [<img src="https://avatars3.githubusercontent.com/u/499898?v=4" width="100px;"/><br /><sub><b>Eunjae Lee</b></sub>](https://twitter.com/eunjae_lee)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=eunjae-lee "Code") | [<img src="https://avatars3.githubusercontent.com/u/1402241?v=4" width="100px;"/><br /><sub><b>Federico Brigante</b></sub>](https://twitter.com/bfred_it)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=bfred-it "Code") | [<img src="https://avatars1.githubusercontent.com/u/4780756?v=4" width="100px;"/><br /><sub><b>Luke Bonaccorsi</b></sub>](https://lukeb.co.uk)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=lukeb-uk "Code") | [<img src="https://avatars3.githubusercontent.com/u/1500628?v=4" width="100px;"/><br /><sub><b>Nick Barry</b></sub>](https://itsnickbarry.github.io/hyperbolic-canvas)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=ItsNickBarry "Code") |
 | [<img src="https://avatars1.githubusercontent.com/u/2587348?v=4" width="100px;"/><br /><sub><b>Nicolas Goutay</b></sub>](https://phacks.github.io)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=phacks "Code") | [<img src="https://avatars2.githubusercontent.com/u/3277185?v=4" width="100px;"/><br /><sub><b>Renato Ribeiro</b></sub>](http://twitter.com/renatorib_)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=renatorib "Code") | [<img src="https://avatars1.githubusercontent.com/u/5370675?v=4" width="100px;"/><br /><sub><b>Sarah Dayan</b></sub>](http://frontstuff.io)<br />[💻](https://github.com/SaraVieira/uber-cities/commits?author=sarahdayan "Code") |
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
+
+License: [MIT](License.md)

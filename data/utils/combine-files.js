@@ -1,11 +1,10 @@
-require('dotenv').config()
 const requireDir = require('require-dir')
-const companies = requireDir('./single')
-let algoliasearch = require('algoliasearch')
+const companies = requireDir('../single')
+
 // eslint-disable-next-line
 const data = [].concat.apply([], Object.values(companies))
 
-const newArray = data.reduce((acc, curr) => {
+module.exports = data.reduce((acc, curr) => {
   const newItem = {
     ...curr,
     objectID: curr.info.place_id,
@@ -27,10 +26,3 @@ const newArray = data.reduce((acc, curr) => {
 
   return acc
 }, [])
-
-let client = algoliasearch('UEHWANDHH2', process.env.ALGOLIA_KEY)
-let index = client.initIndex('cities')
-
-index.addObjects(newArray, (err, content) => {
-  console.log(content)
-})
