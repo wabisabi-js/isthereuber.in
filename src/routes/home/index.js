@@ -33,7 +33,7 @@ export default class Home extends Component {
         <Title>
           <label for="search">Is there Uber in</label>
           <Form onSubmit={this.handleSubmit}>
-            <Input 
+            <Input
 	type="text"
 	id="search"
 	name="search"
@@ -43,7 +43,7 @@ export default class Home extends Component {
           </Form>
           ?
         </Title>
-        <AlgoliaLink 
+        <AlgoliaLink
 	href="https://www.algolia.com"
 	target="_blank"
 	rel="noopener noreferrer"
