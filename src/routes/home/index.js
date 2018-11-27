@@ -10,7 +10,15 @@ export default class Home extends Component {
     value: '',
   }
 
-  handleChange = e => this.setState({ value: e.target.value })
+  handleChange = e => {
+    this.setState({ 
+      value: e.target.value
+        .toLowerCase()
+        .split(' ')
+        .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
+        .join(' ') 
+      })
+    }
 
   handleSubmit = e => {
     const { value } = this.state
@@ -26,19 +34,19 @@ export default class Home extends Component {
           <label for="search">Is there Uber in</label>
           <Form onSubmit={this.handleSubmit}>
             <Input
-	type="text"
-	id="search"
-	name="search"
-	value={value}
-	onChange={this.handleChange}
+              type="text"
+              id="search"
+              name="search"
+              value={value}
+              onChange={this.handleChange}
             />
           </Form>
           ?
         </Title>
         <AlgoliaLink
-	href="https://www.algolia.com"
-	target="_blank"
-	rel="noopener noreferrer"
+          href="https://www.algolia.com"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <Algolia src={AlgoliaLogo} aria-label="Search by Algolia" />
         </AlgoliaLink>
