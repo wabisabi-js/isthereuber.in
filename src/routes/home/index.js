@@ -10,7 +10,15 @@ export default class Home extends Component {
     value: '',
   }
 
-  handleChange = e => this.setState({ value: e.target.value })
+  handleChange = e => {
+    this.setState({ 
+      value: e.target.value
+        .toLowerCase()
+        .split(' ')
+        .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
+        .join(' ') 
+      })
+    }
 
   handleSubmit = e => {
     const { value } = this.state
