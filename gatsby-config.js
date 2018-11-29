@@ -4,32 +4,38 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    // {
-    //   resolve: `gatsby-plugin-manifest`,
-    //   options: {
-    //     name: 'Is there Uber In ?',
-    //     short_name: 'Uber Cities',
-    //     start_url: '/',
-    //     display: 'standalone',
-    //     orientation: 'portrait',
-    //     background_color: '#430F6E',
-    //     theme_color: '#430F6E',
-    //     icons: [
-    //       {
-    //         src: '/icons/android-chrome-192x192.png',
-    //         type: 'image/png',
-    //         sizes: '192x192',
-    //       },
-    //       {
-    //         src: '/icons/android-chrome-512x512.png',
-    //         type: 'image/png',
-    //         sizes: '512x512',
-    //       },
-    //     ],
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: './src/images/favicon.png',
+
+        appName: 'Is there Uber In ?',
+        developerName: 'Sara Vieira',
+        dir: 'auto',
+        lang: 'en-US',
+        orientation: 'portrait',
+        background_color: '#181743',
+        theme_color: '#181743',
+        display: 'standalone',
+        start_url: '/?homescreen=1',
+        version: '1.0',
+
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: true,
+          coast: false,
+          favicons: true,
+          firefox: true,
+          opengraph: false,
+          twitter: false,
+          yandex: false,
+          windows: false
+        }
+      }
+    },
     `gatsby-plugin-emotion`,
-    'gatsby-plugin-offline',
+    `gatsby-plugin-workbox`,
     {
       resolve: `gatsby-plugin-create-client-paths`,
       options: { prefixes: [`/search/*`] }
