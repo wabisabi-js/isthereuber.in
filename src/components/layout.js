@@ -45,6 +45,7 @@ const Layout = ({ children }) => (
             { name: 'apple-mobile-web-app-capable', content: 'yes' }
           ]}
         >
+          <html lang="en" />
           <meta charset="utf-8" />
           <meta
             name="description"

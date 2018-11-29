@@ -27,13 +27,18 @@ module.exports = {
           android: true,
           appleIcon: true,
           appleStartup: true,
-          coast: false,
           favicons: true,
           firefox: true,
           opengraph: true,
-          twitter: true,
-          yandex: false,
-          windows: false
+          twitter: true
+        }
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Noto Sans SC']
         }
       }
     },

@@ -1,7 +1,6 @@
 import { injectGlobal } from 'react-emotion'
 
 export default injectGlobal`
-  @import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC');
   html, body {
     height: 100%;
     width: 100%;

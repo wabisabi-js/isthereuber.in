@@ -20,6 +20,7 @@
     "gatsby-plugin-robots-txt": "^1.3.0",
     "gatsby-plugin-sharp": "^2.0.13",
     "gatsby-plugin-sitemap": "^2.0.3",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-plugin-workbox": "^0.1.7",
     "gatsby-transformer-sharp": "^2.1.8",
     "lodash.uniqby": "^4.7.0",
