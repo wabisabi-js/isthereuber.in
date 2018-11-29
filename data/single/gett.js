@@ -7,10 +7,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOwg_06VPwokRYv534QaPC8g',
-    },
+      place_id: 'ChIJOwg_06VPwokRYv534QaPC8g'
+    }
   },
   {
     name: 'Bristol',
@@ -20,10 +20,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY-R_jGfwwIcR715DH3KCC_Y',
-    },
+      place_id: 'ChIJY-R_jGfwwIcR715DH3KCC_Y'
+    }
   },
   {
     name: 'London',
@@ -33,10 +33,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdd4hrwug2EcRmSrV3Vo6llI',
-    },
+      place_id: 'ChIJdd4hrwug2EcRmSrV3Vo6llI'
+    }
   },
   {
     name: 'Birmingham',
@@ -46,10 +46,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU',
-    },
+      place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU'
+    }
   },
   {
     name: 'Coventry',
@@ -59,10 +59,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMw1IgLfLwIcR2qFx8BrQOLI',
-    },
+      place_id: 'ChIJMw1IgLfLwIcR2qFx8BrQOLI'
+    }
   },
   {
     name: 'Edinburgh',
@@ -72,10 +72,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIyaYpQC4h0gRJxfnfHsU8mQ',
-    },
+      place_id: 'ChIJIyaYpQC4h0gRJxfnfHsU8mQ'
+    }
   },
   {
     name: 'Glasgow',
@@ -85,10 +85,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ685WIFYViEgRHlHvBbiD5nE',
-    },
+      place_id: 'ChIJ685WIFYViEgRHlHvBbiD5nE'
+    }
   },
   {
     name: 'Manchester',
@@ -98,10 +98,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk',
-    },
+      place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk'
+    }
   },
   {
     name: 'Newcastle',
@@ -111,10 +111,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs',
-    },
+      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs'
+    }
   },
   {
     name: 'Moscow',
@@ -124,10 +124,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJybDUc_xKtUYRTM9XV8zWRD0',
-    },
+      place_id: 'ChIJybDUc_xKtUYRTM9XV8zWRD0'
+    }
   },
   {
     name: 'St. Petersburg',
@@ -137,10 +137,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20',
-    },
+      place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20'
+    }
   },
   {
     name: 'Abakan',
@@ -150,10 +150,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQ7grLbgiLF0RcP1UR8Jzchk',
-    },
+      place_id: 'ChIJQ7grLbgiLF0RcP1UR8Jzchk'
+    }
   },
   {
     name: 'Almetievsk',
@@ -163,10 +163,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRULYclZcYEERd1Hd79bN5MU',
-    },
+      place_id: 'ChIJRULYclZcYEERd1Hd79bN5MU'
+    }
   },
   {
     name: 'Anapa',
@@ -176,10 +176,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLS7bZb4L7kARFd0ZoQIG6hE',
-    },
+      place_id: 'ChIJLS7bZb4L7kARFd0ZoQIG6hE'
+    }
   },
   {
     name: 'Artem',
@@ -190,10 +190,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJoSIeCk17wokRzNHBFHkxs-U',
-    },
+      place_id: 'ChIJoSIeCk17wokRzNHBFHkxs-U'
+    }
   },
   {
     name: 'Arkhangelsk',
@@ -203,10 +203,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4TLCVfczGEQRMZrIekPsPkA',
-    },
+      place_id: 'ChIJ4TLCVfczGEQRMZrIekPsPkA'
+    }
   },
   {
     name: 'Achinsk',
@@ -216,10 +216,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzVFrvC_h1FwRz-0jbHudqyE',
-    },
+      place_id: 'ChIJzVFrvC_h1FwRz-0jbHudqyE'
+    }
   },
   {
     name: 'Barnaul',
@@ -229,10 +229,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq-4ux-ih3UIRA7WHje-757A',
-    },
+      place_id: 'ChIJq-4ux-ih3UIRA7WHje-757A'
+    }
   },
   {
     name: 'Bijsk',
@@ -242,10 +242,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJee_AeR6sxEIRdAkuhs5xtHw',
-    },
+      place_id: 'ChIJee_AeR6sxEIRdAkuhs5xtHw'
+    }
   },
   {
     name: 'Vladivostok',
@@ -255,10 +255,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhdRJUrqcs18RNX6W3dQEZxg',
-    },
+      place_id: 'ChIJhdRJUrqcs18RNX6W3dQEZxg'
+    }
   },
   {
     name: 'Vladimir',
@@ -268,10 +268,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb-jFJdWMtocRjM3FAmyLPvw',
-    },
+      place_id: 'ChIJb-jFJdWMtocRjM3FAmyLPvw'
+    }
   },
   {
     name: 'Volgograd',
@@ -281,10 +281,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ3ZbuHUzBUERQdpXzpwXDYg',
-    },
+      place_id: 'ChIJZ3ZbuHUzBUERQdpXzpwXDYg'
+    }
   },
   {
     name: 'Voronezh',
@@ -294,10 +294,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE-h06FwvO0ERvWKn-w5M2Ug',
-    },
+      place_id: 'ChIJE-h06FwvO0ERvWKn-w5M2Ug'
+    }
   },
   {
     name: 'Gelendzhik',
@@ -307,10 +307,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrbl_Lk6P8UARFjCi8rPAe5w',
-    },
+      place_id: 'ChIJrbl_Lk6P8UARFjCi8rPAe5w'
+    }
   },
   {
     name: 'Gorno-Altajsk',
@@ -320,10 +320,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa0ZN2PtVxEIRc-uh5UNPIxs',
-    },
+      place_id: 'ChIJa0ZN2PtVxEIRc-uh5UNPIxs'
+    }
   },
   {
     name: 'Ekaterinburg',
@@ -333,10 +333,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS9tioOplwUMRIH9W99dDAtU',
-    },
+      place_id: 'ChIJS9tioOplwUMRIH9W99dDAtU'
+    }
   },
   {
     name: 'Essentuki',
@@ -346,10 +346,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYXh_bYKEV0ARmi4nDPAaHZA',
-    },
+      place_id: 'ChIJYXh_bYKEV0ARmi4nDPAaHZA'
+    }
   },
   {
     name: 'Zheleznogorsk',
@@ -359,10 +359,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJNYxVEHB811wR3NplqqJ_bug',
-    },
+      place_id: 'ChIJNYxVEHB811wR3NplqqJ_bug'
+    }
   },
   {
     name: 'Ivanovo',
@@ -372,10 +372,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJw6fpryMUTUERLq5HRZyrJQ4',
-    },
+      place_id: 'ChIJw6fpryMUTUERLq5HRZyrJQ4'
+    }
   },
   {
     name: 'Izhevsk',
@@ -385,10 +385,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsSuOFCA54UMRUuGXgCTr4ac',
-    },
+      place_id: 'ChIJsSuOFCA54UMRUuGXgCTr4ac'
+    }
   },
   {
     name: 'Irkutsk',
@@ -398,10 +398,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZfbiU9M6qF0RTunYVhTN1jE',
-    },
+      place_id: 'ChIJZfbiU9M6qF0RTunYVhTN1jE'
+    }
   },
   {
     name: 'Kazan',
@@ -411,10 +411,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmc2sfCutXkERZYyttbl3y38',
-    },
+      place_id: 'ChIJmc2sfCutXkERZYyttbl3y38'
+    }
   },
   {
     name: 'Kaliningrad',
@@ -424,10 +424,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqSF8S40940YR024SFgCWUFA',
-    },
+      place_id: 'ChIJqSF8S40940YR024SFgCWUFA'
+    }
   },
   {
     name: 'Kaluga',
@@ -437,10 +437,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOTC5ePy5NEERQi7gzTdEWMs',
-    },
+      place_id: 'ChIJOTC5ePy5NEERQi7gzTdEWMs'
+    }
   },
   {
     name: 'Kansk',
@@ -450,10 +450,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR0nYUNXT3lwRqeTOC69EI1Y',
-    },
+      place_id: 'ChIJR0nYUNXT3lwRqeTOC69EI1Y'
+    }
   },
   {
     name: 'Kashira',
@@ -464,10 +464,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt62r25q4woARxpabAc1wv5Q',
-    },
+      place_id: 'ChIJt62r25q4woARxpabAc1wv5Q'
+    }
   },
   {
     name: 'Kemerovo',
@@ -477,10 +477,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj-8xwLkL2EIRTjZxirG0Zb8',
-    },
+      place_id: 'ChIJj-8xwLkL2EIRTjZxirG0Zb8'
+    }
   },
   {
     name: 'Kirov',
@@ -490,10 +490,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwXgOqYD2_EMRZ-A_wlUjKGs',
-    },
+      place_id: 'ChIJwXgOqYD2_EMRZ-A_wlUjKGs'
+    }
   },
   {
     name: 'Kiselevsk',
@@ -503,10 +503,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPQmDapKq0EIRF4wDG2_15Bc',
-    },
+      place_id: 'ChIJPQmDapKq0EIRF4wDG2_15Bc'
+    }
   },
   {
     name: 'Kostroma',
@@ -516,10 +516,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu8dkGfFPrUYRbkybvQThR-U',
-    },
+      place_id: 'ChIJu8dkGfFPrUYRbkybvQThR-U'
+    }
   },
   {
     name: 'Kislovodsk',
@@ -529,10 +529,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeYsI3BErWEARyAUsYVbT-MQ',
-    },
+      place_id: 'ChIJeYsI3BErWEARyAUsYVbT-MQ'
+    }
   },
   {
     name: 'Krasnodar',
@@ -542,10 +542,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJszVFcWRF8EARtr7EVk95IPc',
-    },
+      place_id: 'ChIJszVFcWRF8EARtr7EVk95IPc'
+    }
   },
   {
     name: 'Krasnoyarsk',
@@ -555,10 +555,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4zf_ocmv11wR_0fWj0bhl9U',
-    },
+      place_id: 'ChIJ4zf_ocmv11wR_0fWj0bhl9U'
+    }
   },
   {
     name: 'Kursk',
@@ -568,10 +568,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJz0MUF8ZM3YkRVF5kswLHcv8',
-    },
+      place_id: 'ChIJz0MUF8ZM3YkRVF5kswLHcv8'
+    }
   },
   {
     name: 'Lipetsk',
@@ -581,10 +581,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGaVKJYwUOkERyk3qvfb09Vk',
-    },
+      place_id: 'ChIJGaVKJYwUOkERyk3qvfb09Vk'
+    }
   },
   {
     name: 'Magnitogorsk',
@@ -594,10 +594,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTy75pJMl0UMRaICCZUlXuNw',
-    },
+      place_id: 'ChIJTy75pJMl0UMRaICCZUlXuNw'
+    }
   },
   {
     name: 'Murmansk',
@@ -607,10 +607,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1SIM7TAQNEQRpSHDyzC6xpg',
-    },
+      place_id: 'ChIJ1SIM7TAQNEQRpSHDyzC6xpg'
+    }
   },
   {
     name: 'Mineral Waters',
@@ -620,10 +620,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8yxI9Fof24ARPrcQUGgFDps',
-    },
+      place_id: 'ChIJ8yxI9Fof24ARPrcQUGgFDps'
+    }
   },
   {
     name: 'Naberezhnie Chelny',
@@ -633,10 +633,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJddz3hz4e4EMREFjjxJJxPqA',
-    },
+      place_id: 'ChIJddz3hz4e4EMREFjjxJJxPqA'
+    }
   },
   {
     name: 'Nahodka',
@@ -646,10 +646,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbbJVaTxdsV8R5OX2M6B5Okc',
-    },
+      place_id: 'ChIJbbJVaTxdsV8R5OX2M6B5Okc'
+    }
   },
   {
     name: 'Nizhny Novgorod',
@@ -659,10 +659,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUTID7vnVUUERqleWhM_A0yg',
-    },
+      place_id: 'ChIJUTID7vnVUUERqleWhM_A0yg'
+    }
   },
   {
     name: 'Neftekamsk',
@@ -672,10 +672,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ6WzoNA6g4EMR9HIDwduKuB8',
-    },
+      place_id: 'ChIJ6WzoNA6g4EMR9HIDwduKuB8'
+    }
   },
   {
     name: 'Novokuznetsk',
@@ -685,10 +685,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5Z4iV1fA0EIRQNl8enxpDiM',
-    },
+      place_id: 'ChIJ5Z4iV1fA0EIRQNl8enxpDiM'
+    }
   },
   {
     name: 'Novorossijsk',
@@ -698,10 +698,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3xmnOLsD7kARo3pdg-FWiWI',
-    },
+      place_id: 'ChIJ3xmnOLsD7kARo3pdg-FWiWI'
+    }
   },
   {
     name: 'Novosibirsk',
@@ -711,10 +711,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl03MkOHl30IRhenT4XMGOps',
-    },
+      place_id: 'ChIJl03MkOHl30IRhenT4XMGOps'
+    }
   },
   {
     name: 'Omsk',
@@ -724,10 +724,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCwkB9uL9qkMRGpumYTjD714',
-    },
+      place_id: 'ChIJCwkB9uL9qkMRGpumYTjD714'
+    }
   },
   {
     name: 'Orel',
@@ -737,10 +737,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ85rxeAkaMkERJJS_DFuVubA',
-    },
+      place_id: 'ChIJ85rxeAkaMkERJJS_DFuVubA'
+    }
   },
   {
     name: 'Orenburg',
@@ -750,10 +750,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJldRfmbD3e0ERo9YAcqDY2wA',
-    },
+      place_id: 'ChIJldRfmbD3e0ERo9YAcqDY2wA'
+    }
   },
   {
     name: 'Perm',
@@ -763,10 +763,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC_KG2OHG6EMRDop6uALKSps',
-    },
+      place_id: 'ChIJC_KG2OHG6EMRDop6uALKSps'
+    }
   },
   {
     name: 'Petrozavodsk',
@@ -776,10 +776,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5x-_1z3soUYR1IUEmtiwneQ',
-    },
+      place_id: 'ChIJ5x-_1z3soUYR1IUEmtiwneQ'
+    }
   },
   {
     name: 'Prokopyevsk',
@@ -789,10 +789,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfZObwbOo0EIRBxRqGGq6bTs',
-    },
+      place_id: 'ChIJfZObwbOo0EIRBxRqGGq6bTs'
+    }
   },
   {
     name: 'Pyatigorsk',
@@ -802,10 +802,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDQPjUCp2V0ARhJHwC0pvrV0',
-    },
+      place_id: 'ChIJDQPjUCp2V0ARhJHwC0pvrV0'
+    }
   },
   {
     name: 'Rostov on Don',
@@ -815,10 +815,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ77a0w3fH40ARBE2L5FG0SII',
-    },
+      place_id: 'ChIJ77a0w3fH40ARBE2L5FG0SII'
+    }
   },
   {
     name: "Ryazan'",
@@ -828,10 +828,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn8gRF2ziSUERRxkK7t3K4D4',
-    },
+      place_id: 'ChIJn8gRF2ziSUERRxkK7t3K4D4'
+    }
   },
   {
     name: 'Samara',
@@ -841,10 +841,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ03nYK-IYZkERCwM6u6nNlbo',
-    },
+      place_id: 'ChIJ03nYK-IYZkERCwM6u6nNlbo'
+    }
   },
   {
     name: 'Saransk',
@@ -854,10 +854,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrVB2VgsIREERQWlBoarPoGk',
-    },
+      place_id: 'ChIJrVB2VgsIREERQWlBoarPoGk'
+    }
   },
   {
     name: 'Smolensk',
@@ -867,10 +867,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO1fmBTxUzkYRvcQc8HJOKds',
-    },
+      place_id: 'ChIJO1fmBTxUzkYRvcQc8HJOKds'
+    }
   },
   {
     name: 'Sosnovoborsk',
@@ -880,10 +880,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTcL685-d11wRyWOuKGelNkI',
-    },
+      place_id: 'ChIJTcL685-d11wRyWOuKGelNkI'
+    }
   },
   {
     name: 'Sochi',
@@ -893,10 +893,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI0SDEeHU9UAR-F1daoZhb24',
-    },
+      place_id: 'ChIJI0SDEeHU9UAR-F1daoZhb24'
+    }
   },
   {
     name: "Stavropol'",
@@ -906,10 +906,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ99nVP9ap-UAR8ry1G6QgyCk',
-    },
+      place_id: 'ChIJ99nVP9ap-UAR8ry1G6QgyCk'
+    }
   },
   {
     name: 'Surgut',
@@ -919,10 +919,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTZVPGXOXc0MRR_EBknigHSM',
-    },
+      place_id: 'ChIJTZVPGXOXc0MRR_EBknigHSM'
+    }
   },
   {
     name: "Tver'",
@@ -932,10 +932,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ85RsHauHtkYRnLwz9JU6K_Q',
-    },
+      place_id: 'ChIJ85RsHauHtkYRnLwz9JU6K_Q'
+    }
   },
   {
     name: 'Toliatty',
@@ -945,10 +945,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFc7MAOh4aEERagkNsSdpVQ8',
-    },
+      place_id: 'ChIJFc7MAOh4aEERagkNsSdpVQ8'
+    }
   },
   {
     name: 'Tomsk',
@@ -958,10 +958,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJG0xdtrKTJkMRL-eKmB3xC88',
-    },
+      place_id: 'ChIJG0xdtrKTJkMRL-eKmB3xC88'
+    }
   },
   {
     name: 'Tuapse',
@@ -971,10 +971,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPQFMqAD_80ARMMrXBfoZne0',
-    },
+      place_id: 'ChIJPQFMqAD_80ARMMrXBfoZne0'
+    }
   },
   {
     name: 'Tula',
@@ -984,10 +984,10 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4Uhxqg0t0oURdDhVdw-pV3A',
-    },
+      place_id: 'ChIJ4Uhxqg0t0oURdDhVdw-pV3A'
+    }
   },
   {
     name: 'Tyumen',
@@ -997,10 +997,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJx7ijUV3hu0MRk2ejKmp7E5s',
-    },
+      place_id: 'ChIJx7ijUV3hu0MRk2ejKmp7E5s'
+    }
   },
   {
     name: 'Ulyanovsk',
@@ -1010,10 +1010,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9bNCj182XUER5BsJRwj_UiE',
-    },
+      place_id: 'ChIJ9bNCj182XUER5BsJRwj_UiE'
+    }
   },
   {
     name: 'Ufa',
@@ -1023,10 +1023,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4bwWkiU62UMRzJLaHpLA7qw',
-    },
+      place_id: 'ChIJ4bwWkiU62UMRzJLaHpLA7qw'
+    }
   },
   {
     name: 'Khabarovsk',
@@ -1036,10 +1036,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyYo2sMbp-l4RUH-6Xw68l_o',
-    },
+      place_id: 'ChIJyYo2sMbp-l4RUH-6Xw68l_o'
+    }
   },
   {
     name: 'Cheboksary',
@@ -1049,10 +1049,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFekWffM3WkER2RHsYXcGdHE',
-    },
+      place_id: 'ChIJFekWffM3WkER2RHsYXcGdHE'
+    }
   },
   {
     name: 'Chelyabinsk',
@@ -1062,10 +1062,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjTpKEMuSxUMRvxEXbSpKIu8',
-    },
+      place_id: 'ChIJjTpKEMuSxUMRvxEXbSpKIu8'
+    }
   },
   {
     name: 'Chita',
@@ -1075,10 +1075,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7RjyORU1yl0R2HKu8vovQ3Y',
-    },
+      place_id: 'ChIJ7RjyORU1yl0R2HKu8vovQ3Y'
+    }
   },
   {
     name: 'Elista',
@@ -1088,10 +1088,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJz80_co3RAUER9W14tffun8g',
-    },
+      place_id: 'ChIJz80_co3RAUER9W14tffun8g'
+    }
   },
   {
     name: "Yaroslavl'",
@@ -1101,10 +1101,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJObnsUaCRskYRRYWURBbmyVk',
-    },
+      place_id: 'ChIJObnsUaCRskYRRYWURBbmyVk'
+    }
   },
   {
     name: 'Bat Yam',
@@ -1114,10 +1114,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJi7MrQRKzAhURMpxIzGUalrI',
-    },
+      place_id: 'ChIJi7MrQRKzAhURMpxIzGUalrI'
+    }
   },
   {
     name: 'Bney-Brak',
@@ -1127,10 +1127,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeXLMWyNKHRURhzlCjBfKL6M',
-    },
+      place_id: 'ChIJeXLMWyNKHRURhzlCjBfKL6M'
+    }
   },
   {
     name: 'Givataim',
@@ -1140,10 +1140,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpwmMR7pLHRUR98g1DgIgZ4c',
-    },
+      place_id: 'ChIJpwmMR7pLHRUR98g1DgIgZ4c'
+    }
   },
   {
     name: 'Ramat-Gan',
@@ -1153,10 +1153,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJreSU54ZMHRURb1IX5z6_AC0',
-    },
+      place_id: 'ChIJreSU54ZMHRURb1IX5z6_AC0'
+    }
   },
   {
     name: 'Rehovot',
@@ -1166,10 +1166,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj-W_kgW3AhURV_lYF8v4re4',
-    },
+      place_id: 'ChIJj-W_kgW3AhURV_lYF8v4re4'
+    }
   },
   {
     name: 'Netaniya',
@@ -1179,10 +1179,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1XXAkwRAHRURIj88VL6V2Sw',
-    },
+      place_id: 'ChIJ1XXAkwRAHRURIj88VL6V2Sw'
+    }
   },
   {
     name: 'Kfar Saba',
@@ -1192,10 +1192,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJX5VRIbM5HRURajf6VPPFUI4',
-    },
+      place_id: 'ChIJX5VRIbM5HRURajf6VPPFUI4'
+    }
   },
   {
     name: 'Holon',
@@ -1205,10 +1205,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOb8zDLu0AhURLeclBWR53fs',
-    },
+      place_id: 'ChIJOb8zDLu0AhURLeclBWR53fs'
+    }
   },
   {
     name: 'Tel Aviv',
@@ -1218,10 +1218,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH3w7GaZMHRURkD-WwKJy-8E',
-    },
+      place_id: 'ChIJH3w7GaZMHRURkD-WwKJy-8E'
+    }
   },
   {
     name: 'Haifa',
@@ -1231,10 +1231,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRegNdUy6HRURmlKBKpgjXcM',
-    },
+      place_id: 'ChIJRegNdUy6HRURmlKBKpgjXcM'
+    }
   },
   {
     name: 'Jerusalem',
@@ -1244,10 +1244,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS_zBNNbXAhURy-FuRT5ib9k',
-    },
+      place_id: 'ChIJS_zBNNbXAhURy-FuRT5ib9k'
+    }
   },
   {
     name: 'Rishon Lezion',
@@ -1257,10 +1257,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_2arJzi0AhURuHoaV0rFvBc',
-    },
+      place_id: 'ChIJ_2arJzi0AhURuHoaV0rFvBc'
+    }
   },
   {
     name: 'Petah Tikva',
@@ -1270,10 +1270,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuVMHo3M2HRURPETBIx9l4M0',
-    },
+      place_id: 'ChIJuVMHo3M2HRURPETBIx9l4M0'
+    }
   },
   {
     name: 'Ashdod',
@@ -1283,10 +1283,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7-RHdRGjAhURL2OGWhptgJc',
-    },
+      place_id: 'ChIJ7-RHdRGjAhURL2OGWhptgJc'
+    }
   },
   {
     name: 'Ashkelon',
@@ -1296,18 +1296,18 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc15oQVGcAhURD9ySMB0hcus',
-    },
+      place_id: 'ChIJc15oQVGcAhURD9ySMB0hcus'
+    }
   },
   {
     name: 'Krayot',
     company: 'gett',
     info: {
       formatted_address: 'Krayot',
-      place_id: 'ChIJS6Bm5XjZHBURmGFfTIsLg4Q',
-    },
+      place_id: 'ChIJS6Bm5XjZHBURmGFfTIsLg4Q'
+    }
   },
   {
     name: 'Beer Sheva',
@@ -1317,10 +1317,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd4efAkBmAhUR2F3rLQHo3gg',
-    },
+      place_id: 'ChIJd4efAkBmAhUR2F3rLQHo3gg'
+    }
   },
   {
     name: 'Eilat',
@@ -1330,10 +1330,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC155JONxABUR2_Z3VfiVHf4',
-    },
+      place_id: 'ChIJC155JONxABUR2_Z3VfiVHf4'
+    }
   },
   {
     name: 'New York',
@@ -1343,10 +1343,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOwg_06VPwokRYv534QaPC8g',
-    },
+      place_id: 'ChIJOwg_06VPwokRYv534QaPC8g'
+    }
   },
   {
     name: 'Bristol',
@@ -1356,10 +1356,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY-R_jGfwwIcR715DH3KCC_Y',
-    },
+      place_id: 'ChIJY-R_jGfwwIcR715DH3KCC_Y'
+    }
   },
   {
     name: 'London',
@@ -1369,10 +1369,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdd4hrwug2EcRmSrV3Vo6llI',
-    },
+      place_id: 'ChIJdd4hrwug2EcRmSrV3Vo6llI'
+    }
   },
   {
     name: 'Birmingham',
@@ -1382,10 +1382,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU',
-    },
+      place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU'
+    }
   },
   {
     name: 'Coventry',
@@ -1395,10 +1395,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMw1IgLfLwIcR2qFx8BrQOLI',
-    },
+      place_id: 'ChIJMw1IgLfLwIcR2qFx8BrQOLI'
+    }
   },
   {
     name: 'Edinburgh',
@@ -1408,10 +1408,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIyaYpQC4h0gRJxfnfHsU8mQ',
-    },
+      place_id: 'ChIJIyaYpQC4h0gRJxfnfHsU8mQ'
+    }
   },
   {
     name: 'Glasgow',
@@ -1421,10 +1421,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ685WIFYViEgRHlHvBbiD5nE',
-    },
+      place_id: 'ChIJ685WIFYViEgRHlHvBbiD5nE'
+    }
   },
   {
     name: 'Manchester',
@@ -1434,10 +1434,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk',
-    },
+      place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk'
+    }
   },
   {
     name: 'Newcastle',
@@ -1447,10 +1447,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs',
-    },
+      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs'
+    }
   },
   {
     name: 'Moscow',
@@ -1460,10 +1460,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJybDUc_xKtUYRTM9XV8zWRD0',
-    },
+      place_id: 'ChIJybDUc_xKtUYRTM9XV8zWRD0'
+    }
   },
   {
     name: 'St. Petersburg',
@@ -1473,10 +1473,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20',
-    },
+      place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20'
+    }
   },
   {
     name: 'Abakan',
@@ -1486,10 +1486,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQ7grLbgiLF0RcP1UR8Jzchk',
-    },
+      place_id: 'ChIJQ7grLbgiLF0RcP1UR8Jzchk'
+    }
   },
   {
     name: 'Almetievsk',
@@ -1499,10 +1499,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRULYclZcYEERd1Hd79bN5MU',
-    },
+      place_id: 'ChIJRULYclZcYEERd1Hd79bN5MU'
+    }
   },
   {
     name: 'Anapa',
@@ -1512,10 +1512,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLS7bZb4L7kARFd0ZoQIG6hE',
-    },
+      place_id: 'ChIJLS7bZb4L7kARFd0ZoQIG6hE'
+    }
   },
   {
     name: 'Artem',
@@ -1526,10 +1526,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJoSIeCk17wokRzNHBFHkxs-U',
-    },
+      place_id: 'ChIJoSIeCk17wokRzNHBFHkxs-U'
+    }
   },
   {
     name: 'Arkhangelsk',
@@ -1539,10 +1539,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4TLCVfczGEQRMZrIekPsPkA',
-    },
+      place_id: 'ChIJ4TLCVfczGEQRMZrIekPsPkA'
+    }
   },
   {
     name: 'Achinsk',
@@ -1552,10 +1552,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzVFrvC_h1FwRz-0jbHudqyE',
-    },
+      place_id: 'ChIJzVFrvC_h1FwRz-0jbHudqyE'
+    }
   },
   {
     name: 'Barnaul',
@@ -1565,10 +1565,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq-4ux-ih3UIRA7WHje-757A',
-    },
+      place_id: 'ChIJq-4ux-ih3UIRA7WHje-757A'
+    }
   },
   {
     name: 'Bijsk',
@@ -1578,10 +1578,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJee_AeR6sxEIRdAkuhs5xtHw',
-    },
+      place_id: 'ChIJee_AeR6sxEIRdAkuhs5xtHw'
+    }
   },
   {
     name: 'Vladivostok',
@@ -1591,10 +1591,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhdRJUrqcs18RNX6W3dQEZxg',
-    },
+      place_id: 'ChIJhdRJUrqcs18RNX6W3dQEZxg'
+    }
   },
   {
     name: 'Vladimir',
@@ -1604,10 +1604,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb-jFJdWMtocRjM3FAmyLPvw',
-    },
+      place_id: 'ChIJb-jFJdWMtocRjM3FAmyLPvw'
+    }
   },
   {
     name: 'Volgograd',
@@ -1617,10 +1617,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ3ZbuHUzBUERQdpXzpwXDYg',
-    },
+      place_id: 'ChIJZ3ZbuHUzBUERQdpXzpwXDYg'
+    }
   },
   {
     name: 'Voronezh',
@@ -1630,10 +1630,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE-h06FwvO0ERvWKn-w5M2Ug',
-    },
+      place_id: 'ChIJE-h06FwvO0ERvWKn-w5M2Ug'
+    }
   },
   {
     name: 'Gelendzhik',
@@ -1643,10 +1643,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrbl_Lk6P8UARFjCi8rPAe5w',
-    },
+      place_id: 'ChIJrbl_Lk6P8UARFjCi8rPAe5w'
+    }
   },
   {
     name: 'Gorno-Altajsk',
@@ -1656,10 +1656,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa0ZN2PtVxEIRc-uh5UNPIxs',
-    },
+      place_id: 'ChIJa0ZN2PtVxEIRc-uh5UNPIxs'
+    }
   },
   {
     name: 'Ekaterinburg',
@@ -1669,10 +1669,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS9tioOplwUMRIH9W99dDAtU',
-    },
+      place_id: 'ChIJS9tioOplwUMRIH9W99dDAtU'
+    }
   },
   {
     name: 'Essentuki',
@@ -1682,10 +1682,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYXh_bYKEV0ARmi4nDPAaHZA',
-    },
+      place_id: 'ChIJYXh_bYKEV0ARmi4nDPAaHZA'
+    }
   },
   {
     name: 'Zheleznogorsk',
@@ -1695,10 +1695,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJNYxVEHB811wR3NplqqJ_bug',
-    },
+      place_id: 'ChIJNYxVEHB811wR3NplqqJ_bug'
+    }
   },
   {
     name: 'Ivanovo',
@@ -1708,10 +1708,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJw6fpryMUTUERLq5HRZyrJQ4',
-    },
+      place_id: 'ChIJw6fpryMUTUERLq5HRZyrJQ4'
+    }
   },
   {
     name: 'Izhevsk',
@@ -1721,10 +1721,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsSuOFCA54UMRUuGXgCTr4ac',
-    },
+      place_id: 'ChIJsSuOFCA54UMRUuGXgCTr4ac'
+    }
   },
   {
     name: 'Irkutsk',
@@ -1734,10 +1734,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZfbiU9M6qF0RTunYVhTN1jE',
-    },
+      place_id: 'ChIJZfbiU9M6qF0RTunYVhTN1jE'
+    }
   },
   {
     name: 'Kazan',
@@ -1747,10 +1747,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmc2sfCutXkERZYyttbl3y38',
-    },
+      place_id: 'ChIJmc2sfCutXkERZYyttbl3y38'
+    }
   },
   {
     name: 'Kaliningrad',
@@ -1760,10 +1760,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqSF8S40940YR024SFgCWUFA',
-    },
+      place_id: 'ChIJqSF8S40940YR024SFgCWUFA'
+    }
   },
   {
     name: 'Kaluga',
@@ -1773,10 +1773,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOTC5ePy5NEERQi7gzTdEWMs',
-    },
+      place_id: 'ChIJOTC5ePy5NEERQi7gzTdEWMs'
+    }
   },
   {
     name: 'Kansk',
@@ -1786,10 +1786,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR0nYUNXT3lwRqeTOC69EI1Y',
-    },
+      place_id: 'ChIJR0nYUNXT3lwRqeTOC69EI1Y'
+    }
   },
   {
     name: 'Kashira',
@@ -1800,10 +1800,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt62r25q4woARxpabAc1wv5Q',
-    },
+      place_id: 'ChIJt62r25q4woARxpabAc1wv5Q'
+    }
   },
   {
     name: 'Kemerovo',
@@ -1813,10 +1813,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj-8xwLkL2EIRTjZxirG0Zb8',
-    },
+      place_id: 'ChIJj-8xwLkL2EIRTjZxirG0Zb8'
+    }
   },
   {
     name: 'Kirov',
@@ -1826,10 +1826,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwXgOqYD2_EMRZ-A_wlUjKGs',
-    },
+      place_id: 'ChIJwXgOqYD2_EMRZ-A_wlUjKGs'
+    }
   },
   {
     name: 'Kiselevsk',
@@ -1839,10 +1839,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPQmDapKq0EIRF4wDG2_15Bc',
-    },
+      place_id: 'ChIJPQmDapKq0EIRF4wDG2_15Bc'
+    }
   },
   {
     name: 'Kostroma',
@@ -1852,10 +1852,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu8dkGfFPrUYRbkybvQThR-U',
-    },
+      place_id: 'ChIJu8dkGfFPrUYRbkybvQThR-U'
+    }
   },
   {
     name: 'Kislovodsk',
@@ -1865,10 +1865,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeYsI3BErWEARyAUsYVbT-MQ',
-    },
+      place_id: 'ChIJeYsI3BErWEARyAUsYVbT-MQ'
+    }
   },
   {
     name: 'Krasnodar',
@@ -1878,10 +1878,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJszVFcWRF8EARtr7EVk95IPc',
-    },
+      place_id: 'ChIJszVFcWRF8EARtr7EVk95IPc'
+    }
   },
   {
     name: 'Krasnoyarsk',
@@ -1891,10 +1891,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4zf_ocmv11wR_0fWj0bhl9U',
-    },
+      place_id: 'ChIJ4zf_ocmv11wR_0fWj0bhl9U'
+    }
   },
   {
     name: 'Kursk',
@@ -1904,10 +1904,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJz0MUF8ZM3YkRVF5kswLHcv8',
-    },
+      place_id: 'ChIJz0MUF8ZM3YkRVF5kswLHcv8'
+    }
   },
   {
     name: 'Lipetsk',
@@ -1917,10 +1917,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGaVKJYwUOkERyk3qvfb09Vk',
-    },
+      place_id: 'ChIJGaVKJYwUOkERyk3qvfb09Vk'
+    }
   },
   {
     name: 'Magnitogorsk',
@@ -1930,10 +1930,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTy75pJMl0UMRaICCZUlXuNw',
-    },
+      place_id: 'ChIJTy75pJMl0UMRaICCZUlXuNw'
+    }
   },
   {
     name: 'Murmansk',
@@ -1943,10 +1943,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1SIM7TAQNEQRpSHDyzC6xpg',
-    },
+      place_id: 'ChIJ1SIM7TAQNEQRpSHDyzC6xpg'
+    }
   },
   {
     name: 'Mineral Waters',
@@ -1956,10 +1956,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8yxI9Fof24ARPrcQUGgFDps',
-    },
+      place_id: 'ChIJ8yxI9Fof24ARPrcQUGgFDps'
+    }
   },
   {
     name: 'Naberezhnie Chelny',
@@ -1969,10 +1969,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJddz3hz4e4EMREFjjxJJxPqA',
-    },
+      place_id: 'ChIJddz3hz4e4EMREFjjxJJxPqA'
+    }
   },
   {
     name: 'Nahodka',
@@ -1982,10 +1982,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbbJVaTxdsV8R5OX2M6B5Okc',
-    },
+      place_id: 'ChIJbbJVaTxdsV8R5OX2M6B5Okc'
+    }
   },
   {
     name: 'Nizhny Novgorod',
@@ -1995,10 +1995,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUTID7vnVUUERqleWhM_A0yg',
-    },
+      place_id: 'ChIJUTID7vnVUUERqleWhM_A0yg'
+    }
   },
   {
     name: 'Neftekamsk',
@@ -2008,10 +2008,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ6WzoNA6g4EMR9HIDwduKuB8',
-    },
+      place_id: 'ChIJ6WzoNA6g4EMR9HIDwduKuB8'
+    }
   },
   {
     name: 'Novokuznetsk',
@@ -2021,10 +2021,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5Z4iV1fA0EIRQNl8enxpDiM',
-    },
+      place_id: 'ChIJ5Z4iV1fA0EIRQNl8enxpDiM'
+    }
   },
   {
     name: 'Novorossijsk',
@@ -2034,10 +2034,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3xmnOLsD7kARo3pdg-FWiWI',
-    },
+      place_id: 'ChIJ3xmnOLsD7kARo3pdg-FWiWI'
+    }
   },
   {
     name: 'Novosibirsk',
@@ -2047,10 +2047,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl03MkOHl30IRhenT4XMGOps',
-    },
+      place_id: 'ChIJl03MkOHl30IRhenT4XMGOps'
+    }
   },
   {
     name: 'Omsk',
@@ -2060,10 +2060,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCwkB9uL9qkMRGpumYTjD714',
-    },
+      place_id: 'ChIJCwkB9uL9qkMRGpumYTjD714'
+    }
   },
   {
     name: 'Orel',
@@ -2073,10 +2073,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ85rxeAkaMkERJJS_DFuVubA',
-    },
+      place_id: 'ChIJ85rxeAkaMkERJJS_DFuVubA'
+    }
   },
   {
     name: 'Orenburg',
@@ -2086,10 +2086,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJldRfmbD3e0ERo9YAcqDY2wA',
-    },
+      place_id: 'ChIJldRfmbD3e0ERo9YAcqDY2wA'
+    }
   },
   {
     name: 'Perm',
@@ -2099,10 +2099,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC_KG2OHG6EMRDop6uALKSps',
-    },
+      place_id: 'ChIJC_KG2OHG6EMRDop6uALKSps'
+    }
   },
   {
     name: 'Petrozavodsk',
@@ -2112,10 +2112,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5x-_1z3soUYR1IUEmtiwneQ',
-    },
+      place_id: 'ChIJ5x-_1z3soUYR1IUEmtiwneQ'
+    }
   },
   {
     name: 'Prokopyevsk',
@@ -2125,10 +2125,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfZObwbOo0EIRBxRqGGq6bTs',
-    },
+      place_id: 'ChIJfZObwbOo0EIRBxRqGGq6bTs'
+    }
   },
   {
     name: 'Pyatigorsk',
@@ -2138,10 +2138,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDQPjUCp2V0ARhJHwC0pvrV0',
-    },
+      place_id: 'ChIJDQPjUCp2V0ARhJHwC0pvrV0'
+    }
   },
   {
     name: 'Rostov on Don',
@@ -2151,10 +2151,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ77a0w3fH40ARBE2L5FG0SII',
-    },
+      place_id: 'ChIJ77a0w3fH40ARBE2L5FG0SII'
+    }
   },
   {
     name: "Ryazan'",
@@ -2164,10 +2164,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn8gRF2ziSUERRxkK7t3K4D4',
-    },
+      place_id: 'ChIJn8gRF2ziSUERRxkK7t3K4D4'
+    }
   },
   {
     name: 'Samara',
@@ -2177,10 +2177,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ03nYK-IYZkERCwM6u6nNlbo',
-    },
+      place_id: 'ChIJ03nYK-IYZkERCwM6u6nNlbo'
+    }
   },
   {
     name: 'Saransk',
@@ -2190,10 +2190,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrVB2VgsIREERQWlBoarPoGk',
-    },
+      place_id: 'ChIJrVB2VgsIREERQWlBoarPoGk'
+    }
   },
   {
     name: 'Smolensk',
@@ -2203,10 +2203,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO1fmBTxUzkYRvcQc8HJOKds',
-    },
+      place_id: 'ChIJO1fmBTxUzkYRvcQc8HJOKds'
+    }
   },
   {
     name: 'Sosnovoborsk',
@@ -2216,10 +2216,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTcL685-d11wRyWOuKGelNkI',
-    },
+      place_id: 'ChIJTcL685-d11wRyWOuKGelNkI'
+    }
   },
   {
     name: 'Sochi',
@@ -2229,10 +2229,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI0SDEeHU9UAR-F1daoZhb24',
-    },
+      place_id: 'ChIJI0SDEeHU9UAR-F1daoZhb24'
+    }
   },
   {
     name: "Stavropol'",
@@ -2242,10 +2242,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ99nVP9ap-UAR8ry1G6QgyCk',
-    },
+      place_id: 'ChIJ99nVP9ap-UAR8ry1G6QgyCk'
+    }
   },
   {
     name: 'Surgut',
@@ -2255,10 +2255,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTZVPGXOXc0MRR_EBknigHSM',
-    },
+      place_id: 'ChIJTZVPGXOXc0MRR_EBknigHSM'
+    }
   },
   {
     name: "Tver'",
@@ -2268,10 +2268,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ85RsHauHtkYRnLwz9JU6K_Q',
-    },
+      place_id: 'ChIJ85RsHauHtkYRnLwz9JU6K_Q'
+    }
   },
   {
     name: 'Toliatty',
@@ -2281,10 +2281,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFc7MAOh4aEERagkNsSdpVQ8',
-    },
+      place_id: 'ChIJFc7MAOh4aEERagkNsSdpVQ8'
+    }
   },
   {
     name: 'Tomsk',
@@ -2294,10 +2294,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJG0xdtrKTJkMRL-eKmB3xC88',
-    },
+      place_id: 'ChIJG0xdtrKTJkMRL-eKmB3xC88'
+    }
   },
   {
     name: 'Tuapse',
@@ -2307,10 +2307,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPQFMqAD_80ARMMrXBfoZne0',
-    },
+      place_id: 'ChIJPQFMqAD_80ARMMrXBfoZne0'
+    }
   },
   {
     name: 'Tula',
@@ -2320,10 +2320,10 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4Uhxqg0t0oURdDhVdw-pV3A',
-    },
+      place_id: 'ChIJ4Uhxqg0t0oURdDhVdw-pV3A'
+    }
   },
   {
     name: 'Tyumen',
@@ -2333,10 +2333,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJx7ijUV3hu0MRk2ejKmp7E5s',
-    },
+      place_id: 'ChIJx7ijUV3hu0MRk2ejKmp7E5s'
+    }
   },
   {
     name: 'Ulyanovsk',
@@ -2346,10 +2346,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9bNCj182XUER5BsJRwj_UiE',
-    },
+      place_id: 'ChIJ9bNCj182XUER5BsJRwj_UiE'
+    }
   },
   {
     name: 'Ufa',
@@ -2359,10 +2359,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4bwWkiU62UMRzJLaHpLA7qw',
-    },
+      place_id: 'ChIJ4bwWkiU62UMRzJLaHpLA7qw'
+    }
   },
   {
     name: 'Khabarovsk',
@@ -2372,10 +2372,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyYo2sMbp-l4RUH-6Xw68l_o',
-    },
+      place_id: 'ChIJyYo2sMbp-l4RUH-6Xw68l_o'
+    }
   },
   {
     name: 'Cheboksary',
@@ -2385,10 +2385,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFekWffM3WkER2RHsYXcGdHE',
-    },
+      place_id: 'ChIJFekWffM3WkER2RHsYXcGdHE'
+    }
   },
   {
     name: 'Chelyabinsk',
@@ -2398,10 +2398,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjTpKEMuSxUMRvxEXbSpKIu8',
-    },
+      place_id: 'ChIJjTpKEMuSxUMRvxEXbSpKIu8'
+    }
   },
   {
     name: 'Chita',
@@ -2411,10 +2411,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7RjyORU1yl0R2HKu8vovQ3Y',
-    },
+      place_id: 'ChIJ7RjyORU1yl0R2HKu8vovQ3Y'
+    }
   },
   {
     name: 'Elista',
@@ -2424,10 +2424,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJz80_co3RAUER9W14tffun8g',
-    },
+      place_id: 'ChIJz80_co3RAUER9W14tffun8g'
+    }
   },
   {
     name: "Yaroslavl'",
@@ -2437,10 +2437,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJObnsUaCRskYRRYWURBbmyVk',
-    },
+      place_id: 'ChIJObnsUaCRskYRRYWURBbmyVk'
+    }
   },
   {
     name: 'Bat Yam',
@@ -2450,10 +2450,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJi7MrQRKzAhURMpxIzGUalrI',
-    },
+      place_id: 'ChIJi7MrQRKzAhURMpxIzGUalrI'
+    }
   },
   {
     name: 'Bney-Brak',
@@ -2463,10 +2463,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeXLMWyNKHRURhzlCjBfKL6M',
-    },
+      place_id: 'ChIJeXLMWyNKHRURhzlCjBfKL6M'
+    }
   },
   {
     name: 'Givataim',
@@ -2476,10 +2476,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpwmMR7pLHRUR98g1DgIgZ4c',
-    },
+      place_id: 'ChIJpwmMR7pLHRUR98g1DgIgZ4c'
+    }
   },
   {
     name: 'Ramat-Gan',
@@ -2489,10 +2489,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJreSU54ZMHRURb1IX5z6_AC0',
-    },
+      place_id: 'ChIJreSU54ZMHRURb1IX5z6_AC0'
+    }
   },
   {
     name: 'Rehovot',
@@ -2502,10 +2502,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj-W_kgW3AhURV_lYF8v4re4',
-    },
+      place_id: 'ChIJj-W_kgW3AhURV_lYF8v4re4'
+    }
   },
   {
     name: 'Netaniya',
@@ -2515,10 +2515,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1XXAkwRAHRURIj88VL6V2Sw',
-    },
+      place_id: 'ChIJ1XXAkwRAHRURIj88VL6V2Sw'
+    }
   },
   {
     name: 'Kfar Saba',
@@ -2528,10 +2528,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJX5VRIbM5HRURajf6VPPFUI4',
-    },
+      place_id: 'ChIJX5VRIbM5HRURajf6VPPFUI4'
+    }
   },
   {
     name: 'Holon',
@@ -2541,10 +2541,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOb8zDLu0AhURLeclBWR53fs',
-    },
+      place_id: 'ChIJOb8zDLu0AhURLeclBWR53fs'
+    }
   },
   {
     name: 'Tel Aviv',
@@ -2554,10 +2554,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH3w7GaZMHRURkD-WwKJy-8E',
-    },
+      place_id: 'ChIJH3w7GaZMHRURkD-WwKJy-8E'
+    }
   },
   {
     name: 'Haifa',
@@ -2567,10 +2567,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRegNdUy6HRURmlKBKpgjXcM',
-    },
+      place_id: 'ChIJRegNdUy6HRURmlKBKpgjXcM'
+    }
   },
   {
     name: 'Jerusalem',
@@ -2580,10 +2580,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS_zBNNbXAhURy-FuRT5ib9k',
-    },
+      place_id: 'ChIJS_zBNNbXAhURy-FuRT5ib9k'
+    }
   },
   {
     name: 'Rishon Lezion',
@@ -2593,10 +2593,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_2arJzi0AhURuHoaV0rFvBc',
-    },
+      place_id: 'ChIJ_2arJzi0AhURuHoaV0rFvBc'
+    }
   },
   {
     name: 'Petah Tikva',
@@ -2606,10 +2606,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuVMHo3M2HRURPETBIx9l4M0',
-    },
+      place_id: 'ChIJuVMHo3M2HRURPETBIx9l4M0'
+    }
   },
   {
     name: 'Ashdod',
@@ -2619,10 +2619,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7-RHdRGjAhURL2OGWhptgJc',
-    },
+      place_id: 'ChIJ7-RHdRGjAhURL2OGWhptgJc'
+    }
   },
   {
     name: 'Ashkelon',
@@ -2632,18 +2632,18 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc15oQVGcAhURD9ySMB0hcus',
-    },
+      place_id: 'ChIJc15oQVGcAhURD9ySMB0hcus'
+    }
   },
   {
     name: 'Krayot',
     company: 'gett',
     info: {
       formatted_address: 'Krayot',
-      place_id: 'ChIJS6Bm5XjZHBURmGFfTIsLg4Q',
-    },
+      place_id: 'ChIJS6Bm5XjZHBURmGFfTIsLg4Q'
+    }
   },
   {
     name: 'Beer Sheva',
@@ -2653,10 +2653,10 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd4efAkBmAhUR2F3rLQHo3gg',
-    },
+      place_id: 'ChIJd4efAkBmAhUR2F3rLQHo3gg'
+    }
   },
   {
     name: 'Eilat',
@@ -2666,9 +2666,9 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC155JONxABUR2_Z3VfiVHf4',
-    },
-  },
+      place_id: 'ChIJC155JONxABUR2_Z3VfiVHf4'
+    }
+  }
 ]

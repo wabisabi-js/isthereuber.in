@@ -2,7 +2,7 @@ import React from 'react'
 import { Title, Wrapper, Flex, GoBack } from '../templates/_city.elements'
 import Layout from '../components/layout'
 
-export default ({ pageContext: { city } }) => {
+const NotFound = ({ pageContext: { city } }) => {
   return (
     <Layout>
       <Wrapper>
@@ -24,3 +24,5 @@ export default ({ pageContext: { city } }) => {
     </Layout>
   )
 }
+
+export default NotFound

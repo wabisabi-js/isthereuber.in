@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Is there Uber In ?',
+    title: 'Is there Uber In ?'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -32,7 +32,7 @@ module.exports = {
     'gatsby-plugin-offline',
     {
       resolve: `gatsby-plugin-create-client-paths`,
-      options: { prefixes: [`/search/*`] },
-    },
-  ],
+      options: { prefixes: [`/search/*`] }
+    }
+  ]
 }

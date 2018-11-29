@@ -1,301 +1,301 @@
 module.exports = [
   {
-    name: "Helsinki",
-    company: "Taksini",
+    name: 'Helsinki',
+    company: 'Taksini',
     info: {
-      formatted_address: "Helsinki, Finland",
+      formatted_address: 'Helsinki, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJkQYhlscLkkYRY_fiO4S9Ts0"
+      place_id: 'ChIJkQYhlscLkkYRY_fiO4S9Ts0'
     }
   },
   {
-    name: "Vantaa",
-    company: "Taksini",
+    name: 'Vantaa',
+    company: 'Taksini',
     info: {
-      formatted_address: "Vantaa, Finland",
+      formatted_address: 'Vantaa, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJtUU4OrgHkkYRT4ChMnbNt-I"
+      place_id: 'ChIJtUU4OrgHkkYRT4ChMnbNt-I'
     }
   },
   {
-    name: "Espoo",
-    company: "Taksini",
+    name: 'Espoo',
+    company: 'Taksini',
     info: {
-      formatted_address: "Espoo, Finland",
+      formatted_address: 'Espoo, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJ4Us9pPryjUYRn1MzXbSQuPA"
+      place_id: 'ChIJ4Us9pPryjUYRn1MzXbSQuPA'
     }
   },
   {
-    name: "Kauniainen",
-    company: "Taksini",
+    name: 'Kauniainen',
+    company: 'Taksini',
     info: {
-      formatted_address: "02700 Kauniainen, Finland",
+      formatted_address: '02700 Kauniainen, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJnaI4vA70jUYRwLBLVVG1AAQ"
+      place_id: 'ChIJnaI4vA70jUYRwLBLVVG1AAQ'
     }
   },
   {
-    name: "Askola",
-    company: "Taksini",
+    name: 'Askola',
+    company: 'Taksini',
     info: {
-      formatted_address: "07500 Askola, Finland",
+      formatted_address: '07500 Askola, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJJYKE5aT6kUYRJV4FXaKNVNk"
+      place_id: 'ChIJJYKE5aT6kUYRJV4FXaKNVNk'
     }
   },
   {
-    name: "Hanko",
-    company: "Taksini",
+    name: 'Hanko',
+    company: 'Taksini',
     info: {
-      formatted_address: "Hanko, Finland",
+      formatted_address: 'Hanko, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJ5Ucs8F_ijEYRQSSK-VVfnjE"
+      place_id: 'ChIJ5Ucs8F_ijEYRQSSK-VVfnjE'
     }
   },
   {
-    name: "Hyvinkää",
-    company: "Taksini",
+    name: 'Hyvinkää',
+    company: 'Taksini',
     info: {
-      formatted_address: "Hyvinkää, Finland",
+      formatted_address: 'Hyvinkää, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJOdONsNYIjkYREK1LVVG1AAQ"
+      place_id: 'ChIJOdONsNYIjkYREK1LVVG1AAQ'
     }
   },
   {
-    name: "Inkoo",
-    company: "Taksini",
+    name: 'Inkoo',
+    company: 'Taksini',
     info: {
-      formatted_address: "10210 Ingå, Finland",
+      formatted_address: '10210 Ingå, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJpwaGSDmZjUYRwK1LVVG1AAQ"
+      place_id: 'ChIJpwaGSDmZjUYRwK1LVVG1AAQ'
     }
   },
   {
-    name: "Järvenpää",
-    company: "Taksini",
+    name: 'Järvenpää',
+    company: 'Taksini',
     info: {
-      formatted_address: "Järvenpää, Finland",
+      formatted_address: 'Järvenpää, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJZ4jC0FwAjkYRUK9LVVG1AAQ"
+      place_id: 'ChIJZ4jC0FwAjkYRUK9LVVG1AAQ'
     }
   },
   {
-    name: "Karkkila",
-    company: "Taksini",
+    name: 'Karkkila',
+    company: 'Taksini',
     info: {
-      formatted_address: "03600 Karkkila, Finland",
+      formatted_address: '03600 Karkkila, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJDVOQGHzZjUYRYQ25DauTrwQ"
+      place_id: 'ChIJDVOQGHzZjUYRYQ25DauTrwQ'
     }
   },
   {
-    name: "Kerava",
-    company: "Taksini",
+    name: 'Kerava',
+    company: 'Taksini',
     info: {
-      formatted_address: "04200 Kerava, Finland",
+      formatted_address: '04200 Kerava, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJXVCB3WIAkkYRMLFLVVG1AAQ"
+      place_id: 'ChIJXVCB3WIAkkYRMLFLVVG1AAQ'
     }
   },
   {
-    name: "Kirkkonummi",
-    company: "Taksini",
+    name: 'Kirkkonummi',
+    company: 'Taksini',
     info: {
-      formatted_address: "02400 Kirkkonummi, Finland",
+      formatted_address: '02400 Kirkkonummi, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJkarmmhmMjUYR4LFLVVG1AAQ"
+      place_id: 'ChIJkarmmhmMjUYR4LFLVVG1AAQ'
     }
   },
   {
-    name: "Lohja",
-    company: "Taksini",
+    name: 'Lohja',
+    company: 'Taksini',
     info: {
-      formatted_address: "Lohja, Finland",
+      formatted_address: 'Lohja, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJC6NZcVG_jUYRMLdLVVG1AAQ"
+      place_id: 'ChIJC6NZcVG_jUYRMLdLVVG1AAQ'
     }
   },
   {
-    name: "Loviisa",
-    company: "Taksini",
+    name: 'Loviisa',
+    company: 'Taksini',
     info: {
-      formatted_address: "Lovisa, Finland",
+      formatted_address: 'Lovisa, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJA0AoSzeFkUYRoLZLVVG1AAQ"
+      place_id: 'ChIJA0AoSzeFkUYRoLZLVVG1AAQ'
     }
   },
   {
-    name: "Mäntsälä",
-    company: "Taksini",
+    name: 'Mäntsälä',
+    company: 'Taksini',
     info: {
-      formatted_address: "Mäntsälä, Finland",
+      formatted_address: 'Mäntsälä, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJQ_Wwn1McjkYRxsuRXPp658I"
+      place_id: 'ChIJQ_Wwn1McjkYRxsuRXPp658I'
     }
   },
   {
-    name: "Nurmijärvi",
-    company: "Taksini",
+    name: 'Nurmijärvi',
+    company: 'Taksini',
     info: {
-      formatted_address: "01900 Nurmijärvi, Finland",
+      formatted_address: '01900 Nurmijärvi, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJC8y0LyTjjUYRkLlLVVG1AAQ"
+      place_id: 'ChIJC8y0LyTjjUYRkLlLVVG1AAQ'
     }
   },
   {
-    name: "Pornainen",
-    company: "Taksini",
+    name: 'Pornainen',
+    company: 'Taksini',
     info: {
-      formatted_address: "07170 Pornainen, Finland",
+      formatted_address: '07170 Pornainen, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJf2Y-uUb5kUYRo_xWy4rGlCc"
+      place_id: 'ChIJf2Y-uUb5kUYRo_xWy4rGlCc'
     }
   },
   {
-    name: "Porvoo",
-    company: "Taksini",
+    name: 'Porvoo',
+    company: 'Taksini',
     info: {
-      formatted_address: "Porvoo, Finland",
+      formatted_address: 'Porvoo, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJXZFklC70kUYR57eAlK-GEu0"
+      place_id: 'ChIJXZFklC70kUYR57eAlK-GEu0'
     }
   },
   {
-    name: "Raasepori",
-    company: "Taksini",
+    name: 'Raasepori',
+    company: 'Taksini',
     info: {
-      formatted_address: "10600 Raseborg, Finland",
+      formatted_address: '10600 Raseborg, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJSa_4eEgHjUYRUMFLVVG1AAQ"
+      place_id: 'ChIJSa_4eEgHjUYRUMFLVVG1AAQ'
     }
   },
   {
-    name: "Riihimäki",
-    company: "Taksini",
+    name: 'Riihimäki',
+    company: 'Taksini',
     info: {
-      formatted_address: "Riihimäki, Finland",
+      formatted_address: 'Riihimäki, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJfw7g4F8NjkYR0L1LVVG1AAQ"
+      place_id: 'ChIJfw7g4F8NjkYR0L1LVVG1AAQ'
     }
   },
   {
-    name: "Sipoo",
-    company: "Taksini",
+    name: 'Sipoo',
+    company: 'Taksini',
     info: {
-      formatted_address: "04130 Sipoo, Finland",
+      formatted_address: '04130 Sipoo, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJk1Lvqb4EkkYRsL9LVVG1AAQ"
+      place_id: 'ChIJk1Lvqb4EkkYRsL9LVVG1AAQ'
     }
   },
   {
-    name: "Siuntio",
-    company: "Taksini",
+    name: 'Siuntio',
+    company: 'Taksini',
     info: {
-      formatted_address: "02580 Siuntio, Finland",
+      formatted_address: '02580 Siuntio, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJm42QQuWTjUYR05liG9FlPxM"
+      place_id: 'ChIJm42QQuWTjUYR05liG9FlPxM'
     }
   },
   {
-    name: "Vihti",
-    company: "Taksini",
+    name: 'Vihti',
+    company: 'Taksini',
     info: {
-      formatted_address: "03400 Vihti, Finland",
+      formatted_address: '03400 Vihti, Finland',
       country: {
-        long_name: "Finland",
-        short_name: "FI",
-        types: ["country", "political"]
+        long_name: 'Finland',
+        short_name: 'FI',
+        types: ['country', 'political']
       },
-      place_id: "ChIJVxb4N2fdjUYRiqUa5rVaOWo"
+      place_id: 'ChIJVxb4N2fdjUYRiqUa5rVaOWo'
     }
   }
 ]

@@ -10,9 +10,9 @@ const DraggablePlanet = {
   dragEnd: {
     x: 0,
     y: 0,
-    transition: { type: 'spring' },
+    transition: { type: 'spring' }
   },
-  hoverable: true,
+  hoverable: true
   // hover: {
   //   width: 210,
   //   height: 210,
@@ -27,20 +27,20 @@ const Planet = styled(posed.svg(DraggablePlanet))`
 
 const Eye = posed.g({
   openEyes: {
-    scaleY: 1,
+    scaleY: 1
   },
   closeEyes: {
-    scaleY: 0.1,
-  },
+    scaleY: 0.1
+  }
 })
 
 const Mouth = posed.g({
   openMouth: {
-    scaleY: 1,
+    scaleY: 1
   },
   closeMouth: {
-    scaleY: 0.1,
-  },
+    scaleY: 0.1
+  }
 })
 
 const PlanetInner = posed.g({
@@ -50,15 +50,15 @@ const PlanetInner = posed.g({
       type: 'keyframes',
       values: [0, 5, 0, -5, 0],
       duration: 3500,
-      loop: Infinity,
-    }),
+      loop: Infinity
+    })
   },
   notSearching: {
     rotate: 360,
     transition: () => ({
-      duration: 2500,
-    }),
-  },
+      duration: 2500
+    })
+  }
 })
 
 class Logo extends React.Component {

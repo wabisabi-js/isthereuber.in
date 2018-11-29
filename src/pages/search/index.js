@@ -11,14 +11,14 @@ import Layout from '../../components/layout'
 export default class Search extends Component {
   state = {
     cities: [],
-    loaded: false,
+    loaded: false
   }
 
   search = city => {
     search(city, (err, content) => {
       if (err) {
         this.setState({
-          loaded: true,
+          loaded: true
         })
         console.error(err)
         return
@@ -26,7 +26,7 @@ export default class Search extends Component {
 
       this.setState({
         cities: content.hits,
-        loaded: true,
+        loaded: true
       })
     })
   }
@@ -62,14 +62,14 @@ export default class Search extends Component {
       <Layout>
         <Flex
           style={{
-            textAlign: 'center',
+            textAlign: 'center'
           }}
         >
           <Subtitle>More than one city matches your search</Subtitle>
           <Subtitle>What city did you mean ?</Subtitle>
           <ul>
             {uniqBy(cities, 'name').map(city => (
-              <List>
+              <List key={city.place_id}>
                 <Anchor to={`/${fixNameB(city.name)}`}>
                   {city.name}
                   <ReactCountryFlag code={city.info.country.short_name} />

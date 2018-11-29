@@ -32,7 +32,6 @@ export const Flex = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
   height: 100%;
   max-width: 100%;
   flex-shrink: 0;

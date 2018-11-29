@@ -11,7 +11,7 @@ const theme = {
   primary: '#4a0072',
   secondary: '#e8eaf6',
   white: '#fafafa',
-  black: '#3a3a3a',
+  black: '#3a3a3a'
 }
 
 const Wrapper = styled.main`
@@ -35,28 +35,28 @@ const Layout = ({ children }) => (
       }
     `}
     render={data => (
-      <>
-        <Helmet
+      <>'        \' \'
+       '<Helmet
           title={data.site.siteMetadata.title}
           meta={[
             {
               name: 'description',
-              content: '"Look for ride sharing services in a city',
+              content: '"Look for ride sharing services in a city'
             },
             { name: 'keywords', content: 'uber, ride sharing' },
             { name: 'viewport', content: 'width=device-width,initial-scale=1' },
             { name: 'mobile-web-app-capable', content: 'yes' },
-            { name: 'apple-mobile-web-app-capable', content: 'yes' },
+            { name: 'apple-mobile-web-app-capable', content: 'yes' }
           ]}
         >
           <html lang="en" />
-        </Helmet>
-        <ThemeProvider theme={theme}>
+        </Helmet>'        \' \'
+       '<ThemeProvider theme={theme}>
           <Wrapper>
             <System>{children}</System>
           </Wrapper>
-        </ThemeProvider>
-      </>
+        </ThemeProvider>'        \' \'
+     '</>
     )}
   />
 )

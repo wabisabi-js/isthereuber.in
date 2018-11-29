@@ -6,8 +6,8 @@ const createFile = require('./createFile')
 const cities = [
   {
     name: 'city-name',
-    company: 'your new provider',
-  },
+    company: 'your new provider'
+  }
 ]
 
 // The second param here is the name of the file

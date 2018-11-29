@@ -6,5 +6,6 @@ let client = algoliasearch('UEHWANDHH2', process.env.ALGOLIA_KEY)
 let index = client.initIndex('cities')
 
 index.addObjects(data, (err, content) => {
+  if (err) console.log(err)
   console.log(content)
 })

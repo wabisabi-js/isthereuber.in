@@ -37,6 +37,10 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
+    "test": "run-p format lint",
+    "lint": "run-p lint:**",
+    "lint:js": "eslint . --cache --fix",
+    "lint:css": "stylelint './src/**/*.js'",
     "seed": "node data/seed.js",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate"
@@ -44,15 +48,24 @@
   "devDependencies": {
     "all-contributors-cli": "^5.4.1",
     "dotenv": "^6.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
     "husky": "^1.2.0",
     "if-env": "^1.0.4",
     "isomorphic-fetch": "^2.2.1",
     "jsonfile": "^5.0.0",
     "lint-staged": "^8.1.0",
+    "npm-run-all": "^4.1.5",
     "osmosis": "^1.1.8",
-    "preact-cli": "^2.2.1",
     "prettier": "^1.15.2",
-    "require-dir": "^1.2.0"
+    "require-dir": "^1.2.0",
+    "stylelint": "^9.9.0",
+    "stylelint-config-recommended": "^2.1.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.5.1"
   },
   "lint-staged": {
     "*.js": [

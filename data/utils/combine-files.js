@@ -8,7 +8,7 @@ module.exports = data.reduce((acc, curr) => {
   const newItem = {
     ...curr,
     objectID: curr.info.place_id,
-    company: [curr.company],
+    company: [curr.company]
   }
 
   if (acc.find(a => curr.info.place_id === a.info.place_id)) {
@@ -18,8 +18,7 @@ module.exports = data.reduce((acc, curr) => {
       current.link = curr.link
     }
 
-    if (!current.company.includes(curr.company))
-      current.company.push(curr.company)
+    if (!current.company.includes(curr.company)) { current.company.push(curr.company) }
   } else {
     acc.push(newItem)
   }

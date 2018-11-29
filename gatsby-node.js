@@ -1,6 +1,5 @@
 require('dotenv').config()
 let algoliasearch = require('algoliasearch')
-const { promisify } = require('util')
 const path = require('path')
 const removeAccents = require('remove-accents')
 
@@ -25,8 +24,8 @@ exports.createPages = async ({ graphql, actions }) => {
             path: `/${fixNameB(city.name)}`,
             component: path.resolve(`src/templates/city.js`),
             context: {
-              city,
-            },
+              city
+            }
           })
         })
       )

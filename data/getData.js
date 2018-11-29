@@ -3,8 +3,8 @@ const createFile = require('./createFile')
 
 const substitutions = {
   uber: {
-    'Southern Netherlands': 'Rotterdam',
-  },
+    'Southern Netherlands': 'Rotterdam'
+  }
 }
 
 const fixCityName = (city, company) =>
@@ -21,7 +21,7 @@ module.exports = async ({ url, selector, company }) => {
     .data(data => {
       arr.push({
         name: fixCityName(data.city, company),
-        company,
+        company
       })
     })
     .log(console.log)

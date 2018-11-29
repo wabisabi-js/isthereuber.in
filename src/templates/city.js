@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import Confetti from 'react-confetti'
 import {
   Alternative,
@@ -8,20 +8,20 @@ import {
   Flex,
   Company,
   GoBack,
-  Message,
+  Message
 } from './_city.elements'
 import edgeCases from '../utils/edgeCases'
 import ReactCountryFlag from 'react-country-flag'
 import { getAppStoreLink } from '../utils/appStores'
 import Layout from '../components/layout'
 
-export default ({ pageContext: { city } }) => {
+const City = ({ pageContext: { city } }) => {
   return (
     <Layout>
       <Wrapper>
         <Flex>
           {city.company.includes('uber') ? (
-            [
+            <Fragment>
               <Wrapper>
                 <Confetti
                   width={
@@ -31,7 +31,7 @@ export default ({ pageContext: { city } }) => {
                     typeof window !== 'undefined' ? window.innerHeight : '100%'
                   }
                 />
-              </Wrapper>,
+              </Wrapper>
               <a
                 style={{ textDecoration: 'none' }}
                 href={`https://www.uber.com${city.link}`}
@@ -47,9 +47,9 @@ export default ({ pageContext: { city } }) => {
                     <ReactCountryFlag code={city.info.country.short_name} />
                   ) : null}
                 </Title>
-              </a>,
-              <Message>{edgeCases(city)}</Message>,
-            ]
+              </a>
+              <Message>{edgeCases(city)}</Message>
+            </Fragment>
           ) : (
             <Title>
               NO{' '}
@@ -88,3 +88,5 @@ export default ({ pageContext: { city } }) => {
     </Layout>
   )
 }
+
+export default City

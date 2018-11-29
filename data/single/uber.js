@@ -7,11 +7,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRWkGKjmOVoYRX6kjIr_m2Qc',
+      place_id: 'ChIJRWkGKjmOVoYRX6kjIr_m2Qc'
     },
-    link: '/en-GB/cities/abilene/',
+    link: '/en-GB/cities/abilene/'
   },
   {
     name: 'Aguascalientes',
@@ -21,11 +21,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-9nkOhTsKYQRIFKcZ3hpAQQ',
+      place_id: 'ChIJ-9nkOhTsKYQRIFKcZ3hpAQQ'
     },
-    link: '/en-GB/cities/aguascalientes/',
+    link: '/en-GB/cities/aguascalientes/'
   },
   {
     name: 'Akron',
@@ -35,11 +35,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt_oui5XXMIgRBG0m_ZVsySk',
+      place_id: 'ChIJt_oui5XXMIgRBG0m_ZVsySk'
     },
-    link: '/en-GB/cities/akron/',
+    link: '/en-GB/cities/akron/'
   },
   {
     name: 'Albuquerque',
@@ -49,11 +49,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJe4MJ090KIocR_fbZuM7408A',
+      place_id: 'ChIJe4MJ090KIocR_fbZuM7408A'
     },
-    link: '/en-GB/cities/albuquerque/',
+    link: '/en-GB/cities/albuquerque/'
   },
   {
     name: 'Amarillo',
@@ -63,11 +63,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA89FstRIAYcRr9I2aBzR89A',
+      place_id: 'ChIJA89FstRIAYcRr9I2aBzR89A'
     },
-    link: '/en-GB/cities/amarillo/',
+    link: '/en-GB/cities/amarillo/'
   },
   {
     name: 'Ames',
@@ -77,11 +77,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa6A0RmJw7ocRAFLHPAhWMSc',
+      place_id: 'ChIJa6A0RmJw7ocRAFLHPAhWMSc'
     },
-    link: '/en-GB/cities/ames/',
+    link: '/en-GB/cities/ames/'
   },
   {
     name: 'Anchorage',
@@ -91,11 +91,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQT-zBHaRyFYR42iEp1q6fSU',
+      place_id: 'ChIJQT-zBHaRyFYR42iEp1q6fSU'
     },
-    link: '/en-GB/cities/anchorage/',
+    link: '/en-GB/cities/anchorage/'
   },
   {
     name: 'Ann Arbor',
@@ -105,11 +105,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMx9D1A2wPIgR4rXIhkb5Cds',
+      place_id: 'ChIJMx9D1A2wPIgR4rXIhkb5Cds'
     },
-    link: '/en-GB/cities/ann-arbor/',
+    link: '/en-GB/cities/ann-arbor/'
   },
   {
     name: 'Asheville, NC',
@@ -119,11 +119,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCW8PPKmMWYgRXTo0BsEx75Q',
+      place_id: 'ChIJCW8PPKmMWYgRXTo0BsEx75Q'
     },
-    link: '/en-GB/cities/asheville-nc/',
+    link: '/en-GB/cities/asheville-nc/'
   },
   {
     name: 'Athens',
@@ -133,11 +133,11 @@ module.exports = [
       country: {
         long_name: 'Greece',
         short_name: 'GR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic',
+      place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic'
     },
-    link: '/en-GB/cities/athens/',
+    link: '/en-GB/cities/athens/'
   },
   {
     name: 'Atlanta',
@@ -147,11 +147,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjQmTaV0E9YgRC2MLmS_e_mY',
+      place_id: 'ChIJjQmTaV0E9YgRC2MLmS_e_mY'
     },
-    link: '/en-GB/cities/atlanta/',
+    link: '/en-GB/cities/atlanta/'
   },
   {
     name: 'Auburn',
@@ -161,11 +161,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJg_ibsy_xjIgRWJPTNZKRJcs',
+      place_id: 'ChIJg_ibsy_xjIgRWJPTNZKRJcs'
     },
-    link: '/en-GB/cities/auburn/',
+    link: '/en-GB/cities/auburn/'
   },
   {
     name: 'Augusta',
@@ -175,11 +175,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQaoLFpfQ-YgR5Auq4_2K5z4',
+      place_id: 'ChIJQaoLFpfQ-YgR5Auq4_2K5z4'
     },
-    link: '/en-GB/cities/augusta/',
+    link: '/en-GB/cities/augusta/'
   },
   {
     name: 'Austin',
@@ -189,11 +189,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLwPMoJm1RIYRetVp1EtGm10',
+      place_id: 'ChIJLwPMoJm1RIYRetVp1EtGm10'
     },
-    link: '/en-GB/cities/austin/',
+    link: '/en-GB/cities/austin/'
   },
   {
     name: 'Bakersfield',
@@ -203,11 +203,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDcuUuchr6oARyHT-mAkMNlk',
+      place_id: 'ChIJDcuUuchr6oARyHT-mAkMNlk'
     },
-    link: '/en-GB/cities/bakersfield/',
+    link: '/en-GB/cities/bakersfield/'
   },
   {
     name: 'Baltimore-Maryland',
@@ -217,11 +217,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt4P01q4DyIkRWOcjQqiWSAQ',
+      place_id: 'ChIJt4P01q4DyIkRWOcjQqiWSAQ'
     },
-    link: '/en-GB/cities/baltimore/',
+    link: '/en-GB/cities/baltimore/'
   },
   {
     name: 'Baton Rouge',
@@ -231,11 +231,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy3RfMmc4JIYRHZpXkdvxIyE',
+      place_id: 'ChIJy3RfMmc4JIYRHZpXkdvxIyE'
     },
-    link: '/en-GB/cities/baton-rouge/',
+    link: '/en-GB/cities/baton-rouge/'
   },
   {
     name: 'Beaumont',
@@ -245,11 +245,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVVVVVRUuuocRPbBDWGS1dJU',
+      place_id: 'ChIJVVVVVRUuuocRPbBDWGS1dJU'
     },
-    link: '/en-GB/cities/beaumont/',
+    link: '/en-GB/cities/beaumont/'
   },
   {
     name: 'Bellingham',
@@ -259,11 +259,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF4dF8i6WhVQR8OA5zamcetU',
+      place_id: 'ChIJF4dF8i6WhVQR8OA5zamcetU'
     },
-    link: '/en-GB/cities/bellingham/',
+    link: '/en-GB/cities/bellingham/'
   },
   {
     name: 'Big Island',
@@ -273,11 +273,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWTr3xcHnU3kRNIHX-ZKkVRQ',
+      place_id: 'ChIJWTr3xcHnU3kRNIHX-ZKkVRQ'
     },
-    link: '/en-GB/cities/hawaii/',
+    link: '/en-GB/cities/hawaii/'
   },
   {
     name: 'Billings',
@@ -287,11 +287,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl536iIhvSFMRULV58dRWNTc',
+      place_id: 'ChIJl536iIhvSFMRULV58dRWNTc'
     },
-    link: '/en-GB/cities/billings/',
+    link: '/en-GB/cities/billings/'
   },
   {
     name: 'Birmingham, AL',
@@ -301,11 +301,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU',
+      place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU'
     },
-    link: '/en-GB/cities/birmingham-al/',
+    link: '/en-GB/cities/birmingham-al/'
   },
   {
     name: 'Bismarck',
@@ -315,11 +315,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY-nYVxKD11IRk8q7-RK9qsw',
+      place_id: 'ChIJY-nYVxKD11IRk8q7-RK9qsw'
     },
-    link: '/en-GB/cities/bismarck/',
+    link: '/en-GB/cities/bismarck/'
   },
   {
     name: 'Bloomington, IN',
@@ -329,11 +329,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ59iDtPZdbIgR2TOtiy2RGuk',
+      place_id: 'ChIJ59iDtPZdbIgR2TOtiy2RGuk'
     },
-    link: '/en-GB/cities/bloomington/',
+    link: '/en-GB/cities/bloomington/'
   },
   {
     name: 'Boise',
@@ -343,11 +343,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnbRH6XLxrlQRm51nNpuYW5o',
+      place_id: 'ChIJnbRH6XLxrlQRm51nNpuYW5o'
     },
-    link: '/en-GB/cities/boise/',
+    link: '/en-GB/cities/boise/'
   },
   {
     name: 'Boone',
@@ -357,11 +357,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZVqUaSjRUIgR6ab1eWE0Cm4',
+      place_id: 'ChIJZVqUaSjRUIgR6ab1eWE0Cm4'
     },
-    link: '/en-GB/cities/boone/',
+    link: '/en-GB/cities/boone/'
   },
   {
     name: 'Boston',
@@ -371,11 +371,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGzE9DS1l44kRoOhiASS_fHg',
+      place_id: 'ChIJGzE9DS1l44kRoOhiASS_fHg'
     },
-    link: '/en-GB/cities/boston/',
+    link: '/en-GB/cities/boston/'
   },
   {
     name: 'Bowling Green, KY',
@@ -385,11 +385,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0-T66bzoZYgRTyx5IJCsCqc',
+      place_id: 'ChIJ0-T66bzoZYgRTyx5IJCsCqc'
     },
-    link: '/en-GB/cities/bowling-green-ky/',
+    link: '/en-GB/cities/bowling-green-ky/'
   },
   {
     name: 'Bozeman',
@@ -399,11 +399,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE4i6T0xERVMRqmA792TQ9WM',
+      place_id: 'ChIJE4i6T0xERVMRqmA792TQ9WM'
     },
-    link: '/en-GB/cities/bozeman/',
+    link: '/en-GB/cities/bozeman/'
   },
   {
     name: 'Calgary',
@@ -413,11 +413,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1T-EnwNwcVMROrZStrE7bSY',
+      place_id: 'ChIJ1T-EnwNwcVMROrZStrE7bSY'
     },
-    link: '/en-GB/cities/calgary/',
+    link: '/en-GB/cities/calgary/'
   },
   {
     name: 'Campeche',
@@ -427,11 +427,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFeLHS0LD6IURw_yqe4z3i-Y',
+      place_id: 'ChIJFeLHS0LD6IURw_yqe4z3i-Y'
     },
-    link: '/en-GB/cities/campeche/',
+    link: '/en-GB/cities/campeche/'
   },
   {
     name: 'Cancun',
@@ -441,11 +441,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ21P2rgUrTI8Ris1fYjy3Ms4',
+      place_id: 'ChIJ21P2rgUrTI8Ris1fYjy3Ms4'
     },
-    link: '/en-GB/cities/cancun/',
+    link: '/en-GB/cities/cancun/'
   },
   {
     name: 'Carbondale',
@@ -455,11 +455,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1yELJZerQYcRz0qT93lh0Hc',
+      place_id: 'ChIJ1yELJZerQYcRz0qT93lh0Hc'
     },
-    link: '/en-GB/cities/carbondale/',
+    link: '/en-GB/cities/carbondale/'
   },
   {
     name: 'Cedar Rapids',
@@ -469,11 +469,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUUIvoHpf5IcRwN3mLENg7lU',
+      place_id: 'ChIJUUIvoHpf5IcRwN3mLENg7lU'
     },
-    link: '/en-GB/cities/cedar-rapids/',
+    link: '/en-GB/cities/cedar-rapids/'
   },
   {
     name: 'Celaya',
@@ -483,11 +483,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdcZgHmS6LIQRRyd9mq3Tj5k',
+      place_id: 'ChIJdcZgHmS6LIQRRyd9mq3Tj5k'
     },
-    link: '/en-GB/cities/celaya/',
+    link: '/en-GB/cities/celaya/'
   },
   {
     name: 'Central Atlantic Coast, FL',
@@ -497,11 +497,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHYG9W2YO3ogRXhxt1Jxs6bk',
+      place_id: 'ChIJHYG9W2YO3ogRXhxt1Jxs6bk'
     },
-    link: '/en-GB/cities/daytona-beach/',
+    link: '/en-GB/cities/daytona-beach/'
   },
   {
     name: 'Central Oregon',
@@ -511,11 +511,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVWqfm3xuk1QRdrgLettlTH0',
+      place_id: 'ChIJVWqfm3xuk1QRdrgLettlTH0'
     },
-    link: '/en-GB/cities/eastern-oregon/',
+    link: '/en-GB/cities/eastern-oregon/'
   },
   {
     name: 'Champaign',
@@ -525,11 +525,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJG2mX3o3QDIgRz791tEd49TA',
+      place_id: 'ChIJG2mX3o3QDIgRz791tEd49TA'
     },
-    link: '/en-GB/cities/champaign/',
+    link: '/en-GB/cities/champaign/'
   },
   {
     name: 'Charleston, SC',
@@ -539,11 +539,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdySo3EJ6_ogRa-zhruD3-jU',
+      place_id: 'ChIJdySo3EJ6_ogRa-zhruD3-jU'
     },
-    link: '/en-GB/cities/charleston/',
+    link: '/en-GB/cities/charleston/'
   },
   {
     name: 'Charlotte',
@@ -553,11 +553,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgRo4_MQfVIgRZNFDv-ZQRog',
+      place_id: 'ChIJgRo4_MQfVIgRZNFDv-ZQRog'
     },
-    link: '/en-GB/cities/charlotte/',
+    link: '/en-GB/cities/charlotte/'
   },
   {
     name: 'Charlottesville-Harrisonburg',
@@ -568,11 +568,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjzGKMZyIs4kRXDEgqKfIj5c',
+      place_id: 'ChIJjzGKMZyIs4kRXDEgqKfIj5c'
     },
-    link: '/en-GB/cities/charlottesville-va/',
+    link: '/en-GB/cities/charlottesville-va/'
   },
   {
     name: 'Chattanooga',
@@ -582,11 +582,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJheeDikBgYIgRqiiHiR8mcSQ',
+      place_id: 'ChIJheeDikBgYIgRqiiHiR8mcSQ'
     },
-    link: '/en-GB/cities/chattanooga/',
+    link: '/en-GB/cities/chattanooga/'
   },
   {
     name: 'Chicago',
@@ -596,11 +596,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7cv00DwsDogRAMDACa2m4K8',
+      place_id: 'ChIJ7cv00DwsDogRAMDACa2m4K8'
     },
-    link: '/en-GB/cities/chicago/',
+    link: '/en-GB/cities/chicago/'
   },
   {
     name: 'Chihuahua',
@@ -610,11 +610,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCaSRhS91loYRB36nQFPig5s',
+      place_id: 'ChIJCaSRhS91loYRB36nQFPig5s'
     },
-    link: '/en-GB/cities/chihuahua/',
+    link: '/en-GB/cities/chihuahua/'
   },
   {
     name: 'Cincinnati',
@@ -624,11 +624,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-SE43rFRQIgRF5PA5It--2k',
+      place_id: 'ChIJ-SE43rFRQIgRF5PA5It--2k'
     },
-    link: '/en-GB/cities/cincinnati/',
+    link: '/en-GB/cities/cincinnati/'
   },
   {
     name: 'Ciudad Juarez',
@@ -638,11 +638,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnTILPcte54YRdHmcVABhGQs',
+      place_id: 'ChIJnTILPcte54YRdHmcVABhGQs'
     },
-    link: '/en-GB/cities/ciudad-juarez/',
+    link: '/en-GB/cities/ciudad-juarez/'
   },
   {
     name: 'Ciudad Obregon',
@@ -652,11 +652,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuf91y-EVyIYRrhU1zao4HzE',
+      place_id: 'ChIJuf91y-EVyIYRrhU1zao4HzE'
     },
-    link: '/en-GB/cities/ciudad-obregon/',
+    link: '/en-GB/cities/ciudad-obregon/'
   },
   {
     name: 'Cleveland',
@@ -666,11 +666,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLWto4y7vMIgRQhhi91XLBO0',
+      place_id: 'ChIJLWto4y7vMIgRQhhi91XLBO0'
     },
-    link: '/en-GB/cities/cleveland/',
+    link: '/en-GB/cities/cleveland/'
   },
   {
     name: 'Coastal Georgia',
@@ -680,11 +680,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIYeemZfX5IgR3omZMOZq3xQ',
+      place_id: 'ChIJIYeemZfX5IgR3omZMOZq3xQ'
     },
-    link: '/en-GB/cities/georgia-coast/',
+    link: '/en-GB/cities/georgia-coast/'
   },
   {
     name: "Coeur D'Alene",
@@ -694,11 +694,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj3xVuvi0YVMRkFK_BVuZ5V8',
+      place_id: 'ChIJj3xVuvi0YVMRkFK_BVuZ5V8'
     },
-    link: '/en-GB/cities/coeur-dalene/',
+    link: '/en-GB/cities/coeur-dalene/'
   },
   {
     name: 'College Station',
@@ -708,11 +708,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJozxGGYaERoYRyWq_tk3Hack',
+      place_id: 'ChIJozxGGYaERoYRyWq_tk3Hack'
     },
-    link: '/en-GB/cities/college-station/',
+    link: '/en-GB/cities/college-station/'
   },
   {
     name: 'Colorado Springs',
@@ -722,11 +722,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK9LmoS5BE4cRE2vo9ZLrjkE',
+      place_id: 'ChIJK9LmoS5BE4cRE2vo9ZLrjkE'
     },
-    link: '/en-GB/cities/colorado-springs/',
+    link: '/en-GB/cities/colorado-springs/'
   },
   {
     name: 'Columbia, MO',
@@ -736,11 +736,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyYKBu_Or3IcRIG-9ui1pEaA',
+      place_id: 'ChIJyYKBu_Or3IcRIG-9ui1pEaA'
     },
-    link: '/en-GB/cities/columbia-mo/',
+    link: '/en-GB/cities/columbia-mo/'
   },
   {
     name: 'Columbia, SC',
@@ -750,11 +750,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ49ExeWml-IgRlvp5s_QIKPM',
+      place_id: 'ChIJ49ExeWml-IgRlvp5s_QIKPM'
     },
-    link: '/en-GB/cities/columbia/',
+    link: '/en-GB/cities/columbia/'
   },
   {
     name: 'Columbus',
@@ -764,11 +764,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcd6QucGJOIgRM7Wxz_hmMuQ',
+      place_id: 'ChIJcd6QucGJOIgRM7Wxz_hmMuQ'
     },
-    link: '/en-GB/cities/columbus/',
+    link: '/en-GB/cities/columbus/'
   },
   {
     name: 'Columbus, GA',
@@ -778,11 +778,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9TE1WBvNjIgRYQPh7qlQjHI',
+      place_id: 'ChIJ9TE1WBvNjIgRYQPh7qlQjHI'
     },
-    link: '/en-GB/cities/columbus-ga/',
+    link: '/en-GB/cities/columbus-ga/'
   },
   {
     name: 'Connecticut',
@@ -792,11 +792,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpVER8hFT5okR5XBhBVttmq4',
+      place_id: 'ChIJpVER8hFT5okR5XBhBVttmq4'
     },
-    link: '/en-GB/cities/connecticut/',
+    link: '/en-GB/cities/connecticut/'
   },
   {
     name: 'Cookeville',
@@ -806,11 +806,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWUzxDKcYZ4gRHV5A6ufMTi8',
+      place_id: 'ChIJWUzxDKcYZ4gRHV5A6ufMTi8'
     },
-    link: '/en-GB/cities/cookeville/',
+    link: '/en-GB/cities/cookeville/'
   },
   {
     name: 'Corpus Christi',
@@ -820,11 +820,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs9KSYYBfaIYRj5AOiZNQ0a4',
+      place_id: 'ChIJs9KSYYBfaIYRj5AOiZNQ0a4'
     },
-    link: '/en-GB/cities/corpus-christi/',
+    link: '/en-GB/cities/corpus-christi/'
   },
   {
     name: 'Cuernavaca',
@@ -834,11 +834,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJra8im0nezYURoZC3ubW8tsk',
+      place_id: 'ChIJra8im0nezYURoZC3ubW8tsk'
     },
-    link: '/en-GB/cities/cuernavaca/',
+    link: '/en-GB/cities/cuernavaca/'
   },
   {
     name: 'Culiacan',
@@ -848,11 +848,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj_lHd8fWvIYRzCMt6_Dr2Y0',
+      place_id: 'ChIJj_lHd8fWvIYRzCMt6_Dr2Y0'
     },
-    link: '/en-GB/cities/culiacan/',
+    link: '/en-GB/cities/culiacan/'
   },
   {
     name: 'Dallas-Fort Worth',
@@ -862,11 +862,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS5dFe_cZTIYRj2dH9qSb7Lk',
+      place_id: 'ChIJS5dFe_cZTIYRj2dH9qSb7Lk'
     },
-    link: '/en-GB/cities/dallas/',
+    link: '/en-GB/cities/dallas/'
   },
   {
     name: 'Dayton',
@@ -876,11 +876,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAxTdrtWAQIgR5EwO8pLjQKY',
+      place_id: 'ChIJAxTdrtWAQIgR5EwO8pLjQKY'
     },
-    link: '/en-GB/cities/dayton/',
+    link: '/en-GB/cities/dayton/'
   },
   {
     name: 'Delaware',
@@ -890,11 +890,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO9YMTXYFx4kReOgEjBItHZQ',
+      place_id: 'ChIJO9YMTXYFx4kReOgEjBItHZQ'
     },
-    link: '/en-GB/cities/wilmington-de/',
+    link: '/en-GB/cities/wilmington-de/'
   },
   {
     name: 'Denver',
@@ -904,11 +904,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzxcfI6qAa4cR1jaKJ_j0jhE',
+      place_id: 'ChIJzxcfI6qAa4cR1jaKJ_j0jhE'
     },
-    link: '/en-GB/cities/denver/',
+    link: '/en-GB/cities/denver/'
   },
   {
     name: 'Des Moines',
@@ -918,11 +918,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5x5hwaSZ7ocRsuSRJlEoAHE',
+      place_id: 'ChIJ5x5hwaSZ7ocRsuSRJlEoAHE'
     },
-    link: '/en-GB/cities/des-moines/',
+    link: '/en-GB/cities/des-moines/'
   },
   {
     name: 'Detroit',
@@ -932,11 +932,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdR3LEAHKJIgR0sS5NU6Gdlc',
+      place_id: 'ChIJdR3LEAHKJIgR0sS5NU6Gdlc'
     },
-    link: '/en-GB/cities/detroit/',
+    link: '/en-GB/cities/detroit/'
   },
   {
     name: 'Dickinson',
@@ -946,11 +946,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGX5zSyoeyYkRViBUZ1NlcwU',
+      place_id: 'ChIJGX5zSyoeyYkRViBUZ1NlcwU'
     },
-    link: '/en-GB/cities/dickinson/',
+    link: '/en-GB/cities/dickinson/'
   },
   {
     name: 'Dothan',
@@ -960,11 +960,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjaXCA1SNkogRryfBw72yLy4',
+      place_id: 'ChIJjaXCA1SNkogRryfBw72yLy4'
     },
-    link: '/en-GB/cities/dothan/',
+    link: '/en-GB/cities/dothan/'
   },
   {
     name: 'DuBois',
@@ -974,11 +974,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK4OATIJeTVMR7v8lixrmVDQ',
+      place_id: 'ChIJK4OATIJeTVMR7v8lixrmVDQ'
     },
-    link: '/en-GB/cities/dubois/',
+    link: '/en-GB/cities/dubois/'
   },
   {
     name: 'Dubuque',
@@ -988,11 +988,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ04aKwIQr44cRR3GjJsYevrQ',
+      place_id: 'ChIJ04aKwIQr44cRR3GjJsYevrQ'
     },
-    link: '/en-GB/cities/dubuque/',
+    link: '/en-GB/cities/dubuque/'
   },
   {
     name: 'Duluth',
@@ -1002,11 +1002,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_zcueH5SrlIRcgxY63a__ZA',
+      place_id: 'ChIJ_zcueH5SrlIRcgxY63a__ZA'
     },
-    link: '/en-GB/cities/duluth/',
+    link: '/en-GB/cities/duluth/'
   },
   {
     name: 'Eagle Pass',
@@ -1016,11 +1016,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJz5V7uzSMX4YR5jhfm3T6Mw4',
+      place_id: 'ChIJz5V7uzSMX4YR5jhfm3T6Mw4'
     },
-    link: '/en-GB/cities/eagle-pass/',
+    link: '/en-GB/cities/eagle-pass/'
   },
   {
     name: 'East Alabama',
@@ -1030,11 +1030,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdf5LHzR_hogR6czIUzU0VV4',
+      place_id: 'ChIJdf5LHzR_hogR6czIUzU0VV4'
     },
-    link: '/en-GB/cities/east-alabama/',
+    link: '/en-GB/cities/east-alabama/'
   },
   {
     name: 'Eastern Idaho',
@@ -1044,11 +1044,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIatIYp5eVFMR8_ZiWwP8SMU',
+      place_id: 'ChIJIatIYp5eVFMR8_ZiWwP8SMU'
     },
-    link: '/en-GB/cities/eastern-idaho/',
+    link: '/en-GB/cities/eastern-idaho/'
   },
   {
     name: 'Eastern North Carolina',
@@ -1058,11 +1058,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbdGHuWWerokR-db62EyKtAI',
+      place_id: 'ChIJbdGHuWWerokR-db62EyKtAI'
     },
-    link: '/en-GB/cities/eastern-north-carolina/',
+    link: '/en-GB/cities/eastern-north-carolina/'
   },
   {
     name: 'Eastern Shore',
@@ -1072,11 +1072,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBZSIZChomogRwHoTSQKDyfM',
+      place_id: 'ChIJBZSIZChomogRwHoTSQKDyfM'
     },
-    link: '/en-GB/cities/annapolis/',
+    link: '/en-GB/cities/annapolis/'
   },
   {
     name: 'Eastern Washington',
@@ -1086,11 +1086,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4z_DL6A4nlQRr2cmvozrjLU',
+      place_id: 'ChIJ4z_DL6A4nlQRr2cmvozrjLU'
     },
-    link: '/en-GB/cities/tricities-wa/',
+    link: '/en-GB/cities/tricities-wa/'
   },
   {
     name: 'Eastern WV',
@@ -1100,11 +1100,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJM8SCT4YTtYkRM4kfa55SeN0',
+      place_id: 'ChIJM8SCT4YTtYkRM4kfa55SeN0'
     },
-    link: '/en-GB/cities/morgantown-wv/',
+    link: '/en-GB/cities/morgantown-wv/'
   },
   {
     name: 'Eau Claire',
@@ -1114,11 +1114,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs9ETUBW9-IcRdZOTQ-uLQz0',
+      place_id: 'ChIJs9ETUBW9-IcRdZOTQ-uLQz0'
     },
-    link: '/en-GB/cities/eau-claire/',
+    link: '/en-GB/cities/eau-claire/'
   },
   {
     name: 'Edmonton',
@@ -1128,11 +1128,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI__egEUioFMRXRX2SgygH0E',
+      place_id: 'ChIJI__egEUioFMRXRX2SgygH0E'
     },
-    link: '/en-GB/cities/edmonton/',
+    link: '/en-GB/cities/edmonton/'
   },
   {
     name: 'El Paso',
@@ -1142,11 +1142,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaTv-xYs_54YRIgKdq-OEkeM',
+      place_id: 'ChIJaTv-xYs_54YRIgKdq-OEkeM'
     },
-    link: '/en-GB/cities/el-paso/',
+    link: '/en-GB/cities/el-paso/'
   },
   {
     name: 'Erie',
@@ -1156,11 +1156,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH_eyPeF_LYgRClsdEi6u84k',
+      place_id: 'ChIJH_eyPeF_LYgRClsdEi6u84k'
     },
-    link: '/en-GB/cities/erie/',
+    link: '/en-GB/cities/erie/'
   },
   {
     name: 'Eugene, OR',
@@ -1170,11 +1170,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGRlQrLAZwVQRTYlDSolh7Fc',
+      place_id: 'ChIJGRlQrLAZwVQRTYlDSolh7Fc'
     },
-    link: '/en-GB/cities/eugene-or/',
+    link: '/en-GB/cities/eugene-or/'
   },
   {
     name: 'Evansville, IN',
@@ -1184,11 +1184,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLXdWMRPVcYgRnckqETlJLrU',
+      place_id: 'ChIJLXdWMRPVcYgRnckqETlJLrU'
     },
-    link: '/en-GB/cities/evansville-in/',
+    link: '/en-GB/cities/evansville-in/'
   },
   {
     name: 'Fairbanks',
@@ -1198,11 +1198,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqWX9Z09FMlEROvf-CeAF2LM',
+      place_id: 'ChIJqWX9Z09FMlEROvf-CeAF2LM'
     },
-    link: '/en-GB/cities/fairbanks/',
+    link: '/en-GB/cities/fairbanks/'
   },
   {
     name: 'Fargo - Moorhead',
@@ -1212,11 +1212,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRXFnhI3LyFIRyqqRJ6UwqoE',
+      place_id: 'ChIJRXFnhI3LyFIRyqqRJ6UwqoE'
     },
-    link: '/en-GB/cities/fargo/',
+    link: '/en-GB/cities/fargo/'
   },
   {
     name: 'Fayetteville, AR',
@@ -1226,11 +1226,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnT61L3tvyYcRz8i0_GnwGUU',
+      place_id: 'ChIJnT61L3tvyYcRz8i0_GnwGUU'
     },
-    link: '/en-GB/cities/fayetteville-ar/',
+    link: '/en-GB/cities/fayetteville-ar/'
   },
   {
     name: 'Fayetteville, NC',
@@ -1240,11 +1240,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI0qSQk8Tq4kRmzt2EnWeq6M',
+      place_id: 'ChIJI0qSQk8Tq4kRmzt2EnWeq6M'
     },
-    link: '/en-GB/cities/fayetteville/',
+    link: '/en-GB/cities/fayetteville/'
   },
   {
     name: 'Flagstaff',
@@ -1254,11 +1254,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMSYu2veOLYcRALPbzqE8H44',
+      place_id: 'ChIJMSYu2veOLYcRALPbzqE8H44'
     },
-    link: '/en-GB/cities/flagstaff/',
+    link: '/en-GB/cities/flagstaff/'
   },
   {
     name: 'Flint',
@@ -1268,11 +1268,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF3OXpft4I4gRa2gzjgk6hcE',
+      place_id: 'ChIJF3OXpft4I4gRa2gzjgk6hcE'
     },
-    link: '/en-GB/cities/flint/',
+    link: '/en-GB/cities/flint/'
   },
   {
     name: 'Florence, SC',
@@ -1282,11 +1282,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ6Q_xH9ZmVYgRKh7Z9YE7PKw',
+      place_id: 'ChIJ6Q_xH9ZmVYgRKh7Z9YE7PKw'
     },
-    link: '/en-GB/cities/florence-sc/',
+    link: '/en-GB/cities/florence-sc/'
   },
   {
     name: 'Florida Keys',
@@ -1296,11 +1296,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJteHhqO_Q0IgRBwHZCFdw1Gs',
+      place_id: 'ChIJteHhqO_Q0IgRBwHZCFdw1Gs'
     },
-    link: '/en-GB/cities/florida-keys/',
+    link: '/en-GB/cities/florida-keys/'
   },
   {
     name: 'Fort Collins',
@@ -1310,11 +1310,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrTDwkEVKaYcRgkCrtChCsak',
+      place_id: 'ChIJrTDwkEVKaYcRgkCrtChCsak'
     },
-    link: '/en-GB/cities/fort-collins/',
+    link: '/en-GB/cities/fort-collins/'
   },
   {
     name: 'Fort Myers-Naples',
@@ -1324,11 +1324,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKVSoiQFC24gRiiW6ClMIKcY',
+      place_id: 'ChIJKVSoiQFC24gRiiW6ClMIKcY'
     },
-    link: '/en-GB/cities/fort-myers/',
+    link: '/en-GB/cities/fort-myers/'
   },
   {
     name: 'Fort Wayne',
@@ -1338,11 +1338,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS4Ei_93kFYgRk_dCdhR7B4A',
+      place_id: 'ChIJS4Ei_93kFYgRk_dCdhR7B4A'
     },
-    link: '/en-GB/cities/fort-wayne/',
+    link: '/en-GB/cities/fort-wayne/'
   },
   {
     name: 'Fresno',
@@ -1352,11 +1352,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnU6eVOFdlIAREbijSWRAEns',
+      place_id: 'ChIJnU6eVOFdlIAREbijSWRAEns'
     },
-    link: '/en-GB/cities/fresno/',
+    link: '/en-GB/cities/fresno/'
   },
   {
     name: 'Gainesville',
@@ -1366,11 +1366,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKyy_aSEg5ogRlo0QKF1554A',
+      place_id: 'ChIJKyy_aSEg5ogRlo0QKF1554A'
     },
-    link: '/en-GB/cities/gainesville/',
+    link: '/en-GB/cities/gainesville/'
   },
   {
     name: 'Gallup',
@@ -1380,11 +1380,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJD1RlL43eJIcRTIA7ZQRp1V8',
+      place_id: 'ChIJD1RlL43eJIcRTIA7ZQRp1V8'
     },
-    link: '/en-GB/cities/gallup/',
+    link: '/en-GB/cities/gallup/'
   },
   {
     name: 'Gatineau',
@@ -1394,11 +1394,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU-6rC34azkwRVgkUGnD17Xw',
+      place_id: 'ChIJU-6rC34azkwRVgkUGnD17Xw'
     },
-    link: '/en-GB/cities/gatineau/',
+    link: '/en-GB/cities/gatineau/'
   },
   {
     name: 'Golden Triangle',
@@ -1408,11 +1408,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkTWrPifLTYYR8Ogbw1fElQE',
+      place_id: 'ChIJkTWrPifLTYYR8Ogbw1fElQE'
     },
-    link: '/en-GB/cities/golden-triangle/',
+    link: '/en-GB/cities/golden-triangle/'
   },
   {
     name: 'Grand Forks',
@@ -1422,11 +1422,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJV68WzWBxlIRWj1ffNiUaws',
+      place_id: 'ChIJJV68WzWBxlIRWj1ffNiUaws'
     },
-    link: '/en-GB/cities/grand-forks/',
+    link: '/en-GB/cities/grand-forks/'
   },
   {
     name: 'Grand Rapids',
@@ -1436,11 +1436,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFShQu2BUGIgR0KjTG8uqk6U',
+      place_id: 'ChIJFShQu2BUGIgR0KjTG8uqk6U'
     },
-    link: '/en-GB/cities/grand-rapids/',
+    link: '/en-GB/cities/grand-rapids/'
   },
   {
     name: 'Greater Maine',
@@ -1450,11 +1450,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbRf_Tk9LrkwR9Fpxw396vP4',
+      place_id: 'ChIJbRf_Tk9LrkwR9Fpxw396vP4'
     },
-    link: '/en-GB/cities/maine/',
+    link: '/en-GB/cities/maine/'
   },
   {
     name: 'Greater Williamsport',
@@ -1464,11 +1464,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH6axRpOoz4kR-w4yzx_Fp70',
+      place_id: 'ChIJH6axRpOoz4kR-w4yzx_Fp70'
     },
-    link: '/en-GB/cities/greater-williamsport/',
+    link: '/en-GB/cities/greater-williamsport/'
   },
   {
     name: 'Green Bay',
@@ -1478,11 +1478,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ84CzCejiAogRcfXcFFIEcGM',
+      place_id: 'ChIJ84CzCejiAogRcfXcFFIEcGM'
     },
-    link: '/en-GB/cities/green-bay/',
+    link: '/en-GB/cities/green-bay/'
   },
   {
     name: 'Greenville, SC',
@@ -1492,11 +1492,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBRH6YmaPV4gRlnYlv3edqtg',
+      place_id: 'ChIJBRH6YmaPV4gRlnYlv3edqtg'
     },
-    link: '/en-GB/cities/greenville-sc/',
+    link: '/en-GB/cities/greenville-sc/'
   },
   {
     name: 'Guadalajara',
@@ -1506,11 +1506,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm9MvtYyxKIQRUFeGvwKTPdY',
+      place_id: 'ChIJm9MvtYyxKIQRUFeGvwKTPdY'
     },
-    link: '/en-GB/cities/guadalajara/',
+    link: '/en-GB/cities/guadalajara/'
   },
   {
     name: 'Guanajuato',
@@ -1520,11 +1520,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ6_EMi_VzK4QRdB5XZdGw9CU',
+      place_id: 'ChIJ6_EMi_VzK4QRdB5XZdGw9CU'
     },
-    link: '/en-GB/cities/guanajuato/',
+    link: '/en-GB/cities/guanajuato/'
   },
   {
     name: 'Guasave',
@@ -1534,11 +1534,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJczjs56O_u4YR2V5OIG49B0U',
+      place_id: 'ChIJczjs56O_u4YR2V5OIG49B0U'
     },
-    link: '/en-GB/cities/guasave/',
+    link: '/en-GB/cities/guasave/'
   },
   {
     name: 'Guaymas',
@@ -1548,11 +1548,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7x3QuPQVyYYRhPkF6AJU2ZY',
+      place_id: 'ChIJ7x3QuPQVyYYRhPkF6AJU2ZY'
     },
-    link: '/en-GB/cities/guaymas/',
+    link: '/en-GB/cities/guaymas/'
   },
   {
     name: 'Gulfport-Biloxi',
@@ -1562,11 +1562,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5RQB6G4WnIgRRJWBbkRNYcI',
+      place_id: 'ChIJ5RQB6G4WnIgRRJWBbkRNYcI'
     },
-    link: '/en-GB/cities/gulfportbiloxi/',
+    link: '/en-GB/cities/gulfportbiloxi/'
   },
   {
     name: 'Hamilton',
@@ -1576,11 +1576,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq45aIOiEt4cR2L4lzDbCuj4',
+      place_id: 'ChIJq45aIOiEt4cR2L4lzDbCuj4'
     },
-    link: '/en-GB/cities/hamilton/',
+    link: '/en-GB/cities/hamilton/'
   },
   {
     name: 'Hampton Roads',
@@ -1590,11 +1590,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ6rL34qbuokRlqTU1mq8-9k',
+      place_id: 'ChIJZ6rL34qbuokRlqTU1mq8-9k'
     },
-    link: '/en-GB/cities/virginia-beach/',
+    link: '/en-GB/cities/virginia-beach/'
   },
   {
     name: 'Harrisburg',
@@ -1604,11 +1604,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl54HuBbByIkR1UaNEshCbrs',
+      place_id: 'ChIJl54HuBbByIkR1UaNEshCbrs'
     },
-    link: '/en-GB/cities/harrisburg/',
+    link: '/en-GB/cities/harrisburg/'
   },
   {
     name: 'Hattiesburg, MS',
@@ -1618,11 +1618,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3yio1UncnIgRyrUcLZK_sXQ',
+      place_id: 'ChIJ3yio1UncnIgRyrUcLZK_sXQ'
     },
-    link: '/en-GB/cities/hattiesburg-ms/',
+    link: '/en-GB/cities/hattiesburg-ms/'
   },
   {
     name: 'Hermosillo',
@@ -1632,11 +1632,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5a7femiEzoYR-X-I6ZVTPbM',
+      place_id: 'ChIJ5a7femiEzoYR-X-I6ZVTPbM'
     },
-    link: '/en-GB/cities/hermosillo/',
+    link: '/en-GB/cities/hermosillo/'
   },
   {
     name: 'Honolulu',
@@ -1646,11 +1646,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTUbDjDsYAHwRbJen81_1KEs',
+      place_id: 'ChIJTUbDjDsYAHwRbJen81_1KEs'
     },
-    link: '/en-GB/cities/honolulu/',
+    link: '/en-GB/cities/honolulu/'
   },
   {
     name: 'Houston',
@@ -1660,11 +1660,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAYWNSLS4QIYROwVl894CDco',
+      place_id: 'ChIJAYWNSLS4QIYROwVl894CDco'
     },
-    link: '/en-GB/cities/houston/',
+    link: '/en-GB/cities/houston/'
   },
   {
     name: 'Huntsville, AL',
@@ -1674,11 +1674,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjYmizWdrYogRa1YEyIl-LJo',
+      place_id: 'ChIJjYmizWdrYogRa1YEyIl-LJo'
     },
-    link: '/en-GB/cities/huntsville-al/',
+    link: '/en-GB/cities/huntsville-al/'
   },
   {
     name: 'Indianapolis',
@@ -1688,11 +1688,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA2p5p_9Qa4gRfOq5QPadjtY',
+      place_id: 'ChIJA2p5p_9Qa4gRfOq5QPadjtY'
     },
-    link: '/en-GB/cities/indianapolis/',
+    link: '/en-GB/cities/indianapolis/'
   },
   {
     name: 'Inland Empire',
@@ -1702,11 +1702,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsVgntPM5xYAR17AuvXq8jzI',
+      place_id: 'ChIJsVgntPM5xYAR17AuvXq8jzI'
     },
-    link: '/en-GB/cities/inland-empire/',
+    link: '/en-GB/cities/inland-empire/'
   },
   {
     name: 'Iowa City',
@@ -1716,11 +1716,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF4ggasFB5IcRsIIFh2cYcW0',
+      place_id: 'ChIJF4ggasFB5IcRsIIFh2cYcW0'
     },
-    link: '/en-GB/cities/iowa-city/',
+    link: '/en-GB/cities/iowa-city/'
   },
   {
     name: 'Irapuato',
@@ -1730,11 +1730,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9SR-ex9-LIQRm2jpzR4I_cc',
+      place_id: 'ChIJ9SR-ex9-LIQRm2jpzR4I_cc'
     },
-    link: '/en-GB/cities/irapuato/',
+    link: '/en-GB/cities/irapuato/'
   },
   {
     name: 'Jackson',
@@ -1744,11 +1744,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI',
+      place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI'
     },
-    link: '/en-GB/cities/jackson/',
+    link: '/en-GB/cities/jackson/'
   },
   {
     name: 'Jackson, TN',
@@ -1758,11 +1758,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0XHNiLYFfIgRnRQ7gD12eK4',
+      place_id: 'ChIJ0XHNiLYFfIgRnRQ7gD12eK4'
     },
-    link: '/en-GB/cities/jackson-tn/',
+    link: '/en-GB/cities/jackson-tn/'
   },
   {
     name: 'Jacksonville',
@@ -1772,11 +1772,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ66_O8Ra35YgR4sf8ljh9zcQ',
+      place_id: 'ChIJ66_O8Ra35YgR4sf8ljh9zcQ'
     },
-    link: '/en-GB/cities/jacksonville/',
+    link: '/en-GB/cities/jacksonville/'
   },
   {
     name: 'Johnstown-Altoona',
@@ -1786,11 +1786,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqzntva2Wy4kRGmtADqOboXA',
+      place_id: 'ChIJqzntva2Wy4kRGmtADqOboXA'
     },
-    link: '/en-GB/cities/johnstownaltoona/',
+    link: '/en-GB/cities/johnstownaltoona/'
   },
   {
     name: 'Jonesboro',
@@ -1800,11 +1800,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL-zX3N8o1IcR5u4R_rT1NGA',
+      place_id: 'ChIJL-zX3N8o1IcR5u4R_rT1NGA'
     },
-    link: '/en-GB/cities/jonesboro/',
+    link: '/en-GB/cities/jonesboro/'
   },
   {
     name: 'Juneau',
@@ -1814,11 +1814,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjzpqb2zeAFQREfNprlryXgY',
+      place_id: 'ChIJjzpqb2zeAFQREfNprlryXgY'
     },
-    link: '/en-GB/cities/juneau/',
+    link: '/en-GB/cities/juneau/'
   },
   {
     name: 'Kalamazoo',
@@ -1828,11 +1828,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuZIxSXmdF4gRCTBXSdL4fNo',
+      place_id: 'ChIJuZIxSXmdF4gRCTBXSdL4fNo'
     },
-    link: '/en-GB/cities/kalamazoo/',
+    link: '/en-GB/cities/kalamazoo/'
   },
   {
     name: 'Kansas City',
@@ -1842,11 +1842,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl5npr173wIcRolGqauYlhVU',
+      place_id: 'ChIJl5npr173wIcRolGqauYlhVU'
     },
-    link: '/en-GB/cities/kansas-city/',
+    link: '/en-GB/cities/kansas-city/'
   },
   {
     name: 'Kauai',
@@ -1856,11 +1856,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR7CeJbsEB3wRijctofUaMvY',
+      place_id: 'ChIJR7CeJbsEB3wRijctofUaMvY'
     },
-    link: '/en-GB/cities/kauai/',
+    link: '/en-GB/cities/kauai/'
   },
   {
     name: 'Killeen',
@@ -1870,11 +1870,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXVOYyI9LRYYR2j9j0feBS3k',
+      place_id: 'ChIJXVOYyI9LRYYR2j9j0feBS3k'
     },
-    link: '/en-GB/cities/killeen/',
+    link: '/en-GB/cities/killeen/'
   },
   {
     name: 'Kingston',
@@ -1884,11 +1884,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ4HJLQEP3YkRE8kyWFqJ10E',
+      place_id: 'ChIJJ4HJLQEP3YkRE8kyWFqJ10E'
     },
-    link: '/en-GB/cities/kingston/',
+    link: '/en-GB/cities/kingston/'
   },
   {
     name: 'Kitchener-Waterloo',
@@ -1898,11 +1898,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBVHuA4z0K4gRS1Rf3-b4JZU',
+      place_id: 'ChIJBVHuA4z0K4gRS1Rf3-b4JZU'
     },
-    link: '/en-GB/cities/kitchenerwaterloo/',
+    link: '/en-GB/cities/kitchenerwaterloo/'
   },
   {
     name: 'Knoxville',
@@ -1912,11 +1912,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqULORiIWXIgRxTT1xNqS6ns',
+      place_id: 'ChIJqULORiIWXIgRxTT1xNqS6ns'
     },
-    link: '/en-GB/cities/knoxville/',
+    link: '/en-GB/cities/knoxville/'
   },
   {
     name: 'La Crosse',
@@ -1926,11 +1926,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlbMyZ99U-YcRsCI3GRWIqX8',
+      place_id: 'ChIJlbMyZ99U-YcRsCI3GRWIqX8'
     },
-    link: '/en-GB/cities/la-crosse/',
+    link: '/en-GB/cities/la-crosse/'
   },
   {
     name: 'La Paz, Mexico',
@@ -1940,11 +1940,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVxDa9d7Sr4YRtqPxwOjSdUg',
+      place_id: 'ChIJVxDa9d7Sr4YRtqPxwOjSdUg'
     },
-    link: '/en-GB/cities/la-paz-mexico/',
+    link: '/en-GB/cities/la-paz-mexico/'
   },
   {
     name: 'Lafayette, LA',
@@ -1954,11 +1954,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm9jFZEOcJIYRE__3kiR1Ssk',
+      place_id: 'ChIJm9jFZEOcJIYRE__3kiR1Ssk'
     },
-    link: '/en-GB/cities/lafayette-la/',
+    link: '/en-GB/cities/lafayette-la/'
   },
   {
     name: 'Lancaster, PA',
@@ -1968,11 +1968,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnRLnFlAfxokR1p1HPfkfGoU',
+      place_id: 'ChIJnRLnFlAfxokR1p1HPfkfGoU'
     },
-    link: '/en-GB/cities/lancaster-pa/',
+    link: '/en-GB/cities/lancaster-pa/'
   },
   {
     name: 'Lansing',
@@ -1982,11 +1982,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN4wxfxzAIogRnp0CiSO2eEM',
+      place_id: 'ChIJN4wxfxzAIogRnp0CiSO2eEM'
     },
-    link: '/en-GB/cities/lansing/',
+    link: '/en-GB/cities/lansing/'
   },
   {
     name: 'Laredo',
@@ -1996,11 +1996,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJT35p2zAYIYRkXRWSVN6QLQ',
+      place_id: 'ChIJJT35p2zAYIYRkXRWSVN6QLQ'
     },
-    link: '/en-GB/cities/laredo/',
+    link: '/en-GB/cities/laredo/'
   },
   {
     name: 'Las Cruces',
@@ -2010,11 +2010,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaZgGRcca3oYRvTI_8R3QbWM',
+      place_id: 'ChIJaZgGRcca3oYRvTI_8R3QbWM'
     },
-    link: '/en-GB/cities/las-cruces/',
+    link: '/en-GB/cities/las-cruces/'
   },
   {
     name: 'Las Vegas',
@@ -2024,11 +2024,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0X31pIK3voARo3mz1ebVzDo',
+      place_id: 'ChIJ0X31pIK3voARo3mz1ebVzDo'
     },
-    link: '/en-GB/cities/las-vegas/',
+    link: '/en-GB/cities/las-vegas/'
   },
   {
     name: 'Lawrence',
@@ -2038,11 +2038,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ772KcsAH44kR29UfTrU8HY0',
+      place_id: 'ChIJ772KcsAH44kR29UfTrU8HY0'
     },
-    link: '/en-GB/cities/lawrence/',
+    link: '/en-GB/cities/lawrence/'
   },
   {
     name: 'Lawton',
@@ -2052,11 +2052,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRQ0hWeIerYcRUk5y8sb6LGE',
+      place_id: 'ChIJRQ0hWeIerYcRUk5y8sb6LGE'
     },
-    link: '/en-GB/cities/lawton/',
+    link: '/en-GB/cities/lawton/'
   },
   {
     name: 'Lehigh Valley',
@@ -2066,11 +2066,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ08p65Qc5xIkRXIAf2mtkdrc',
+      place_id: 'ChIJ08p65Qc5xIkRXIAf2mtkdrc'
     },
-    link: '/en-GB/cities/allentown/',
+    link: '/en-GB/cities/allentown/'
   },
   {
     name: 'Leon',
@@ -2080,11 +2080,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRMyoKQXgFYhM',
+      place_id: 'ChIJpS60CuyBt4cRMyoKQXgFYhM'
     },
-    link: '/en-GB/cities/leon/',
+    link: '/en-GB/cities/leon/'
   },
   {
     name: 'Lethbridge',
@@ -2094,11 +2094,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI81a8UqGblMRrr6VYuN4XBw',
+      place_id: 'ChIJI81a8UqGblMRrr6VYuN4XBw'
     },
-    link: '/en-GB/cities/lethbridge/',
+    link: '/en-GB/cities/lethbridge/'
   },
   {
     name: 'Lexington',
@@ -2108,11 +2108,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJeuczClEQogR3U-MkEGD8IQ',
+      place_id: 'ChIJJeuczClEQogR3U-MkEGD8IQ'
     },
-    link: '/en-GB/cities/lexington/',
+    link: '/en-GB/cities/lexington/'
   },
   {
     name: 'Lincoln',
@@ -2122,11 +2122,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs2Jz41WCyYcR01gDA8CmiJw',
+      place_id: 'ChIJs2Jz41WCyYcR01gDA8CmiJw'
     },
-    link: '/en-GB/cities/lincoln/',
+    link: '/en-GB/cities/lincoln/'
   },
   {
     name: 'Little Rock',
@@ -2136,11 +2136,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm1YfoTSh0ocRF1vzDRD1BTQ',
+      place_id: 'ChIJm1YfoTSh0ocRF1vzDRD1BTQ'
     },
-    link: '/en-GB/cities/little-rock/',
+    link: '/en-GB/cities/little-rock/'
   },
   {
     name: 'London, Ont',
@@ -2150,11 +2150,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC5uNqA7yLogRlWsFmmnXxyg',
+      place_id: 'ChIJC5uNqA7yLogRlWsFmmnXxyg'
     },
-    link: '/en-GB/cities/london-ont/',
+    link: '/en-GB/cities/london-ont/'
   },
   {
     name: 'Los Angeles',
@@ -2164,11 +2164,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE9on3F3HwoAR9AhGJW_fL-I',
+      place_id: 'ChIJE9on3F3HwoAR9AhGJW_fL-I'
     },
-    link: '/en-GB/cities/los-angeles/',
+    link: '/en-GB/cities/los-angeles/'
   },
   {
     name: 'Los Cabos',
@@ -2178,11 +2178,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJoQjlifNKr4YRaLiiwWLfpEs',
+      place_id: 'ChIJoQjlifNKr4YRaLiiwWLfpEs'
     },
-    link: '/en-GB/cities/los-cabos/',
+    link: '/en-GB/cities/los-cabos/'
   },
   {
     name: 'Los Mochis',
@@ -2192,11 +2192,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJw-o1tkIvuoYRCIgyUkfDJLY',
+      place_id: 'ChIJw-o1tkIvuoYRCIgyUkfDJLY'
     },
-    link: '/en-GB/cities/los-mochis/',
+    link: '/en-GB/cities/los-mochis/'
   },
   {
     name: 'Louisville',
@@ -2206,11 +2206,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEdVbsxoLaYgRMv1xICi009Q',
+      place_id: 'ChIJEdVbsxoLaYgRMv1xICi009Q'
     },
-    link: '/en-GB/cities/louisville/',
+    link: '/en-GB/cities/louisville/'
   },
   {
     name: 'Lubbock',
@@ -2220,11 +2220,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOd19060S_oYRh0LoIikE8Bo',
+      place_id: 'ChIJOd19060S_oYRh0LoIikE8Bo'
     },
-    link: '/en-GB/cities/lubbock/',
+    link: '/en-GB/cities/lubbock/'
   },
   {
     name: 'Macon',
@@ -2234,11 +2234,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDeOBiEv484gRoaS_8Tx9se4',
+      place_id: 'ChIJDeOBiEv484gRoaS_8Tx9se4'
     },
-    link: '/en-GB/cities/macon/',
+    link: '/en-GB/cities/macon/'
   },
   {
     name: 'Madison',
@@ -2248,11 +2248,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_xkgOm1TBogRmEFIurX8DE4',
+      place_id: 'ChIJ_xkgOm1TBogRmEFIurX8DE4'
     },
-    link: '/en-GB/cities/madison/',
+    link: '/en-GB/cities/madison/'
   },
   {
     name: 'Manhattan',
@@ -2262,11 +2262,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYeZuBI9YwokRjMDs_IEyCwo',
+      place_id: 'ChIJYeZuBI9YwokRjMDs_IEyCwo'
     },
-    link: '/en-GB/cities/manhattan/',
+    link: '/en-GB/cities/manhattan/'
   },
   {
     name: 'Mankato',
@@ -2276,11 +2276,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaYUeBKYw9IcR0E7GWl88Ewc',
+      place_id: 'ChIJaYUeBKYw9IcR0E7GWl88Ewc'
     },
-    link: '/en-GB/cities/mankato/',
+    link: '/en-GB/cities/mankato/'
   },
   {
     name: 'Maui',
@@ -2290,11 +2290,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3WFMzEorVXkRfz4R3EHnQ8w',
+      place_id: 'ChIJ3WFMzEorVXkRfz4R3EHnQ8w'
     },
-    link: '/en-GB/cities/maui/',
+    link: '/en-GB/cities/maui/'
   },
   {
     name: 'Mayaguez',
@@ -2304,11 +2304,11 @@ module.exports = [
       country: {
         long_name: 'Puerto Rico',
         short_name: 'PR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4ZqVo0qyAowR6OdMAqn8EXU',
+      place_id: 'ChIJ4ZqVo0qyAowR6OdMAqn8EXU'
     },
-    link: '/en-GB/cities/mayaguez/',
+    link: '/en-GB/cities/mayaguez/'
   },
   {
     name: 'Mazatlan',
@@ -2318,11 +2318,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwTcYaEFTn4YRsnI88arEpGI',
+      place_id: 'ChIJwTcYaEFTn4YRsnI88arEpGI'
     },
-    link: '/en-GB/cities/mazatlan/',
+    link: '/en-GB/cities/mazatlan/'
   },
   {
     name: 'Memphis',
@@ -2332,11 +2332,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRZdD6h5-1YcR_rYaYBXzk9E',
+      place_id: 'ChIJRZdD6h5-1YcR_rYaYBXzk9E'
     },
-    link: '/en-GB/cities/memphis/',
+    link: '/en-GB/cities/memphis/'
   },
   {
     name: 'Merida',
@@ -2346,11 +2346,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFw1Fq1xxVo8RCeurFVcV_F0',
+      place_id: 'ChIJFw1Fq1xxVo8RCeurFVcV_F0'
     },
-    link: '/en-GB/cities/merida/',
+    link: '/en-GB/cities/merida/'
   },
   {
     name: 'Meridian',
@@ -2360,11 +2360,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cR4xkQKFEkuHw',
+      place_id: 'ChIJpS60CuyBt4cR4xkQKFEkuHw'
     },
-    link: '/en-GB/cities/meridian/',
+    link: '/en-GB/cities/meridian/'
   },
   {
     name: 'Mexicali',
@@ -2374,11 +2374,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0913qAxw14ARmvXN5aAzANQ',
+      place_id: 'ChIJ0913qAxw14ARmvXN5aAzANQ'
     },
-    link: '/en-GB/cities/mexicali/',
+    link: '/en-GB/cities/mexicali/'
   },
   {
     name: 'Mexico City',
@@ -2388,11 +2388,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB3UJ2yYAzoURQeheJnYQBlQ',
+      place_id: 'ChIJB3UJ2yYAzoURQeheJnYQBlQ'
     },
-    link: '/en-GB/cities/mexico-city/',
+    link: '/en-GB/cities/mexico-city/'
   },
   {
     name: 'Miami',
@@ -2402,11 +2402,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEcHIDqKw2YgRZU-t3XHylv8',
+      place_id: 'ChIJEcHIDqKw2YgRZU-t3XHylv8'
     },
-    link: '/en-GB/cities/miami/',
+    link: '/en-GB/cities/miami/'
   },
   {
     name: 'Midland-Odessa',
@@ -2416,11 +2416,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-XwTOWrJ-4YRRl9hVDSrJRY',
+      place_id: 'ChIJ-XwTOWrJ-4YRRl9hVDSrJRY'
     },
-    link: '/en-GB/cities/midland/',
+    link: '/en-GB/cities/midland/'
   },
   {
     name: 'Milwaukee',
@@ -2430,11 +2430,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ50eLV9cCBYgRhHtBtSIZX0Q',
+      place_id: 'ChIJ50eLV9cCBYgRhHtBtSIZX0Q'
     },
-    link: '/en-GB/cities/milwaukee/',
+    link: '/en-GB/cities/milwaukee/'
   },
   {
     name: 'Minneapolis - St. Paul',
@@ -2444,11 +2444,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj1O3W_0p9ocRIKSuqIbBcNA',
+      place_id: 'ChIJj1O3W_0p9ocRIKSuqIbBcNA'
     },
-    link: '/en-GB/cities/minneapolis/',
+    link: '/en-GB/cities/minneapolis/'
   },
   {
     name: 'Mississippi Delta',
@@ -2458,11 +2458,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0XhuuCYOn4gRR2XOdLW0Avs',
+      place_id: 'ChIJ0XhuuCYOn4gRR2XOdLW0Avs'
     },
-    link: '/en-GB/cities/mississippi-delta/',
+    link: '/en-GB/cities/mississippi-delta/'
   },
   {
     name: 'Missoula',
@@ -2472,11 +2472,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy2fzUCrMXVMRLoCUyncS4-k',
+      place_id: 'ChIJy2fzUCrMXVMRLoCUyncS4-k'
     },
-    link: '/en-GB/cities/missoula/',
+    link: '/en-GB/cities/missoula/'
   },
   {
     name: 'Mobile, AL',
@@ -2486,11 +2486,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqfhM8R1OmogRGp6Jd1QO6Ew',
+      place_id: 'ChIJqfhM8R1OmogRGp6Jd1QO6Ew'
     },
-    link: '/en-GB/cities/mobile-al/',
+    link: '/en-GB/cities/mobile-al/'
   },
   {
     name: 'Modesto',
@@ -2500,11 +2500,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUV989PZTkIARK2M3xDK6lL8',
+      place_id: 'ChIJUV989PZTkIARK2M3xDK6lL8'
     },
-    link: '/en-GB/cities/modesto/',
+    link: '/en-GB/cities/modesto/'
   },
   {
     name: 'Monclova',
@@ -2514,11 +2514,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJiWBfvDMkioYRxC0G1qfEgL0',
+      place_id: 'ChIJiWBfvDMkioYRxC0G1qfEgL0'
     },
-    link: '/en-GB/cities/monclova/',
+    link: '/en-GB/cities/monclova/'
   },
   {
     name: 'Monroe',
@@ -2528,11 +2528,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRuoDfVj7tdNg',
+      place_id: 'ChIJpS60CuyBt4cRuoDfVj7tdNg'
     },
-    link: '/en-GB/cities/monroe/',
+    link: '/en-GB/cities/monroe/'
   },
   {
     name: 'Monterrey',
@@ -2542,11 +2542,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9fg3tDGVYoYRlJjIasrT06M',
+      place_id: 'ChIJ9fg3tDGVYoYRlJjIasrT06M'
     },
-    link: '/en-GB/cities/monterrey/',
+    link: '/en-GB/cities/monterrey/'
   },
   {
     name: 'Montgomery, AL',
@@ -2556,11 +2556,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-YHUsJSBjogR_4VCNR1RG44',
+      place_id: 'ChIJ-YHUsJSBjogR_4VCNR1RG44'
     },
-    link: '/en-GB/cities/montgomery/',
+    link: '/en-GB/cities/montgomery/'
   },
   {
     name: 'Montreal',
@@ -2570,11 +2570,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDbdkHFQayUwR7-8fITgxTmU',
+      place_id: 'ChIJDbdkHFQayUwR7-8fITgxTmU'
     },
-    link: '/en-GB/cities/montreal/',
+    link: '/en-GB/cities/montreal/'
   },
   {
     name: 'Morelia',
@@ -2584,11 +2584,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ46edsqILLYQRIIacZ3hpAQQ',
+      place_id: 'ChIJ46edsqILLYQRIIacZ3hpAQQ'
     },
-    link: '/en-GB/cities/morelia/',
+    link: '/en-GB/cities/morelia/'
   },
   {
     name: 'Myrtle Beach',
@@ -2598,11 +2598,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJASFVO5VoAIkRGJbQtRWxD7w',
+      place_id: 'ChIJASFVO5VoAIkRGJbQtRWxD7w'
     },
-    link: '/en-GB/cities/myrtle-beach/',
+    link: '/en-GB/cities/myrtle-beach/'
   },
   {
     name: 'Nacogdoches',
@@ -2612,11 +2612,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJh4cVpF-JN4YR7qP73BYW24g',
+      place_id: 'ChIJh4cVpF-JN4YR7qP73BYW24g'
     },
-    link: '/en-GB/cities/nacogdoches/',
+    link: '/en-GB/cities/nacogdoches/'
   },
   {
     name: 'Nashville',
@@ -2626,11 +2626,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPZDrEzLsZIgRoNrpodC5P30',
+      place_id: 'ChIJPZDrEzLsZIgRoNrpodC5P30'
     },
-    link: '/en-GB/cities/nashville/',
+    link: '/en-GB/cities/nashville/'
   },
   {
     name: 'Navojoa',
@@ -2640,11 +2640,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ35MR8hobuIYR1_q3VdPmiwk',
+      place_id: 'ChIJ35MR8hobuIYR1_q3VdPmiwk'
     },
-    link: '/en-GB/cities/navojoa/',
+    link: '/en-GB/cities/navojoa/'
   },
   {
     name: 'New Hampshire',
@@ -2654,11 +2654,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ66bAnUtEs0wR64CmJa8CyNc',
+      place_id: 'ChIJ66bAnUtEs0wR64CmJa8CyNc'
     },
-    link: '/en-GB/cities/manchester-nh/',
+    link: '/en-GB/cities/manchester-nh/'
   },
   {
     name: 'New Jersey',
@@ -2668,11 +2668,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn0AAnpX7wIkRjW0_-Ad70iw',
+      place_id: 'ChIJn0AAnpX7wIkRjW0_-Ad70iw'
     },
-    link: '/en-GB/cities/new-jersey/',
+    link: '/en-GB/cities/new-jersey/'
   },
   {
     name: 'New Jersey (Shore)',
@@ -2682,11 +2682,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs5GIQ1GdwYkRsoWsQpzbfm8',
+      place_id: 'ChIJs5GIQ1GdwYkRsoWsQpzbfm8'
     },
-    link: '/en-GB/cities/new-jersey-shore/',
+    link: '/en-GB/cities/new-jersey-shore/'
   },
   {
     name: 'New Orleans',
@@ -2696,11 +2696,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZYIRslSkIIYRtNMiXuhbBts',
+      place_id: 'ChIJZYIRslSkIIYRtNMiXuhbBts'
     },
-    link: '/en-GB/cities/new-orleans/',
+    link: '/en-GB/cities/new-orleans/'
   },
   {
     name: 'New York City',
@@ -2710,11 +2710,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOwg_06VPwokRYv534QaPC8g',
+      place_id: 'ChIJOwg_06VPwokRYv534QaPC8g'
     },
-    link: '/en-GB/cities/new-york/',
+    link: '/en-GB/cities/new-york/'
   },
   {
     name: 'Niagara Region',
@@ -2724,11 +2724,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt96TyZ5M04kRliMZDZNGf-8',
+      place_id: 'ChIJt96TyZ5M04kRliMZDZNGf-8'
     },
-    link: '/en-GB/cities/niagara-region/',
+    link: '/en-GB/cities/niagara-region/'
   },
   {
     name: 'Nogales',
@@ -2738,11 +2738,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ78y8Aran1oYRd9n5T3wK3FU',
+      place_id: 'ChIJ78y8Aran1oYRd9n5T3wK3FU'
     },
-    link: '/en-GB/cities/nogales/',
+    link: '/en-GB/cities/nogales/'
   },
   {
     name: 'North Georgia',
@@ -2752,11 +2752,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJT-A2qiVmX4gRKXoTQ1CLE3o',
+      place_id: 'ChIJT-A2qiVmX4gRKXoTQ1CLE3o'
     },
-    link: '/en-GB/cities/north-georgia/',
+    link: '/en-GB/cities/north-georgia/'
   },
   {
     name: 'Northern Missouri',
@@ -2766,11 +2766,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7QmlmLtVxocRNzcgJNd_3WI',
+      place_id: 'ChIJ7QmlmLtVxocRNzcgJNd_3WI'
     },
-    link: '/en-GB/cities/northern-missouri/',
+    link: '/en-GB/cities/northern-missouri/'
   },
   {
     name: 'Nuevo Vallarta',
@@ -2780,11 +2780,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJx1CMEKNGIYQRPWRRqm8GtUw',
+      place_id: 'ChIJx1CMEKNGIYQRPWRRqm8GtUw'
     },
-    link: '/en-GB/cities/nuevo-vallarta/',
+    link: '/en-GB/cities/nuevo-vallarta/'
   },
   {
     name: 'NW Indiana',
@@ -2794,11 +2794,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHRv42bxQa4gRcuwyy84vEH4',
+      place_id: 'ChIJHRv42bxQa4gRcuwyy84vEH4'
     },
-    link: '/en-GB/cities/nw-indiana/',
+    link: '/en-GB/cities/nw-indiana/'
   },
   {
     name: 'NYC Suburbs',
@@ -2808,11 +2808,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk6mJ2gBZwokRZKrWZXFPiaM',
+      place_id: 'ChIJk6mJ2gBZwokRZKrWZXFPiaM'
     },
-    link: '/en-GB/cities/nyc-suburbs/',
+    link: '/en-GB/cities/nyc-suburbs/'
   },
   {
     name: 'Ocala, FL',
@@ -2822,11 +2822,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5Ty6HFQr5ogRNgU4seQ79fU',
+      place_id: 'ChIJ5Ty6HFQr5ogRNgU4seQ79fU'
     },
-    link: '/en-GB/cities/ocala-fl/',
+    link: '/en-GB/cities/ocala-fl/'
   },
   {
     name: 'Oklahoma City',
@@ -2836,11 +2836,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgdL4flSKrYcRnTpP0XQSojM',
+      place_id: 'ChIJgdL4flSKrYcRnTpP0XQSojM'
     },
-    link: '/en-GB/cities/oklahoma-city/',
+    link: '/en-GB/cities/oklahoma-city/'
   },
   {
     name: 'Olympia',
@@ -2850,11 +2850,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaVUorsHJkVQRgxuI4pdhFE8',
+      place_id: 'ChIJaVUorsHJkVQRgxuI4pdhFE8'
     },
-    link: '/en-GB/cities/olympia/',
+    link: '/en-GB/cities/olympia/'
   },
   {
     name: 'Omaha',
@@ -2864,11 +2864,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7fwMtciNk4cRBLY3rk9NQkY',
+      place_id: 'ChIJ7fwMtciNk4cRBLY3rk9NQkY'
     },
-    link: '/en-GB/cities/omaha/',
+    link: '/en-GB/cities/omaha/'
   },
   {
     name: 'Orange County',
@@ -2878,11 +2878,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJz_fVVFyS3IARB9bwj2HDpt4',
+      place_id: 'ChIJz_fVVFyS3IARB9bwj2HDpt4'
     },
-    link: '/en-GB/cities/orange-county/',
+    link: '/en-GB/cities/orange-county/'
   },
   {
     name: 'Orlando',
@@ -2892,11 +2892,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd7zN_thz54gRnr-lPAaywwo',
+      place_id: 'ChIJd7zN_thz54gRnr-lPAaywwo'
     },
-    link: '/en-GB/cities/orlando/',
+    link: '/en-GB/cities/orlando/'
   },
   {
     name: 'Ottawa',
@@ -2906,11 +2906,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrxNRX7IFzkwR7RXdMeFRaoo',
+      place_id: 'ChIJrxNRX7IFzkwR7RXdMeFRaoo'
     },
-    link: '/en-GB/cities/ottawa/',
+    link: '/en-GB/cities/ottawa/'
   },
   {
     name: 'Outer Banks, NC',
@@ -2920,11 +2920,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcWxzpzxbpIkRszbSdWERdxs',
+      place_id: 'ChIJcWxzpzxbpIkRszbSdWERdxs'
     },
-    link: '/en-GB/cities/outer-banks-nc/',
+    link: '/en-GB/cities/outer-banks-nc/'
   },
   {
     name: 'Oxford',
@@ -2934,11 +2934,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW0iM76nGdkgR7a8BoIMY_9I',
+      place_id: 'ChIJW0iM76nGdkgR7a8BoIMY_9I'
     },
-    link: '/en-GB/cities/oxford/',
+    link: '/en-GB/cities/oxford/'
   },
   {
     name: 'Palm Springs',
@@ -2948,11 +2948,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs-Xb_9Qa24ARfHntwodp5aE',
+      place_id: 'ChIJs-Xb_9Qa24ARfHntwodp5aE'
     },
-    link: '/en-GB/cities/palm-springs/',
+    link: '/en-GB/cities/palm-springs/'
   },
   {
     name: 'Panama City, Fl',
@@ -2962,11 +2962,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQWPGKlaBk4gR8wFHLNVeWL8',
+      place_id: 'ChIJQWPGKlaBk4gR8wFHLNVeWL8'
     },
-    link: '/en-GB/cities/panama-city-fl/',
+    link: '/en-GB/cities/panama-city-fl/'
   },
   {
     name: 'Peninsula and SW WA',
@@ -2976,11 +2976,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL-50s5Q9jlQRwYNoMogQxbg',
+      place_id: 'ChIJL-50s5Q9jlQRwYNoMogQxbg'
     },
-    link: '/en-GB/cities/peninsulasw-wa/',
+    link: '/en-GB/cities/peninsulasw-wa/'
   },
   {
     name: 'Pensacola, FL',
@@ -2990,11 +2990,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu6rLrEW_kIgRfGV5MW6axqc',
+      place_id: 'ChIJu6rLrEW_kIgRfGV5MW6axqc'
     },
-    link: '/en-GB/cities/pensacola-fl/',
+    link: '/en-GB/cities/pensacola-fl/'
   },
   {
     name: 'Peoria, IL',
@@ -3004,11 +3004,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrXlYU1xZCogR24B9azL0-8o',
+      place_id: 'ChIJrXlYU1xZCogR24B9azL0-8o'
     },
-    link: '/en-GB/cities/peoria-il/',
+    link: '/en-GB/cities/peoria-il/'
   },
   {
     name: 'Philadelphia',
@@ -3018,11 +3018,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ60u11Ni3xokRwVg-jNgU9Yk',
+      place_id: 'ChIJ60u11Ni3xokRwVg-jNgU9Yk'
     },
-    link: '/en-GB/cities/philadelphia/',
+    link: '/en-GB/cities/philadelphia/'
   },
   {
     name: 'Phoenix',
@@ -3032,11 +3032,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy3mhUO0SK4cRrBtKNfjHaYw',
+      place_id: 'ChIJy3mhUO0SK4cRrBtKNfjHaYw'
     },
-    link: '/en-GB/cities/phoenix/',
+    link: '/en-GB/cities/phoenix/'
   },
   {
     name: 'Piedmont Triad',
@@ -3047,11 +3047,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA7xuwaAEU4gRUUmkLjJc-3w',
+      place_id: 'ChIJA7xuwaAEU4gRUUmkLjJc-3w'
     },
-    link: '/en-GB/cities/greensboro/',
+    link: '/en-GB/cities/greensboro/'
   },
   {
     name: 'Piedras Negras',
@@ -3061,11 +3061,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk5GI0pmLX4YRwmG4QrQzSpU',
+      place_id: 'ChIJk5GI0pmLX4YRwmG4QrQzSpU'
     },
-    link: '/en-GB/cities/piedras-negras/',
+    link: '/en-GB/cities/piedras-negras/'
   },
   {
     name: 'Pittsburgh',
@@ -3075,11 +3075,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA4UGSG_xNIgRNBuiWqEV-Y0',
+      place_id: 'ChIJA4UGSG_xNIgRNBuiWqEV-Y0'
     },
-    link: '/en-GB/cities/pittsburgh/',
+    link: '/en-GB/cities/pittsburgh/'
   },
   {
     name: 'Ponce',
@@ -3089,11 +3089,11 @@ module.exports = [
       country: {
         long_name: 'Puerto Rico',
         short_name: 'PR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJf98dO4HVHIwR4u4GccSSSyc',
+      place_id: 'ChIJf98dO4HVHIwR4u4GccSSSyc'
     },
-    link: '/en-GB/cities/ponce/',
+    link: '/en-GB/cities/ponce/'
   },
   {
     name: 'Portland',
@@ -3103,11 +3103,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ3SpfQsLlVQRkYXR9ua5Nhw',
+      place_id: 'ChIJJ3SpfQsLlVQRkYXR9ua5Nhw'
     },
-    link: '/en-GB/cities/portland/',
+    link: '/en-GB/cities/portland/'
   },
   {
     name: 'Portland, ME',
@@ -3117,11 +3117,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLe6wqnKcskwRKfpyM7W2nX4',
+      place_id: 'ChIJLe6wqnKcskwRKfpyM7W2nX4'
     },
-    link: '/en-GB/cities/portland-me/',
+    link: '/en-GB/cities/portland-me/'
   },
   {
     name: 'Puebla',
@@ -3131,11 +3131,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO3q8Xr3Az4URla2U5B1Gpkg',
+      place_id: 'ChIJO3q8Xr3Az4URla2U5B1Gpkg'
     },
-    link: '/en-GB/cities/puebla/',
+    link: '/en-GB/cities/puebla/'
   },
   {
     name: 'Puerto Vallarta',
@@ -3145,11 +3145,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJf8hjUGNFIYQRdFK_hZm_z3k',
+      place_id: 'ChIJf8hjUGNFIYQRdFK_hZm_z3k'
     },
-    link: '/en-GB/cities/puerto-vallarta/',
+    link: '/en-GB/cities/puerto-vallarta/'
   },
   {
     name: 'Quad Cities',
@@ -3160,11 +3160,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQ740FcIx4ocRdXbu7OGdCdY',
+      place_id: 'ChIJQ740FcIx4ocRdXbu7OGdCdY'
     },
-    link: '/en-GB/cities/quad-cities/',
+    link: '/en-GB/cities/quad-cities/'
   },
   {
     name: 'Quebec City',
@@ -3174,11 +3174,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk4jbBYqWuEwRAzro8GMtxY8',
+      place_id: 'ChIJk4jbBYqWuEwRAzro8GMtxY8'
     },
-    link: '/en-GB/cities/quebec-city/',
+    link: '/en-GB/cities/quebec-city/'
   },
   {
     name: 'Queretaro',
@@ -3188,11 +3188,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVZJb3I9b04URL4MbVqqUsJc',
+      place_id: 'ChIJVZJb3I9b04URL4MbVqqUsJc'
     },
-    link: '/en-GB/cities/queretaro/',
+    link: '/en-GB/cities/queretaro/'
   },
   {
     name: 'Raleigh-Durham',
@@ -3202,11 +3202,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJg0bJTpDvrIkRzLsntbr-LiA',
+      place_id: 'ChIJg0bJTpDvrIkRzLsntbr-LiA'
     },
-    link: '/en-GB/cities/raleigh/',
+    link: '/en-GB/cities/raleigh/'
   },
   {
     name: 'Reading, PA',
@@ -3216,11 +3216,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuaiGUMpwxokR8Bm_9Uml7uI',
+      place_id: 'ChIJuaiGUMpwxokR8Bm_9Uml7uI'
     },
-    link: '/en-GB/cities/reading-pa/',
+    link: '/en-GB/cities/reading-pa/'
   },
   {
     name: 'Red Deer',
@@ -3231,11 +3231,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyUG3rC42B4cRntKV-MBcucs',
+      place_id: 'ChIJyUG3rC42B4cRntKV-MBcucs'
     },
-    link: '/en-GB/cities/red-deer/',
+    link: '/en-GB/cities/red-deer/'
   },
   {
     name: 'Reno',
@@ -3245,11 +3245,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnaCSkq5AmYARh_c4dM7FxUA',
+      place_id: 'ChIJnaCSkq5AmYARh_c4dM7FxUA'
     },
-    link: '/en-GB/cities/reno/',
+    link: '/en-GB/cities/reno/'
   },
   {
     name: 'Rhode Island',
@@ -3259,11 +3259,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJD9cOYhQ15IkR5wbB57wYTh4',
+      place_id: 'ChIJD9cOYhQ15IkR5wbB57wYTh4'
     },
-    link: '/en-GB/cities/providence/',
+    link: '/en-GB/cities/providence/'
   },
   {
     name: 'Richmond',
@@ -3273,11 +3273,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7cmZVwkRsYkRxTxC4m0-2L8',
+      place_id: 'ChIJ7cmZVwkRsYkRxTxC4m0-2L8'
     },
-    link: '/en-GB/cities/richmond/',
+    link: '/en-GB/cities/richmond/'
   },
   {
     name: 'Rio Grande Valley',
@@ -3287,11 +3287,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTYynFUuiZYYRDPE5FvAb3Cw',
+      place_id: 'ChIJTYynFUuiZYYRDPE5FvAb3Cw'
     },
-    link: '/en-GB/cities/brownsville/',
+    link: '/en-GB/cities/brownsville/'
   },
   {
     name: 'Roanoke-Blacksburg',
@@ -3302,11 +3302,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbda4EfIOTYgREtSMOXjV-tc',
+      place_id: 'ChIJbda4EfIOTYgREtSMOXjV-tc'
     },
-    link: '/en-GB/cities/roanoke/',
+    link: '/en-GB/cities/roanoke/'
   },
   {
     name: 'Rochester, MN',
@@ -3316,11 +3316,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSyxfo0tf94cRPcZhVhcclfA',
+      place_id: 'ChIJSyxfo0tf94cRPcZhVhcclfA'
     },
-    link: '/en-GB/cities/rochester-mn/',
+    link: '/en-GB/cities/rochester-mn/'
   },
   {
     name: 'Rockford',
@@ -3330,20 +3330,20 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2wAD_c25CIgRgGePgpfYygo',
+      place_id: 'ChIJ2wAD_c25CIgRgGePgpfYygo'
     },
-    link: '/en-GB/cities/rockford/',
+    link: '/en-GB/cities/rockford/'
   },
   {
     name: 'Rockies',
     company: 'uber',
     info: {
       formatted_address: 'Rocky Mountains',
-      place_id: 'ChIJXXjR62arU1MRYF83d5yj0FE',
+      place_id: 'ChIJXXjR62arU1MRYF83d5yj0FE'
     },
-    link: '/en-GB/cities/rockies/',
+    link: '/en-GB/cities/rockies/'
   },
   {
     name: 'Sacramento',
@@ -3353,11 +3353,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-ZeDsnLGmoAR238ZdKpqH5I',
+      place_id: 'ChIJ-ZeDsnLGmoAR238ZdKpqH5I'
     },
-    link: '/en-GB/cities/sacramento/',
+    link: '/en-GB/cities/sacramento/'
   },
   {
     name: 'Salamanca',
@@ -3367,11 +3367,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRXzdx10mPw0Rqqm_C9Dkei8',
+      place_id: 'ChIJRXzdx10mPw0Rqqm_C9Dkei8'
     },
-    link: '/en-GB/cities/salamanca/',
+    link: '/en-GB/cities/salamanca/'
   },
   {
     name: 'Salt Lake City',
@@ -3381,11 +3381,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7THRiJQ9UocRyjFNSKC3U1s',
+      place_id: 'ChIJ7THRiJQ9UocRyjFNSKC3U1s'
     },
-    link: '/en-GB/cities/salt-lake-city/',
+    link: '/en-GB/cities/salt-lake-city/'
   },
   {
     name: 'Saltillo',
@@ -3395,11 +3395,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7xnfeJANiIYRwDBHeUGSUak',
+      place_id: 'ChIJ7xnfeJANiIYRwDBHeUGSUak'
     },
-    link: '/en-GB/cities/saltillo/',
+    link: '/en-GB/cities/saltillo/'
   },
   {
     name: 'San Angelo',
@@ -3409,11 +3409,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkXE7pYPlV4YRQsdUNws9foI',
+      place_id: 'ChIJkXE7pYPlV4YRQsdUNws9foI'
     },
-    link: '/en-GB/cities/san-angelo/',
+    link: '/en-GB/cities/san-angelo/'
   },
   {
     name: 'San Antonio',
@@ -3423,11 +3423,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrw7QBK9YXIYRvBagEDvhVgg',
+      place_id: 'ChIJrw7QBK9YXIYRvBagEDvhVgg'
     },
-    link: '/en-GB/cities/san-antonio/',
+    link: '/en-GB/cities/san-antonio/'
   },
   {
     name: 'San Diego',
@@ -3437,11 +3437,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSx6SrQ9T2YARed8V_f0hOg0',
+      place_id: 'ChIJSx6SrQ9T2YARed8V_f0hOg0'
     },
-    link: '/en-GB/cities/san-diego/',
+    link: '/en-GB/cities/san-diego/'
   },
   {
     name: 'San Francisco Bay Area',
@@ -3451,11 +3451,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtdeIpqODhYARqR9GV4QbiYw',
+      place_id: 'ChIJtdeIpqODhYARqR9GV4QbiYw'
     },
-    link: '/en-GB/cities/san-francisco/',
+    link: '/en-GB/cities/san-francisco/'
   },
   {
     name: 'San Juan, PR',
@@ -3465,11 +3465,11 @@ module.exports = [
       country: {
         long_name: 'Puerto Rico',
         short_name: 'PR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbxlo4m9oA4wR3FqTXA9_a60',
+      place_id: 'ChIJbxlo4m9oA4wR3FqTXA9_a60'
     },
-    link: '/en-GB/cities/san-juan-pr/',
+    link: '/en-GB/cities/san-juan-pr/'
   },
   {
     name: 'San Luis Obispo',
@@ -3479,11 +3479,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ8Jse77m7IARRg_vzsKQArw',
+      place_id: 'ChIJJ8Jse77m7IARRg_vzsKQArw'
     },
-    link: '/en-GB/cities/san-luis-obispo/',
+    link: '/en-GB/cities/san-luis-obispo/'
   },
   {
     name: 'San Luis Potosi',
@@ -3493,11 +3493,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJefusBQCiKoQRV4Lhrynu0g4',
+      place_id: 'ChIJefusBQCiKoQRV4Lhrynu0g4'
     },
-    link: '/en-GB/cities/san-luis-potosi/',
+    link: '/en-GB/cities/san-luis-potosi/'
   },
   {
     name: 'San Luis Rio Colorado',
@@ -3507,11 +3507,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrZlmMP8F1oARedtdfaKfS4Q',
+      place_id: 'ChIJrZlmMP8F1oARedtdfaKfS4Q'
     },
-    link: '/en-GB/cities/san-luis-rio-colorado/',
+    link: '/en-GB/cities/san-luis-rio-colorado/'
   },
   {
     name: 'San Miguel de Allende',
@@ -3521,11 +3521,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJD7xxmK9RK4QRpLAHHQMBMWU',
+      place_id: 'ChIJD7xxmK9RK4QRpLAHHQMBMWU'
     },
-    link: '/en-GB/cities/san-miguel-de-allende/',
+    link: '/en-GB/cities/san-miguel-de-allende/'
   },
   {
     name: 'Santa Barbara',
@@ -3535,11 +3535,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1YMtb8cU6YARSHa612Q60cg',
+      place_id: 'ChIJ1YMtb8cU6YARSHa612Q60cg'
     },
-    link: '/en-GB/cities/santa-barbara/',
+    link: '/en-GB/cities/santa-barbara/'
   },
   {
     name: 'Santa Fe',
@@ -3549,11 +3549,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqVKY50NQGIcRQN-I_XMjkIw',
+      place_id: 'ChIJqVKY50NQGIcRQN-I_XMjkIw'
     },
-    link: '/en-GB/cities/santa-fe/',
+    link: '/en-GB/cities/santa-fe/'
   },
   {
     name: 'Sarasota',
@@ -3563,11 +3563,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK8KyneY3w4gR2RVXHR00NeM',
+      place_id: 'ChIJK8KyneY3w4gR2RVXHR00NeM'
     },
-    link: '/en-GB/cities/sarasota/',
+    link: '/en-GB/cities/sarasota/'
   },
   {
     name: 'Savannah-Hilton Head',
@@ -3578,11 +3578,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJiRNnApyh-4gRHpCW-Hff0C0',
+      place_id: 'ChIJiRNnApyh-4gRHpCW-Hff0C0'
     },
-    link: '/en-GB/cities/savannah/',
+    link: '/en-GB/cities/savannah/'
   },
   {
     name: 'Seattle',
@@ -3592,11 +3592,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVTPokywQkFQRmtVEaUZlJRA',
+      place_id: 'ChIJVTPokywQkFQRmtVEaUZlJRA'
     },
-    link: '/en-GB/cities/seattle/',
+    link: '/en-GB/cities/seattle/'
   },
   {
     name: 'Shreveport, LA',
@@ -3606,11 +3606,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH-mYF40qMYYR3ZykhxYsvS4',
+      place_id: 'ChIJH-mYF40qMYYR3ZykhxYsvS4'
     },
-    link: '/en-GB/cities/shreveport-la/',
+    link: '/en-GB/cities/shreveport-la/'
   },
   {
     name: 'Sioux City',
@@ -3620,11 +3620,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCVJtRzZ5kocRjExonssKmCE',
+      place_id: 'ChIJCVJtRzZ5kocRjExonssKmCE'
     },
-    link: '/en-GB/cities/sioux-city/',
+    link: '/en-GB/cities/sioux-city/'
   },
   {
     name: 'South Alabama',
@@ -3634,11 +3634,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyaTxdo2ym4gRJSXKvDgn710',
+      place_id: 'ChIJyaTxdo2ym4gRJSXKvDgn710'
     },
-    link: '/en-GB/cities/south-alabama/',
+    link: '/en-GB/cities/south-alabama/'
   },
   {
     name: 'South Bend',
@@ -3648,11 +3648,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE9NhSsQyEYgRBDKjb7PZSpc',
+      place_id: 'ChIJE9NhSsQyEYgRBDKjb7PZSpc'
     },
-    link: '/en-GB/cities/south-bend/',
+    link: '/en-GB/cities/south-bend/'
   },
   {
     name: 'South Georgia',
@@ -3663,11 +3663,11 @@ module.exports = [
       country: {
         long_name: 'South Georgia and the South Sandwich Islands',
         short_name: 'GS',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGRAN1gQNy74RYQU4RsTznd4',
+      place_id: 'ChIJGRAN1gQNy74RYQU4RsTznd4'
     },
-    link: '/en-GB/cities/south-georgia/',
+    link: '/en-GB/cities/south-georgia/'
   },
   {
     name: 'South Tennessee',
@@ -3677,11 +3677,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGwQEbfCuYYgRn4HgcytpG2k',
+      place_id: 'ChIJGwQEbfCuYYgRn4HgcytpG2k'
     },
-    link: '/en-GB/cities/south-tennessee/',
+    link: '/en-GB/cities/south-tennessee/'
   },
   {
     name: 'Southern Arkansas',
@@ -3691,11 +3691,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbyhnMjrPM4YRxIoX2UCAgLw',
+      place_id: 'ChIJbyhnMjrPM4YRxIoX2UCAgLw'
     },
-    link: '/en-GB/cities/southern-arkansas/',
+    link: '/en-GB/cities/southern-arkansas/'
   },
   {
     name: 'Southern Oregon',
@@ -3705,11 +3705,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJffBbhegNxlQRyq1bp4KiPOY',
+      place_id: 'ChIJffBbhegNxlQRyq1bp4KiPOY'
     },
-    link: '/en-GB/cities/eugene/',
+    link: '/en-GB/cities/eugene/'
   },
   {
     name: 'Southern Utah',
@@ -3719,11 +3719,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfd_0871htYAR3Ee3JYI7pOg',
+      place_id: 'ChIJfd_0871htYAR3Ee3JYI7pOg'
     },
-    link: '/en-GB/cities/st-george/',
+    link: '/en-GB/cities/st-george/'
   },
   {
     name: 'Spokane',
@@ -3733,11 +3733,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5ee7MFwYnlQRsdmEC9bJ_N0',
+      place_id: 'ChIJ5ee7MFwYnlQRsdmEC9bJ_N0'
     },
-    link: '/en-GB/cities/spokane/',
+    link: '/en-GB/cities/spokane/'
   },
   {
     name: 'Springfield, IL',
@@ -3747,11 +3747,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd9HbJB05dYgRIm2ozO6CLOc',
+      place_id: 'ChIJd9HbJB05dYgRIm2ozO6CLOc'
     },
-    link: '/en-GB/cities/springfield-il/',
+    link: '/en-GB/cities/springfield-il/'
   },
   {
     name: 'Springfield, Mo',
@@ -3761,11 +3761,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws',
+      place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws'
     },
-    link: '/en-GB/cities/springfield-mo/',
+    link: '/en-GB/cities/springfield-mo/'
   },
   {
     name: 'St Cloud',
@@ -3775,11 +3775,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9QLLgqmKtFIRRH-L0A7mtFU',
+      place_id: 'ChIJ9QLLgqmKtFIRRH-L0A7mtFU'
     },
-    link: '/en-GB/cities/st-cloud/',
+    link: '/en-GB/cities/st-cloud/'
   },
   {
     name: 'St Louis',
@@ -3789,11 +3789,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-Y7t-qm02IcRW-C7IsrqOb4',
+      place_id: 'ChIJ-Y7t-qm02IcRW-C7IsrqOb4'
     },
-    link: '/en-GB/cities/st-louis/',
+    link: '/en-GB/cities/st-louis/'
   },
   {
     name: 'State College',
@@ -3803,11 +3803,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc9s7wZmozokRkYA8g8LG4Zw',
+      place_id: 'ChIJc9s7wZmozokRkYA8g8LG4Zw'
     },
-    link: '/en-GB/cities/state-college/',
+    link: '/en-GB/cities/state-college/'
   },
   {
     name: 'Stillwater',
@@ -3817,11 +3817,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt0_FFvIx9ocRj-jY6s2OuUs',
+      place_id: 'ChIJt0_FFvIx9ocRj-jY6s2OuUs'
     },
-    link: '/en-GB/cities/stillwater/',
+    link: '/en-GB/cities/stillwater/'
   },
   {
     name: 'Tacoma',
@@ -3831,11 +3831,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ5VlK-5UkFQRgp6w6wecIWI',
+      place_id: 'ChIJZ5VlK-5UkFQRgp6w6wecIWI'
     },
-    link: '/en-GB/cities/tacoma/',
+    link: '/en-GB/cities/tacoma/'
   },
   {
     name: 'Tallahassee',
@@ -3845,11 +3845,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU0sSh1GK7IgR-LH91HoH7us',
+      place_id: 'ChIJU0sSh1GK7IgR-LH91HoH7us'
     },
-    link: '/en-GB/cities/tallahassee/',
+    link: '/en-GB/cities/tallahassee/'
   },
   {
     name: 'Tampa Bay',
@@ -3859,11 +3859,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnalYKh0fw4gRbXf5teHhXTA',
+      place_id: 'ChIJnalYKh0fw4gRbXf5teHhXTA'
     },
-    link: '/en-GB/cities/tampa/',
+    link: '/en-GB/cities/tampa/'
   },
   {
     name: 'Taos',
@@ -3873,11 +3873,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsfwRf9pkF4cRgrepYYOR6pA',
+      place_id: 'ChIJsfwRf9pkF4cRgrepYYOR6pA'
     },
-    link: '/en-GB/cities/taos/',
+    link: '/en-GB/cities/taos/'
   },
   {
     name: 'Tepic',
@@ -3887,11 +3887,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2889idg1J4QReS0M9EVGeIM',
+      place_id: 'ChIJ2889idg1J4QReS0M9EVGeIM'
     },
-    link: '/en-GB/cities/tepic/',
+    link: '/en-GB/cities/tepic/'
   },
   {
     name: 'Terre Haute',
@@ -3901,11 +3901,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ79yRikdlbYgRiO_jX2eoP4A',
+      place_id: 'ChIJ79yRikdlbYgRiO_jX2eoP4A'
     },
-    link: '/en-GB/cities/terre-haute/',
+    link: '/en-GB/cities/terre-haute/'
   },
   {
     name: 'Texarkana',
@@ -3915,11 +3915,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJV2SgwjJBNIYRcFvbYZI8WJ0',
+      place_id: 'ChIJV2SgwjJBNIYRcFvbYZI8WJ0'
     },
-    link: '/en-GB/cities/texarkana/',
+    link: '/en-GB/cities/texarkana/'
   },
   {
     name: 'the Hamptons',
@@ -3929,11 +3929,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJG6mpkc6V6IkRUWCATXOJAbw',
+      place_id: 'ChIJG6mpkc6V6IkRUWCATXOJAbw'
     },
-    link: '/en-GB/cities/hamptons/',
+    link: '/en-GB/cities/hamptons/'
   },
   {
     name: 'The Shoals',
@@ -3943,11 +3943,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYwPCKrVOfYgRIbMsaSKksfE',
+      place_id: 'ChIJYwPCKrVOfYgRIbMsaSKksfE'
     },
-    link: '/en-GB/cities/the-shoals/',
+    link: '/en-GB/cities/the-shoals/'
   },
   {
     name: 'Tijuana',
@@ -3957,11 +3957,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ03tYJgI52YARViTmpK9LchQ',
+      place_id: 'ChIJ03tYJgI52YARViTmpK9LchQ'
     },
-    link: '/en-GB/cities/tijuana/',
+    link: '/en-GB/cities/tijuana/'
   },
   {
     name: 'Toledo',
@@ -3971,11 +3971,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeU4e_C2HO4gRRcM6RZ_IPHw',
+      place_id: 'ChIJeU4e_C2HO4gRRcM6RZ_IPHw'
     },
-    link: '/en-GB/cities/toledo/',
+    link: '/en-GB/cities/toledo/'
   },
   {
     name: 'Toluca',
@@ -3985,11 +3985,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuetQKomJzYURxAgCVdVKP60',
+      place_id: 'ChIJuetQKomJzYURxAgCVdVKP60'
     },
-    link: '/en-GB/cities/toluca/',
+    link: '/en-GB/cities/toluca/'
   },
   {
     name: 'Topeka',
@@ -3999,11 +3999,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKXrs2uQCv4cR8KfjatDnK74',
+      place_id: 'ChIJKXrs2uQCv4cR8KfjatDnK74'
     },
-    link: '/en-GB/cities/topeka/',
+    link: '/en-GB/cities/topeka/'
   },
   {
     name: 'Toronto',
@@ -4013,11 +4013,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpTvG15DL1IkRd8S0KlBVNTI',
+      place_id: 'ChIJpTvG15DL1IkRd8S0KlBVNTI'
     },
-    link: '/en-GB/cities/toronto/',
+    link: '/en-GB/cities/toronto/'
   },
   {
     name: 'Torreon',
@@ -4027,11 +4027,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-7NFu6nbj4YRHaCucJl6zIs',
+      place_id: 'ChIJ-7NFu6nbj4YRHaCucJl6zIs'
     },
-    link: '/en-GB/cities/torreon/',
+    link: '/en-GB/cities/torreon/'
   },
   {
     name: 'Traverse City',
@@ -4041,11 +4041,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3Sna17IyHogRIVZ0Pz_cv0c',
+      place_id: 'ChIJ3Sna17IyHogRIVZ0Pz_cv0c'
     },
-    link: '/en-GB/cities/traverse-city/',
+    link: '/en-GB/cities/traverse-city/'
   },
   {
     name: 'Tri-Cities',
@@ -4055,11 +4055,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR6FyPhl7mFQRxXVfzv1W0g8',
+      place_id: 'ChIJR6FyPhl7mFQRxXVfzv1W0g8'
     },
-    link: '/en-GB/cities/tricities/',
+    link: '/en-GB/cities/tricities/'
   },
   {
     name: 'Tri-Cities, MI',
@@ -4069,11 +4069,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxckJNtvdI4gRoz3n419NeZA',
+      place_id: 'ChIJxckJNtvdI4gRoz3n419NeZA'
     },
-    link: '/en-GB/cities/tricities-mi/',
+    link: '/en-GB/cities/tricities-mi/'
   },
   {
     name: 'Tucson',
@@ -4083,11 +4083,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK-0sC0Fl1oYRFccWTTgtw3M',
+      place_id: 'ChIJK-0sC0Fl1oYRFccWTTgtw3M'
     },
-    link: '/en-GB/cities/tucson/',
+    link: '/en-GB/cities/tucson/'
   },
   {
     name: 'Tulsa',
@@ -4097,11 +4097,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjy7R3biStocR92rZG8gQaec',
+      place_id: 'ChIJjy7R3biStocR92rZG8gQaec'
     },
-    link: '/en-GB/cities/tulsa/',
+    link: '/en-GB/cities/tulsa/'
   },
   {
     name: 'Tuscaloosa',
@@ -4111,11 +4111,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ0DCkS6viIgRWCuJFv37q6w',
+      place_id: 'ChIJZ0DCkS6viIgRWCuJFv37q6w'
     },
-    link: '/en-GB/cities/tuscaloosa/',
+    link: '/en-GB/cities/tuscaloosa/'
   },
   {
     name: 'Tyler',
@@ -4125,11 +4125,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4_mrHgXMSYYRHHB3cX1cKD4',
+      place_id: 'ChIJ4_mrHgXMSYYRHHB3cX1cKD4'
     },
-    link: '/en-GB/cities/tyler/',
+    link: '/en-GB/cities/tyler/'
   },
   {
     name: 'Upstate NY',
@@ -4140,11 +4140,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwRAm1mH02YkRa9ojIV0wQq4',
+      place_id: 'ChIJwRAm1mH02YkRa9ojIV0wQq4'
     },
-    link: '/en-GB/cities/upstate-ny/',
+    link: '/en-GB/cities/upstate-ny/'
   },
   {
     name: 'Uruapan',
@@ -4154,11 +4154,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUUj-wljiLYQRNJ8jH-KbflM',
+      place_id: 'ChIJUUj-wljiLYQRNJ8jH-KbflM'
     },
-    link: '/en-GB/cities/uruapan/',
+    link: '/en-GB/cities/uruapan/'
   },
   {
     name: 'Ventura',
@@ -4168,11 +4168,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTTmXUBWt6YAR6Op6Nnz17yQ',
+      place_id: 'ChIJTTmXUBWt6YAR6Op6Nnz17yQ'
     },
-    link: '/en-GB/cities/ventura/',
+    link: '/en-GB/cities/ventura/'
   },
   {
     name: 'Veracruz',
@@ -4182,11 +4182,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxXjKRUJBw4URmwE26ULWpBg',
+      place_id: 'ChIJxXjKRUJBw4URmwE26ULWpBg'
     },
-    link: '/en-GB/cities/veracruz/',
+    link: '/en-GB/cities/veracruz/'
   },
   {
     name: 'Vermont',
@@ -4196,11 +4196,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_87aSGzctEwRtGtUNnSJTSY',
+      place_id: 'ChIJ_87aSGzctEwRtGtUNnSJTSY'
     },
-    link: '/en-GB/cities/burlington/',
+    link: '/en-GB/cities/burlington/'
   },
   {
     name: 'Villahermosa',
@@ -4210,11 +4210,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUwZC15bX7YURlOiKVWJ7YPU',
+      place_id: 'ChIJUwZC15bX7YURlOiKVWJ7YPU'
     },
-    link: '/en-GB/cities/villahermosa/',
+    link: '/en-GB/cities/villahermosa/'
   },
   {
     name: 'Waco',
@@ -4224,11 +4224,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ01EBI_GCT4YREKrR1gNL1_s',
+      place_id: 'ChIJ01EBI_GCT4YREKrR1gNL1_s'
     },
-    link: '/en-GB/cities/waco/',
+    link: '/en-GB/cities/waco/'
   },
   {
     name: 'Washington D.C.',
@@ -4238,11 +4238,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW-T2Wt7Gt4kRKl2I1CJFUsI',
+      place_id: 'ChIJW-T2Wt7Gt4kRKl2I1CJFUsI'
     },
-    link: '/en-GB/cities/washington-DC/',
+    link: '/en-GB/cities/washington-DC/'
   },
   {
     name: 'Waterloo-Cedar Falls',
@@ -4252,11 +4252,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRxPIgVFV5YcR6TEAweInq_I',
+      place_id: 'ChIJRxPIgVFV5YcR6TEAweInq_I'
     },
-    link: '/en-GB/cities/waterloocedar-falls/',
+    link: '/en-GB/cities/waterloocedar-falls/'
   },
   {
     name: 'West Lafayette',
@@ -4266,11 +4266,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLQRlIUf9EogR7xuhqJPidd8',
+      place_id: 'ChIJLQRlIUf9EogR7xuhqJPidd8'
     },
-    link: '/en-GB/cities/west-lafayette/',
+    link: '/en-GB/cities/west-lafayette/'
   },
   {
     name: 'West Texas',
@@ -4280,11 +4280,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJx6UMz2Z1T4YRRUWiHKb3Jfs',
+      place_id: 'ChIJx6UMz2Z1T4YRRUWiHKb3Jfs'
     },
-    link: '/en-GB/cities/texas-suburbs/',
+    link: '/en-GB/cities/texas-suburbs/'
   },
   {
     name: 'Western Arizona',
@@ -4294,11 +4294,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0XjS0UBg1oARM_Zu7GJCRFU',
+      place_id: 'ChIJ0XjS0UBg1oARM_Zu7GJCRFU'
     },
-    link: '/en-GB/cities/western-arizona/',
+    link: '/en-GB/cities/western-arizona/'
   },
   {
     name: 'Western MA',
@@ -4309,11 +4309,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY-EmbDjd5okRf_DomDOHWPs',
+      place_id: 'ChIJY-EmbDjd5okRf_DomDOHWPs'
     },
-    link: '/en-GB/cities/springfield-ma/',
+    link: '/en-GB/cities/springfield-ma/'
   },
   {
     name: 'Western WV',
@@ -4323,11 +4323,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7dQgR3x7NYgRMNj61lX1ck0',
+      place_id: 'ChIJ7dQgR3x7NYgRMNj61lX1ck0'
     },
-    link: '/en-GB/cities/charleston-wv/',
+    link: '/en-GB/cities/charleston-wv/'
   },
   {
     name: 'Wichita',
@@ -4337,11 +4337,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLRh_0mrbuocRPj3TdL_VlpM',
+      place_id: 'ChIJLRh_0mrbuocRPj3TdL_VlpM'
     },
-    link: '/en-GB/cities/wichita/',
+    link: '/en-GB/cities/wichita/'
   },
   {
     name: 'Wichita Falls',
@@ -4351,11 +4351,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9dpicJIgU4YRAFLq78v6Bh0',
+      place_id: 'ChIJ9dpicJIgU4YRAFLq78v6Bh0'
     },
-    link: '/en-GB/cities/wichita-falls/',
+    link: '/en-GB/cities/wichita-falls/'
   },
   {
     name: 'Wilkes-Barre Scranton',
@@ -4365,11 +4365,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcR8svUcaxYkRSUsDAH3guxY',
+      place_id: 'ChIJcR8svUcaxYkRSUsDAH3guxY'
     },
-    link: '/en-GB/cities/wilkesbarre-scranton/',
+    link: '/en-GB/cities/wilkesbarre-scranton/'
   },
   {
     name: 'Willamette Valley',
@@ -4379,11 +4379,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbezwJP6hlVQRBDL4exvIWSo',
+      place_id: 'ChIJbezwJP6hlVQRBDL4exvIWSo'
     },
-    link: '/en-GB/cities/salem/',
+    link: '/en-GB/cities/salem/'
   },
   {
     name: 'Wilmington, NC',
@@ -4393,11 +4393,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1a7rDaL1qYkRMjAJhDhJZl4',
+      place_id: 'ChIJ1a7rDaL1qYkRMjAJhDhJZl4'
     },
-    link: '/en-GB/cities/wilmington-nc/',
+    link: '/en-GB/cities/wilmington-nc/'
   },
   {
     name: 'Windsor',
@@ -4408,11 +4408,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTwidy5CNtocRYARRrXscXpI',
+      place_id: 'ChIJTwidy5CNtocRYARRrXscXpI'
     },
-    link: '/en-GB/cities/windsor/',
+    link: '/en-GB/cities/windsor/'
   },
   {
     name: 'Winnipeg',
@@ -4422,11 +4422,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJESsa-ftz6lIRZMq5xvoaKis',
+      place_id: 'ChIJESsa-ftz6lIRZMq5xvoaKis'
     },
-    link: '/en-GB/cities/winnipeg/',
+    link: '/en-GB/cities/winnipeg/'
   },
   {
     name: 'Worcester',
@@ -4436,11 +4436,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDYsqWlgG5IkRbU3Kf9h9E54',
+      place_id: 'ChIJDYsqWlgG5IkRbU3Kf9h9E54'
     },
-    link: '/en-GB/cities/worcester/',
+    link: '/en-GB/cities/worcester/'
   },
   {
     name: 'Wyoming',
@@ -4450,11 +4450,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaS7hSDTiXocRLzh90nkisCY',
+      place_id: 'ChIJaS7hSDTiXocRLzh90nkisCY'
     },
-    link: '/en-GB/cities/cheyenne/',
+    link: '/en-GB/cities/cheyenne/'
   },
   {
     name: 'York-Gettysburg',
@@ -4464,11 +4464,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJh_U1Y6SsyYkRo9iQ2msmyus',
+      place_id: 'ChIJh_U1Y6SsyYkRo9iQ2msmyus'
     },
-    link: '/en-GB/cities/yorkgettysburg/',
+    link: '/en-GB/cities/yorkgettysburg/'
   },
   {
     name: 'Youngstown',
@@ -4478,11 +4478,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn7yTaNHhM4gRRPDMDGpyLF0',
+      place_id: 'ChIJn7yTaNHhM4gRRPDMDGpyLF0'
     },
-    link: '/en-GB/cities/youngstown/',
+    link: '/en-GB/cities/youngstown/'
   },
   {
     name: 'Yuma',
@@ -4492,11 +4492,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2a1NIYdi1oARWEKe9Qc6qc8',
+      place_id: 'ChIJ2a1NIYdi1oARWEKe9Qc6qc8'
     },
-    link: '/en-GB/cities/yuma/',
+    link: '/en-GB/cities/yuma/'
   },
   {
     name: 'Zacatecas',
@@ -4506,11 +4506,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb_7JfqDRgYYRmG0lXv0tHxw',
+      place_id: 'ChIJb_7JfqDRgYYRmG0lXv0tHxw'
     },
-    link: '/en-GB/cities/zacatecas/',
+    link: '/en-GB/cities/zacatecas/'
   },
   {
     name: 'Anapolis',
@@ -4520,11 +4520,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqVDsbeOjXpMRCBYCgShRFLI',
+      place_id: 'ChIJqVDsbeOjXpMRCBYCgShRFLI'
     },
-    link: '/en-GB/cities/anapolis/',
+    link: '/en-GB/cities/anapolis/'
   },
   {
     name: 'Angra dos Reis',
@@ -4534,11 +4534,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2ynufgxOnAARRlz7jzN4Gcs',
+      place_id: 'ChIJ2ynufgxOnAARRlz7jzN4Gcs'
     },
-    link: '/en-GB/cities/angra-dos-reis/',
+    link: '/en-GB/cities/angra-dos-reis/'
   },
   {
     name: 'Antofagasta',
@@ -4548,11 +4548,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaWRlmRmKpZYRlm8eTfQVvp8',
+      place_id: 'ChIJaWRlmRmKpZYRlm8eTfQVvp8'
     },
-    link: '/en-GB/cities/antofagasta/',
+    link: '/en-GB/cities/antofagasta/'
   },
   {
     name: 'Aracaju',
@@ -4562,11 +4562,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzSe-FUCwGgcRNjvskv00RIA',
+      place_id: 'ChIJzSe-FUCwGgcRNjvskv00RIA'
     },
-    link: '/en-GB/cities/aracaju/',
+    link: '/en-GB/cities/aracaju/'
   },
   {
     name: 'Aracatuba',
@@ -4576,11 +4576,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAfGqendElpQRJx0Kzs-iseg',
+      place_id: 'ChIJAfGqendElpQRJx0Kzs-iseg'
     },
-    link: '/en-GB/cities/aracatuba/',
+    link: '/en-GB/cities/aracatuba/'
   },
   {
     name: 'Arapiraca',
@@ -4590,11 +4590,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWd-3hwvVBQcRJKos4pkPDWA',
+      place_id: 'ChIJWd-3hwvVBQcRJKos4pkPDWA'
     },
-    link: '/en-GB/cities/arapiraca/',
+    link: '/en-GB/cities/arapiraca/'
   },
   {
     name: 'Arequipa',
@@ -4604,11 +4604,11 @@ module.exports = [
       country: {
         long_name: 'Peru',
         short_name: 'PE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs7mFd0hKQpERNiCUuRKmxKM',
+      place_id: 'ChIJs7mFd0hKQpERNiCUuRKmxKM'
     },
-    link: '/en-GB/cities/arequipa/',
+    link: '/en-GB/cities/arequipa/'
   },
   {
     name: 'Arica',
@@ -4618,11 +4618,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJNcIy2YqpWpERHdfYBGyI9Sc',
+      place_id: 'ChIJNcIy2YqpWpERHdfYBGyI9Sc'
     },
-    link: '/en-GB/cities/arica/',
+    link: '/en-GB/cities/arica/'
   },
   {
     name: 'Barbacena',
@@ -4632,11 +4632,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxzZvpXX1oQAR4oSg6EuCKzU',
+      place_id: 'ChIJxzZvpXX1oQAR4oSg6EuCKzU'
     },
-    link: '/en-GB/cities/barbacena/',
+    link: '/en-GB/cities/barbacena/'
   },
   {
     name: 'Barranquilla',
@@ -4646,11 +4646,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBeYq0UQt9I4Rshe5gUWEMyY',
+      place_id: 'ChIJBeYq0UQt9I4Rshe5gUWEMyY'
     },
-    link: '/en-GB/cities/barranquilla/',
+    link: '/en-GB/cities/barranquilla/'
   },
   {
     name: 'Barreiras',
@@ -4660,11 +4660,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaa7UEK6KXwcRxbgtLDYPgZc',
+      place_id: 'ChIJaa7UEK6KXwcRxbgtLDYPgZc'
     },
-    link: '/en-GB/cities/barreiras/',
+    link: '/en-GB/cities/barreiras/'
   },
   {
     name: 'Bauru',
@@ -4674,11 +4674,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIaLaDZxov5QRoDShb482HCU',
+      place_id: 'ChIJIaLaDZxov5QRoDShb482HCU'
     },
-    link: '/en-GB/cities/bauru/',
+    link: '/en-GB/cities/bauru/'
   },
   {
     name: 'Belem',
@@ -4688,11 +4688,11 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO35879IbyUwRCB0AdbXmoyU',
+      place_id: 'ChIJO35879IbyUwRCB0AdbXmoyU'
     },
-    link: '/en-GB/cities/belem/',
+    link: '/en-GB/cities/belem/'
   },
   {
     name: 'Belo Horizonte',
@@ -4702,11 +4702,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMyzPysqQpgARlznSOl55NVs',
+      place_id: 'ChIJMyzPysqQpgARlznSOl55NVs'
     },
-    link: '/en-GB/cities/belo-horizonte/',
+    link: '/en-GB/cities/belo-horizonte/'
   },
   {
     name: 'Blumenau',
@@ -4716,11 +4716,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlTBci0Ae35QRRHYavCCF-6w',
+      place_id: 'ChIJlTBci0Ae35QRRHYavCCF-6w'
     },
-    link: '/en-GB/cities/blumenau/',
+    link: '/en-GB/cities/blumenau/'
   },
   {
     name: 'Boa Vista',
@@ -4730,11 +4730,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4_T0Wg5QmoAR8zw6cWaWkRY',
+      place_id: 'ChIJ4_T0Wg5QmoAR8zw6cWaWkRY'
     },
-    link: '/en-GB/cities/boa-vista/',
+    link: '/en-GB/cities/boa-vista/'
   },
   {
     name: 'Bogota',
@@ -4744,11 +4744,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKcumLf2bP44RFDmjIFVjnSM',
+      place_id: 'ChIJKcumLf2bP44RFDmjIFVjnSM'
     },
-    link: '/en-GB/cities/bogota/',
+    link: '/en-GB/cities/bogota/'
   },
   {
     name: 'Botucatu',
@@ -4758,11 +4758,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK1hO3Q4mx5QRm9H4aEHnj3k',
+      place_id: 'ChIJK1hO3Q4mx5QRm9H4aEHnj3k'
     },
-    link: '/en-GB/cities/botucatu/',
+    link: '/en-GB/cities/botucatu/'
   },
   {
     name: 'Braganca Paulista',
@@ -4772,11 +4772,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFzt3ILfLzpQR1KK6w_WVAmc',
+      place_id: 'ChIJFzt3ILfLzpQR1KK6w_WVAmc'
     },
-    link: '/en-GB/cities/braganca-paulista/',
+    link: '/en-GB/cities/braganca-paulista/'
   },
   {
     name: 'Brasilia',
@@ -4786,11 +4786,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJo5Fb5Bg9WpMRf13YC2LT6CQ',
+      place_id: 'ChIJo5Fb5Bg9WpMRf13YC2LT6CQ'
     },
-    link: '/en-GB/cities/brasilia/',
+    link: '/en-GB/cities/brasilia/'
   },
   {
     name: 'Bucaramanga',
@@ -4800,11 +4800,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7cBR93oVaI4RbMNIEVXkoHU',
+      place_id: 'ChIJ7cBR93oVaI4RbMNIEVXkoHU'
     },
-    link: '/en-GB/cities/bucaramanga/',
+    link: '/en-GB/cities/bucaramanga/'
   },
   {
     name: 'Buenos Aires',
@@ -4814,11 +4814,11 @@ module.exports = [
       country: {
         long_name: 'Argentina',
         short_name: 'AR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvQz5TjvKvJURh47oiC6Bs6A',
+      place_id: 'ChIJvQz5TjvKvJURh47oiC6Bs6A'
     },
-    link: '/en-GB/cities/buenos-aires/',
+    link: '/en-GB/cities/buenos-aires/'
   },
   {
     name: 'Cabo Frio',
@@ -4828,11 +4828,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8TZiEu79lgARfHS8Cf9AgBw',
+      place_id: 'ChIJ8TZiEu79lgARfHS8Cf9AgBw'
     },
-    link: '/en-GB/cities/cabo-frio/',
+    link: '/en-GB/cities/cabo-frio/'
   },
   {
     name: 'Cachoeiro de Itapemirim',
@@ -4843,11 +4843,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuez3fj1duQARlSqCKtuqaAo',
+      place_id: 'ChIJuez3fj1duQARlSqCKtuqaAo'
     },
-    link: '/en-GB/cities/cachoeiro-de-itapemirim/',
+    link: '/en-GB/cities/cachoeiro-de-itapemirim/'
   },
   {
     name: 'Calama',
@@ -4857,11 +4857,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDYullY-Xq5YRBiPHJzYJev4',
+      place_id: 'ChIJDYullY-Xq5YRBiPHJzYJev4'
     },
-    link: '/en-GB/cities/calama/',
+    link: '/en-GB/cities/calama/'
   },
   {
     name: 'Cali - Colombia',
@@ -4871,11 +4871,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8bNLzPCmMI4RaGGuUum1Dx8',
+      place_id: 'ChIJ8bNLzPCmMI4RaGGuUum1Dx8'
     },
-    link: '/en-GB/cities/cali/',
+    link: '/en-GB/cities/cali/'
   },
   {
     name: 'Campina Grande',
@@ -4885,11 +4885,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhRwgQ18erAcRUa-mOuxqZck',
+      place_id: 'ChIJhRwgQ18erAcRUa-mOuxqZck'
     },
-    link: '/en-GB/cities/campina-grande/',
+    link: '/en-GB/cities/campina-grande/'
   },
   {
     name: 'Campinas',
@@ -4899,11 +4899,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSSZVovbIyJQRNjUEWBwAdXQ',
+      place_id: 'ChIJSSZVovbIyJQRNjUEWBwAdXQ'
     },
-    link: '/en-GB/cities/campinas/',
+    link: '/en-GB/cities/campinas/'
   },
   {
     name: 'Campo Grande',
@@ -4913,11 +4913,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ58ra3LmhpQRwdKEvJ5GqPU',
+      place_id: 'ChIJJ58ra3LmhpQRwdKEvJ5GqPU'
     },
-    link: '/en-GB/cities/campo-grande/',
+    link: '/en-GB/cities/campo-grande/'
   },
   {
     name: 'Campos dos Goytacazes',
@@ -4928,11 +4928,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH7YOMmYtvAARUEpQfx0y2Io',
+      place_id: 'ChIJH7YOMmYtvAARUEpQfx0y2Io'
     },
-    link: '/en-GB/cities/campos-dos-goytacazes/',
+    link: '/en-GB/cities/campos-dos-goytacazes/'
   },
   {
     name: 'Cartagena',
@@ -4942,11 +4942,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUROdrucl9o4RyiY_Ay45YbE',
+      place_id: 'ChIJUROdrucl9o4RyiY_Ay45YbE'
     },
-    link: '/en-GB/cities/cartagena/',
+    link: '/en-GB/cities/cartagena/'
   },
   {
     name: 'Caruaru',
@@ -4956,11 +4956,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbf3X6JaLqQcR9T42nnxcCqM',
+      place_id: 'ChIJbf3X6JaLqQcR9T42nnxcCqM'
     },
-    link: '/en-GB/cities/caruaru/',
+    link: '/en-GB/cities/caruaru/'
   },
   {
     name: 'Cascavel',
@@ -4970,11 +4970,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYU33xx7U85QRvF9a4OwyrOs',
+      place_id: 'ChIJYU33xx7U85QRvF9a4OwyrOs'
     },
-    link: '/en-GB/cities/cascavel/',
+    link: '/en-GB/cities/cascavel/'
   },
   {
     name: 'Caxias do Sul',
@@ -4985,11 +4985,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc_A1ZNG8HpUR9Dt3tQf3FPU',
+      place_id: 'ChIJc_A1ZNG8HpUR9Dt3tQf3FPU'
     },
-    link: '/en-GB/cities/caxias-do-sul/',
+    link: '/en-GB/cities/caxias-do-sul/'
   },
   {
     name: 'Chapeco',
@@ -4999,11 +4999,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpe-YQMm15JQRavvr1OAKgWs',
+      place_id: 'ChIJpe-YQMm15JQRavvr1OAKgWs'
     },
-    link: '/en-GB/cities/chapeco/',
+    link: '/en-GB/cities/chapeco/'
   },
   {
     name: 'Chiclayo',
@@ -5013,11 +5013,11 @@ module.exports = [
       country: {
         long_name: 'Peru',
         short_name: 'PE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_99jKSPvTJARuxR4SkXjA6c',
+      place_id: 'ChIJ_99jKSPvTJARuxR4SkXjA6c'
     },
-    link: '/en-GB/cities/chiclayo/',
+    link: '/en-GB/cities/chiclayo/'
   },
   {
     name: 'Concepcion',
@@ -5027,11 +5027,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO8a70s21aZYRmCYhUrc3y0Q',
+      place_id: 'ChIJO8a70s21aZYRmCYhUrc3y0Q'
     },
-    link: '/en-GB/cities/concepcion/',
+    link: '/en-GB/cities/concepcion/'
   },
   {
     name: 'Conselheiro Lafaiete',
@@ -5041,11 +5041,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ8e3oujfowARSB1ergAuecY',
+      place_id: 'ChIJZ8e3oujfowARSB1ergAuecY'
     },
-    link: '/en-GB/cities/conselheiro-lafaiate/',
+    link: '/en-GB/cities/conselheiro-lafaiate/'
   },
   {
     name: 'Copiapo',
@@ -5055,11 +5055,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcW0xLQsEmJYReg-k8cCWBfg',
+      place_id: 'ChIJcW0xLQsEmJYReg-k8cCWBfg'
     },
-    link: '/en-GB/cities/copiapo/',
+    link: '/en-GB/cities/copiapo/'
   },
   {
     name: 'Coyhaique',
@@ -5069,11 +5069,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt2xgenDZ8r0RgaUvBY2RhUU',
+      place_id: 'ChIJt2xgenDZ8r0RgaUvBY2RhUU'
     },
-    link: '/en-GB/cities/coyhaique/',
+    link: '/en-GB/cities/coyhaique/'
   },
   {
     name: 'Criciuma',
@@ -5083,11 +5083,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXaqBOGF_IZURy420-zsZRPg',
+      place_id: 'ChIJXaqBOGF_IZURy420-zsZRPg'
     },
-    link: '/en-GB/cities/criciuma/',
+    link: '/en-GB/cities/criciuma/'
   },
   {
     name: 'Cucuta',
@@ -5097,11 +5097,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJi9JdZJxFZo4Rqlzb9B9scyY',
+      place_id: 'ChIJi9JdZJxFZo4Rqlzb9B9scyY'
     },
-    link: '/en-GB/cities/cucuta/',
+    link: '/en-GB/cities/cucuta/'
   },
   {
     name: 'Cuiaba',
@@ -5112,11 +5112,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxU_YcGalnZMRDlEOkAhOUE4',
+      place_id: 'ChIJxU_YcGalnZMRDlEOkAhOUE4'
     },
-    link: '/en-GB/cities/cuiaba/',
+    link: '/en-GB/cities/cuiaba/'
   },
   {
     name: 'Curitiba',
@@ -5126,11 +5126,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8Q8J_PXj3JQRR7crCbCDejw',
+      place_id: 'ChIJ8Q8J_PXj3JQRR7crCbCDejw'
     },
-    link: '/en-GB/cities/curitiba/',
+    link: '/en-GB/cities/curitiba/'
   },
   {
     name: 'Cusco',
@@ -5140,11 +5140,11 @@ module.exports = [
       country: {
         long_name: 'Peru',
         short_name: 'PE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMYRZJtjVbZERXTEYI8yWqSo',
+      place_id: 'ChIJMYRZJtjVbZERXTEYI8yWqSo'
     },
-    link: '/en-GB/cities/cusco/',
+    link: '/en-GB/cities/cusco/'
   },
   {
     name: 'Divinopolis',
@@ -5154,11 +5154,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL84bJLyloAARfbF3UL056fc',
+      place_id: 'ChIJL84bJLyloAARfbF3UL056fc'
     },
-    link: '/en-GB/cities/divinopolis/',
+    link: '/en-GB/cities/divinopolis/'
   },
   {
     name: 'Dourados',
@@ -5168,11 +5168,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ8613jeoiZQR-OpnYwh8KGc',
+      place_id: 'ChIJJ8613jeoiZQR-OpnYwh8KGc'
     },
-    link: '/en-GB/cities/dourados/',
+    link: '/en-GB/cities/dourados/'
   },
   {
     name: 'Feira de Santana',
@@ -5183,11 +5183,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqW120Ns5FAcR_l-d39hYTe0',
+      place_id: 'ChIJqW120Ns5FAcR_l-d39hYTe0'
     },
-    link: '/en-GB/cities/feira-de-santana/',
+    link: '/en-GB/cities/feira-de-santana/'
   },
   {
     name: 'Florianopolis',
@@ -5197,11 +5197,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn7h-4b9JJ5URGCq6n0zj1tM',
+      place_id: 'ChIJn7h-4b9JJ5URGCq6n0zj1tM'
     },
-    link: '/en-GB/cities/florianopolis/',
+    link: '/en-GB/cities/florianopolis/'
   },
   {
     name: 'Fortaleza',
@@ -5211,11 +5211,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP3hMRj9MxwcRyjdrDArGYUY',
+      place_id: 'ChIJP3hMRj9MxwcRyjdrDArGYUY'
     },
-    link: '/en-GB/cities/fortaleza/',
+    link: '/en-GB/cities/fortaleza/'
   },
   {
     name: 'Foz do Iguacu',
@@ -5225,11 +5225,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQwpTruuQ9pQRUqnEtHOUlyE',
+      place_id: 'ChIJQwpTruuQ9pQRUqnEtHOUlyE'
     },
-    link: '/en-GB/cities/foz-do-iguacu/',
+    link: '/en-GB/cities/foz-do-iguacu/'
   },
   {
     name: 'Franca',
@@ -5240,11 +5240,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn5whZetbwokRt7D_NYRc_zI',
+      place_id: 'ChIJn5whZetbwokRt7D_NYRc_zI'
     },
-    link: '/en-GB/cities/franca/',
+    link: '/en-GB/cities/franca/'
   },
   {
     name: 'Garanhuns',
@@ -5254,11 +5254,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZcoBs-kMBwcRLWO3ueRBYY4',
+      place_id: 'ChIJZcoBs-kMBwcRLWO3ueRBYY4'
     },
-    link: '/en-GB/cities/garanhuns/',
+    link: '/en-GB/cities/garanhuns/'
   },
   {
     name: 'Goiania',
@@ -5268,11 +5268,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ94wk4e3wXpMR0R_B0L__7bo',
+      place_id: 'ChIJ94wk4e3wXpMR0R_B0L__7bo'
     },
-    link: '/en-GB/cities/goiania/',
+    link: '/en-GB/cities/goiania/'
   },
   {
     name: 'Governador Valadares',
@@ -5282,11 +5282,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxwYufJSnsQARb6oo9plDRXY',
+      place_id: 'ChIJxwYufJSnsQARb6oo9plDRXY'
     },
-    link: '/en-GB/cities/governador-valadares/',
+    link: '/en-GB/cities/governador-valadares/'
   },
   {
     name: 'Guarapuava',
@@ -5296,11 +5296,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJUJuWcY375QRyFw1ohekJcs',
+      place_id: 'ChIJJUJuWcY375QRyFw1ohekJcs'
     },
-    link: '/en-GB/cities/guarapuava/',
+    link: '/en-GB/cities/guarapuava/'
   },
   {
     name: 'Guatemala City',
@@ -5310,11 +5310,11 @@ module.exports = [
       country: {
         long_name: 'Guatemala',
         short_name: 'GT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRTNcZYChiYURJXuGW4HHcko',
+      place_id: 'ChIJRTNcZYChiYURJXuGW4HHcko'
     },
-    link: '/en-GB/cities/guatemala-city/',
+    link: '/en-GB/cities/guatemala-city/'
   },
   {
     name: 'Guayaquil',
@@ -5324,11 +5324,11 @@ module.exports = [
       country: {
         long_name: 'Ecuador',
         short_name: 'EC',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJX4BV6MsTLZARc6T89JKkFYA',
+      place_id: 'ChIJX4BV6MsTLZARc6T89JKkFYA'
     },
-    link: '/en-GB/cities/guayaquil/',
+    link: '/en-GB/cities/guayaquil/'
   },
   {
     name: 'Ibague',
@@ -5338,11 +5338,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJX01fEZHEOI4RHkDSWTjkyuA',
+      place_id: 'ChIJX01fEZHEOI4RHkDSWTjkyuA'
     },
-    link: '/en-GB/cities/ibague/',
+    link: '/en-GB/cities/ibague/'
   },
   {
     name: 'Iguatu',
@@ -5352,11 +5352,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc-mMzFweowcROhJ8E2VLD-k',
+      place_id: 'ChIJc-mMzFweowcROhJ8E2VLD-k'
     },
-    link: '/en-GB/cities/iguatu/',
+    link: '/en-GB/cities/iguatu/'
   },
   {
     name: 'Imperatriz',
@@ -5366,11 +5366,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj5c4eKVfxZIRhZbHo9VSJZs',
+      place_id: 'ChIJj5c4eKVfxZIRhZbHo9VSJZs'
     },
-    link: '/en-GB/cities/imperatriz/',
+    link: '/en-GB/cities/imperatriz/'
   },
   {
     name: 'Ipatinga',
@@ -5380,11 +5380,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2Uf-Rhv_rwARvfwP1ndcboo',
+      place_id: 'ChIJ2Uf-Rhv_rwARvfwP1ndcboo'
     },
-    link: '/en-GB/cities/ipatinga/',
+    link: '/en-GB/cities/ipatinga/'
   },
   {
     name: 'Iquique',
@@ -5394,11 +5394,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJNZk2-GPzUpERMEnJqa6qVyo',
+      place_id: 'ChIJNZk2-GPzUpERMEnJqa6qVyo'
     },
-    link: '/en-GB/cities/iquique/',
+    link: '/en-GB/cities/iquique/'
   },
   {
     name: 'Itabira',
@@ -5408,11 +5408,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS7521hOhpQAR14IVxfgdGwo',
+      place_id: 'ChIJS7521hOhpQAR14IVxfgdGwo'
     },
-    link: '/en-GB/cities/itabira/',
+    link: '/en-GB/cities/itabira/'
   },
   {
     name: 'Itabuna e Ilheus',
@@ -5423,11 +5423,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWQeJ_k4KOQcRV3Hfh138Nvg',
+      place_id: 'ChIJWQeJ_k4KOQcRV3Hfh138Nvg'
     },
-    link: '/en-GB/cities/itabuna-e-ilheus/',
+    link: '/en-GB/cities/itabuna-e-ilheus/'
   },
   {
     name: 'Itajai',
@@ -5437,11 +5437,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO2aUG2XM2JQRezBAlGEtb1A',
+      place_id: 'ChIJO2aUG2XM2JQRezBAlGEtb1A'
     },
-    link: '/en-GB/cities/itajai/',
+    link: '/en-GB/cities/itajai/'
   },
   {
     name: 'Itajuba',
@@ -5451,11 +5451,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqaEx6rRjy5QRJqhc0McmTe0',
+      place_id: 'ChIJqaEx6rRjy5QRJqhc0McmTe0'
     },
-    link: '/en-GB/cities/itajuba/',
+    link: '/en-GB/cities/itajuba/'
   },
   {
     name: 'Itaperuna',
@@ -5466,11 +5466,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB3VUh29gvAAR30s8mXDwVeg',
+      place_id: 'ChIJB3VUh29gvAAR30s8mXDwVeg'
     },
-    link: '/en-GB/cities/itaperuna/',
+    link: '/en-GB/cities/itaperuna/'
   },
   {
     name: 'Itapipoca',
@@ -5480,11 +5480,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJESLvsGSzwQcR7A2pNAai78Y',
+      place_id: 'ChIJESLvsGSzwQcR7A2pNAai78Y'
     },
-    link: '/en-GB/cities/itapipoca/',
+    link: '/en-GB/cities/itapipoca/'
   },
   {
     name: 'Jequie',
@@ -5494,11 +5494,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJWhnZT-vQAcRi4m9zrNwsZg',
+      place_id: 'ChIJJWhnZT-vQAcRi4m9zrNwsZg'
     },
-    link: '/en-GB/cities/jequie/',
+    link: '/en-GB/cities/jequie/'
   },
   {
     name: 'Joao Pessoa',
@@ -5508,11 +5508,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ16OaATnorAcRNNsmbZxKQW4',
+      place_id: 'ChIJ16OaATnorAcRNNsmbZxKQW4'
     },
-    link: '/en-GB/cities/joao-pessoa/',
+    link: '/en-GB/cities/joao-pessoa/'
   },
   {
     name: 'Joinville',
@@ -5522,11 +5522,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN6uxnfOj3pQR-ulh8Z2YS7w',
+      place_id: 'ChIJN6uxnfOj3pQR-ulh8Z2YS7w'
     },
-    link: '/en-GB/cities/joinville/',
+    link: '/en-GB/cities/joinville/'
   },
   {
     name: 'Juazeiro do Norte',
@@ -5536,11 +5536,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPcW8U6J4oQcRjYrYaYgc0Qw',
+      place_id: 'ChIJPcW8U6J4oQcRjYrYaYgc0Qw'
     },
-    link: '/en-GB/cities/juazeiro-do-norte/',
+    link: '/en-GB/cities/juazeiro-do-norte/'
   },
   {
     name: 'Juiz de Fora',
@@ -5550,11 +5550,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJoV344UOcmAARaKSgsyawNmI',
+      place_id: 'ChIJoV344UOcmAARaKSgsyawNmI'
     },
-    link: '/en-GB/cities/juiz-de-fora/',
+    link: '/en-GB/cities/juiz-de-fora/'
   },
   {
     name: 'La Paz',
@@ -5564,11 +5564,11 @@ module.exports = [
       country: {
         long_name: 'Bolivia',
         short_name: 'BO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJD6T1BArfXpERs4pFtHb821c',
+      place_id: 'ChIJD6T1BArfXpERs4pFtHb821c'
     },
-    link: '/en-GB/cities/la-paz/',
+    link: '/en-GB/cities/la-paz/'
   },
   {
     name: 'La Serena',
@@ -5578,11 +5578,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyfOJk2TKkZYRy0zY0bOHF4o',
+      place_id: 'ChIJyfOJk2TKkZYRy0zY0bOHF4o'
     },
-    link: '/en-GB/cities/la-serena/',
+    link: '/en-GB/cities/la-serena/'
   },
   {
     name: 'Lages',
@@ -5592,11 +5592,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW49rtNce4JQRlC3mmgAMnUg',
+      place_id: 'ChIJW49rtNce4JQRlC3mmgAMnUg'
     },
-    link: '/en-GB/cities/lages/',
+    link: '/en-GB/cities/lages/'
   },
   {
     name: 'Liberia',
@@ -5606,11 +5606,11 @@ module.exports = [
       country: {
         long_name: 'Liberia',
         short_name: 'LR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwfyp1AP4CQ8Rc2PRMmso038',
+      place_id: 'ChIJwfyp1AP4CQ8Rc2PRMmso038'
     },
-    link: '/en-GB/cities/liberia/',
+    link: '/en-GB/cities/liberia/'
   },
   {
     name: 'Lima',
@@ -5620,11 +5620,11 @@ module.exports = [
       country: {
         long_name: 'Peru',
         short_name: 'PE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxz7uGfbFBZERSi5FzLlsIBQ',
+      place_id: 'ChIJxz7uGfbFBZERSi5FzLlsIBQ'
     },
-    link: '/en-GB/cities/lima/',
+    link: '/en-GB/cities/lima/'
   },
   {
     name: 'Linhares',
@@ -5634,11 +5634,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRUyuK_cktgARHxV0tHkDQQg',
+      place_id: 'ChIJRUyuK_cktgARHxV0tHkDQQg'
     },
-    link: '/en-GB/cities/linhares/',
+    link: '/en-GB/cities/linhares/'
   },
   {
     name: 'Londrina',
@@ -5648,11 +5648,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbVivV1pD65QRcfkUxqURrCM',
+      place_id: 'ChIJbVivV1pD65QRcfkUxqURrCM'
     },
-    link: '/en-GB/cities/londrina/',
+    link: '/en-GB/cities/londrina/'
   },
   {
     name: 'Los Andes',
@@ -5662,11 +5662,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU-2y9KVF5IkRZUJPYKz0qgw',
+      place_id: 'ChIJU-2y9KVF5IkRZUJPYKz0qgw'
     },
-    link: '/en-GB/cities/los-andes/',
+    link: '/en-GB/cities/los-andes/'
   },
   {
     name: 'Macae',
@@ -5676,11 +5676,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyfSClY4wlgARsrGm4Em0n-s',
+      place_id: 'ChIJyfSClY4wlgARsrGm4Em0n-s'
     },
-    link: '/en-GB/cities/macae/',
+    link: '/en-GB/cities/macae/'
   },
   {
     name: 'Macapa',
@@ -5690,11 +5690,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJNxpLa-DlYY0Rlw_fMPN9NVY',
+      place_id: 'ChIJNxpLa-DlYY0Rlw_fMPN9NVY'
     },
-    link: '/en-GB/cities/macapa/',
+    link: '/en-GB/cities/macapa/'
   },
   {
     name: 'Maceio',
@@ -5705,11 +5705,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSYho1vxGAQcRU3bgQ1tyLO4',
+      place_id: 'ChIJSYho1vxGAQcRU3bgQ1tyLO4'
     },
-    link: '/en-GB/cities/maceio/',
+    link: '/en-GB/cities/maceio/'
   },
   {
     name: 'Manaus',
@@ -5719,11 +5719,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt0d2s8gbbJIRzKll959cSCs',
+      place_id: 'ChIJt0d2s8gbbJIRzKll959cSCs'
     },
-    link: '/en-GB/cities/manaus/',
+    link: '/en-GB/cities/manaus/'
   },
   {
     name: 'Maraba',
@@ -5733,11 +5733,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJh62I-NCmw5IRPW3GBiLBxH0',
+      place_id: 'ChIJh62I-NCmw5IRPW3GBiLBxH0'
     },
-    link: '/en-GB/cities/maraba/',
+    link: '/en-GB/cities/maraba/'
   },
   {
     name: 'Marilia',
@@ -5747,11 +5747,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJiQpK7urWv5QRCgRGaN9LwLY',
+      place_id: 'ChIJiQpK7urWv5QRCgRGaN9LwLY'
     },
-    link: '/en-GB/cities/marilia/',
+    link: '/en-GB/cities/marilia/'
   },
   {
     name: 'Maringa',
@@ -5762,11 +5762,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH4xhQu7W7JQRJTngKChZVsM',
+      place_id: 'ChIJH4xhQu7W7JQRJTngKChZVsM'
     },
-    link: '/en-GB/cities/maringa/',
+    link: '/en-GB/cities/maringa/'
   },
   {
     name: 'Medellin',
@@ -5776,11 +5776,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ291STu8oRI4RcqxwksPWL3I',
+      place_id: 'ChIJ291STu8oRI4RcqxwksPWL3I'
     },
-    link: '/en-GB/cities/medellin/',
+    link: '/en-GB/cities/medellin/'
   },
   {
     name: 'Mendoza',
@@ -5791,11 +5791,11 @@ module.exports = [
       country: {
         long_name: 'Argentina',
         short_name: 'AR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJv3lRxD4JfpYROvoO0vZ4WiA',
+      place_id: 'ChIJv3lRxD4JfpYROvoO0vZ4WiA'
     },
-    link: '/en-GB/cities/mendoza/',
+    link: '/en-GB/cities/mendoza/'
   },
   {
     name: 'Mogi Guacu',
@@ -5805,11 +5805,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd3oMGQNFyJQRUFpQPpvlEQQ',
+      place_id: 'ChIJd3oMGQNFyJQRUFpQPpvlEQQ'
     },
-    link: '/en-GB/cities/mogi-guacu/',
+    link: '/en-GB/cities/mogi-guacu/'
   },
   {
     name: 'Monteria',
@@ -5819,11 +5819,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrTFwpeUvWo4RoMDXLq3L4ZI',
+      place_id: 'ChIJrTFwpeUvWo4RoMDXLq3L4ZI'
     },
-    link: '/en-GB/cities/monteria/',
+    link: '/en-GB/cities/monteria/'
   },
   {
     name: 'Montes Claros',
@@ -5833,11 +5833,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9ebcMLRUqwARuxsEsEj5GyM',
+      place_id: 'ChIJ9ebcMLRUqwARuxsEsEj5GyM'
     },
-    link: '/en-GB/cities/montes-claros/',
+    link: '/en-GB/cities/montes-claros/'
   },
   {
     name: 'Montevideo',
@@ -5847,11 +5847,11 @@ module.exports = [
       country: {
         long_name: 'Uruguay',
         short_name: 'UY',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0_c7xv-An5URmexbNS4bMms',
+      place_id: 'ChIJ0_c7xv-An5URmexbNS4bMms'
     },
-    link: '/en-GB/cities/montevideo/',
+    link: '/en-GB/cities/montevideo/'
   },
   {
     name: 'Mossoro',
@@ -5861,11 +5861,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC87VdOAGugcRvp7xXf5PaUY',
+      place_id: 'ChIJC87VdOAGugcRvp7xXf5PaUY'
     },
-    link: '/en-GB/cities/mossoro/',
+    link: '/en-GB/cities/mossoro/'
   },
   {
     name: 'Natal',
@@ -5875,11 +5875,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMQVGJqyqswcRae0P8ExAi10',
+      place_id: 'ChIJMQVGJqyqswcRae0P8ExAi10'
     },
-    link: '/en-GB/cities/natal/',
+    link: '/en-GB/cities/natal/'
   },
   {
     name: 'Nova Friburgo',
@@ -5889,11 +5889,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgxIVb5OKlwARxBexv8AWK_8',
+      place_id: 'ChIJgxIVb5OKlwARxBexv8AWK_8'
     },
-    link: '/en-GB/cities/nova-friburgo/',
+    link: '/en-GB/cities/nova-friburgo/'
   },
   {
     name: 'Osorno',
@@ -5903,11 +5903,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1djjEn02FpYR9OZ0Ry_a7qE',
+      place_id: 'ChIJ1djjEn02FpYR9OZ0Ry_a7qE'
     },
-    link: '/en-GB/cities/osorno/',
+    link: '/en-GB/cities/osorno/'
   },
   {
     name: 'Ovalle',
@@ -5917,11 +5917,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJr6Omn9hNjpYRnJ_nO-wQ3Bw',
+      place_id: 'ChIJr6Omn9hNjpYRnJ_nO-wQ3Bw'
     },
-    link: '/en-GB/cities/ovalle/',
+    link: '/en-GB/cities/ovalle/'
   },
   {
     name: 'Palmas',
@@ -5931,11 +5931,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVxIfkTk0O5MRj4Fc0HCAOwk',
+      place_id: 'ChIJVxIfkTk0O5MRj4Fc0HCAOwk'
     },
-    link: '/en-GB/cities/palmas/',
+    link: '/en-GB/cities/palmas/'
   },
   {
     name: 'Panama City, PA',
@@ -5945,11 +5945,11 @@ module.exports = [
       country: {
         long_name: 'Panama',
         short_name: 'PA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYwPo2_GorI8RDsFC8PFdoqs',
+      place_id: 'ChIJYwPo2_GorI8RDsFC8PFdoqs'
     },
-    link: '/en-GB/cities/panama-city/',
+    link: '/en-GB/cities/panama-city/'
   },
   {
     name: 'Paranagua',
@@ -5959,11 +5959,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7cM9yeWa25QRi66o5HhStac',
+      place_id: 'ChIJ7cM9yeWa25QRi66o5HhStac'
     },
-    link: '/en-GB/cities/paranagua/',
+    link: '/en-GB/cities/paranagua/'
   },
   {
     name: 'Parauapebas',
@@ -5973,11 +5973,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWS_ctRhR3ZIRO4UICbAREU8',
+      place_id: 'ChIJWS_ctRhR3ZIRO4UICbAREU8'
     },
-    link: '/en-GB/cities/parauapebas/',
+    link: '/en-GB/cities/parauapebas/'
   },
   {
     name: 'Parnaiba',
@@ -5987,11 +5987,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdWyS1dw67AcRkrt1qp0fNUU',
+      place_id: 'ChIJdWyS1dw67AcRkrt1qp0fNUU'
     },
-    link: '/en-GB/cities/parnaiba/',
+    link: '/en-GB/cities/parnaiba/'
   },
   {
     name: 'Passo Fundo',
@@ -6001,11 +6001,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq-eMfn6_4pQRTpv0eQeWKLM',
+      place_id: 'ChIJq-eMfn6_4pQRTpv0eQeWKLM'
     },
-    link: '/en-GB/cities/passo-fundo/',
+    link: '/en-GB/cities/passo-fundo/'
   },
   {
     name: 'Patos',
@@ -6015,11 +6015,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKdLEUoaNhVQR2RxbHf3Sb4g',
+      place_id: 'ChIJKdLEUoaNhVQR2RxbHf3Sb4g'
     },
-    link: '/en-GB/cities/patos/',
+    link: '/en-GB/cities/patos/'
   },
   {
     name: 'Patos de Minas',
@@ -6029,11 +6029,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgyg_z7ljrpQR8jKa5hgoTG4',
+      place_id: 'ChIJgyg_z7ljrpQR8jKa5hgoTG4'
     },
-    link: '/en-GB/cities/patos-de-minas/',
+    link: '/en-GB/cities/patos-de-minas/'
   },
   {
     name: 'Paulo Afonso',
@@ -6043,11 +6043,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ75cFjz05CQcRQonitvYRyRI',
+      place_id: 'ChIJ75cFjz05CQcRQonitvYRyRI'
     },
-    link: '/en-GB/cities/paulo-afonso/',
+    link: '/en-GB/cities/paulo-afonso/'
   },
   {
     name: 'Pelotas',
@@ -6057,11 +6057,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR2R5rZFJEJURT2S9wa60upk',
+      place_id: 'ChIJR2R5rZFJEJURT2S9wa60upk'
     },
-    link: '/en-GB/cities/pelotas/',
+    link: '/en-GB/cities/pelotas/'
   },
   {
     name: 'Pereira',
@@ -6071,11 +6071,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_cFW60iHOI4RvN_x-RCUs5U',
+      place_id: 'ChIJ_cFW60iHOI4RvN_x-RCUs5U'
     },
-    link: '/en-GB/cities/pereira/',
+    link: '/en-GB/cities/pereira/'
   },
   {
     name: 'Petrolina',
@@ -6085,11 +6085,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSdayUoR6cwcR7QpOycAd56A',
+      place_id: 'ChIJSdayUoR6cwcR7QpOycAd56A'
     },
-    link: '/en-GB/cities/petrolina/',
+    link: '/en-GB/cities/petrolina/'
   },
   {
     name: 'Petropolis',
@@ -6100,11 +6100,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJy8wt8Aq34cRoUw6iFdDtp0',
+      place_id: 'ChIJJy8wt8Aq34cRoUw6iFdDtp0'
     },
-    link: '/en-GB/cities/petropolis/',
+    link: '/en-GB/cities/petropolis/'
   },
   {
     name: 'Piracicaba',
@@ -6114,11 +6114,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzUuGr6UxxpQRLLFOdG64dBs',
+      place_id: 'ChIJzUuGr6UxxpQRLLFOdG64dBs'
     },
-    link: '/en-GB/cities/piracicaba/',
+    link: '/en-GB/cities/piracicaba/'
   },
   {
     name: 'Piura',
@@ -6128,11 +6128,11 @@ module.exports = [
       country: {
         long_name: 'Peru',
         short_name: 'PE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtzk8eXwQSpARKP4BHI2U6B0',
+      place_id: 'ChIJtzk8eXwQSpARKP4BHI2U6B0'
     },
-    link: '/en-GB/cities/piura/',
+    link: '/en-GB/cities/piura/'
   },
   {
     name: 'Pocos de Caldas',
@@ -6142,11 +6142,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGxVaLsPCyZQR_IlFh3OHx5A',
+      place_id: 'ChIJGxVaLsPCyZQR_IlFh3OHx5A'
     },
-    link: '/en-GB/cities/pocos-de-caldas/',
+    link: '/en-GB/cities/pocos-de-caldas/'
   },
   {
     name: 'Ponta Grossa',
@@ -6156,11 +6156,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdVV0sxAD6JQR2A1NEFjxTqM',
+      place_id: 'ChIJdVV0sxAD6JQR2A1NEFjxTqM'
     },
-    link: '/en-GB/cities/ponta-grossa/',
+    link: '/en-GB/cities/ponta-grossa/'
   },
   {
     name: 'Popayan',
@@ -6170,11 +6170,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfdQowBEDMI4RTqWHCX_WC4g',
+      place_id: 'ChIJfdQowBEDMI4RTqWHCX_WC4g'
     },
-    link: '/en-GB/cities/popayan/',
+    link: '/en-GB/cities/popayan/'
   },
   {
     name: 'Porto Alegre',
@@ -6184,11 +6184,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHctqVtKcGZURH-mHn6gRMWA',
+      place_id: 'ChIJHctqVtKcGZURH-mHn6gRMWA'
     },
-    link: '/en-GB/cities/porto-alegre/',
+    link: '/en-GB/cities/porto-alegre/'
   },
   {
     name: 'Porto Seguro',
@@ -6198,11 +6198,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_4a8SqmWNgcRD-iVnFL5fWc',
+      place_id: 'ChIJ_4a8SqmWNgcRD-iVnFL5fWc'
     },
-    link: '/en-GB/cities/porto-seguro/',
+    link: '/en-GB/cities/porto-seguro/'
   },
   {
     name: 'Porto Velho',
@@ -6212,11 +6212,11 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS_Ioc6YCxYUR1nwOek4HDvg',
+      place_id: 'ChIJS_Ioc6YCxYUR1nwOek4HDvg'
     },
-    link: '/en-GB/cities/porto-velho/',
+    link: '/en-GB/cities/porto-velho/'
   },
   {
     name: 'Pouso Alegre',
@@ -6227,11 +6227,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJV24Pax7Hy5QRUteNDX8V7L0',
+      place_id: 'ChIJV24Pax7Hy5QRUteNDX8V7L0'
     },
-    link: '/en-GB/cities/pouso-alegre/',
+    link: '/en-GB/cities/pouso-alegre/'
   },
   {
     name: 'Presidente Prudente',
@@ -6241,11 +6241,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWwxXEbP1k5QRua9G_AFYR9o',
+      place_id: 'ChIJWwxXEbP1k5QRua9G_AFYR9o'
     },
-    link: '/en-GB/cities/presidente-prudente/',
+    link: '/en-GB/cities/presidente-prudente/'
   },
   {
     name: 'Puerto Montt',
@@ -6255,11 +6255,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB_QgaU06GJYR38mleVrxo4Y',
+      place_id: 'ChIJB_QgaU06GJYR38mleVrxo4Y'
     },
-    link: '/en-GB/cities/puerto-montt/',
+    link: '/en-GB/cities/puerto-montt/'
   },
   {
     name: 'Puerto Plata',
@@ -6269,11 +6269,11 @@ module.exports = [
       country: {
         long_name: 'Dominican Republic',
         short_name: 'DO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdfpGAD_usY4RZ3TZhgIwwRA',
+      place_id: 'ChIJdfpGAD_usY4RZ3TZhgIwwRA'
     },
-    link: '/en-GB/cities/puerto-plata/',
+    link: '/en-GB/cities/puerto-plata/'
   },
   {
     name: 'Punta Arenas',
@@ -6284,11 +6284,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIcwJs1jKUrwRFmlFZYtqYfo',
+      place_id: 'ChIJIcwJs1jKUrwRFmlFZYtqYfo'
     },
-    link: '/en-GB/cities/punta-arenas/',
+    link: '/en-GB/cities/punta-arenas/'
   },
   {
     name: 'Punta del Este',
@@ -6298,11 +6298,11 @@ module.exports = [
       country: {
         long_name: 'Uruguay',
         short_name: 'UY',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvQvEyJ4FdZURk8_TwoMB3Zs',
+      place_id: 'ChIJvQvEyJ4FdZURk8_TwoMB3Zs'
     },
-    link: '/en-GB/cities/punta-del-este/',
+    link: '/en-GB/cities/punta-del-este/'
   },
   {
     name: 'Quito',
@@ -6312,11 +6312,11 @@ module.exports = [
       country: {
         long_name: 'Ecuador',
         short_name: 'EC',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn3xCAkCa1ZERclXvWOGRuUQ',
+      place_id: 'ChIJn3xCAkCa1ZERclXvWOGRuUQ'
     },
-    link: '/en-GB/cities/quito/',
+    link: '/en-GB/cities/quito/'
   },
   {
     name: 'Rancagua',
@@ -6326,11 +6326,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0xPvvWdDY5YR91StZoP8c9k',
+      place_id: 'ChIJ0xPvvWdDY5YR91StZoP8c9k'
     },
-    link: '/en-GB/cities/rancagua/',
+    link: '/en-GB/cities/rancagua/'
   },
   {
     name: 'Recife',
@@ -6340,11 +6340,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5UbEiG8ZqwcR1H9EIin1njw',
+      place_id: 'ChIJ5UbEiG8ZqwcR1H9EIin1njw'
     },
-    link: '/en-GB/cities/recife/',
+    link: '/en-GB/cities/recife/'
   },
   {
     name: 'Ribeirao Preto',
@@ -6355,11 +6355,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHcKsaB2_uZQROerevgruuDc',
+      place_id: 'ChIJHcKsaB2_uZQROerevgruuDc'
     },
-    link: '/en-GB/cities/ribeirao-preto/',
+    link: '/en-GB/cities/ribeirao-preto/'
   },
   {
     name: 'Rio Branco',
@@ -6369,11 +6369,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJG7dkUx9kf5ERtlPdjrhiOsc',
+      place_id: 'ChIJG7dkUx9kf5ERtlPdjrhiOsc'
     },
-    link: '/en-GB/cities/rio-branco/',
+    link: '/en-GB/cities/rio-branco/'
   },
   {
     name: 'Rio De Janeiro',
@@ -6383,11 +6383,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW6AIkVXemwARTtIvZ2xC3FA',
+      place_id: 'ChIJW6AIkVXemwARTtIvZ2xC3FA'
     },
-    link: '/en-GB/cities/rio-de-janeiro/',
+    link: '/en-GB/cities/rio-de-janeiro/'
   },
   {
     name: 'Rio Verde',
@@ -6397,11 +6397,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE7LmcXuFK4cRaUJhZjy1mgw',
+      place_id: 'ChIJE7LmcXuFK4cRaUJhZjy1mgw'
     },
-    link: '/en-GB/cities/rio-verde/',
+    link: '/en-GB/cities/rio-verde/'
   },
   {
     name: 'Rondonopolis',
@@ -6411,11 +6411,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5wNH_ga6eZMRv_VDDxdWRyU',
+      place_id: 'ChIJ5wNH_ga6eZMRv_VDDxdWRyU'
     },
-    link: '/en-GB/cities/rondonopolis/',
+    link: '/en-GB/cities/rondonopolis/'
   },
   {
     name: 'Salvador',
@@ -6425,11 +6425,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs6U8onwDFgcRmGYiLJHHnxs',
+      place_id: 'ChIJs6U8onwDFgcRmGYiLJHHnxs'
     },
-    link: '/en-GB/cities/salvador/',
+    link: '/en-GB/cities/salvador/'
   },
   {
     name: 'San Jose, CR',
@@ -6439,11 +6439,11 @@ module.exports = [
       country: {
         long_name: 'Costa Rica',
         short_name: 'CR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxRUNxULjoI8RgrgRn2pqdOY',
+      place_id: 'ChIJxRUNxULjoI8RgrgRn2pqdOY'
     },
-    link: '/en-GB/cities/san-jose/',
+    link: '/en-GB/cities/san-jose/'
   },
   {
     name: 'San Salvador',
@@ -6453,11 +6453,11 @@ module.exports = [
       country: {
         long_name: 'El Salvador',
         short_name: 'SV',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXXcRtGcwY48Rllz7k4iXdR8',
+      place_id: 'ChIJXXcRtGcwY48Rllz7k4iXdR8'
     },
-    link: '/en-GB/cities/san-salvador/',
+    link: '/en-GB/cities/san-salvador/'
   },
   {
     name: 'Santa Cruz do Capibaribe',
@@ -6467,11 +6467,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI7hiz4pzqQcRPAsiU8N1Ye0',
+      place_id: 'ChIJI7hiz4pzqQcRPAsiU8N1Ye0'
     },
-    link: '/en-GB/cities/santa-cruz-do-capibaribe/',
+    link: '/en-GB/cities/santa-cruz-do-capibaribe/'
   },
   {
     name: 'Santa Cruz do Sul',
@@ -6481,11 +6481,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9WYIJm6jHJURBUcEX1kI8YQ',
+      place_id: 'ChIJ9WYIJm6jHJURBUcEX1kI8YQ'
     },
-    link: '/en-GB/cities/santa-cruz-do-sul/',
+    link: '/en-GB/cities/santa-cruz-do-sul/'
   },
   {
     name: 'Santa Cruz, BO',
@@ -6495,11 +6495,11 @@ module.exports = [
       country: {
         long_name: 'Bolivia',
         short_name: 'BO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYxrApxzo8ZMRG2FnpFMKi1w',
+      place_id: 'ChIJYxrApxzo8ZMRG2FnpFMKi1w'
     },
-    link: '/en-GB/cities/santa-cruz/',
+    link: '/en-GB/cities/santa-cruz/'
   },
   {
     name: 'Santa Maria',
@@ -6509,11 +6509,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCcZUDKoP7IARjjRaimVS_Qs',
+      place_id: 'ChIJCcZUDKoP7IARjjRaimVS_Qs'
     },
-    link: '/en-GB/cities/santa-maria/',
+    link: '/en-GB/cities/santa-maria/'
   },
   {
     name: 'Santarem',
@@ -6522,12 +6522,12 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
       formatted_address: 'Santar√©m, Portugal',
-      place_id: 'ChIJw7IlYcvsGA0RYDqQ5L3rAAQ',
+      place_id: 'ChIJw7IlYcvsGA0RYDqQ5L3rAAQ'
     },
-    link: '/en-GB/cities/santarem/',
+    link: '/en-GB/cities/santarem/'
   },
   {
     name: 'Santiago',
@@ -6537,11 +6537,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL68lBEHFYpYRMQkPQDzVdYQ',
+      place_id: 'ChIJL68lBEHFYpYRMQkPQDzVdYQ'
     },
-    link: '/en-GB/cities/santiago/',
+    link: '/en-GB/cities/santiago/'
   },
   {
     name: 'Santiago, DR',
@@ -6551,11 +6551,11 @@ module.exports = [
       country: {
         long_name: 'Dominican Republic',
         short_name: 'DO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn4nlOMjFsY4RKYR2uFmw1HU',
+      place_id: 'ChIJn4nlOMjFsY4RKYR2uFmw1HU'
     },
-    link: '/en-GB/cities/santiago-rd/',
+    link: '/en-GB/cities/santiago-rd/'
   },
   {
     name: 'Santo Antonio de Jesus',
@@ -6565,11 +6565,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI_OjpkUqPgcRwjWqc-lqbJQ',
+      place_id: 'ChIJI_OjpkUqPgcRwjWqc-lqbJQ'
     },
-    link: '/en-GB/cities/santo-antonio-de-jesus/',
+    link: '/en-GB/cities/santo-antonio-de-jesus/'
   },
   {
     name: 'Santo Domingo',
@@ -6579,11 +6579,11 @@ module.exports = [
       country: {
         long_name: 'Dominican Republic',
         short_name: 'DO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq6V-EPGJr44RZMEVJ7iHxdY',
+      place_id: 'ChIJq6V-EPGJr44RZMEVJ7iHxdY'
     },
-    link: '/en-GB/cities/santo-domingo/',
+    link: '/en-GB/cities/santo-domingo/'
   },
   {
     name: 'Santos',
@@ -6593,11 +6593,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ87Pfi_YQyYcRmmfSRaw13Kg',
+      place_id: 'ChIJ87Pfi_YQyYcRmmfSRaw13Kg'
     },
-    link: '/en-GB/cities/santos/',
+    link: '/en-GB/cities/santos/'
   },
   {
     name: 'Sao Carlos',
@@ -6606,12 +6606,12 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
       place_id: 'ChIJgdGduyZ3uJQRvJlZUHF9nQ0',
-      formatted_address: 'S√£o Carlos, SP, Brazil',
+      formatted_address: 'S√£o Carlos, SP, Brazil'
     },
-    link: '/en-GB/cities/sao-carlos/',
+    link: '/en-GB/cities/sao-carlos/'
   },
   {
     name: 'Sao Jose do Rio Preto',
@@ -6622,11 +6622,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJifctTGGtvZQRCSxkcPCwL48',
+      place_id: 'ChIJifctTGGtvZQRCSxkcPCwL48'
     },
-    link: '/en-GB/cities/sao-jose-do-rio-preto/',
+    link: '/en-GB/cities/sao-jose-do-rio-preto/'
   },
   {
     name: 'Sao Jose dos Campos',
@@ -6637,11 +6637,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ58KMhbNLzJQRwfhoMaMlugA',
+      place_id: 'ChIJ58KMhbNLzJQRwfhoMaMlugA'
     },
-    link: '/en-GB/cities/sao-jose-dos-campos/',
+    link: '/en-GB/cities/sao-jose-dos-campos/'
   },
   {
     name: 'Sao Luis',
@@ -6652,11 +6652,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIW1_b_CP9gcRR96jWeQCMZg',
+      place_id: 'ChIJIW1_b_CP9gcRR96jWeQCMZg'
     },
-    link: '/en-GB/cities/sao-luis/',
+    link: '/en-GB/cities/sao-luis/'
   },
   {
     name: 'Sao Paulo',
@@ -6666,11 +6666,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0WGkg4FEzpQRrlsz_whLqZs',
+      place_id: 'ChIJ0WGkg4FEzpQRrlsz_whLqZs'
     },
-    link: '/en-GB/cities/sao-paulo/',
+    link: '/en-GB/cities/sao-paulo/'
   },
   {
     name: 'Sobral',
@@ -6680,11 +6680,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF7JU1y-16gcRGibD9Badx3c',
+      place_id: 'ChIJF7JU1y-16gcRGibD9Badx3c'
     },
-    link: '/en-GB/cities/sobral/',
+    link: '/en-GB/cities/sobral/'
   },
   {
     name: 'Sorocaba',
@@ -6694,11 +6694,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA_VI67yKxZQRG3jQWayZf5Q',
+      place_id: 'ChIJA_VI67yKxZQRG3jQWayZf5Q'
     },
-    link: '/en-GB/cities/sorocaba/',
+    link: '/en-GB/cities/sorocaba/'
   },
   {
     name: 'Talca',
@@ -6708,11 +6708,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfdAHrKLGZZYRuMjar_5XViY',
+      place_id: 'ChIJfdAHrKLGZZYRuMjar_5XViY'
     },
-    link: '/en-GB/cities/talca/',
+    link: '/en-GB/cities/talca/'
   },
   {
     name: 'Teixeira de Freitas',
@@ -6722,11 +6722,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7xf0wKlGNQcRWxwfNx-Mjpk',
+      place_id: 'ChIJ7xf0wKlGNQcRWxwfNx-Mjpk'
     },
-    link: '/en-GB/cities/teixeira-de-freitas/',
+    link: '/en-GB/cities/teixeira-de-freitas/'
   },
   {
     name: 'Temuco',
@@ -6736,11 +6736,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIyIaws7TFJYRCIQA_4eI-sI',
+      place_id: 'ChIJIyIaws7TFJYRCIQA_4eI-sI'
     },
-    link: '/en-GB/cities/temuco/',
+    link: '/en-GB/cities/temuco/'
   },
   {
     name: 'Teresina',
@@ -6750,11 +6750,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsSaF37Q0jgcRWXN9u73PKSw',
+      place_id: 'ChIJsSaF37Q0jgcRWXN9u73PKSw'
     },
-    link: '/en-GB/cities/teresina/',
+    link: '/en-GB/cities/teresina/'
   },
   {
     name: 'Tres Rios',
@@ -6765,11 +6765,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0zabNmnxNIgRGsahePeD4zc',
+      place_id: 'ChIJ0zabNmnxNIgRGsahePeD4zc'
     },
-    link: '/en-GB/cities/tres-rios/',
+    link: '/en-GB/cities/tres-rios/'
   },
   {
     name: 'Uba',
@@ -6779,11 +6779,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJM04a5HLzk4cRqMDX_lTkD2o',
+      place_id: 'ChIJM04a5HLzk4cRqMDX_lTkD2o'
     },
-    link: '/en-GB/cities/uba/',
+    link: '/en-GB/cities/uba/'
   },
   {
     name: 'Uberaba',
@@ -6793,11 +6793,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN3ZiYjHQupQRXOH4sO3Zg44',
+      place_id: 'ChIJN3ZiYjHQupQRXOH4sO3Zg44'
     },
-    link: '/en-GB/cities/uberaba/',
+    link: '/en-GB/cities/uberaba/'
   },
   {
     name: 'Uberlandia',
@@ -6807,11 +6807,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ77q7EAxFpJQRnFxtYZMMN64',
+      place_id: 'ChIJ77q7EAxFpJQRnFxtYZMMN64'
     },
-    link: '/en-GB/cities/uberlandia/',
+    link: '/en-GB/cities/uberlandia/'
   },
   {
     name: 'Valdivia',
@@ -6821,11 +6821,11 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAUXeIE_pFZYRE3hTURAwt4k',
+      place_id: 'ChIJAUXeIE_pFZYRE3hTURAwt4k'
     },
-    link: '/en-GB/cities/valdivia/',
+    link: '/en-GB/cities/valdivia/'
   },
   {
     name: 'Valenca',
@@ -6835,11 +6835,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvS-5J7tSwokRQvSoqhgeJYI',
+      place_id: 'ChIJvS-5J7tSwokRQvSoqhgeJYI'
     },
-    link: '/en-GB/cities/valenca/',
+    link: '/en-GB/cities/valenca/'
   },
   {
     name: 'Valledupar',
@@ -6849,11 +6849,11 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ13HP1rW5io4RSiNMsSU2pIQ',
+      place_id: 'ChIJ13HP1rW5io4RSiNMsSU2pIQ'
     },
-    link: '/en-GB/cities/valledupar/',
+    link: '/en-GB/cities/valledupar/'
   },
   {
     name: 'Valparaiso',
@@ -6863,11 +6863,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC0BDeA6aEYgRTELnjqNFwoA',
+      place_id: 'ChIJC0BDeA6aEYgRTELnjqNFwoA'
     },
-    link: '/en-GB/cities/valparaiso/',
+    link: '/en-GB/cities/valparaiso/'
   },
   {
     name: 'Varginha',
@@ -6877,11 +6877,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCQyKfpKSypQR4CAwqYF4WmA',
+      place_id: 'ChIJCQyKfpKSypQR4CAwqYF4WmA'
     },
-    link: '/en-GB/cities/varginha/',
+    link: '/en-GB/cities/varginha/'
   },
   {
     name: 'Vitoria',
@@ -6891,11 +6891,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ6U43hV09uAARCdgOp35eWZc',
+      place_id: 'ChIJ6U43hV09uAARCdgOp35eWZc'
     },
-    link: '/en-GB/cities/vitoria/',
+    link: '/en-GB/cities/vitoria/'
   },
   {
     name: 'Vitoria da Conquista',
@@ -6905,11 +6905,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBeQlMAc7RgcR4yrZK0VFvng',
+      place_id: 'ChIJBeQlMAc7RgcR4yrZK0VFvng'
     },
-    link: '/en-GB/cities/vitoria-da-conquista/',
+    link: '/en-GB/cities/vitoria-da-conquista/'
   },
   {
     name: 'Volta Redonda',
@@ -6919,11 +6919,11 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJT5ORgQ2YngARaluKrskOov0',
+      place_id: 'ChIJT5ORgQ2YngARaluKrskOov0'
     },
-    link: '/en-GB/cities/volta-redonda/',
+    link: '/en-GB/cities/volta-redonda/'
   },
   {
     name: 'Albacete',
@@ -6933,11 +6933,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFY0h--JfZg0RgGEY1jHNaYI',
+      place_id: 'ChIJFY0h--JfZg0RgGEY1jHNaYI'
     },
-    link: '/en-GB/cities/albacete/',
+    link: '/en-GB/cities/albacete/'
   },
   {
     name: 'Algarve',
@@ -6947,11 +6947,11 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ78_RVe5UBQ0RRQ6REi5l4oA',
+      place_id: 'ChIJ78_RVe5UBQ0RRQ6REi5l4oA'
     },
-    link: '/en-GB/cities/algarve/',
+    link: '/en-GB/cities/algarve/'
   },
   {
     name: 'Amiens',
@@ -6961,11 +6961,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC3aL1xOE50cR4CBigT7xCgQ',
+      place_id: 'ChIJC3aL1xOE50cR4CBigT7xCgQ'
     },
-    link: '/en-GB/cities/amiens/',
+    link: '/en-GB/cities/amiens/'
   },
   {
     name: 'Amsterdam',
@@ -6975,11 +6975,11 @@ module.exports = [
       country: {
         long_name: 'Netherlands',
         short_name: 'NL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVXealLU_xkcRja_At0z9AGY',
+      place_id: 'ChIJVXealLU_xkcRja_At0z9AGY'
     },
-    link: '/en-GB/cities/amsterdam/',
+    link: '/en-GB/cities/amsterdam/'
   },
   {
     name: 'Angers',
@@ -6989,11 +6989,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnY7lANp4CEgRMJwNHlI3DQQ',
+      place_id: 'ChIJnY7lANp4CEgRMJwNHlI3DQQ'
     },
-    link: '/en-GB/cities/angers/',
+    link: '/en-GB/cities/angers/'
   },
   {
     name: 'Annecy',
@@ -7003,11 +7003,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyVEFHPqPi0cRujQFYoEWeEI',
+      place_id: 'ChIJyVEFHPqPi0cRujQFYoEWeEI'
     },
-    link: '/en-GB/cities/annecy/',
+    link: '/en-GB/cities/annecy/'
   },
   {
     name: 'Athens, GR',
@@ -7017,11 +7017,11 @@ module.exports = [
       country: {
         long_name: 'Greece',
         short_name: 'GR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic',
+      place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic'
     },
-    link: '/en-GB/cities/athens-gr/',
+    link: '/en-GB/cities/athens-gr/'
   },
   {
     name: 'Avignon',
@@ -7031,11 +7031,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB528OYfrtRIRNnsd-m6bQuY',
+      place_id: 'ChIJB528OYfrtRIRNnsd-m6bQuY'
     },
-    link: '/en-GB/cities/avignon/',
+    link: '/en-GB/cities/avignon/'
   },
   {
     name: 'Barcelona',
@@ -7045,11 +7045,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ',
+      place_id: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ'
     },
-    link: '/en-GB/cities/barcelona/',
+    link: '/en-GB/cities/barcelona/'
   },
   {
     name: 'Basel',
@@ -7059,11 +7059,11 @@ module.exports = [
       country: {
         long_name: 'Switzerland',
         short_name: 'CH',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTzBpJ8dJkEcRkIpt83DrHDY',
+      place_id: 'ChIJTzBpJ8dJkEcRkIpt83DrHDY'
     },
-    link: '/en-GB/cities/basel/',
+    link: '/en-GB/cities/basel/'
   },
   {
     name: 'Belfast',
@@ -7073,11 +7073,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO4rQ1_3_YEgRMcXH7ywWVy4',
+      place_id: 'ChIJO4rQ1_3_YEgRMcXH7ywWVy4'
     },
-    link: '/en-GB/cities/belfast/',
+    link: '/en-GB/cities/belfast/'
   },
   {
     name: 'Berlin',
@@ -7087,11 +7087,11 @@ module.exports = [
       country: {
         long_name: 'Germany',
         short_name: 'DE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAVkDPzdOqEcRcDteW0YgIQQ',
+      place_id: 'ChIJAVkDPzdOqEcRcDteW0YgIQQ'
     },
-    link: '/en-GB/cities/berlin/',
+    link: '/en-GB/cities/berlin/'
   },
   {
     name: 'Besancon',
@@ -7101,11 +7101,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCxPu8PpijUcRMO0TszTOCQQ',
+      place_id: 'ChIJCxPu8PpijUcRMO0TszTOCQQ'
     },
-    link: '/en-GB/cities/saint-etienne/',
+    link: '/en-GB/cities/saint-etienne/'
   },
   {
     name: 'Birmingham, UK',
@@ -7115,11 +7115,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc3FBGy2UcEgRmHnurvD-gco',
+      place_id: 'ChIJc3FBGy2UcEgRmHnurvD-gco'
     },
-    link: '/en-GB/cities/birmingham/',
+    link: '/en-GB/cities/birmingham/'
   },
   {
     name: 'Bordeaux',
@@ -7129,11 +7129,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgcpR9-gnVQ0RiXo5ewOGY3k',
+      place_id: 'ChIJgcpR9-gnVQ0RiXo5ewOGY3k'
     },
-    link: '/en-GB/cities/bordeaux/',
+    link: '/en-GB/cities/bordeaux/'
   },
   {
     name: 'Brasov',
@@ -7143,11 +7143,11 @@ module.exports = [
       country: {
         long_name: 'Romania',
         short_name: 'RO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8RSiKoZbs0ARDx45VO_y9Ww',
+      place_id: 'ChIJ8RSiKoZbs0ARDx45VO_y9Ww'
     },
-    link: '/en-GB/cities/brasov/',
+    link: '/en-GB/cities/brasov/'
   },
   {
     name: 'Brest',
@@ -7157,11 +7157,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk1uS2eG7FkgRqzCcF1iDSMY',
+      place_id: 'ChIJk1uS2eG7FkgRqzCcF1iDSMY'
     },
-    link: '/en-GB/cities/brest/',
+    link: '/en-GB/cities/brest/'
   },
   {
     name: 'Brighton',
@@ -7172,10 +7172,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'UK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ0Ep9gmFdUgR-Q59cnqvxpw-394',
-    },
+      place_id: 'ChIJZ0Ep9gmFdUgR-Q59cnqvxpw-394'
+    }
   },
   {
     name: 'Brussels',
@@ -7185,11 +7185,11 @@ module.exports = [
       country: {
         long_name: 'Belgium',
         short_name: 'BE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_58PdIbEw0cRMIBML6uZAAE',
+      place_id: 'ChIJ_58PdIbEw0cRMIBML6uZAAE'
     },
-    link: '/en-GB/cities/brussels/',
+    link: '/en-GB/cities/brussels/'
   },
   {
     name: 'Bucharest',
@@ -7199,11 +7199,11 @@ module.exports = [
       country: {
         long_name: 'Romania',
         short_name: 'RO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJT608vzr5sUARKKacfOMyBqw',
+      place_id: 'ChIJT608vzr5sUARKKacfOMyBqw'
     },
-    link: '/en-GB/cities/bucharest/',
+    link: '/en-GB/cities/bucharest/'
   },
   {
     name: 'Budapest',
@@ -7213,11 +7213,11 @@ module.exports = [
       country: {
         long_name: 'Hungary',
         short_name: 'HU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyc_U0TTDQUcRYBEeDCnEAAQ',
+      place_id: 'ChIJyc_U0TTDQUcRYBEeDCnEAAQ'
     },
-    link: '/en-GB/cities/budapest/',
+    link: '/en-GB/cities/budapest/'
   },
   {
     name: 'Cambridge and East Anglia',
@@ -7227,11 +7227,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLQEq84ld2EcRIT1eo-Ego2M',
+      place_id: 'ChIJLQEq84ld2EcRIT1eo-Ego2M'
     },
-    link: '/en-GB/cities/east-anglia/',
+    link: '/en-GB/cities/east-anglia/'
   },
   {
     name: 'Cardiff',
@@ -7241,11 +7241,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9VPsNNQCbkgRDmeGZdsGNBQ',
+      place_id: 'ChIJ9VPsNNQCbkgRDmeGZdsGNBQ'
     },
-    link: '/en-GB/cities/cardiff/',
+    link: '/en-GB/cities/cardiff/'
   },
   {
     name: 'Castellon',
@@ -7255,11 +7255,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl8EruCv-Xw0RSU_G4Usgib8',
+      place_id: 'ChIJl8EruCv-Xw0RSU_G4Usgib8'
     },
-    link: '/en-GB/cities/castellon/',
+    link: '/en-GB/cities/castellon/'
   },
   {
     name: 'Chelyabinsk',
@@ -7269,11 +7269,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjTpKEMuSxUMRvxEXbSpKIu8',
+      place_id: 'ChIJjTpKEMuSxUMRvxEXbSpKIu8'
     },
-    link: '/en-GB/cities/chelyabinsk/',
+    link: '/en-GB/cities/chelyabinsk/'
   },
   {
     name: 'Cherbourg',
@@ -7283,11 +7283,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjRgznQuXDEgRkH65T0gUDAQ',
+      place_id: 'ChIJjRgznQuXDEgRkH65T0gUDAQ'
     },
-    link: '/en-GB/cities/chartres/',
+    link: '/en-GB/cities/chartres/'
   },
   {
     name: 'Clermont Ferrand',
@@ -7297,11 +7297,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB4Uuf90b90cRIm-gOGAwlDk',
+      place_id: 'ChIJB4Uuf90b90cRIm-gOGAwlDk'
     },
-    link: '/en-GB/cities/clermont-ferrand/',
+    link: '/en-GB/cities/clermont-ferrand/'
   },
   {
     name: 'Cluj',
@@ -7311,11 +7311,11 @@ module.exports = [
       country: {
         long_name: 'Romania',
         short_name: 'RO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJiwtskR8MSUcRixQfMxxgvAs',
+      place_id: 'ChIJiwtskR8MSUcRixQfMxxgvAs'
     },
-    link: '/en-GB/cities/cluj/',
+    link: '/en-GB/cities/cluj/'
   },
   {
     name: 'Coimbra',
@@ -7325,11 +7325,11 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbdGsShT5Ig0RuaZCe0dkRWM',
+      place_id: 'ChIJbdGsShT5Ig0RuaZCe0dkRWM'
     },
-    link: '/en-GB/cities/coimbra/',
+    link: '/en-GB/cities/coimbra/'
   },
   {
     name: 'Cologne',
@@ -7339,11 +7339,11 @@ module.exports = [
       country: {
         long_name: 'Germany',
         short_name: 'DE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5S-raZElv0cR8HcqSvxgJwQ',
+      place_id: 'ChIJ5S-raZElv0cR8HcqSvxgJwQ'
     },
-    link: '/en-GB/cities/cologne/',
+    link: '/en-GB/cities/cologne/'
   },
   {
     name: 'Cordoba',
@@ -7353,11 +7353,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7wpe-SbfbA0Rw1aEEOjS8U0',
+      place_id: 'ChIJ7wpe-SbfbA0Rw1aEEOjS8U0'
     },
-    link: '/en-GB/cities/cordoba-es/',
+    link: '/en-GB/cities/cordoba-es/'
   },
   {
     name: 'Corsica',
@@ -7367,11 +7367,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcQmbsAMk1xIRjcuhcewihag',
+      place_id: 'ChIJcQmbsAMk1xIRjcuhcewihag'
     },
-    link: '/en-GB/cities/le-mans/',
+    link: '/en-GB/cities/le-mans/'
   },
   {
     name: 'Croatian Coast',
@@ -7381,11 +7381,11 @@ module.exports = [
       country: {
         long_name: 'Croatia',
         short_name: 'HR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKbyE3x2hZEcRusxjjhxgXE8',
+      place_id: 'ChIJKbyE3x2hZEcRusxjjhxgXE8'
     },
-    link: '/en-GB/cities/split/',
+    link: '/en-GB/cities/split/'
   },
   {
     name: 'Dijon',
@@ -7395,11 +7395,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdZb974yd8kcR0FgUszTOCQQ',
+      place_id: 'ChIJdZb974yd8kcR0FgUszTOCQQ'
     },
-    link: '/en-GB/cities/dijon/',
+    link: '/en-GB/cities/dijon/'
   },
   {
     name: 'Dnipro',
@@ -7409,11 +7409,11 @@ module.exports = [
       country: {
         long_name: 'Ukraine',
         short_name: 'UA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj0YI_QPj20ARuhrB8tXzHAo',
+      place_id: 'ChIJj0YI_QPj20ARuhrB8tXzHAo'
     },
-    link: '/en-GB/cities/dnipro/',
+    link: '/en-GB/cities/dnipro/'
   },
   {
     name: 'Dublin',
@@ -7423,11 +7423,11 @@ module.exports = [
       country: {
         long_name: 'Ireland',
         short_name: 'IE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL6wn6oAOZ0gRoHExl6nHAAo',
+      place_id: 'ChIJL6wn6oAOZ0gRoHExl6nHAAo'
     },
-    link: '/en-GB/cities/dublin/',
+    link: '/en-GB/cities/dublin/'
   },
   {
     name: 'Dusseldorf',
@@ -7438,10 +7438,10 @@ module.exports = [
       country: {
         long_name: 'Germany',
         short_name: 'DE',
-        types: ['country', 'political'],
-      },
+        types: ['country', 'political']
+      }
     },
-    link: '/en-GB/cities/dusseldorf/',
+    link: '/en-GB/cities/dusseldorf/'
   },
   {
     name: 'Edinburgh',
@@ -7451,11 +7451,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIyaYpQC4h0gRJxfnfHsU8mQ',
+      place_id: 'ChIJIyaYpQC4h0gRJxfnfHsU8mQ'
     },
-    link: '/en-GB/cities/edinburgh/',
+    link: '/en-GB/cities/edinburgh/'
   },
   {
     name: 'Ekaterinburg',
@@ -7466,10 +7466,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
-      },
+        types: ['country', 'political']
+      }
     },
-    link: '/en-GB/cities/yekaterinburg/',
+    link: '/en-GB/cities/yekaterinburg/'
   },
   {
     name: 'Frankfurt',
@@ -7479,11 +7479,11 @@ module.exports = [
       country: {
         long_name: 'Germany',
         short_name: 'DE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxZZwR28JvUcRAMawKVBDIgQ',
+      place_id: 'ChIJxZZwR28JvUcRAMawKVBDIgQ'
     },
-    link: '/en-GB/cities/frankfurt/',
+    link: '/en-GB/cities/frankfurt/'
   },
   {
     name: 'Geneva',
@@ -7494,10 +7494,10 @@ module.exports = [
       country: {
         long_name: 'Switzerland',
         short_name: 'CH',
-        types: ['country', 'political'],
-      },
+        types: ['country', 'political']
+      }
     },
-    link: '/en-GB/cities/geneva/',
+    link: '/en-GB/cities/geneva/'
   },
   {
     name: 'Girona',
@@ -7507,11 +7507,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq_3ImCfnuhIRb2oppbZFOK8',
+      place_id: 'ChIJq_3ImCfnuhIRb2oppbZFOK8'
     },
-    link: '/en-GB/cities/girona/',
+    link: '/en-GB/cities/girona/'
   },
   {
     name: 'Glasgow',
@@ -7521,11 +7521,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ685WIFYViEgRHlHvBbiD5nE',
+      place_id: 'ChIJ685WIFYViEgRHlHvBbiD5nE'
     },
-    link: '/en-GB/cities/glasgow-uk/',
+    link: '/en-GB/cities/glasgow-uk/'
   },
   {
     name: 'Gothenburg',
@@ -7535,11 +7535,11 @@ module.exports = [
       country: {
         long_name: 'Sweden',
         short_name: 'SE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPwdslmeOT0YRQHwOKXiQAQQ',
+      place_id: 'ChIJPwdslmeOT0YRQHwOKXiQAQQ'
     },
-    link: '/en-GB/cities/gothenburg/',
+    link: '/en-GB/cities/gothenburg/'
   },
   {
     name: 'Grenoble',
@@ -7550,10 +7550,10 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
-      },
+        types: ['country', 'political']
+      }
     },
-    link: '/en-GB/cities/grenoble/',
+    link: '/en-GB/cities/grenoble/'
   },
   {
     name: 'Helsinki',
@@ -7563,11 +7563,11 @@ module.exports = [
       country: {
         long_name: 'Finland',
         short_name: 'FI',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkQYhlscLkkYRY_fiO4S9Ts0',
+      place_id: 'ChIJkQYhlscLkkYRY_fiO4S9Ts0'
     },
-    link: '/en-GB/cities/helsinki/',
+    link: '/en-GB/cities/helsinki/'
   },
   {
     name: 'Istanbul',
@@ -7577,11 +7577,11 @@ module.exports = [
       country: {
         long_name: 'Turkey',
         short_name: 'TR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJawhoAASnyhQR0LABvJj-zOE',
+      place_id: 'ChIJawhoAASnyhQR0LABvJj-zOE'
     },
-    link: '/en-GB/cities/istanbul/',
+    link: '/en-GB/cities/istanbul/'
   },
   {
     name: 'Jerez',
@@ -7591,11 +7591,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn6NESOjGDQ0R6v_Q8_U-rG0',
+      place_id: 'ChIJn6NESOjGDQ0R6v_Q8_U-rG0'
     },
-    link: '/en-GB/cities/jerez/',
+    link: '/en-GB/cities/jerez/'
   },
   {
     name: 'Kazan',
@@ -7605,11 +7605,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmc2sfCutXkERZYyttbl3y38',
+      place_id: 'ChIJmc2sfCutXkERZYyttbl3y38'
     },
-    link: '/en-GB/cities/kazan/',
+    link: '/en-GB/cities/kazan/'
   },
   {
     name: 'Kharkiv',
@@ -7619,11 +7619,11 @@ module.exports = [
       country: {
         long_name: 'Ukraine',
         short_name: 'UA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJiw-rY5-gJ0ERCr6kGmgYTC0',
+      place_id: 'ChIJiw-rY5-gJ0ERCr6kGmgYTC0'
     },
-    link: '/en-GB/cities/kharkiv/',
+    link: '/en-GB/cities/kharkiv/'
   },
   {
     name: 'Krakow',
@@ -7633,11 +7633,11 @@ module.exports = [
       country: {
         long_name: 'Poland',
         short_name: 'PL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0RhONcBEFkcRv4pHdrW2a7Q',
+      place_id: 'ChIJ0RhONcBEFkcRv4pHdrW2a7Q'
     },
-    link: '/en-GB/cities/krakow/',
+    link: '/en-GB/cities/krakow/'
   },
   {
     name: 'Krasnodar',
@@ -7647,11 +7647,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJszVFcWRF8EARtr7EVk95IPc',
+      place_id: 'ChIJszVFcWRF8EARtr7EVk95IPc'
     },
-    link: '/en-GB/cities/krasnodar/',
+    link: '/en-GB/cities/krasnodar/'
   },
   {
     name: 'Krasnoyarsk',
@@ -7662,10 +7662,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
-      },
+        types: ['country', 'political']
+      }
     },
-    link: '/en-GB/cities/krasnoyarsk/',
+    link: '/en-GB/cities/krasnoyarsk/'
   },
   {
     name: 'Kyiv',
@@ -7675,11 +7675,11 @@ module.exports = [
       country: {
         long_name: 'Ukraine',
         short_name: 'UA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBUVa4U7P1EAR_kYBF9IxSXY',
+      place_id: 'ChIJBUVa4U7P1EAR_kYBF9IxSXY'
     },
-    link: '/en-GB/cities/kyiv/',
+    link: '/en-GB/cities/kyiv/'
   },
   {
     name: 'La Rochelle',
@@ -7689,11 +7689,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdT0lyYNTAUgRQJbuYJLTBQQ',
+      place_id: 'ChIJdT0lyYNTAUgRQJbuYJLTBQQ'
     },
-    link: '/en-GB/cities/la-rochelle/',
+    link: '/en-GB/cities/la-rochelle/'
   },
   {
     name: 'Lausanne',
@@ -7703,11 +7703,11 @@ module.exports = [
       country: {
         long_name: 'Switzerland',
         short_name: 'CH',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5aeJzT4pjEcRXu7iysk_F-s',
+      place_id: 'ChIJ5aeJzT4pjEcRXu7iysk_F-s'
     },
-    link: '/en-GB/cities/lausanne/',
+    link: '/en-GB/cities/lausanne/'
   },
   {
     name: 'Leeds',
@@ -7716,12 +7716,12 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
       formatted_address: 'Leeds, UK',
-      place_id: 'ChIJmb1k2ko-eUgRqdwTAv26rVE',
+      place_id: 'ChIJmb1k2ko-eUgRqdwTAv26rVE'
     },
-    link: '/en-GB/cities/leeds/',
+    link: '/en-GB/cities/leeds/'
   },
   {
     name: 'Leicester',
@@ -7730,12 +7730,12 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
       formatted_address: 'Leicester, UK',
-      place_id: 'ChIJc2y3SatCd0gRuJy0byodFZo',
+      place_id: 'ChIJc2y3SatCd0gRuJy0byodFZo'
     },
-    link: '/en-GB/cities/leicester/',
+    link: '/en-GB/cities/leicester/'
   },
   {
     name: 'Leipzig',
@@ -7745,11 +7745,11 @@ module.exports = [
       country: {
         long_name: 'Germany',
         short_name: 'DE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcywPIBj4pkcRUvW0udKA35M',
+      place_id: 'ChIJcywPIBj4pkcRUvW0udKA35M'
     },
-    link: '/en-GB/cities/leipzig/',
+    link: '/en-GB/cities/leipzig/'
   },
   {
     name: 'Leuven',
@@ -7759,11 +7759,11 @@ module.exports = [
       country: {
         long_name: 'Belgium',
         short_name: 'BE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhd-7XtBgwUcRkFZNL6uZAAQ',
+      place_id: 'ChIJhd-7XtBgwUcRkFZNL6uZAAQ'
     },
-    link: '/en-GB/cities/leuven/',
+    link: '/en-GB/cities/leuven/'
   },
   {
     name: 'Lille',
@@ -7773,11 +7773,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEW4ls3nVwkcRYGNkgT7xCgQ',
+      place_id: 'ChIJEW4ls3nVwkcRYGNkgT7xCgQ'
     },
-    link: '/en-GB/cities/lille/',
+    link: '/en-GB/cities/lille/'
   },
   {
     name: 'Limoges',
@@ -7787,11 +7787,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYQRo5q80-UcREU02WTFKvhA',
+      place_id: 'ChIJYQRo5q80-UcREU02WTFKvhA'
     },
-    link: '/en-GB/cities/limoges/',
+    link: '/en-GB/cities/limoges/'
   },
   {
     name: 'Lisbon',
@@ -7801,11 +7801,11 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO_PkYRozGQ0R0DaQ5L3rAAQ',
+      place_id: 'ChIJO_PkYRozGQ0R0DaQ5L3rAAQ'
     },
-    link: '/en-GB/cities/lisbon/',
+    link: '/en-GB/cities/lisbon/'
   },
   {
     name: 'Lleida',
@@ -7814,12 +7814,12 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
       formatted_address: 'Lleida, Spain',
-      place_id: 'ChIJf9M750jgphIRr6pZ0qIu06A',
+      place_id: 'ChIJf9M750jgphIRr6pZ0qIu06A'
     },
-    link: '/en-GB/cities/lerida/',
+    link: '/en-GB/cities/lerida/'
   },
   {
     name: 'Lodz',
@@ -7829,11 +7829,11 @@ module.exports = [
       country: {
         long_name: 'Poland',
         short_name: 'PL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJr1ZFdSTLG0cRrNshm2OufMs',
+      place_id: 'ChIJr1ZFdSTLG0cRrNshm2OufMs'
     },
-    link: '/en-GB/cities/lodz/',
+    link: '/en-GB/cities/lodz/'
   },
   {
     name: 'London',
@@ -7843,11 +7843,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdd4hrwug2EcRmSrV3Vo6llI',
+      place_id: 'ChIJdd4hrwug2EcRmSrV3Vo6llI'
     },
-    link: '/en-GB/cities/london/',
+    link: '/en-GB/cities/london/'
   },
   {
     name: 'Lorient',
@@ -7856,12 +7856,12 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
       place_id: 'ChIJ7QlmqlZeEEgR6uTNDHdnM6k',
-      formatted_address: '56100 Lorient, France',
+      formatted_address: '56100 Lorient, France'
     },
-    link: '/en-GB/cities/lorient/',
+    link: '/en-GB/cities/lorient/'
   },
   {
     name: 'Lviv',
@@ -7871,11 +7871,11 @@ module.exports = [
       country: {
         long_name: 'Ukraine',
         short_name: 'UA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJV5oQCXzdOkcR4ngjARfFI0I',
+      place_id: 'ChIJV5oQCXzdOkcR4ngjARfFI0I'
     },
-    link: '/en-GB/cities/lviv/',
+    link: '/en-GB/cities/lviv/'
   },
   {
     name: 'Lyon',
@@ -7885,11 +7885,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl4foalHq9EcR8CG75CqrCAQ',
+      place_id: 'ChIJl4foalHq9EcR8CG75CqrCAQ'
     },
-    link: '/en-GB/cities/lyon/',
+    link: '/en-GB/cities/lyon/'
   },
   {
     name: 'Madrid',
@@ -7899,11 +7899,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgTwKgJcpQg0RaSKMYcHeNsQ',
+      place_id: 'ChIJgTwKgJcpQg0RaSKMYcHeNsQ'
     },
-    link: '/en-GB/cities/madrid/',
+    link: '/en-GB/cities/madrid/'
   },
   {
     name: 'M√°laga',
@@ -7913,11 +7913,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUdEwjWn2cg0RgOZ2pXjSAwQ',
+      place_id: 'ChIJUdEwjWn2cg0RgOZ2pXjSAwQ'
     },
-    link: '/en-GB/cities/malaga/',
+    link: '/en-GB/cities/malaga/'
   },
   {
     name: 'Malm√∂',
@@ -7927,11 +7927,11 @@ module.exports = [
       country: {
         long_name: 'Sweden',
         short_name: 'SE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_5HEdKUFU0YR5YhIvd8FqdM',
+      place_id: 'ChIJ_5HEdKUFU0YR5YhIvd8FqdM'
     },
-    link: '/en-GB/cities/malmo/',
+    link: '/en-GB/cities/malmo/'
   },
   {
     name: 'Manchester',
@@ -7941,11 +7941,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk',
+      place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk'
     },
-    link: '/en-GB/cities/manchester/',
+    link: '/en-GB/cities/manchester/'
   },
   {
     name: 'Marseille',
@@ -7955,11 +7955,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJM1PaREO_yRIRIAKX_aUZCAQ',
+      place_id: 'ChIJM1PaREO_yRIRIAKX_aUZCAQ'
     },
-    link: '/en-GB/cities/marseille/',
+    link: '/en-GB/cities/marseille/'
   },
   {
     name: 'Merseyside',
@@ -7969,11 +7969,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc2fVfoPXekgRApLOHfrVYYY',
+      place_id: 'ChIJc2fVfoPXekgRApLOHfrVYYY'
     },
-    link: '/en-GB/cities/liverpool/',
+    link: '/en-GB/cities/liverpool/'
   },
   {
     name: 'Milan',
@@ -7983,11 +7983,11 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ53USP0nBhkcRjQ50xhPN_zw',
+      place_id: 'ChIJ53USP0nBhkcRjQ50xhPN_zw'
     },
-    link: '/en-GB/cities/milano/',
+    link: '/en-GB/cities/milano/'
   },
   {
     name: 'Minsk',
@@ -7997,11 +7997,11 @@ module.exports = [
       country: {
         long_name: 'Belarus',
         short_name: 'BY',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ02oeW9PP20YR2XC13VO4YQs',
+      place_id: 'ChIJ02oeW9PP20YR2XC13VO4YQs'
     },
-    link: '/en-GB/cities/minsk/',
+    link: '/en-GB/cities/minsk/'
   },
   {
     name: 'Montpellier',
@@ -8011,11 +8011,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsZ3dJQevthIRAuiUKHRWh60',
+      place_id: 'ChIJsZ3dJQevthIRAuiUKHRWh60'
     },
-    link: '/en-GB/cities/montpellier/',
+    link: '/en-GB/cities/montpellier/'
   },
   {
     name: 'Moscow',
@@ -8025,11 +8025,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJybDUc_xKtUYRTM9XV8zWRD0',
+      place_id: 'ChIJybDUc_xKtUYRTM9XV8zWRD0'
     },
-    link: '/en-GB/cities/moscow/',
+    link: '/en-GB/cities/moscow/'
   },
   {
     name: 'Mulhouse',
@@ -8039,11 +8039,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa5SIHWybkUcRYDM5mrlfCgQ',
+      place_id: 'ChIJa5SIHWybkUcRYDM5mrlfCgQ'
     },
-    link: '/en-GB/cities/mulhouse/',
+    link: '/en-GB/cities/mulhouse/'
   },
   {
     name: 'Munich',
@@ -8053,11 +8053,11 @@ module.exports = [
       country: {
         long_name: 'Germany',
         short_name: 'DE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2V-Mo_l1nkcRfZixfUq4DAE',
+      place_id: 'ChIJ2V-Mo_l1nkcRfZixfUq4DAE'
     },
-    link: '/en-GB/cities/munich/',
+    link: '/en-GB/cities/munich/'
   },
   {
     name: 'Namur',
@@ -8067,11 +8067,11 @@ module.exports = [
       country: {
         long_name: 'Belgium',
         short_name: 'BE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP2UsDG2ZwUcRBVIWxLYmVsE',
+      place_id: 'ChIJP2UsDG2ZwUcRBVIWxLYmVsE'
     },
-    link: '/en-GB/cities/namur/',
+    link: '/en-GB/cities/namur/'
   },
   {
     name: 'Nancy',
@@ -8081,11 +8081,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU9w3ySCgBogREV4sq4YyPF0',
+      place_id: 'ChIJU9w3ySCgBogREV4sq4YyPF0'
     },
-    link: '/en-GB/cities/nancy/',
+    link: '/en-GB/cities/nancy/'
   },
   {
     name: 'Nantes',
@@ -8095,11 +8095,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJra6o8IHuBUgRMO0NHlI3DQQ',
+      place_id: 'ChIJra6o8IHuBUgRMO0NHlI3DQQ'
     },
-    link: '/en-GB/cities/nantes/',
+    link: '/en-GB/cities/nantes/'
   },
   {
     name: 'Napoli',
@@ -8109,11 +8109,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuXvzpV_Cx4cR_SJ_8EPVdSE',
+      place_id: 'ChIJuXvzpV_Cx4cR_SJ_8EPVdSE'
     },
-    link: '/en-GB/cities/napoli/',
+    link: '/en-GB/cities/napoli/'
   },
   {
     name: 'Nice',
@@ -8123,11 +8123,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMS2FahDQzRIRcJqX_aUZCAQ',
+      place_id: 'ChIJMS2FahDQzRIRcJqX_aUZCAQ'
     },
-    link: '/en-GB/cities/cannes/',
+    link: '/en-GB/cities/cannes/'
   },
   {
     name: 'Nizhny Novgorod',
@@ -8137,25 +8137,25 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUTID7vnVUUERqleWhM_A0yg',
+      place_id: 'ChIJUTID7vnVUUERqleWhM_A0yg'
     },
-    link: '/en-GB/cities/nizhny-novgorod/',
+    link: '/en-GB/cities/nizhny-novgorod/'
   },
   {
     name: 'Newcastle',
     company: 'uber',
     info: {
-      formatted_address: "Newcastle upon Tyne, UK",
+      formatted_address: 'Newcastle upon Tyne, UK',
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs',
+      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs'
     },
-    link: '/en-GB/cities/newcastle-uk/',
+    link: '/en-GB/cities/newcastle-uk/'
   },
   {
     name: 'Nottingham',
@@ -8165,11 +8165,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzXkHOdIyeEgRFdsZGSBjgBA',
+      place_id: 'ChIJzXkHOdIyeEgRFdsZGSBjgBA'
     },
-    link: '/en-GB/cities/nottingham/',
+    link: '/en-GB/cities/nottingham/'
   },
   {
     name: 'Novosibirsk',
@@ -8179,11 +8179,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl03MkOHl30IRhenT4XMGOps',
+      place_id: 'ChIJl03MkOHl30IRhenT4XMGOps'
     },
-    link: '/en-GB/cities/novosibirsk/',
+    link: '/en-GB/cities/novosibirsk/'
   },
   {
     name: 'Odessa',
@@ -8193,11 +8193,11 @@ module.exports = [
       country: {
         long_name: 'Ukraine',
         short_name: 'UA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQ0yGC4oxxkARbBfyjOKPnxI',
+      place_id: 'ChIJQ0yGC4oxxkARbBfyjOKPnxI'
     },
-    link: '/en-GB/cities/odessa/',
+    link: '/en-GB/cities/odessa/'
   },
   {
     name: 'Omsk',
@@ -8207,11 +8207,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCwkB9uL9qkMRGpumYTjD714',
+      place_id: 'ChIJCwkB9uL9qkMRGpumYTjD714'
     },
-    link: '/en-GB/cities/omsk/',
+    link: '/en-GB/cities/omsk/'
   },
   {
     name: 'Orleans',
@@ -8221,11 +8221,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnylrD3zrtocRKR3vKEWm2fA',
+      place_id: 'ChIJnylrD3zrtocRKR3vKEWm2fA'
     },
-    link: '/en-GB/cities/orleans/',
+    link: '/en-GB/cities/orleans/'
   },
   {
     name: 'Oslo',
@@ -8235,11 +8235,11 @@ module.exports = [
       country: {
         long_name: 'Norway',
         short_name: 'NO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOfBn8mFuQUYRmh4j019gkn4',
+      place_id: 'ChIJOfBn8mFuQUYRmh4j019gkn4'
     },
-    link: '/en-GB/cities/oslo/',
+    link: '/en-GB/cities/oslo/'
   },
   {
     name: 'Paris',
@@ -8249,11 +8249,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJD7fiBh9u5kcRYJSMaMOCCwQ',
+      place_id: 'ChIJD7fiBh9u5kcRYJSMaMOCCwQ'
     },
-    link: '/en-GB/cities/paris/',
+    link: '/en-GB/cities/paris/'
   },
   {
     name: 'Perm',
@@ -8263,11 +8263,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC_KG2OHG6EMRDop6uALKSps',
+      place_id: 'ChIJC_KG2OHG6EMRDop6uALKSps'
     },
-    link: '/en-GB/cities/perm/',
+    link: '/en-GB/cities/perm/'
   },
   {
     name: 'Perpignan',
@@ -8277,11 +8277,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_Yj9gE5usBIRT93yIGUwgxw',
+      place_id: 'ChIJ_Yj9gE5usBIRT93yIGUwgxw'
     },
-    link: '/en-GB/cities/perpignan/',
+    link: '/en-GB/cities/perpignan/'
   },
   {
     name: 'Poitiers',
@@ -8291,11 +8291,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq7OeQ3K-_UcRk5DgxRkj3pc',
+      place_id: 'ChIJq7OeQ3K-_UcRk5DgxRkj3pc'
     },
-    link: '/en-GB/cities/poitiers/',
+    link: '/en-GB/cities/poitiers/'
   },
   {
     name: 'Porto',
@@ -8305,11 +8305,11 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwVPhxKtlJA0RvBSxQFbZSKY',
+      place_id: 'ChIJwVPhxKtlJA0RvBSxQFbZSKY'
     },
-    link: '/en-GB/cities/porto/',
+    link: '/en-GB/cities/porto/'
   },
   {
     name: 'Poznan',
@@ -8319,11 +8319,11 @@ module.exports = [
       country: {
         long_name: 'Poland',
         short_name: 'PL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtwrh7NJEBEcR0b80A5gx6qQ',
+      place_id: 'ChIJtwrh7NJEBEcR0b80A5gx6qQ'
     },
-    link: '/en-GB/cities/poznan/',
+    link: '/en-GB/cities/poznan/'
   },
   {
     name: 'Prague',
@@ -8333,11 +8333,11 @@ module.exports = [
       country: {
         long_name: 'Czechia',
         short_name: 'CZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJi3lwCZyTC0cRkEAWZg-vAAQ',
+      place_id: 'ChIJi3lwCZyTC0cRkEAWZg-vAAQ'
     },
-    link: '/en-GB/cities/prague/',
+    link: '/en-GB/cities/prague/'
   },
   {
     name: 'Reggio Emilia',
@@ -8347,11 +8347,11 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs_nlB1scgEcRNQOGTL5Q5tk',
+      place_id: 'ChIJs_nlB1scgEcRNQOGTL5Q5tk'
     },
-    link: '/en-GB/cities/reggio-emilia/',
+    link: '/en-GB/cities/reggio-emilia/'
   },
   {
     name: 'Reims',
@@ -8361,11 +8361,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCTtTSjN06UcRwEU7mrlfCgQ',
+      place_id: 'ChIJCTtTSjN06UcRwEU7mrlfCgQ'
     },
-    link: '/en-GB/cities/reims/',
+    link: '/en-GB/cities/reims/'
   },
   {
     name: 'Rennes',
@@ -8375,11 +8375,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhZDWpy_eDkgRMKvkNs2lDAQ',
+      place_id: 'ChIJhZDWpy_eDkgRMKvkNs2lDAQ'
     },
-    link: '/en-GB/cities/rennes/',
+    link: '/en-GB/cities/rennes/'
   },
   {
     name: 'Rimini',
@@ -8389,11 +8389,11 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK1mmj6TDLBMRnUTxF9uE8sE',
+      place_id: 'ChIJK1mmj6TDLBMRnUTxF9uE8sE'
     },
-    link: '/en-GB/cities/rimini/',
+    link: '/en-GB/cities/rimini/'
   },
   {
     name: 'Rome',
@@ -8403,11 +8403,11 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu46S-ZZhLxMROG5lkwZ3D7k',
+      place_id: 'ChIJu46S-ZZhLxMROG5lkwZ3D7k'
     },
-    link: '/en-GB/cities/rome/',
+    link: '/en-GB/cities/rome/'
   },
   {
     name: 'Rostov-On-Don',
@@ -8417,11 +8417,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ77a0w3fH40ARBE2L5FG0SII',
+      place_id: 'ChIJ77a0w3fH40ARBE2L5FG0SII'
     },
-    link: '/en-GB/cities/rostovondon/',
+    link: '/en-GB/cities/rostovondon/'
   },
   {
     name: 'Rouen',
@@ -8431,11 +8431,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq_pxynbe4EcR1pOfpO-rHD0',
+      place_id: 'ChIJq_pxynbe4EcR1pOfpO-rHD0'
     },
-    link: '/en-GB/cities/rouen/',
+    link: '/en-GB/cities/rouen/'
   },
   {
     name: 'Saint Petersburg',
@@ -8445,11 +8445,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20',
+      place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20'
     },
-    link: '/en-GB/cities/saint-petersburg/',
+    link: '/en-GB/cities/saint-petersburg/'
   },
   {
     name: 'Saint Quentin',
@@ -8459,11 +8459,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxRzgiGEY6EcRQNRpgT7xCgQ',
+      place_id: 'ChIJxRzgiGEY6EcRQNRpgT7xCgQ'
     },
-    link: '/en-GB/cities/metz/',
+    link: '/en-GB/cities/metz/'
   },
   {
     name: 'Samara',
@@ -8473,11 +8473,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ03nYK-IYZkERCwM6u6nNlbo',
+      place_id: 'ChIJ03nYK-IYZkERCwM6u6nNlbo'
     },
-    link: '/en-GB/cities/samara/',
+    link: '/en-GB/cities/samara/'
   },
   {
     name: 'Seville',
@@ -8487,11 +8487,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkWK-FBFsEg0RSFb-HGIY8DQ',
+      place_id: 'ChIJkWK-FBFsEg0RSFb-HGIY8DQ'
     },
-    link: '/en-GB/cities/seville/',
+    link: '/en-GB/cities/seville/'
   },
   {
     name: 'Sheffield',
@@ -8501,11 +8501,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFb7o-qkKeUgReLAGr_UnKD4',
+      place_id: 'ChIJFb7o-qkKeUgReLAGr_UnKD4'
     },
-    link: '/en-GB/cities/sheffield/',
+    link: '/en-GB/cities/sheffield/'
   },
   {
     name: 'Silesia',
@@ -8515,11 +8515,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ3F-7VXrSFMRrgLuRfoPHuw',
+      place_id: 'ChIJZ3F-7VXrSFMRrgLuRfoPHuw'
     },
-    link: '/en-GB/cities/silesia/',
+    link: '/en-GB/cities/silesia/'
   },
   {
     name: 'Sochi',
@@ -8529,11 +8529,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI0SDEeHU9UAR-F1daoZhb24',
+      place_id: 'ChIJI0SDEeHU9UAR-F1daoZhb24'
     },
-    link: '/en-GB/cities/sochi/',
+    link: '/en-GB/cities/sochi/'
   },
   {
     name: 'South Coast, UK',
@@ -8543,11 +8543,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc40--i1ddEgR79S_heTWUPg',
+      place_id: 'ChIJc40--i1ddEgR79S_heTWUPg'
     },
-    link: '/en-GB/cities/portsmouth/',
+    link: '/en-GB/cities/portsmouth/'
   },
   {
     name: 'South West, UK',
@@ -8557,11 +8557,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC_d1ROPGakgRpqpEQmUBQ_U',
+      place_id: 'ChIJC_d1ROPGakgRpqpEQmUBQ_U'
     },
-    link: '/en-GB/cities/bristol/',
+    link: '/en-GB/cities/bristol/'
   },
   {
     name: 'Rotterdam',
@@ -8571,11 +8571,11 @@ module.exports = [
       country: {
         long_name: 'Netherlands',
         short_name: 'NL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfcRUX2C3xUcRhUtelay7KVI',
+      place_id: 'ChIJfcRUX2C3xUcRhUtelay7KVI'
     },
-    link: '/en-GB/cities/rotterdam/',
+    link: '/en-GB/cities/rotterdam/'
   },
   {
     name: 'Stockholm',
@@ -8585,11 +8585,11 @@ module.exports = [
       country: {
         long_name: 'Sweden',
         short_name: 'SE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJywtkGTF2X0YRZnedZ9MnDag',
+      place_id: 'ChIJywtkGTF2X0YRZnedZ9MnDag'
     },
-    link: '/en-GB/cities/stockholm/',
+    link: '/en-GB/cities/stockholm/'
   },
   {
     name: 'Stoke',
@@ -8599,11 +8599,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDUSuD1IRekgRBO7KAi_NzfE',
+      place_id: 'ChIJDUSuD1IRekgRBO7KAi_NzfE'
     },
-    link: '/en-GB/cities/stoke/',
+    link: '/en-GB/cities/stoke/'
   },
   {
     name: 'Strasbourg',
@@ -8613,11 +8613,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwbIYXknIlkcRHyTnGDFIGpc',
+      place_id: 'ChIJwbIYXknIlkcRHyTnGDFIGpc'
     },
-    link: '/en-GB/cities/strasbourg/',
+    link: '/en-GB/cities/strasbourg/'
   },
   {
     name: 'Stuttgart',
@@ -8627,11 +8627,11 @@ module.exports = [
       country: {
         long_name: 'Germany',
         short_name: 'DE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ04-twTTbmUcR5M-RdxzB1Xk',
+      place_id: 'ChIJ04-twTTbmUcR5M-RdxzB1Xk'
     },
-    link: '/en-GB/cities/stuttgart/',
+    link: '/en-GB/cities/stuttgart/'
   },
   {
     name: 'Tallinn',
@@ -8641,11 +8641,11 @@ module.exports = [
       country: {
         long_name: 'Estonia',
         short_name: 'EE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvxZW35mUkkYRcGL8GG2zAAQ',
+      place_id: 'ChIJvxZW35mUkkYRcGL8GG2zAAQ'
     },
-    link: '/en-GB/cities/tallinn/',
+    link: '/en-GB/cities/tallinn/'
   },
   {
     name: 'Timisoara',
@@ -8655,11 +8655,11 @@ module.exports = [
       country: {
         long_name: 'Romania',
         short_name: 'RO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJp7UPy31nRUcRSWeTc2Svf1M',
+      place_id: 'ChIJp7UPy31nRUcRSWeTc2Svf1M'
     },
-    link: '/en-GB/cities/timisoara/',
+    link: '/en-GB/cities/timisoara/'
   },
   {
     name: 'Toulon',
@@ -8669,11 +8669,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_bI1ewIbyRIRMMiP_aUZCAQ',
+      place_id: 'ChIJ_bI1ewIbyRIRMMiP_aUZCAQ'
     },
-    link: '/en-GB/cities/toulon-fr/',
+    link: '/en-GB/cities/toulon-fr/'
   },
   {
     name: 'Toulouse',
@@ -8683,11 +8683,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_1J17G-7rhIRMBBBL5z2BgQ',
+      place_id: 'ChIJ_1J17G-7rhIRMBBBL5z2BgQ'
     },
-    link: '/en-GB/cities/toulouse/',
+    link: '/en-GB/cities/toulouse/'
   },
   {
     name: 'Tours',
@@ -8697,11 +8697,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJh_eURBMUyYcRo7rVJD_fOwM',
+      place_id: 'ChIJh_eURBMUyYcRo7rVJD_fOwM'
     },
-    link: '/en-GB/cities/tours/',
+    link: '/en-GB/cities/tours/'
   },
   {
     name: 'Trieste',
@@ -8711,11 +8711,11 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJM_Xt5AZre0cRUCvd1IQkamY',
+      place_id: 'ChIJM_Xt5AZre0cRUCvd1IQkamY'
     },
-    link: '/en-GB/cities/trieste/',
+    link: '/en-GB/cities/trieste/'
   },
   {
     name: 'Trojmiasto',
@@ -8725,11 +8725,11 @@ module.exports = [
       country: {
         long_name: 'Poland',
         short_name: 'PL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWzKNT6IK_UYRrGV5Nivo1_Y',
+      place_id: 'ChIJWzKNT6IK_UYRrGV5Nivo1_Y'
     },
-    link: '/en-GB/cities/gdansk/',
+    link: '/en-GB/cities/gdansk/'
   },
   {
     name: 'Troyes',
@@ -8739,11 +8739,11 @@ module.exports = [
       country: {
         long_name: 'France',
         short_name: 'FR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsbeH51eY7kcRdU_oZlUS3Vc',
+      place_id: 'ChIJsbeH51eY7kcRdU_oZlUS3Vc'
     },
-    link: '/en-GB/cities/troyes/',
+    link: '/en-GB/cities/troyes/'
   },
   {
     name: 'Ufa',
@@ -8753,11 +8753,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4bwWkiU62UMRzJLaHpLA7qw',
+      place_id: 'ChIJ4bwWkiU62UMRzJLaHpLA7qw'
     },
-    link: '/en-GB/cities/ufa/',
+    link: '/en-GB/cities/ufa/'
   },
   {
     name: 'Valencia',
@@ -8767,11 +8767,11 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb7Dv8ExPYA0ROR1_HwFRo7Q',
+      place_id: 'ChIJb7Dv8ExPYA0ROR1_HwFRo7Q'
     },
-    link: '/en-GB/cities/valencia/',
+    link: '/en-GB/cities/valencia/'
   },
   {
     name: 'Vienna',
@@ -8781,11 +8781,11 @@ module.exports = [
       country: {
         long_name: 'Austria',
         short_name: 'AT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn8o2UZ4HbUcRRluiUYrlwv0',
+      place_id: 'ChIJn8o2UZ4HbUcRRluiUYrlwv0'
     },
-    link: '/en-GB/cities/vienna/',
+    link: '/en-GB/cities/vienna/'
   },
   {
     name: 'Vilnius',
@@ -8795,11 +8795,11 @@ module.exports = [
       country: {
         long_name: 'Lithuania',
         short_name: 'LT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9QhkXPuT3UYRQNzpcIzRAAQ',
+      place_id: 'ChIJ9QhkXPuT3UYRQNzpcIzRAAQ'
     },
-    link: '/en-GB/cities/vilnius/',
+    link: '/en-GB/cities/vilnius/'
   },
   {
     name: 'Vinnytsia',
@@ -8809,11 +8809,11 @@ module.exports = [
       country: {
         long_name: 'Ukraine',
         short_name: 'UA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJiWRaGWVbLUcR_nTd7lnh1Ms',
+      place_id: 'ChIJiWRaGWVbLUcR_nTd7lnh1Ms'
     },
-    link: '/en-GB/cities/vinnytsia/',
+    link: '/en-GB/cities/vinnytsia/'
   },
   {
     name: 'Voronezh',
@@ -8823,11 +8823,11 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE-h06FwvO0ERvWKn-w5M2Ug',
+      place_id: 'ChIJE-h06FwvO0ERvWKn-w5M2Ug'
     },
-    link: '/en-GB/cities/voronezh/',
+    link: '/en-GB/cities/voronezh/'
   },
   {
     name: 'Warsaw',
@@ -8837,11 +8837,11 @@ module.exports = [
       country: {
         long_name: 'Poland',
         short_name: 'PL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAZ-GmmbMHkcR_NPqiCq-8HI',
+      place_id: 'ChIJAZ-GmmbMHkcR_NPqiCq-8HI'
     },
-    link: '/en-GB/cities/warsaw/',
+    link: '/en-GB/cities/warsaw/'
   },
   {
     name: 'Wroclaw',
@@ -8851,11 +8851,11 @@ module.exports = [
       country: {
         long_name: 'Poland',
         short_name: 'PL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJv4q11MLpD0cR9eAFwq5WCbc',
+      place_id: 'ChIJv4q11MLpD0cR9eAFwq5WCbc'
     },
-    link: '/en-GB/cities/wroclaw/',
+    link: '/en-GB/cities/wroclaw/'
   },
   {
     name: 'York',
@@ -8865,11 +8865,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8WWY4UDDeEgR0eRUiomrdEc',
+      place_id: 'ChIJ8WWY4UDDeEgR0eRUiomrdEc'
     },
-    link: '/en-GB/cities/york/',
+    link: '/en-GB/cities/york/'
   },
   {
     name: 'Zagreb',
@@ -8879,11 +8879,11 @@ module.exports = [
       country: {
         long_name: 'Croatia',
         short_name: 'HR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOcwCyZLWZUcRisL7KJYkRTo',
+      place_id: 'ChIJOcwCyZLWZUcRisL7KJYkRTo'
     },
-    link: '/en-GB/cities/zagreb/',
+    link: '/en-GB/cities/zagreb/'
   },
   {
     name: 'Zaporizhia',
@@ -8893,11 +8893,11 @@ module.exports = [
       country: {
         long_name: 'Ukraine',
         short_name: 'UA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA7uF-j1n3EARSj9NB9lcZ34',
+      place_id: 'ChIJA7uF-j1n3EARSj9NB9lcZ34'
     },
-    link: '/en-GB/cities/zaporizhia/',
+    link: '/en-GB/cities/zaporizhia/'
   },
   {
     name: 'Zurich',
@@ -8907,11 +8907,11 @@ module.exports = [
       country: {
         long_name: 'Switzerland',
         short_name: 'CH',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGaK-SZcLkEcRA9wf5_GNbuY',
+      place_id: 'ChIJGaK-SZcLkEcRA9wf5_GNbuY'
     },
-    link: '/en-GB/cities/zurich/',
+    link: '/en-GB/cities/zurich/'
   },
   {
     name: 'Almaty',
@@ -8921,11 +8921,11 @@ module.exports = [
       country: {
         long_name: 'Kazakhstan',
         short_name: 'KZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq8vFFn1ugzgRdm2YrY9mRD0',
+      place_id: 'ChIJq8vFFn1ugzgRdm2YrY9mRD0'
     },
-    link: '/en-GB/cities/almaty/',
+    link: '/en-GB/cities/almaty/'
   },
   {
     name: 'Amman',
@@ -8935,11 +8935,11 @@ module.exports = [
       country: {
         long_name: 'Jordan',
         short_name: 'JO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJr4F5XbhfGxUR6GXc-MAwHGM',
+      place_id: 'ChIJr4F5XbhfGxUR6GXc-MAwHGM'
     },
-    link: '/en-GB/cities/amman/',
+    link: '/en-GB/cities/amman/'
   },
   {
     name: 'Astana',
@@ -8949,11 +8949,11 @@ module.exports = [
       country: {
         long_name: 'Kazakhstan',
         short_name: 'KZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCUa1fcSARUIRKJKx3Y0U-Zc',
+      place_id: 'ChIJCUa1fcSARUIRKJKx3Y0U-Zc'
     },
-    link: '/en-GB/cities/astana/',
+    link: '/en-GB/cities/astana/'
   },
   {
     name: 'Baku',
@@ -8963,11 +8963,11 @@ module.exports = [
       country: {
         long_name: 'Azerbaijan',
         short_name: 'AZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-Rwh1mt9MEARa2zlel5rPzQ',
+      place_id: 'ChIJ-Rwh1mt9MEARa2zlel5rPzQ'
     },
-    link: '/en-GB/cities/baku/',
+    link: '/en-GB/cities/baku/'
   },
   {
     name: 'Beirut',
@@ -8977,11 +8977,11 @@ module.exports = [
       country: {
         long_name: 'Lebanon',
         short_name: 'LB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj6eAWCEXHxURtDaY6bqCkXI',
+      place_id: 'ChIJj6eAWCEXHxURtDaY6bqCkXI'
     },
-    link: '/en-GB/cities/beirut/',
+    link: '/en-GB/cities/beirut/'
   },
   {
     name: 'Doha',
@@ -8991,11 +8991,11 @@ module.exports = [
       country: {
         long_name: 'Qatar',
         short_name: 'QA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJf-jc_zTFRT4RsdTPeJ8x2UQ',
+      place_id: 'ChIJf-jc_zTFRT4RsdTPeJ8x2UQ'
     },
-    link: '/en-GB/cities/doha/',
+    link: '/en-GB/cities/doha/'
   },
   {
     name: 'Dubai',
@@ -9005,11 +9005,11 @@ module.exports = [
       country: {
         long_name: 'United Arab Emirates',
         short_name: 'AE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRcbZaklDXz4RYlEphFBu5r0',
+      place_id: 'ChIJRcbZaklDXz4RYlEphFBu5r0'
     },
-    link: '/en-GB/cities/dubai/',
+    link: '/en-GB/cities/dubai/'
   },
   {
     name: 'Eastern Province, KSA',
@@ -9019,11 +9019,11 @@ module.exports = [
       country: {
         long_name: 'Saudi Arabia',
         short_name: 'SA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhYY947MZQD4Rpli7AuRzsW0',
+      place_id: 'ChIJhYY947MZQD4Rpli7AuRzsW0'
     },
-    link: '/en-GB/cities/dammam/',
+    link: '/en-GB/cities/dammam/'
   },
   {
     name: 'Jeddah',
@@ -9033,11 +9033,11 @@ module.exports = [
       country: {
         long_name: 'Saudi Arabia',
         short_name: 'SA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWX4TsR_QwxUR2xixN5dXWeA',
+      place_id: 'ChIJWX4TsR_QwxUR2xixN5dXWeA'
     },
-    link: '/en-GB/cities/jeddah/',
+    link: '/en-GB/cities/jeddah/'
   },
   {
     name: 'Madinah',
@@ -9047,11 +9047,11 @@ module.exports = [
       country: {
         long_name: 'Saudi Arabia',
         short_name: 'SA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1SDSl1G-vRUR2Qg76k9RVC4',
+      place_id: 'ChIJ1SDSl1G-vRUR2Qg76k9RVC4'
     },
-    link: '/en-GB/cities/madinah/',
+    link: '/en-GB/cities/madinah/'
   },
   {
     name: 'Manama',
@@ -9061,11 +9061,11 @@ module.exports = [
       country: {
         long_name: 'Bahrain',
         short_name: 'BH',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLaZ2J3KvST4RwmAPB6Y4Z4s',
+      place_id: 'ChIJLaZ2J3KvST4RwmAPB6Y4Z4s'
     },
-    link: '/en-GB/cities/manama/',
+    link: '/en-GB/cities/manama/'
   },
   {
     name: 'Qassim',
@@ -9075,11 +9075,11 @@ module.exports = [
       country: {
         long_name: 'Saudi Arabia',
         short_name: 'SA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO77ib61ZfxURqgANOx1i--E',
+      place_id: 'ChIJO77ib61ZfxURqgANOx1i--E'
     },
-    link: '/en-GB/cities/qassim/',
+    link: '/en-GB/cities/qassim/'
   },
   {
     name: 'Riyadh',
@@ -9089,11 +9089,11 @@ module.exports = [
       country: {
         long_name: 'Saudi Arabia',
         short_name: 'SA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmZNIDYkDLz4R1Z_nmBxNl7o',
+      place_id: 'ChIJmZNIDYkDLz4R1Z_nmBxNl7o'
     },
-    link: '/en-GB/cities/riyadh/',
+    link: '/en-GB/cities/riyadh/'
   },
   {
     name: 'Shymkent',
@@ -9103,11 +9103,11 @@ module.exports = [
       country: {
         long_name: 'Kazakhstan',
         short_name: 'KZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu4FmVFbyqDgRmzZb54K1Z6E',
+      place_id: 'ChIJu4FmVFbyqDgRmzZb54K1Z6E'
     },
-    link: '/en-GB/cities/shymkent/',
+    link: '/en-GB/cities/shymkent/'
   },
   {
     name: 'Tel Aviv',
@@ -9117,11 +9117,11 @@ module.exports = [
       country: {
         long_name: 'Israel',
         short_name: 'IL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH3w7GaZMHRURkD-WwKJy-8E',
+      place_id: 'ChIJH3w7GaZMHRURkD-WwKJy-8E'
     },
-    link: '/en-GB/cities/tel-aviv/',
+    link: '/en-GB/cities/tel-aviv/'
   },
   {
     name: 'Abuja',
@@ -9131,11 +9131,11 @@ module.exports = [
       country: {
         long_name: 'Nigeria',
         short_name: 'NG',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2S_WTF90ThARK6EOorQXvVM',
+      place_id: 'ChIJ2S_WTF90ThARK6EOorQXvVM'
     },
-    link: '/en-GB/cities/abuja/',
+    link: '/en-GB/cities/abuja/'
   },
   {
     name: 'Accra',
@@ -9145,11 +9145,11 @@ module.exports = [
       country: {
         long_name: 'Ghana',
         short_name: 'GH',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc6e3soSQ3w8R0y0OZdhO0b4',
+      place_id: 'ChIJc6e3soSQ3w8R0y0OZdhO0b4'
     },
-    link: '/en-GB/cities/accra/',
+    link: '/en-GB/cities/accra/'
   },
   {
     name: 'Alexandria',
@@ -9159,11 +9159,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8aukkz5NtokRLAHB24Ym9dc',
+      place_id: 'ChIJ8aukkz5NtokRLAHB24Ym9dc'
     },
-    link: '/en-GB/cities/alexandria/',
+    link: '/en-GB/cities/alexandria/'
   },
   {
     name: 'Cairo',
@@ -9173,11 +9173,11 @@ module.exports = [
       country: {
         long_name: 'Egypt',
         short_name: 'EG',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ674hC6Y_WBQRujtC6Jay33k',
+      place_id: 'ChIJ674hC6Y_WBQRujtC6Jay33k'
     },
-    link: '/en-GB/cities/cairo/',
+    link: '/en-GB/cities/cairo/'
   },
   {
     name: 'Cape Town',
@@ -9187,11 +9187,11 @@ module.exports = [
       country: {
         long_name: 'South Africa',
         short_name: 'ZA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1-4miA9QzB0Rh6ooKPzhf2g',
+      place_id: 'ChIJ1-4miA9QzB0Rh6ooKPzhf2g'
     },
-    link: '/en-GB/cities/cape-town/',
+    link: '/en-GB/cities/cape-town/'
   },
   {
     name: 'Dar Es Salaam',
@@ -9201,11 +9201,11 @@ module.exports = [
       country: {
         long_name: 'Tanzania',
         short_name: 'TZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8dabFq5LXBgR3aGGoCZrD5Q',
+      place_id: 'ChIJ8dabFq5LXBgR3aGGoCZrD5Q'
     },
-    link: '/en-GB/cities/dar-es-salaam/',
+    link: '/en-GB/cities/dar-es-salaam/'
   },
   {
     name: 'Durban',
@@ -9215,11 +9215,11 @@ module.exports = [
       country: {
         long_name: 'South Africa',
         short_name: 'ZA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt2G8AQCq9x4RgW6qxEZVp8w',
+      place_id: 'ChIJt2G8AQCq9x4RgW6qxEZVp8w'
     },
-    link: '/en-GB/cities/durban/',
+    link: '/en-GB/cities/durban/'
   },
   {
     name: 'Johannesburg and Pretoria',
@@ -9230,11 +9230,11 @@ module.exports = [
       country: {
         long_name: 'South Africa',
         short_name: 'ZA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWcD54dxdlR4R0ILB7Mu66IM',
+      place_id: 'ChIJWcD54dxdlR4R0ILB7Mu66IM'
     },
-    link: '/en-GB/cities/johannesburg/',
+    link: '/en-GB/cities/johannesburg/'
   },
   {
     name: 'Kampala',
@@ -9244,11 +9244,11 @@ module.exports = [
       country: {
         long_name: 'Uganda',
         short_name: 'UG',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm7N0nQ-8fRcR7G9r2T2QOEU',
+      place_id: 'ChIJm7N0nQ-8fRcR7G9r2T2QOEU'
     },
-    link: '/en-GB/cities/kampala/',
+    link: '/en-GB/cities/kampala/'
   },
   {
     name: 'Kumasi',
@@ -9258,11 +9258,11 @@ module.exports = [
       country: {
         long_name: 'Ghana',
         short_name: 'GH',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSUxOmuWT2w8RguZlex1xnII',
+      place_id: 'ChIJSUxOmuWT2w8RguZlex1xnII'
     },
-    link: '/en-GB/cities/kumasi/',
+    link: '/en-GB/cities/kumasi/'
   },
   {
     name: 'Lagos',
@@ -9272,11 +9272,11 @@ module.exports = [
       country: {
         long_name: 'Nigeria',
         short_name: 'NG',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwYCC5iqLOxARy9nDZ6OHntw',
+      place_id: 'ChIJwYCC5iqLOxARy9nDZ6OHntw'
     },
-    link: '/en-GB/cities/lagos/',
+    link: '/en-GB/cities/lagos/'
   },
   {
     name: 'Mauritius',
@@ -9286,11 +9286,11 @@ module.exports = [
       country: {
         long_name: 'Mauritius',
         short_name: 'MU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyXRE-U1QfCERMdBrEcLZA0I',
+      place_id: 'ChIJyXRE-U1QfCERMdBrEcLZA0I'
     },
-    link: '/en-GB/cities/port-louis/',
+    link: '/en-GB/cities/port-louis/'
   },
   {
     name: 'Mombasa',
@@ -9300,11 +9300,11 @@ module.exports = [
       country: {
         long_name: 'Kenya',
         short_name: 'KE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfSzAjucSQBgRWtvQNbyLYcs',
+      place_id: 'ChIJfSzAjucSQBgRWtvQNbyLYcs'
     },
-    link: '/en-GB/cities/mombasa/',
+    link: '/en-GB/cities/mombasa/'
   },
   {
     name: 'Nairobi',
@@ -9314,11 +9314,11 @@ module.exports = [
       country: {
         long_name: 'Kenya',
         short_name: 'KE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJp0lN2HIRLxgRTJKXslQCz_c',
+      place_id: 'ChIJp0lN2HIRLxgRTJKXslQCz_c'
     },
-    link: '/en-GB/cities/nairobi/',
+    link: '/en-GB/cities/nairobi/'
   },
   {
     name: 'Port Elizabeth',
@@ -9328,11 +9328,11 @@ module.exports = [
       country: {
         long_name: 'South Africa',
         short_name: 'ZA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK9b_RQApex4RJkKJzTcj_YY',
+      place_id: 'ChIJK9b_RQApex4RJkKJzTcj_YY'
     },
-    link: '/en-GB/cities/port-elizabeth/',
+    link: '/en-GB/cities/port-elizabeth/'
   },
   {
     name: 'Awaji Island',
@@ -9342,11 +9342,11 @@ module.exports = [
       country: {
         long_name: 'Japan',
         short_name: 'JP',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4c_Ev226VDURfjDOhruS1ao',
+      place_id: 'ChIJ4c_Ev226VDURfjDOhruS1ao'
     },
-    link: '/en-GB/cities/awaji-island/',
+    link: '/en-GB/cities/awaji-island/'
   },
   {
     name: 'Fukuoka',
@@ -9356,11 +9356,11 @@ module.exports = [
       country: {
         long_name: 'Japan',
         short_name: 'JP',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKYSE6aHtQTURg4c5NplyCvY',
+      place_id: 'ChIJKYSE6aHtQTURg4c5NplyCvY'
     },
-    link: '/en-GB/cities/fukuoka/',
+    link: '/en-GB/cities/fukuoka/'
   },
   {
     name: 'Hong Kong',
@@ -9370,11 +9370,11 @@ module.exports = [
       country: {
         long_name: 'Hong Kong',
         short_name: 'HK',
-        types: ['country', 'locality', 'political'],
+        types: ['country', 'locality', 'political']
       },
-      place_id: 'ChIJD5gyo-3iAzQRfMnq27qzivA',
+      place_id: 'ChIJD5gyo-3iAzQRfMnq27qzivA'
     },
-    link: '/en-GB/cities/hong-kong/',
+    link: '/en-GB/cities/hong-kong/'
   },
   {
     name: 'Hsinchu',
@@ -9384,11 +9384,11 @@ module.exports = [
       country: {
         long_name: 'Taiwan',
         short_name: 'TW',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEUtLGts1aDQRDDvTtbzcCdQ',
+      place_id: 'ChIJEUtLGts1aDQRDDvTtbzcCdQ'
     },
-    link: '/en-GB/cities/hsinchu/',
+    link: '/en-GB/cities/hsinchu/'
   },
   {
     name: 'Incheon',
@@ -9398,11 +9398,11 @@ module.exports = [
       country: {
         long_name: 'South Korea',
         short_name: 'KR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR4ITliVveTURQmG3LJD9N30',
+      place_id: 'ChIJR4ITliVveTURQmG3LJD9N30'
     },
-    link: '/en-GB/cities/incheon/',
+    link: '/en-GB/cities/incheon/'
   },
   {
     name: 'Kaohsiung',
@@ -9412,11 +9412,11 @@ module.exports = [
       country: {
         long_name: 'Taiwan',
         short_name: 'TW',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJG3R6elFDbjQRNypzVEqiJkg',
+      place_id: 'ChIJG3R6elFDbjQRNypzVEqiJkg'
     },
-    link: '/en-GB/cities/kaohsiung/',
+    link: '/en-GB/cities/kaohsiung/'
   },
   {
     name: 'Kobe',
@@ -9426,11 +9426,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc_k37JTfuocRLU12lZYIr6k',
+      place_id: 'ChIJc_k37JTfuocRLU12lZYIr6k'
     },
-    link: '/en-GB/cities/kobe/',
+    link: '/en-GB/cities/kobe/'
   },
   {
     name: 'Kyotango',
@@ -9440,11 +9440,11 @@ module.exports = [
       country: {
         long_name: 'Japan',
         short_name: 'JP',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJT079tGW7_18RSR1Yd4jVXvs',
+      place_id: 'ChIJT079tGW7_18RSR1Yd4jVXvs'
     },
-    link: '/en-GB/cities/kyotango/',
+    link: '/en-GB/cities/kyotango/'
   },
   {
     name: 'Kyoto',
@@ -9454,11 +9454,11 @@ module.exports = [
       country: {
         long_name: 'Japan',
         short_name: 'JP',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8cM8zdaoAWARPR27azYdlsA',
+      place_id: 'ChIJ8cM8zdaoAWARPR27azYdlsA'
     },
-    link: '/en-GB/cities/kyoto/',
+    link: '/en-GB/cities/kyoto/'
   },
   {
     name: 'Macau',
@@ -9468,11 +9468,11 @@ module.exports = [
       country: {
         long_name: 'Macau',
         short_name: 'MO',
-        types: ['country', 'locality', 'political'],
+        types: ['country', 'locality', 'political']
       },
-      place_id: 'ChIJ88g14uB6ATQR9qyFtCzje8Y',
+      place_id: 'ChIJ88g14uB6ATQR9qyFtCzje8Y'
     },
-    link: '/en-GB/cities/macau/',
+    link: '/en-GB/cities/macau/'
   },
   {
     name: 'Nagoya',
@@ -9482,11 +9482,11 @@ module.exports = [
       country: {
         long_name: 'Japan',
         short_name: 'JP',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZSN7EJ5wA2ARUrPO6NQilio',
+      place_id: 'ChIJZSN7EJ5wA2ARUrPO6NQilio'
     },
-    link: '/en-GB/cities/nagoya/',
+    link: '/en-GB/cities/nagoya/'
   },
   {
     name: 'Osaka',
@@ -9495,12 +9495,12 @@ module.exports = [
       country: {
         long_name: 'Japan',
         short_name: 'JP',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
       formatted_address: 'Osaka, Osaka Prefecture, Japan',
-      place_id: 'ChIJ4eIGNFXmAGAR5y9q5G7BW8U',
+      place_id: 'ChIJ4eIGNFXmAGAR5y9q5G7BW8U'
     },
-    link: '/en-GB/cities/osaka/',
+    link: '/en-GB/cities/osaka/'
   },
   {
     name: 'Seoul',
@@ -9510,11 +9510,11 @@ module.exports = [
       country: {
         long_name: 'South Korea',
         short_name: 'KR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzWXFYYuifDUR64Pq5LTtioU',
+      place_id: 'ChIJzWXFYYuifDUR64Pq5LTtioU'
     },
-    link: '/en-GB/cities/seoul/',
+    link: '/en-GB/cities/seoul/'
   },
   {
     name: 'Taichung',
@@ -9524,11 +9524,11 @@ module.exports = [
       country: {
         long_name: 'Taiwan',
         short_name: 'TW',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7yJ5-d8XaTQRf0SmfuQ-Uoc',
+      place_id: 'ChIJ7yJ5-d8XaTQRf0SmfuQ-Uoc'
     },
-    link: '/en-GB/cities/taichung/',
+    link: '/en-GB/cities/taichung/'
   },
   {
     name: 'Taipei',
@@ -9538,11 +9538,11 @@ module.exports = [
       country: {
         long_name: 'Taiwan',
         short_name: 'TW',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmQrivHKsQjQR4MIK3c41aj8',
+      place_id: 'ChIJmQrivHKsQjQR4MIK3c41aj8'
     },
-    link: '/en-GB/cities/taipei/',
+    link: '/en-GB/cities/taipei/'
   },
   {
     name: 'Taoyuan',
@@ -9552,11 +9552,11 @@ module.exports = [
       country: {
         long_name: 'Taiwan',
         short_name: 'TW',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP4bazg49aDQRakg6WFJP5FQ',
+      place_id: 'ChIJP4bazg49aDQRakg6WFJP5FQ'
     },
-    link: '/en-GB/cities/taoyuan/',
+    link: '/en-GB/cities/taoyuan/'
   },
   {
     name: 'Tokyo',
@@ -9566,11 +9566,11 @@ module.exports = [
       country: {
         long_name: 'Japan',
         short_name: 'JP',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ51cu8IcbXWARiRtXIothAS4',
+      place_id: 'ChIJ51cu8IcbXWARiRtXIothAS4'
     },
-    link: '/en-GB/cities/tokyo/',
+    link: '/en-GB/cities/tokyo/'
   },
   {
     name: 'Yokohama',
@@ -9580,11 +9580,11 @@ module.exports = [
       country: {
         long_name: 'Japan',
         short_name: 'JP',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCWW2u-xbGGARAFQoYPaDlgY',
+      place_id: 'ChIJCWW2u-xbGGARAFQoYPaDlgY'
     },
-    link: '/en-GB/cities/yokohama/',
+    link: '/en-GB/cities/yokohama/'
   },
   {
     name: 'Ahmedabad',
@@ -9594,11 +9594,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSdRbuoqEXjkRFmVPYRHdzk8',
+      place_id: 'ChIJSdRbuoqEXjkRFmVPYRHdzk8'
     },
-    link: '/en-GB/cities/ahmedabad/',
+    link: '/en-GB/cities/ahmedabad/'
   },
   {
     name: 'Ajmer',
@@ -9608,11 +9608,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAc23_NjmazkR7gCB6xKPr8s',
+      place_id: 'ChIJAc23_NjmazkR7gCB6xKPr8s'
     },
-    link: '/en-GB/cities/ajmer/',
+    link: '/en-GB/cities/ajmer/'
   },
   {
     name: 'Amritsar',
@@ -9622,11 +9622,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVXOeVqpkGTkRfe-E7ltgou4',
+      place_id: 'ChIJVXOeVqpkGTkRfe-E7ltgou4'
     },
-    link: '/en-GB/cities/amritsar/',
+    link: '/en-GB/cities/amritsar/'
   },
   {
     name: 'Aurangabad',
@@ -9636,11 +9636,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY7xpoxWY2zsRPqeiKYtTLXE',
+      place_id: 'ChIJY7xpoxWY2zsRPqeiKYtTLXE'
     },
-    link: '/en-GB/cities/aurangabad/',
+    link: '/en-GB/cities/aurangabad/'
   },
   {
     name: 'Bangalore',
@@ -9650,11 +9650,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbU60yXAWrjsR4E9-UejD3_g',
+      place_id: 'ChIJbU60yXAWrjsR4E9-UejD3_g'
     },
-    link: '/en-GB/cities/bangalore/',
+    link: '/en-GB/cities/bangalore/'
   },
   {
     name: 'Bhopal',
@@ -9664,11 +9664,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvY_Wj49CfDkR-NRy1RZXFQI',
+      place_id: 'ChIJvY_Wj49CfDkR-NRy1RZXFQI'
     },
-    link: '/en-GB/cities/bhopal/',
+    link: '/en-GB/cities/bhopal/'
   },
   {
     name: 'Bhubaneswar',
@@ -9678,11 +9678,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpQoX1dIJGToRqD-zaCsOWPw',
+      place_id: 'ChIJpQoX1dIJGToRqD-zaCsOWPw'
     },
-    link: '/en-GB/cities/bhubaneswar/',
+    link: '/en-GB/cities/bhubaneswar/'
   },
   {
     name: 'Chandigarh',
@@ -9692,11 +9692,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa8lu5gvtDzkR_hlzUvln_6U',
+      place_id: 'ChIJa8lu5gvtDzkR_hlzUvln_6U'
     },
-    link: '/en-GB/cities/chandigarh/',
+    link: '/en-GB/cities/chandigarh/'
   },
   {
     name: 'Chennai',
@@ -9706,11 +9706,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYTN9T-plUjoRM9RjaAunYW4',
+      place_id: 'ChIJYTN9T-plUjoRM9RjaAunYW4'
     },
-    link: '/en-GB/cities/chennai/',
+    link: '/en-GB/cities/chennai/'
   },
   {
     name: 'Chittagong',
@@ -9720,11 +9720,11 @@ module.exports = [
       country: {
         long_name: 'Bangladesh',
         short_name: 'BD',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ09-VQKbYrDAR2QVpy1vMFVA',
+      place_id: 'ChIJ09-VQKbYrDAR2QVpy1vMFVA'
     },
-    link: '/en-GB/cities/chittagong/',
+    link: '/en-GB/cities/chittagong/'
   },
   {
     name: 'Coimbatore',
@@ -9734,11 +9734,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtRyXL69ZqDsRgtI-GB7IwS8',
+      place_id: 'ChIJtRyXL69ZqDsRgtI-GB7IwS8'
     },
-    link: '/en-GB/cities/coimbatore/',
+    link: '/en-GB/cities/coimbatore/'
   },
   {
     name: 'Colombo',
@@ -9748,11 +9748,11 @@ module.exports = [
       country: {
         long_name: 'Sri Lanka',
         short_name: 'LK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA3B6D9FT4joRjYPTMk0uCzI',
+      place_id: 'ChIJA3B6D9FT4joRjYPTMk0uCzI'
     },
-    link: '/en-GB/cities/colombo/',
+    link: '/en-GB/cities/colombo/'
   },
   {
     name: 'Delhi NCR',
@@ -9762,11 +9762,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4ZrhZpThDDkRbN7VX1brzkU',
+      place_id: 'ChIJ4ZrhZpThDDkRbN7VX1brzkU'
     },
-    link: '/en-GB/cities/new-delhi/',
+    link: '/en-GB/cities/new-delhi/'
   },
   {
     name: 'Dhaka',
@@ -9776,11 +9776,11 @@ module.exports = [
       country: {
         long_name: 'Bangladesh',
         short_name: 'BD',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgWsCh7C4VTcRwgRZ3btjpY8',
+      place_id: 'ChIJgWsCh7C4VTcRwgRZ3btjpY8'
     },
-    link: '/en-GB/cities/dhaka/',
+    link: '/en-GB/cities/dhaka/'
   },
   {
     name: 'Faisalabad',
@@ -9790,11 +9790,11 @@ module.exports = [
       country: {
         long_name: 'Pakistan',
         short_name: 'PK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqVyllahCIjkRxnEmk4iPxd4',
+      place_id: 'ChIJqVyllahCIjkRxnEmk4iPxd4'
     },
-    link: '/en-GB/cities/faisalabad/',
+    link: '/en-GB/cities/faisalabad/'
   },
   {
     name: 'Gujranwala',
@@ -9804,11 +9804,11 @@ module.exports = [
       country: {
         long_name: 'Pakistan',
         short_name: 'PK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKesg1YMpHzkRaKPnha8z-wY',
+      place_id: 'ChIJKesg1YMpHzkRaKPnha8z-wY'
     },
-    link: '/en-GB/cities/gujranwala/',
+    link: '/en-GB/cities/gujranwala/'
   },
   {
     name: 'Guwahati',
@@ -9818,11 +9818,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_zORfyhaWjcRMt5rQzITvSs',
+      place_id: 'ChIJ_zORfyhaWjcRMt5rQzITvSs'
     },
-    link: '/en-GB/cities/guwahati/',
+    link: '/en-GB/cities/guwahati/'
   },
   {
     name: 'Hyderabad',
@@ -9832,11 +9832,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJx9Lr6tqZyzsRwvu6koO3k64',
+      place_id: 'ChIJx9Lr6tqZyzsRwvu6koO3k64'
     },
-    link: '/en-GB/cities/hyderabad/',
+    link: '/en-GB/cities/hyderabad/'
   },
   {
     name: 'Hyderabad, Pakistan',
@@ -9846,11 +9846,11 @@ module.exports = [
       country: {
         long_name: 'Pakistan',
         short_name: 'PK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJw_NE1PZwTDkRheJBPRi8C8A',
+      place_id: 'ChIJw_NE1PZwTDkRheJBPRi8C8A'
     },
-    link: '/en-GB/cities/hyderabad-pakistan/',
+    link: '/en-GB/cities/hyderabad-pakistan/'
   },
   {
     name: 'Indore',
@@ -9860,11 +9860,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2w1BG638YjkR9EBiNdrEbgk',
+      place_id: 'ChIJ2w1BG638YjkR9EBiNdrEbgk'
     },
-    link: '/en-GB/cities/indore/',
+    link: '/en-GB/cities/indore/'
   },
   {
     name: 'Islamabad',
@@ -9874,11 +9874,11 @@ module.exports = [
       country: {
         long_name: 'Pakistan',
         short_name: 'PK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL3KReNC_3zgRtgLbO1xRWWA',
+      place_id: 'ChIJL3KReNC_3zgRtgLbO1xRWWA'
     },
-    link: '/en-GB/cities/islamabad/',
+    link: '/en-GB/cities/islamabad/'
   },
   {
     name: 'Jaipur',
@@ -9888,11 +9888,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgeJXTN9KbDkRCS7yDDrG4Qw',
+      place_id: 'ChIJgeJXTN9KbDkRCS7yDDrG4Qw'
     },
-    link: '/en-GB/cities/jaipur/',
+    link: '/en-GB/cities/jaipur/'
   },
   {
     name: 'Jodhpur',
@@ -9902,11 +9902,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJucwGqk6MQTkRuKvhClvqFIE',
+      place_id: 'ChIJucwGqk6MQTkRuKvhClvqFIE'
     },
-    link: '/en-GB/cities/jodhpur/',
+    link: '/en-GB/cities/jodhpur/'
   },
   {
     name: 'Karachi',
@@ -9916,11 +9916,11 @@ module.exports = [
       country: {
         long_name: 'Pakistan',
         short_name: 'PK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJv0sdZQY-sz4RIwxaVUQv-Zw',
+      place_id: 'ChIJv0sdZQY-sz4RIwxaVUQv-Zw'
     },
-    link: '/en-GB/cities/karachi/',
+    link: '/en-GB/cities/karachi/'
   },
   {
     name: 'Kochi',
@@ -9930,11 +9930,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJv8a-SlENCDsRkkGEpcqC1Qs',
+      place_id: 'ChIJv8a-SlENCDsRkkGEpcqC1Qs'
     },
-    link: '/en-GB/cities/kochi/',
+    link: '/en-GB/cities/kochi/'
   },
   {
     name: 'Kolkata',
@@ -9944,11 +9944,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ_YISduC-DkRvCxsj-Yw40M',
+      place_id: 'ChIJZ_YISduC-DkRvCxsj-Yw40M'
     },
-    link: '/en-GB/cities/kolkata/',
+    link: '/en-GB/cities/kolkata/'
   },
   {
     name: 'Lahore',
@@ -9958,11 +9958,11 @@ module.exports = [
       country: {
         long_name: 'Pakistan',
         short_name: 'PK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2QeB5YMEGTkRYiR-zGy-OsI',
+      place_id: 'ChIJ2QeB5YMEGTkRYiR-zGy-OsI'
     },
-    link: '/en-GB/cities/lahore/',
+    link: '/en-GB/cities/lahore/'
   },
   {
     name: 'Lucknow',
@@ -9972,11 +9972,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa7EyH5n9mzkR54uXCYm6zJM',
+      place_id: 'ChIJa7EyH5n9mzkR54uXCYm6zJM'
     },
-    link: '/en-GB/cities/lucknow/',
+    link: '/en-GB/cities/lucknow/'
   },
   {
     name: 'Ludhiana',
@@ -9986,11 +9986,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfVo0YnSDGjkREAbGjjQCEWg',
+      place_id: 'ChIJfVo0YnSDGjkREAbGjjQCEWg'
     },
-    link: '/en-GB/cities/ludhiana/',
+    link: '/en-GB/cities/ludhiana/'
   },
   {
     name: 'Mangalore',
@@ -10000,11 +10000,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj0i_N0xaozsRZP78dHq8e4I',
+      place_id: 'ChIJj0i_N0xaozsRZP78dHq8e4I'
     },
-    link: '/en-GB/cities/mangalore/',
+    link: '/en-GB/cities/mangalore/'
   },
   {
     name: 'Multan',
@@ -10014,11 +10014,11 @@ module.exports = [
       country: {
         long_name: 'Pakistan',
         short_name: 'PK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2afeeFcxOzkRL9RVTscv17o',
+      place_id: 'ChIJ2afeeFcxOzkRL9RVTscv17o'
     },
-    link: '/en-GB/cities/multan/',
+    link: '/en-GB/cities/multan/'
   },
   {
     name: 'Mumbai',
@@ -10028,11 +10028,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwe1EZjDG5zsRaYxkjY_tpF0',
+      place_id: 'ChIJwe1EZjDG5zsRaYxkjY_tpF0'
     },
-    link: '/en-GB/cities/mumbai/',
+    link: '/en-GB/cities/mumbai/'
   },
   {
     name: 'Mysore',
@@ -10042,11 +10042,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-S5XHThwrzsRbTn4wOjsiSs',
+      place_id: 'ChIJ-S5XHThwrzsRbTn4wOjsiSs'
     },
-    link: '/en-GB/cities/mysore/',
+    link: '/en-GB/cities/mysore/'
   },
   {
     name: 'Nagpur',
@@ -10056,11 +10056,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE68fo6XA1DsRKz670AZ9sxk',
+      place_id: 'ChIJE68fo6XA1DsRKz670AZ9sxk'
     },
-    link: '/en-GB/cities/nagpur/',
+    link: '/en-GB/cities/nagpur/'
   },
   {
     name: 'Nashik',
@@ -10070,11 +10070,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsxSZsJDS3TsRXCEonV2EB8s',
+      place_id: 'ChIJsxSZsJDS3TsRXCEonV2EB8s'
     },
-    link: '/en-GB/cities/nashik/',
+    link: '/en-GB/cities/nashik/'
   },
   {
     name: 'Peshawar',
@@ -10084,11 +10084,11 @@ module.exports = [
       country: {
         long_name: 'Pakistan',
         short_name: 'PK',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJz3kOD7kX2TgREqRYdWOyFqg',
+      place_id: 'ChIJz3kOD7kX2TgREqRYdWOyFqg'
     },
-    link: '/en-GB/cities/peshawar/',
+    link: '/en-GB/cities/peshawar/'
   },
   {
     name: 'Puducherry',
@@ -10098,11 +10098,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlUfE5URgUzoR00k9CrLLEOg',
+      place_id: 'ChIJlUfE5URgUzoR00k9CrLLEOg'
     },
-    link: '/en-GB/cities/puducherry/',
+    link: '/en-GB/cities/puducherry/'
   },
   {
     name: 'Pune',
@@ -10112,11 +10112,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJARFGZy6_wjsRQ-Oenb9DjYI',
+      place_id: 'ChIJARFGZy6_wjsRQ-Oenb9DjYI'
     },
-    link: '/en-GB/cities/pune/',
+    link: '/en-GB/cities/pune/'
   },
   {
     name: 'Surat',
@@ -10126,11 +10126,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYxUdQVlO4DsRQrA4CSlYRf4',
+      place_id: 'ChIJYxUdQVlO4DsRQrA4CSlYRf4'
     },
-    link: '/en-GB/cities/surat/',
+    link: '/en-GB/cities/surat/'
   },
   {
     name: 'Thiruvananthapuram',
@@ -10140,11 +10140,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR827Bbi7BTsRy4FcXKufQxU',
+      place_id: 'ChIJR827Bbi7BTsRy4FcXKufQxU'
     },
-    link: '/en-GB/cities/thiruvananthapuram/',
+    link: '/en-GB/cities/thiruvananthapuram/'
   },
   {
     name: 'Udaipur',
@@ -10154,11 +10154,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEUShUGXlZzkRsGi4VYTC2Ns',
+      place_id: 'ChIJEUShUGXlZzkRsGi4VYTC2Ns'
     },
-    link: '/en-GB/cities/udaipur/',
+    link: '/en-GB/cities/udaipur/'
   },
   {
     name: 'Vadodara',
@@ -10168,11 +10168,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq92jkavIXzkRuD9H4b_TOaw',
+      place_id: 'ChIJq92jkavIXzkRuD9H4b_TOaw'
     },
-    link: '/en-GB/cities/vadodara/',
+    link: '/en-GB/cities/vadodara/'
   },
   {
     name: 'Vijayawada',
@@ -10182,11 +10182,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS5QtSPnvNToRZQJKq4R-m5M',
+      place_id: 'ChIJS5QtSPnvNToRZQJKq4R-m5M'
     },
-    link: '/en-GB/cities/vijayawada/',
+    link: '/en-GB/cities/vijayawada/'
   },
   {
     name: 'Visakhapatnam',
@@ -10196,11 +10196,11 @@ module.exports = [
       country: {
         long_name: 'India',
         short_name: 'IN',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP5fmiRNDOToRaIRJlQPC2ZI',
+      place_id: 'ChIJP5fmiRNDOToRaIRJlQPC2ZI'
     },
-    link: '/en-GB/cities/visakhapatnam/',
+    link: '/en-GB/cities/visakhapatnam/'
   },
   {
     name: 'Adelaide',
@@ -10210,11 +10210,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP7Mmxcc1t2oRQMaOYlQ2AwQ',
+      place_id: 'ChIJP7Mmxcc1t2oRQMaOYlQ2AwQ'
     },
-    link: '/en-GB/cities/adelaide/',
+    link: '/en-GB/cities/adelaide/'
   },
   {
     name: 'Auckland',
@@ -10224,11 +10224,11 @@ module.exports = [
       country: {
         long_name: 'New Zealand',
         short_name: 'NZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ--acWvtHDW0RF5miQ2HvAAU',
+      place_id: 'ChIJ--acWvtHDW0RF5miQ2HvAAU'
     },
-    link: '/en-GB/cities/auckland/',
+    link: '/en-GB/cities/auckland/'
   },
   {
     name: 'Bathurst',
@@ -10238,11 +10238,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ73m0BjPkEWsRYCJEkLQJBgU',
+      place_id: 'ChIJ73m0BjPkEWsRYCJEkLQJBgU'
     },
-    link: '/en-GB/cities/bathurst/',
+    link: '/en-GB/cities/bathurst/'
   },
   {
     name: 'Bendigo and Ballarat',
@@ -10252,11 +10252,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyZlpa4xE0WoRHei1tIOLmRY',
+      place_id: 'ChIJyZlpa4xE0WoRHei1tIOLmRY'
     },
-    link: '/en-GB/cities/ballarat/',
+    link: '/en-GB/cities/ballarat/'
   },
   {
     name: 'Brisbane',
@@ -10266,11 +10266,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJM9KTrJpXkWsRQK_e81qjAgQ',
+      place_id: 'ChIJM9KTrJpXkWsRQK_e81qjAgQ'
     },
-    link: '/en-GB/cities/brisbane/',
+    link: '/en-GB/cities/brisbane/'
   },
   {
     name: 'Bunbury',
@@ -10280,11 +10280,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0f9k2au22YgRTu6RXB5wgaA',
+      place_id: 'ChIJ0f9k2au22YgRTu6RXB5wgaA'
     },
-    link: '/en-GB/cities/bunbury/',
+    link: '/en-GB/cities/bunbury/'
   },
   {
     name: 'Bundaberg',
@@ -10294,11 +10294,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU1lsDkq562sRwAshf_HuAAU',
+      place_id: 'ChIJU1lsDkq562sRwAshf_HuAAU'
     },
-    link: '/en-GB/cities/bundaberg/',
+    link: '/en-GB/cities/bundaberg/'
   },
   {
     name: 'Busselton',
@@ -10308,11 +10308,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8W_tFhI5LioRIA16JDj2AAU',
+      place_id: 'ChIJ8W_tFhI5LioRIA16JDj2AAU'
     },
-    link: '/en-GB/cities/busselton/',
+    link: '/en-GB/cities/busselton/'
   },
   {
     name: 'Byron Bay',
@@ -10322,11 +10322,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK3Y-LYVikGsR0PJDkLQJBgQ',
+      place_id: 'ChIJK3Y-LYVikGsR0PJDkLQJBgQ'
     },
-    link: '/en-GB/cities/byron-bay/',
+    link: '/en-GB/cities/byron-bay/'
   },
   {
     name: 'Cairns',
@@ -10336,11 +10336,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEySiW1VieGkRYHggf_HuAAQ',
+      place_id: 'ChIJEySiW1VieGkRYHggf_HuAAQ'
     },
-    link: '/en-GB/cities/cairns/',
+    link: '/en-GB/cities/cairns/'
   },
   {
     name: 'Canberra',
@@ -10350,11 +10350,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIZBcsGlNFmsRYFZpp27qAAU',
+      place_id: 'ChIJIZBcsGlNFmsRYFZpp27qAAU'
     },
-    link: '/en-GB/cities/canberra/',
+    link: '/en-GB/cities/canberra/'
   },
   {
     name: 'Christchurch',
@@ -10364,11 +10364,11 @@ module.exports = [
       country: {
         long_name: 'New Zealand',
         short_name: 'NZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAe3FY0gvMm0RRZl5hIbvAAU',
+      place_id: 'ChIJAe3FY0gvMm0RRZl5hIbvAAU'
     },
-    link: '/en-GB/cities/christchurch/',
+    link: '/en-GB/cities/christchurch/'
   },
   {
     name: 'Coffs Harbour',
@@ -10378,11 +10378,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHaTYiwkOnGsREC1EkLQJBgU',
+      place_id: 'ChIJHaTYiwkOnGsREC1EkLQJBgU'
     },
-    link: '/en-GB/cities/coffs-harbour/',
+    link: '/en-GB/cities/coffs-harbour/'
   },
   {
     name: 'Darwin',
@@ -10393,11 +10393,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLfmGIOiEt4cRa66zOEoP45E',
+      place_id: 'ChIJLfmGIOiEt4cRa66zOEoP45E'
     },
-    link: '/en-GB/cities/darwin/',
+    link: '/en-GB/cities/darwin/'
   },
   {
     name: 'Dunedin',
@@ -10407,11 +10407,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYSuhxQ3xwogR9RBIc5e9p88',
+      place_id: 'ChIJYSuhxQ3xwogR9RBIc5e9p88'
     },
-    link: '/en-GB/cities/dunedin/',
+    link: '/en-GB/cities/dunedin/'
   },
   {
     name: 'Geelong',
@@ -10421,11 +10421,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJz9ClKRwU1GoRkOmMIXVWBAU',
+      place_id: 'ChIJz9ClKRwU1GoRkOmMIXVWBAU'
     },
-    link: '/en-GB/cities/geelong/',
+    link: '/en-GB/cities/geelong/'
   },
   {
     name: 'Gladstone',
@@ -10435,11 +10435,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI8q6w4n3wIcRUP7PD6MlXvU',
+      place_id: 'ChIJI8q6w4n3wIcRUP7PD6MlXvU'
     },
-    link: '/en-GB/cities/gladstone/',
+    link: '/en-GB/cities/gladstone/'
   },
   {
     name: 'Gold Coast',
@@ -10449,11 +10449,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt2BdK0cakWsRcK_e81qjAgM',
+      place_id: 'ChIJt2BdK0cakWsRcK_e81qjAgM'
     },
-    link: '/en-GB/cities/gold-coast/',
+    link: '/en-GB/cities/gold-coast/'
   },
   {
     name: 'Hamilton, NZ',
@@ -10463,11 +10463,11 @@ module.exports = [
       country: {
         long_name: 'New Zealand',
         short_name: 'NZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJITamh3QibW0RA5miQ2HvAAU',
+      place_id: 'ChIJITamh3QibW0RA5miQ2HvAAU'
     },
-    link: '/en-GB/cities/hamilton-nz/',
+    link: '/en-GB/cities/hamilton-nz/'
   },
   {
     name: 'Hervey Bay',
@@ -10477,11 +10477,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_VCIQcV962sRoPUgf_HuAAQ',
+      place_id: 'ChIJ_VCIQcV962sRoPUgf_HuAAQ'
     },
-    link: '/en-GB/cities/hervey-bay/',
+    link: '/en-GB/cities/hervey-bay/'
   },
   {
     name: 'Hobart',
@@ -10491,11 +10491,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb2c1q73luocR0MRMPMppv98',
+      place_id: 'ChIJb2c1q73luocR0MRMPMppv98'
     },
-    link: '/en-GB/cities/hobart/',
+    link: '/en-GB/cities/hobart/'
   },
   {
     name: 'Horsham',
@@ -10505,11 +10505,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuYUqkIWvxokRQAZtXPmw77o',
+      place_id: 'ChIJuYUqkIWvxokRQAZtXPmw77o'
     },
-    link: '/en-GB/cities/horsham/',
+    link: '/en-GB/cities/horsham/'
   },
   {
     name: 'Launceston',
@@ -10519,11 +10519,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXf2ELuGmcKoRkBne0E3JAwU',
+      place_id: 'ChIJXf2ELuGmcKoRkBne0E3JAwU'
     },
-    link: '/en-GB/cities/launceston/',
+    link: '/en-GB/cities/launceston/'
   },
   {
     name: 'Mackay',
@@ -10533,11 +10533,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB1bTovfT22sRAAQhf_HuAAU',
+      place_id: 'ChIJB1bTovfT22sRAAQhf_HuAAU'
     },
-    link: '/en-GB/cities/mackay/',
+    link: '/en-GB/cities/mackay/'
   },
   {
     name: 'Melbourne',
@@ -10547,11 +10547,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ90260rVG1moRkM2MIXVWBAQ',
+      place_id: 'ChIJ90260rVG1moRkM2MIXVWBAQ'
     },
-    link: '/en-GB/cities/melbourne/',
+    link: '/en-GB/cities/melbourne/'
   },
   {
     name: 'Mornington Peninsula',
@@ -10561,11 +10561,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcVC2pWDP1WoRgrwLtSh9Ly8',
+      place_id: 'ChIJcVC2pWDP1WoRgrwLtSh9Ly8'
     },
-    link: '/en-GB/cities/mornington-peninsula/',
+    link: '/en-GB/cities/mornington-peninsula/'
   },
   {
     name: 'Newcastle',
@@ -10575,11 +10575,11 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs',
+      place_id: 'ChIJzWRvDH6FfUgRkWGncrBS4gs'
     },
-    link: '/en-GB/cities/newcastle/',
+    link: '/en-GB/cities/newcastle/'
   },
   {
     name: 'Orange',
@@ -10589,11 +10589,11 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDUmY6Z98yIcRAT0mxh_O5wE',
+      place_id: 'ChIJDUmY6Z98yIcRAT0mxh_O5wE'
     },
-    link: '/en-GB/cities/orange/',
+    link: '/en-GB/cities/orange/'
   },
   {
     name: 'Perth',
@@ -10603,11 +10603,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPXNH22yWMioR0FXfNbXwBAM',
+      place_id: 'ChIJPXNH22yWMioR0FXfNbXwBAM'
     },
-    link: '/en-GB/cities/perth/',
+    link: '/en-GB/cities/perth/'
   },
   {
     name: 'Port Macquarie',
@@ -10617,11 +10617,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwcnsNFz_nWsRQC5EkLQJBgU',
+      place_id: 'ChIJwcnsNFz_nWsRQC5EkLQJBgU'
     },
-    link: '/en-GB/cities/port-macquarie/',
+    link: '/en-GB/cities/port-macquarie/'
   },
   {
     name: 'Queenstown',
@@ -10631,11 +10631,11 @@ module.exports = [
       country: {
         long_name: 'New Zealand',
         short_name: 'NZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJX96o1_Ed1akRAKZ5hIbvAAU',
+      place_id: 'ChIJX96o1_Ed1akRAKZ5hIbvAAU'
     },
-    link: '/en-GB/cities/queenstown/',
+    link: '/en-GB/cities/queenstown/'
   },
   {
     name: 'Rockhampton',
@@ -10645,11 +10645,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHQZ8RqIAw2sRMAAhf_HuAAU',
+      place_id: 'ChIJHQZ8RqIAw2sRMAAhf_HuAAU'
     },
-    link: '/en-GB/cities/rockhampton/',
+    link: '/en-GB/cities/rockhampton/'
   },
   {
     name: 'Shepparton',
@@ -10659,11 +10659,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq_oI_w2E2GoRMNugMKR5BQU',
+      place_id: 'ChIJq_oI_w2E2GoRMNugMKR5BQU'
     },
-    link: '/en-GB/cities/shepparton/',
+    link: '/en-GB/cities/shepparton/'
   },
   {
     name: 'Sunshine Coast',
@@ -10673,11 +10673,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7Uh9bbZ_k2sRUK_e81qjAgM',
+      place_id: 'ChIJ7Uh9bbZ_k2sRUK_e81qjAgM'
     },
-    link: '/en-GB/cities/sunshine-coast/',
+    link: '/en-GB/cities/sunshine-coast/'
   },
   {
     name: 'Surf Coast',
@@ -10687,11 +10687,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIe6EesN41GoR-pO-nxsXn08',
+      place_id: 'ChIJIe6EesN41GoR-pO-nxsXn08'
     },
-    link: '/en-GB/cities/surf-coast/',
+    link: '/en-GB/cities/surf-coast/'
   },
   {
     name: 'Sydney',
@@ -10701,11 +10701,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP3Sa8ziYEmsRUKgyFmh9AQM',
+      place_id: 'ChIJP3Sa8ziYEmsRUKgyFmh9AQM'
     },
-    link: '/en-GB/cities/sydney/',
+    link: '/en-GB/cities/sydney/'
   },
   {
     name: 'Tamworth',
@@ -10715,11 +10715,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH9ZCOLaYCmsRcClEkLQJBgU',
+      place_id: 'ChIJH9ZCOLaYCmsRcClEkLQJBgU'
     },
-    link: '/en-GB/cities/tamworth/',
+    link: '/en-GB/cities/tamworth/'
   },
   {
     name: 'Tauranga',
@@ -10729,11 +10729,11 @@ module.exports = [
       country: {
         long_name: 'New Zealand',
         short_name: 'NZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5WTUe-d2bm0RJpmjQ2HvAAU',
+      place_id: 'ChIJ5WTUe-d2bm0RJpmjQ2HvAAU'
     },
-    link: '/en-GB/cities/tauranga/',
+    link: '/en-GB/cities/tauranga/'
   },
   {
     name: 'Toowoomba',
@@ -10743,11 +10743,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj2XjSLpElmsRUL8gf_HuAAQ',
+      place_id: 'ChIJj2XjSLpElmsRUL8gf_HuAAQ'
     },
-    link: '/en-GB/cities/toowoomba/',
+    link: '/en-GB/cities/toowoomba/'
   },
   {
     name: 'Townsville',
@@ -10757,11 +10757,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ59Fz1dv41WsRsP4gf_HuAAU',
+      place_id: 'ChIJ59Fz1dv41WsRsP4gf_HuAAU'
     },
-    link: '/en-GB/cities/townsville/',
+    link: '/en-GB/cities/townsville/'
   },
   {
     name: 'Wagga Wagga',
@@ -10771,11 +10771,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd7Z4Op2ZGGsR8CZEkLQJBgU',
+      place_id: 'ChIJd7Z4Op2ZGGsR8CZEkLQJBgU'
     },
-    link: '/en-GB/cities/wagga-wagga/',
+    link: '/en-GB/cities/wagga-wagga/'
   },
   {
     name: 'Warrnambool',
@@ -10785,11 +10785,11 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJocRftslNzWoR4NWgMKR5BQU',
+      place_id: 'ChIJocRftslNzWoR4NWgMKR5BQU'
     },
-    link: '/en-GB/cities/warrnambool/',
+    link: '/en-GB/cities/warrnambool/'
   },
   {
     name: 'Wellington',
@@ -10799,11 +10799,11 @@ module.exports = [
       country: {
         long_name: 'New Zealand',
         short_name: 'NZ',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy3TpSfyxOG0RcLQTomPvAAo',
+      place_id: 'ChIJy3TpSfyxOG0RcLQTomPvAAo'
     },
-    link: '/en-GB/cities/wellington/',
+    link: '/en-GB/cities/wellington/'
   },
   {
     name: 'Wollongong',
@@ -10813,10 +10813,10 @@ module.exports = [
       country: {
         long_name: 'Australia',
         short_name: 'AU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJe1YLH6UZE2sRIOcyFmh9AQU',
+      place_id: 'ChIJe1YLH6UZE2sRIOcyFmh9AQU'
     },
-    link: '/en-GB/cities/wollongong/',
-  },
+    link: '/en-GB/cities/wollongong/'
+  }
 ]

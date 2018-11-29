@@ -9,14 +9,14 @@ import {
   Algolia,
   AlgoliaLink,
   Input,
-  Form,
+  Form
 } from './_index.elements'
 import { fixNameB as fixName } from '../utils/fixName'
 
 export default class Home extends Component {
   state = {
     value: '',
-    isSearching: false,
+    isSearching: false
   }
 
   handleChange = e => {
