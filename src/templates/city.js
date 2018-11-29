@@ -9,7 +9,7 @@ import {
   Company,
   GoBack,
   Message,
-} from './elements'
+} from './_city.elements'
 import edgeCases from '../utils/edgeCases'
 import ReactCountryFlag from 'react-country-flag'
 import { getAppStoreLink } from '../utils/appStores'
@@ -43,7 +43,9 @@ export default ({ pageContext: { city } }) => {
                   <span role="img" aria-label="car">
                     🚗
                   </span>{' '}
-                  <ReactCountryFlag code={city.info.country.short_name} />
+                  {city.info.countr ? (
+                    <ReactCountryFlag code={city.info.country.short_name} />
+                  ) : null}
                 </Title>
               </a>,
               <Message>{edgeCases(city)}</Message>,

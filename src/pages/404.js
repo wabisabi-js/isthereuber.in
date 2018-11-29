@@ -1,5 +1,5 @@
 import React from 'react'
-import { Title, Wrapper, Flex, GoBack } from '../templates/elements'
+import { Title, Wrapper, Flex, GoBack } from '../templates/_city.elements'
 import Layout from '../components/layout'
 
 export default ({ pageContext: { city } }) => {

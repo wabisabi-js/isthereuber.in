@@ -10,7 +10,7 @@ import {
   AlgoliaLink,
   Input,
   Form,
-} from './index.elements'
+} from './_index.elements'
 import { fixNameB as fixName } from '../utils/fixName'
 
 export default class Home extends Component {

@@ -38,16 +38,11 @@ const cases = [
   },
 ]
 
-export default ({
-  name,
-  info: {
-    country: { long_name },
-  },
-}) => {
+export default ({ name, info: { country = { long_name: '' } } }) => {
   const match = cases.find(
     c =>
       (c.city && c.city.includes(name.toLowerCase())) ||
-      (c.country && c.country.includes(long_name.toLowerCase()))
+      (c.country && c.country.includes(country.long_name.toLowerCase()))
   )
   if (match) {
     return match.message

@@ -33,7 +33,7 @@
     "gatsby"
   ],
   "scripts": {
-    "build": "gatsby build && cp _redirects build/_redirects",
+    "build": "gatsby build && cp _redirects public/_redirects",
     "develop": "gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
