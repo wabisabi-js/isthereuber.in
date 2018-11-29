@@ -43,10 +43,10 @@ module.exports = {
       }
     },
     'gatsby-plugin-emotion',
-    'gatsby-plugin-workbox',
     {
       resolve: 'gatsby-plugin-create-client-paths',
       options: { prefixes: ['/search/*'] }
-    }
+    },
+    `gatsby-plugin-offline`
   ]
 }
