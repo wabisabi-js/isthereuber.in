@@ -1,4 +1,4 @@
-import { Link } from 'preact-router/match'
+import { Link } from 'gatsby'
 import styled from 'react-emotion'
 
 export const Title = styled.h1`
@@ -32,7 +32,6 @@ export const Flex = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
   height: 100%;
   max-width: 100%;
   flex-shrink: 0;
@@ -49,7 +48,7 @@ export const Alternative = styled(Flex)`
   a:not(:last-child) {
     padding-right: 20px;
   }
-`;
+`
 
 export const Company = styled.a`
   color: ${props => props.theme.secondary};

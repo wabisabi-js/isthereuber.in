@@ -7,10 +7,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMcsZtkXsaS4RIcpRulZQgxw',
-    },
+      place_id: 'ChIJMcsZtkXsaS4RIcpRulZQgxw'
+    }
   },
   {
     name: 'Bandung',
@@ -20,10 +20,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJf0dSgjnmaC4RshXo05MfahQ',
-    },
+      place_id: 'ChIJf0dSgjnmaC4RshXo05MfahQ'
+    }
   },
   {
     name: 'Bali',
@@ -33,10 +33,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzSbtsxUv0i0RUL98yvsLAwM',
-    },
+      place_id: 'ChIJzSbtsxUv0i0RUL98yvsLAwM'
+    }
   },
   {
     name: 'Surabaya',
@@ -46,10 +46,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJf8QaOPj71y0RQL5S43Z6AgM',
-    },
+      place_id: 'ChIJf8QaOPj71y0RQL5S43Z6AgM'
+    }
   },
   {
     name: 'Makassar',
@@ -59,10 +59,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcUZs2Snjvi0RsHD3yvsLAwM',
-    },
+      place_id: 'ChIJcUZs2Snjvi0RsHD3yvsLAwM'
+    }
   },
   {
     name: 'Palembang',
@@ -72,10 +72,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ46Mn_Oh1Oy4RwNAgsoCdAwM',
-    },
+      place_id: 'ChIJ46Mn_Oh1Oy4RwNAgsoCdAwM'
+    }
   },
   {
     name: 'Medan',
@@ -85,10 +85,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_bI-HMwxMTARYoKQpsgx1CM',
-    },
+      place_id: 'ChIJ_bI-HMwxMTARYoKQpsgx1CM'
+    }
   },
   {
     name: 'Balikpapan',
@@ -99,10 +99,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkZxNlhBH8S0R0qauwpbspso',
-    },
+      place_id: 'ChIJkZxNlhBH8S0R0qauwpbspso'
+    }
   },
   {
     name: 'Yogyakarta',
@@ -113,10 +113,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxWtbvYdXei4RcU9o09Q_ciE',
-    },
+      place_id: 'ChIJxWtbvYdXei4RcU9o09Q_ciE'
+    }
   },
   {
     name: 'Semarang',
@@ -127,10 +127,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGXaKWGiPcC4RYR4ojvXWJXg',
-    },
+      place_id: 'ChIJGXaKWGiPcC4RYR4ojvXWJXg'
+    }
   },
   {
     name: 'Manado',
@@ -140,10 +140,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0w-z__mehzIRgHL3yvsLAwM',
-    },
+      place_id: 'ChIJ0w-z__mehzIRgHL3yvsLAwM'
+    }
   },
   {
     name: 'Solo',
@@ -153,10 +153,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0Z8JspoTt4cRZvdrlDvbbSA',
-    },
+      place_id: 'ChIJ0Z8JspoTt4cRZvdrlDvbbSA'
+    }
   },
   {
     name: 'Samarinda',
@@ -166,10 +166,10 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQWmLQvL1QxMRnNFtLMJ93IU',
-    },
+      place_id: 'ChIJQWmLQvL1QxMRnNFtLMJ93IU'
+    }
   },
   {
     name: 'Malang',
@@ -179,10 +179,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-8I9BiIo1i0Rok0aSEaUh3g',
-    },
+      place_id: 'ChIJ-8I9BiIo1i0Rok0aSEaUh3g'
+    }
   },
   {
     name: 'Batam',
@@ -192,10 +192,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBc5UwOi82TERsMsgsoCdAwM',
-    },
+      place_id: 'ChIJBc5UwOi82TERsMsgsoCdAwM'
+    }
   },
   {
     name: 'Sukabumi',
@@ -205,10 +205,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9USebCVIaC4R1hXDaRaaznU',
-    },
+      place_id: 'ChIJ9USebCVIaC4R1hXDaRaaznU'
+    }
   },
   {
     name: 'Pekanbaru',
@@ -218,10 +218,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsecOaYCr1TER5NsjOCzp3ZQ',
-    },
+      place_id: 'ChIJsecOaYCr1TER5NsjOCzp3ZQ'
+    }
   },
   {
     name: 'Banjarmasin',
@@ -232,10 +232,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYcnuoZog5C0R0gSSwPwLAyY',
-    },
+      place_id: 'ChIJYcnuoZog5C0R0gSSwPwLAyY'
+    }
   },
   {
     name: 'Mataram',
@@ -245,10 +245,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJx15_Glm_zS0RxR0Q3SsSC4M',
-    },
+      place_id: 'ChIJx15_Glm_zS0RxR0Q3SsSC4M'
+    }
   },
   {
     name: 'Jambi',
@@ -258,10 +258,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2aytzd2IJS4R8E-Q0103c3Q',
-    },
+      place_id: 'ChIJ2aytzd2IJS4R8E-Q0103c3Q'
+    }
   },
   {
     name: 'Sidoarjo',
@@ -271,10 +271,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJv9yOhKDh1y0R8L1S43Z6AgM',
-    },
+      place_id: 'ChIJv9yOhKDh1y0R8L1S43Z6AgM'
+    }
   },
   {
     name: 'Gresik',
@@ -284,10 +284,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUcpJDf77dy4R0L5S43Z6AgM',
-    },
+      place_id: 'ChIJUcpJDf77dy4R0L5S43Z6AgM'
+    }
   },
   {
     name: 'Magelang',
@@ -297,10 +297,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgfNuc12Pei4RJGyWxI5dZKA',
-    },
+      place_id: 'ChIJgfNuc12Pei4RJGyWxI5dZKA'
+    }
   },
   {
     name: 'Lampung',
@@ -310,10 +310,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpyKsUwF2Oy4RmrCJX8dYO48',
-    },
+      place_id: 'ChIJpyKsUwF2Oy4RmrCJX8dYO48'
+    }
   },
   {
     name: 'Pontianak',
@@ -323,10 +323,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm3mwBPZYHS4R4__JH1D5HlE',
-    },
+      place_id: 'ChIJm3mwBPZYHS4R4__JH1D5HlE'
+    }
   },
   {
     name: 'Padang',
@@ -336,10 +336,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuxex4kK51C8RpWsEw7WMRrg',
-    },
+      place_id: 'ChIJuxex4kK51C8RpWsEw7WMRrg'
+    }
   },
   {
     name: 'Serang',
@@ -350,10 +350,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYUpTuw2LQS4R0Lgo_PHoAQM',
-    },
+      place_id: 'ChIJYUpTuw2LQS4R0Lgo_PHoAQM'
+    }
   },
   {
     name: 'Cirebon',
@@ -363,10 +363,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu1tunmTibi4R_hL-pzh2oHA',
-    },
+      place_id: 'ChIJu1tunmTibi4R_hL-pzh2oHA'
+    }
   },
   {
     name: 'Pematangsiantar',
@@ -376,10 +376,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-TJ1w1uEMTARBajYk0YROIU',
-    },
+      place_id: 'ChIJ-TJ1w1uEMTARBajYk0YROIU'
+    }
   },
   {
     name: 'Tasikmalaya',
@@ -389,10 +389,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb1dMkuVWby4RACUv_PHoAQM',
-    },
+      place_id: 'ChIJb1dMkuVWby4RACUv_PHoAQM'
+    }
   },
   {
     name: 'Purwokerto',
@@ -403,10 +403,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHT1CNjFcZS4RoORS43Z6AgQ',
-    },
+      place_id: 'ChIJHT1CNjFcZS4RoORS43Z6AgQ'
+    }
   },
   {
     name: 'Madiun',
@@ -416,10 +416,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMzqBfFO-eS4RrlNaVHPx4q8',
-    },
+      place_id: 'ChIJMzqBfFO-eS4RrlNaVHPx4q8'
+    }
   },
   {
     name: 'Kediri',
@@ -429,10 +429,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRwZu_Q1XeC4Rstkzg5Z7AyU',
-    },
+      place_id: 'ChIJRwZu_Q1XeC4Rstkzg5Z7AyU'
+    }
   },
   {
     name: 'Tegal',
@@ -442,10 +442,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJw2Qyv9-5by4R4LtS43Z6AgM',
-    },
+      place_id: 'ChIJw2Qyv9-5by4R4LtS43Z6AgM'
+    }
   },
   {
     name: 'Karawang',
@@ -455,10 +455,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAQ7neV53aS4R4Ln-FG1XAQM',
-    },
+      place_id: 'ChIJAQ7neV53aS4R4Ln-FG1XAQM'
+    }
   },
   {
     name: 'Jember',
@@ -468,10 +468,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd4feq6eQ1i0RLt2jgwxztt4',
-    },
+      place_id: 'ChIJd4feq6eQ1i0RLt2jgwxztt4'
+    }
   },
   {
     name: 'Pasuruan',
@@ -481,10 +481,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ31f7peHF1y0RloB23o2VjL4',
-    },
+      place_id: 'ChIJ31f7peHF1y0RloB23o2VjL4'
+    }
   },
   {
     name: 'Mojokerto',
@@ -495,10 +495,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgw3lgDwOeC4RQL1S43Z6AgM',
-    },
+      place_id: 'ChIJgw3lgDwOeC4RQL1S43Z6AgM'
+    }
   },
   {
     name: 'Banda Aceh',
@@ -508,10 +508,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ37w95no3QDARkMsgsoCdAwM',
-    },
+      place_id: 'ChIJ37w95no3QDARkMsgsoCdAwM'
+    }
   },
   {
     name: 'Pekalongan',
@@ -521,10 +521,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE_6QpCwkcC4RtowlaxKKxsA',
-    },
+      place_id: 'ChIJE_6QpCwkcC4RtowlaxKKxsA'
+    }
   },
   {
     name: 'Bukittinggi',
@@ -535,10 +535,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4UvfYKQ41S8RBrIaiT3RQMk',
-    },
+      place_id: 'ChIJ4UvfYKQ41S8RBrIaiT3RQMk'
+    }
   },
   {
     name: 'Cilacap',
@@ -548,10 +548,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJV3ue80J7ZS4R0LxS43Z6AgM',
-    },
+      place_id: 'ChIJV3ue80J7ZS4R0LxS43Z6AgM'
+    }
   },
   {
     name: 'Sumedang',
@@ -561,10 +561,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKWD9d0DUaC4RILko_PHoAQM',
-    },
+      place_id: 'ChIJKWD9d0DUaC4RILko_PHoAQM'
+    }
   },
   {
     name: 'Garut',
@@ -574,10 +574,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxd0lDumxaC4RQ3w0PYhVbjI',
-    },
+      place_id: 'ChIJxd0lDumxaC4RQ3w0PYhVbjI'
+    }
   },
   {
     name: 'Belitung',
@@ -587,10 +587,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJXs8ywQpFy4RxjeW62aFMJs',
-    },
+      place_id: 'ChIJJXs8ywQpFy4RxjeW62aFMJs'
+    }
   },
   {
     name: 'Madura',
@@ -600,10 +600,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0QSHXETT2S0RhM78Hb5RJ1o',
-    },
+      place_id: 'ChIJ0QSHXETT2S0RhM78Hb5RJ1o'
+    }
   },
   {
     name: 'Probolinggo',
@@ -613,10 +613,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeebJwJmt1y0RgWHFp_rQxUY',
-    },
+      place_id: 'ChIJeebJwJmt1y0RgWHFp_rQxUY'
+    }
   },
   {
     name: 'Purwakarta',
@@ -627,10 +627,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ2ZMRWAOaS4Rb1Xk1qbt534',
-    },
+      place_id: 'ChIJZ2ZMRWAOaS4Rb1Xk1qbt534'
+    }
   },
   {
     name: 'Banyuwangi',
@@ -641,10 +641,10 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq0L4mOta0S0RkApT43Z6AgQ',
-    },
+      place_id: 'ChIJq0L4mOta0S0RkApT43Z6AgQ'
+    }
   },
   {
     name: 'Palu',
@@ -654,9 +654,9 @@ module.exports = [
       country: {
         long_name: 'Indonesia',
         short_name: 'ID',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJM8Svrubpiy0RXgXGfBxaLLk',
-    },
-  },
+      place_id: 'ChIJM8Svrubpiy0RXgXGfBxaLLk'
+    }
+  }
 ]

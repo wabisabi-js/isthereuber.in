@@ -7,10 +7,10 @@ module.exports = [
       country: {
         long_name: 'Argentina',
         short_name: 'AR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvQz5TjvKvJURh47oiC6Bs6A',
-    },
+      place_id: 'ChIJvQz5TjvKvJURh47oiC6Bs6A'
+    }
   },
   {
     name: 'Mendoza',
@@ -21,10 +21,10 @@ module.exports = [
       country: {
         long_name: 'Argentina',
         short_name: 'AR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJv3lRxD4JfpYROvoO0vZ4WiA',
-    },
+      place_id: 'ChIJv3lRxD4JfpYROvoO0vZ4WiA'
+    }
   },
   {
     name: 'Rosario',
@@ -34,10 +34,10 @@ module.exports = [
       country: {
         long_name: 'Argentina',
         short_name: 'AR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW9fXNZNTtpURV6VYAumGQOw',
-    },
+      place_id: 'ChIJW9fXNZNTtpURV6VYAumGQOw'
+    }
   },
   {
     name: 'Belo Horizonte',
@@ -47,10 +47,10 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMyzPysqQpgARlznSOl55NVs',
-    },
+      place_id: 'ChIJMyzPysqQpgARlznSOl55NVs'
+    }
   },
   {
     name: 'Brasilia',
@@ -60,10 +60,10 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJo5Fb5Bg9WpMRf13YC2LT6CQ',
-    },
+      place_id: 'ChIJo5Fb5Bg9WpMRf13YC2LT6CQ'
+    }
   },
   {
     name: 'Campinas',
@@ -73,10 +73,10 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSSZVovbIyJQRNjUEWBwAdXQ',
-    },
+      place_id: 'ChIJSSZVovbIyJQRNjUEWBwAdXQ'
+    }
   },
   {
     name: 'Curitiba',
@@ -86,10 +86,10 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8Q8J_PXj3JQRR7crCbCDejw',
-    },
+      place_id: 'ChIJ8Q8J_PXj3JQRR7crCbCDejw'
+    }
   },
   {
     name: 'Porto Alegre',
@@ -99,10 +99,10 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHctqVtKcGZURH-mHn6gRMWA',
-    },
+      place_id: 'ChIJHctqVtKcGZURH-mHn6gRMWA'
+    }
   },
   {
     name: 'Rio de Janeiro',
@@ -112,10 +112,10 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW6AIkVXemwARTtIvZ2xC3FA',
-    },
+      place_id: 'ChIJW6AIkVXemwARTtIvZ2xC3FA'
+    }
   },
   {
     name: 'Santos',
@@ -125,10 +125,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ87Pfi_YQyYcRmmfSRaw13Kg',
-    },
+      place_id: 'ChIJ87Pfi_YQyYcRmmfSRaw13Kg'
+    }
   },
   {
     name: 'São Paulo',
@@ -138,10 +138,10 @@ module.exports = [
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0WGkg4FEzpQRrlsz_whLqZs',
-    },
+      place_id: 'ChIJ0WGkg4FEzpQRrlsz_whLqZs'
+    }
   },
   {
     name: 'Concepción',
@@ -151,10 +151,10 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO8a70s21aZYRmCYhUrc3y0Q',
-    },
+      place_id: 'ChIJO8a70s21aZYRmCYhUrc3y0Q'
+    }
   },
   {
     name: 'Santiago',
@@ -164,10 +164,10 @@ module.exports = [
       country: {
         long_name: 'Chile',
         short_name: 'CL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL68lBEHFYpYRMQkPQDzVdYQ',
-    },
+      place_id: 'ChIJL68lBEHFYpYRMQkPQDzVdYQ'
+    }
   },
   {
     name: 'Valparaíso',
@@ -177,10 +177,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC0BDeA6aEYgRTELnjqNFwoA',
-    },
+      place_id: 'ChIJC0BDeA6aEYgRTELnjqNFwoA'
+    }
   },
   {
     name: 'Barranquilla',
@@ -190,10 +190,10 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBeYq0UQt9I4Rshe5gUWEMyY',
-    },
+      place_id: 'ChIJBeYq0UQt9I4Rshe5gUWEMyY'
+    }
   },
   {
     name: 'Bogotá',
@@ -203,10 +203,10 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKcumLf2bP44RFDmjIFVjnSM',
-    },
+      place_id: 'ChIJKcumLf2bP44RFDmjIFVjnSM'
+    }
   },
   {
     name: 'Cali',
@@ -216,10 +216,10 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8bNLzPCmMI4RaGGuUum1Dx8',
-    },
+      place_id: 'ChIJ8bNLzPCmMI4RaGGuUum1Dx8'
+    }
   },
   {
     name: 'Medellín',
@@ -229,10 +229,10 @@ module.exports = [
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ291STu8oRI4RcqxwksPWL3I',
-    },
+      place_id: 'ChIJ291STu8oRI4RcqxwksPWL3I'
+    }
   },
   {
     name: 'Santo Domingo',
@@ -242,10 +242,10 @@ module.exports = [
       country: {
         long_name: 'Dominican Republic',
         short_name: 'DO',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq6V-EPGJr44RZMEVJ7iHxdY',
-    },
+      place_id: 'ChIJq6V-EPGJr44RZMEVJ7iHxdY'
+    }
   },
   {
     name: 'Guayaquil',
@@ -255,10 +255,10 @@ module.exports = [
       country: {
         long_name: 'Ecuador',
         short_name: 'EC',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJX4BV6MsTLZARc6T89JKkFYA',
-    },
+      place_id: 'ChIJX4BV6MsTLZARc6T89JKkFYA'
+    }
   },
   {
     name: 'Quito',
@@ -268,10 +268,10 @@ module.exports = [
       country: {
         long_name: 'Ecuador',
         short_name: 'EC',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn3xCAkCa1ZERclXvWOGRuUQ',
-    },
+      place_id: 'ChIJn3xCAkCa1ZERclXvWOGRuUQ'
+    }
   },
   {
     name: 'Guadalajara',
@@ -281,10 +281,10 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm9MvtYyxKIQRUFeGvwKTPdY',
-    },
+      place_id: 'ChIJm9MvtYyxKIQRUFeGvwKTPdY'
+    }
   },
   {
     name: 'Mérida',
@@ -294,10 +294,10 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFw1Fq1xxVo8RCeurFVcV_F0',
-    },
+      place_id: 'ChIJFw1Fq1xxVo8RCeurFVcV_F0'
+    }
   },
   {
     name: 'Mexico City',
@@ -307,10 +307,10 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB3UJ2yYAzoURQeheJnYQBlQ',
-    },
+      place_id: 'ChIJB3UJ2yYAzoURQeheJnYQBlQ'
+    }
   },
   {
     name: 'Monterrey',
@@ -320,10 +320,10 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9fg3tDGVYoYRlJjIasrT06M',
-    },
+      place_id: 'ChIJ9fg3tDGVYoYRlJjIasrT06M'
+    }
   },
   {
     name: 'Puebla',
@@ -333,10 +333,10 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO3q8Xr3Az4URla2U5B1Gpkg',
-    },
+      place_id: 'ChIJO3q8Xr3Az4URla2U5B1Gpkg'
+    }
   },
   {
     name: 'Querétaro',
@@ -346,10 +346,10 @@ module.exports = [
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVZJb3I9b04URL4MbVqqUsJc',
-    },
+      place_id: 'ChIJVZJb3I9b04URL4MbVqqUsJc'
+    }
   },
   {
     name: 'Panama City',
@@ -359,10 +359,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQWPGKlaBk4gR8wFHLNVeWL8',
-    },
+      place_id: 'ChIJQWPGKlaBk4gR8wFHLNVeWL8'
+    }
   },
   {
     name: 'Lima',
@@ -372,10 +372,10 @@ module.exports = [
       country: {
         long_name: 'Peru',
         short_name: 'PE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxz7uGfbFBZERSi5FzLlsIBQ',
-    },
+      place_id: 'ChIJxz7uGfbFBZERSi5FzLlsIBQ'
+    }
   },
   {
     name: 'Algarve',
@@ -385,10 +385,10 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ78_RVe5UBQ0RRQ6REi5l4oA',
-    },
+      place_id: 'ChIJ78_RVe5UBQ0RRQ6REi5l4oA'
+    }
   },
   {
     name: 'Lisbon',
@@ -398,10 +398,10 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO_PkYRozGQ0R0DaQ5L3rAAQ',
-    },
+      place_id: 'ChIJO_PkYRozGQ0R0DaQ5L3rAAQ'
+    }
   },
   {
     name: 'Madeira',
@@ -411,10 +411,10 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7y75-KDpXwwRb166dGfldww',
-    },
+      place_id: 'ChIJ7y75-KDpXwwRb166dGfldww'
+    }
   },
   {
     name: 'Oporto',
@@ -424,10 +424,10 @@ module.exports = [
       country: {
         long_name: 'Portugal',
         short_name: 'PT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwVPhxKtlJA0RvBSxQFbZSKY',
-    },
+      place_id: 'ChIJwVPhxKtlJA0RvBSxQFbZSKY'
+    }
   },
   {
     name: 'Alicante',
@@ -437,10 +437,10 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS6udO9o1Yg0R44ELrHKofR0',
-    },
+      place_id: 'ChIJS6udO9o1Yg0R44ELrHKofR0'
+    }
   },
   {
     name: 'Barcelona',
@@ -450,10 +450,10 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ',
-    },
+      place_id: 'ChIJ5TCOcRaYpBIRCmZHTz37sEQ'
+    }
   },
   {
     name: 'Madrid',
@@ -463,10 +463,10 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgTwKgJcpQg0RaSKMYcHeNsQ',
-    },
+      place_id: 'ChIJgTwKgJcpQg0RaSKMYcHeNsQ'
+    }
   },
   {
     name: 'Málaga',
@@ -476,10 +476,10 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUdEwjWn2cg0RgOZ2pXjSAwQ',
-    },
+      place_id: 'ChIJUdEwjWn2cg0RgOZ2pXjSAwQ'
+    }
   },
   {
     name: 'Sevilla',
@@ -489,10 +489,10 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkWK-FBFsEg0RSFb-HGIY8DQ',
-    },
+      place_id: 'ChIJkWK-FBFsEg0RSFb-HGIY8DQ'
+    }
   },
   {
     name: 'Valencia',
@@ -502,9 +502,9 @@ module.exports = [
       country: {
         long_name: 'Spain',
         short_name: 'ES',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb7Dv8ExPYA0ROR1_HwFRo7Q',
-    },
-  },
+      place_id: 'ChIJb7Dv8ExPYA0ROR1_HwFRo7Q'
+    }
+  }
 ]

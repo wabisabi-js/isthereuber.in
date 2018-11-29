@@ -162,6 +162,26 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "miukimiu",
+      "name": "Elizabet Oliveira",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2750668?v=4",
+      "profile": "http://www.miukimiu.com",
+      "contributions": [
+        "code",
+        "design",
+        "ideas"
+      ]
+    },
+    {
+      "login": "juanjo7g",
+      "name": "JuanJo Martínez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10873367?v=4",
+      "profile": "https://github.com/juanjo7g",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }

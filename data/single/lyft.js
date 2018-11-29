@@ -7,10 +7,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJg_ibsy_xjIgRWJPTNZKRJcs',
-    },
+      place_id: 'ChIJg_ibsy_xjIgRWJPTNZKRJcs'
+    }
   },
   {
     name: 'Birmingham',
@@ -20,10 +20,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU',
-    },
+      place_id: 'ChIJ07-FWN8RiYgRzlS66gl0UCU'
+    }
   },
   {
     name: 'Huntsville',
@@ -33,10 +33,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjYmizWdrYogRa1YEyIl-LJo',
-    },
+      place_id: 'ChIJjYmizWdrYogRa1YEyIl-LJo'
+    }
   },
   {
     name: 'Mobile',
@@ -46,10 +46,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJh40H8XCEt4cRHH1ngEsbdRI',
-    },
+      place_id: 'ChIJh40H8XCEt4cRHH1ngEsbdRI'
+    }
   },
   {
     name: 'Montgomery',
@@ -60,10 +60,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN94jg4MquIcRMiF8KqA3p5o',
-    },
+      place_id: 'ChIJN94jg4MquIcRMiF8KqA3p5o'
+    }
   },
   {
     name: 'Tuscaloosa',
@@ -73,10 +73,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ0DCkS6viIgRWCuJFv37q6w',
-    },
+      place_id: 'ChIJZ0DCkS6viIgRWCuJFv37q6w'
+    }
   },
   {
     name: 'Anchorage',
@@ -86,10 +86,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQT-zBHaRyFYR42iEp1q6fSU',
-    },
+      place_id: 'ChIJQT-zBHaRyFYR42iEp1q6fSU'
+    }
   },
   {
     name: 'Fairbanks',
@@ -99,10 +99,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqWX9Z09FMlEROvf-CeAF2LM',
-    },
+      place_id: 'ChIJqWX9Z09FMlEROvf-CeAF2LM'
+    }
   },
   {
     name: 'Homer',
@@ -112,10 +112,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK2CSVv2j0ocRxvyqilL6XsE',
-    },
+      place_id: 'ChIJK2CSVv2j0ocRxvyqilL6XsE'
+    }
   },
   {
     name: 'Juneau',
@@ -125,10 +125,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjzpqb2zeAFQREfNprlryXgY',
-    },
+      place_id: 'ChIJjzpqb2zeAFQREfNprlryXgY'
+    }
   },
   {
     name: 'Kodiak',
@@ -138,10 +138,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj4GuoG_E6lYRc-TW-0wnKW0',
-    },
+      place_id: 'ChIJj4GuoG_E6lYRc-TW-0wnKW0'
+    }
   },
   {
     name: 'Sitka',
@@ -151,10 +151,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuWN1b4NmBFQRdBzIn0jaQSU',
-    },
+      place_id: 'ChIJuWN1b4NmBFQRdBzIn0jaQSU'
+    }
   },
   {
     name: 'Anthem',
@@ -164,10 +164,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJecmGmu623IcRAiCOsbyX55A',
-    },
+      place_id: 'ChIJecmGmu623IcRAiCOsbyX55A'
+    }
   },
   {
     name: 'Apache Junction',
@@ -177,10 +177,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwWnfaPG2K4cRsDTqDFDAAgc',
-    },
+      place_id: 'ChIJwWnfaPG2K4cRsDTqDFDAAgc'
+    }
   },
   {
     name: 'Casa Grande',
@@ -190,10 +190,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaS1Kd39WKocRp2Hxaf4uw2A',
-    },
+      place_id: 'ChIJaS1Kd39WKocRp2Hxaf4uw2A'
+    }
   },
   {
     name: 'Cave Creek',
@@ -203,10 +203,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzUDAnwN8K4cRMuiB6maz9wc',
-    },
+      place_id: 'ChIJzUDAnwN8K4cRMuiB6maz9wc'
+    }
   },
   {
     name: 'Chandler',
@@ -216,10 +216,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk7YiXFlVKocR8P2ME3PjbDg',
-    },
+      place_id: 'ChIJk7YiXFlVKocR8P2ME3PjbDg'
+    }
   },
   {
     name: 'Flagstaff',
@@ -229,10 +229,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMSYu2veOLYcRALPbzqE8H44',
-    },
+      place_id: 'ChIJMSYu2veOLYcRALPbzqE8H44'
+    }
   },
   {
     name: 'Florence',
@@ -242,10 +242,10 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrdbSgKZWKhMRAyrH7xd51ZM',
-    },
+      place_id: 'ChIJrdbSgKZWKhMRAyrH7xd51ZM'
+    }
   },
   {
     name: 'Fountain Hills',
@@ -255,10 +255,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0XylYZCYK4cRNzFxeDTvrL4',
-    },
+      place_id: 'ChIJ0XylYZCYK4cRNzFxeDTvrL4'
+    }
   },
   {
     name: 'Glendale',
@@ -268,10 +268,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqYPwyDLAwoARpibJ_p6hP-U',
-    },
+      place_id: 'ChIJqYPwyDLAwoARpibJ_p6hP-U'
+    }
   },
   {
     name: 'Goodyear',
@@ -281,10 +281,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF5x6YHV7yIcRj9WRWue8q24',
-    },
+      place_id: 'ChIJF5x6YHV7yIcRj9WRWue8q24'
+    }
   },
   {
     name: 'Kingman',
@@ -294,10 +294,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJNWCTABPczYARYKUE_7zPrKY',
-    },
+      place_id: 'ChIJNWCTABPczYARYKUE_7zPrKY'
+    }
   },
   {
     name: 'Lake Havasu City',
@@ -307,10 +307,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI-CJ7hby0YAR4tMqt8-D3pg',
-    },
+      place_id: 'ChIJI-CJ7hby0YAR4tMqt8-D3pg'
+    }
   },
   {
     name: 'Laveen',
@@ -320,10 +320,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq0vATGwXK4cRloTjNCYMwuc',
-    },
+      place_id: 'ChIJq0vATGwXK4cRloTjNCYMwuc'
+    }
   },
   {
     name: 'Maricopa',
@@ -333,10 +333,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_6JyBQxdK4cRgEgsf9Ec7Eo',
-    },
+      place_id: 'ChIJ_6JyBQxdK4cRgEgsf9Ec7Eo'
+    }
   },
   {
     name: 'Mesa',
@@ -346,10 +346,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwZLFwMKnK4cRG3dOaRXCD9E',
-    },
+      place_id: 'ChIJwZLFwMKnK4cRG3dOaRXCD9E'
+    }
   },
   {
     name: 'Oro Valley',
@@ -359,10 +359,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfTIBJToM1oYRRH-sDpZPWJQ',
-    },
+      place_id: 'ChIJfTIBJToM1oYRRH-sDpZPWJQ'
+    }
   },
   {
     name: 'Peoria',
@@ -372,10 +372,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrXlYU1xZCogR24B9azL0-8o',
-    },
+      place_id: 'ChIJrXlYU1xZCogR24B9azL0-8o'
+    }
   },
   {
     name: 'Phoenix',
@@ -385,10 +385,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy3mhUO0SK4cRrBtKNfjHaYw',
-    },
+      place_id: 'ChIJy3mhUO0SK4cRrBtKNfjHaYw'
+    }
   },
   {
     name: 'Prescott',
@@ -398,10 +398,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ63xxANQoLYcR3f7uUuc9pAk',
-    },
+      place_id: 'ChIJ63xxANQoLYcR3f7uUuc9pAk'
+    }
   },
   {
     name: 'Safford',
@@ -411,10 +411,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjwW_ifz214YRi24NggKWces',
-    },
+      place_id: 'ChIJjwW_ifz214YRi24NggKWces'
+    }
   },
   {
     name: 'San Tan Valley',
@@ -424,10 +424,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrRW94MpOKocR6na_cULb31g',
-    },
+      place_id: 'ChIJrRW94MpOKocR6na_cULb31g'
+    }
   },
   {
     name: 'Scottsdale',
@@ -437,10 +437,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlyx3p9kIK4cRGOaPGBLk0iY',
-    },
+      place_id: 'ChIJlyx3p9kIK4cRGOaPGBLk0iY'
+    }
   },
   {
     name: 'Show Low',
@@ -450,10 +450,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9yE1zQUpL4cRCNVV7vfYD8Y',
-    },
+      place_id: 'ChIJ9yE1zQUpL4cRCNVV7vfYD8Y'
+    }
   },
   {
     name: 'Sun City',
@@ -463,10 +463,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrQ1LvlVCK4cRkYp6QnD6LSw',
-    },
+      place_id: 'ChIJrQ1LvlVCK4cRkYp6QnD6LSw'
+    }
   },
   {
     name: 'Surprise',
@@ -476,10 +476,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJo3JPnERQK4cRsi3lTCAI0QM',
-    },
+      place_id: 'ChIJo3JPnERQK4cRsi3lTCAI0QM'
+    }
   },
   {
     name: 'Tempe',
@@ -489,10 +489,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ44CqppgIK4cRH7QsOa1K3aI',
-    },
+      place_id: 'ChIJ44CqppgIK4cRH7QsOa1K3aI'
+    }
   },
   {
     name: 'Tuba City',
@@ -502,10 +502,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ62_7hWMzMocRyuNfcfDW0Wk',
-    },
+      place_id: 'ChIJ62_7hWMzMocRyuNfcfDW0Wk'
+    }
   },
   {
     name: 'Tucson',
@@ -515,10 +515,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK-0sC0Fl1oYRFccWTTgtw3M',
-    },
+      place_id: 'ChIJK-0sC0Fl1oYRFccWTTgtw3M'
+    }
   },
   {
     name: 'Wickenburg',
@@ -528,10 +528,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvQJMNZNO04AROs7mPjOiTpY',
-    },
+      place_id: 'ChIJvQJMNZNO04AROs7mPjOiTpY'
+    }
   },
   {
     name: 'Yuma',
@@ -541,10 +541,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2a1NIYdi1oARWEKe9Qc6qc8',
-    },
+      place_id: 'ChIJ2a1NIYdi1oARWEKe9Qc6qc8'
+    }
   },
   {
     name: 'Bentonville',
@@ -554,10 +554,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSUnWTgAQyYcRAr8lJMiMgNo',
-    },
+      place_id: 'ChIJSUnWTgAQyYcRAr8lJMiMgNo'
+    }
   },
   {
     name: 'Conway',
@@ -567,10 +567,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmSL6xEJizYcRDaBloxhcbcE',
-    },
+      place_id: 'ChIJmSL6xEJizYcRDaBloxhcbcE'
+    }
   },
   {
     name: 'Fayetteville',
@@ -580,10 +580,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI0qSQk8Tq4kRmzt2EnWeq6M',
-    },
+      place_id: 'ChIJI0qSQk8Tq4kRmzt2EnWeq6M'
+    }
   },
   {
     name: 'Fort Smith',
@@ -593,10 +593,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj3azjrpMyocRivorFdK3te8',
-    },
+      place_id: 'ChIJj3azjrpMyocRivorFdK3te8'
+    }
   },
   {
     name: 'Jonesboro',
@@ -606,10 +606,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL-zX3N8o1IcR5u4R_rT1NGA',
-    },
+      place_id: 'ChIJL-zX3N8o1IcR5u4R_rT1NGA'
+    }
   },
   {
     name: 'Little Rock',
@@ -619,10 +619,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm1YfoTSh0ocRF1vzDRD1BTQ',
-    },
+      place_id: 'ChIJm1YfoTSh0ocRF1vzDRD1BTQ'
+    }
   },
   {
     name: 'Pine Bluff',
@@ -632,10 +632,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0xrUHng8LYYRmCrH6oOT3GE',
-    },
+      place_id: 'ChIJ0xrUHng8LYYRmCrH6oOT3GE'
+    }
   },
   {
     name: 'Rogers',
@@ -645,10 +645,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRx5VKZsOty5Q',
-    },
+      place_id: 'ChIJpS60CuyBt4cRx5VKZsOty5Q'
+    }
   },
   {
     name: 'Alameda',
@@ -658,10 +658,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlRXP8tiAj4ARFG8BYM-Z_2Y',
-    },
+      place_id: 'ChIJlRXP8tiAj4ARFG8BYM-Z_2Y'
+    }
   },
   {
     name: 'Anaheim',
@@ -671,10 +671,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ-hVgPnW3IARYLErmquJqwE',
-    },
+      place_id: 'ChIJZ-hVgPnW3IARYLErmquJqwE'
+    }
   },
   {
     name: 'Antioch',
@@ -684,10 +684,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1aCvlWNXhYARWXWULDxGagU',
-    },
+      place_id: 'ChIJ1aCvlWNXhYARWXWULDxGagU'
+    }
   },
   {
     name: 'Bakersfield',
@@ -697,10 +697,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDcuUuchr6oARyHT-mAkMNlk',
-    },
+      place_id: 'ChIJDcuUuchr6oARyHT-mAkMNlk'
+    }
   },
   {
     name: 'Berkeley',
@@ -710,10 +710,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ00mFOjZ5hYARk-l1ppUV6pQ',
-    },
+      place_id: 'ChIJ00mFOjZ5hYARk-l1ppUV6pQ'
+    }
   },
   {
     name: 'Bishop',
@@ -723,10 +723,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRuM4jVdg0o2k',
-    },
+      place_id: 'ChIJpS60CuyBt4cRuM4jVdg0o2k'
+    }
   },
   {
     name: 'Burbank',
@@ -736,10 +736,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlcUYKBWVwoAR1IofkK-RdzA',
-    },
+      place_id: 'ChIJlcUYKBWVwoAR1IofkK-RdzA'
+    }
   },
   {
     name: 'Carlsbad',
@@ -749,10 +749,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWe47P0Vz3IARL132_JJVy6Q',
-    },
+      place_id: 'ChIJWe47P0Vz3IARL132_JJVy6Q'
+    }
   },
   {
     name: 'Chico',
@@ -762,10 +762,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJh2Qj_I0fg4AROEU6eY_rjjA',
-    },
+      place_id: 'ChIJh2Qj_I0fg4AROEU6eY_rjjA'
+    }
   },
   {
     name: 'Concord',
@@ -775,10 +775,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhczEaaxghYAR7_8flgRgQQ4',
-    },
+      place_id: 'ChIJhczEaaxghYAR7_8flgRgQQ4'
+    }
   },
   {
     name: 'Corona',
@@ -788,10 +788,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbWBd6rmw3IAR8VKS0g_RmIk',
-    },
+      place_id: 'ChIJbWBd6rmw3IAR8VKS0g_RmIk'
+    }
   },
   {
     name: 'Cupertino',
@@ -801,10 +801,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq3fTG1e0j4ARtHjho-E_TTk',
-    },
+      place_id: 'ChIJq3fTG1e0j4ARtHjho-E_TTk'
+    }
   },
   {
     name: 'Daly City',
@@ -814,10 +814,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyWPehPt7j4ARV_oTDtvgtCw',
-    },
+      place_id: 'ChIJyWPehPt7j4ARV_oTDtvgtCw'
+    }
   },
   {
     name: 'Davis',
@@ -827,10 +827,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP1SVlJkphYAR_4_ibhs_AcM',
-    },
+      place_id: 'ChIJP1SVlJkphYAR_4_ibhs_AcM'
+    }
   },
   {
     name: 'Dublin',
@@ -840,10 +840,10 @@ module.exports = [
       country: {
         long_name: 'Ireland',
         short_name: 'IE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL6wn6oAOZ0gRoHExl6nHAAo',
-    },
+      place_id: 'ChIJL6wn6oAOZ0gRoHExl6nHAAo'
+    }
   },
   {
     name: 'El Centro',
@@ -853,10 +853,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJg5V_sBeZToYRhqUak_RlXOY',
-    },
+      place_id: 'ChIJg5V_sBeZToYRhqUak_RlXOY'
+    }
   },
   {
     name: 'Elk Grove',
@@ -866,10 +866,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOfii4Mu4moAR6Agc02DrDMo',
-    },
+      place_id: 'ChIJOfii4Mu4moAR6Agc02DrDMo'
+    }
   },
   {
     name: 'Eureka',
@@ -879,10 +879,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBahkfI54uYcRkxjHomXDfYU',
-    },
+      place_id: 'ChIJBahkfI54uYcRkxjHomXDfYU'
+    }
   },
   {
     name: 'Fairfield',
@@ -892,10 +892,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLepsjVcF6IkR1adm-IS1QhQ',
-    },
+      place_id: 'ChIJLepsjVcF6IkR1adm-IS1QhQ'
+    }
   },
   {
     name: 'Fresno',
@@ -905,10 +905,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnU6eVOFdlIAREbijSWRAEns',
-    },
+      place_id: 'ChIJnU6eVOFdlIAREbijSWRAEns'
+    }
   },
   {
     name: 'Gilroy',
@@ -918,10 +918,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy85TFbnjkYAROygnpRsM_a4',
-    },
+      place_id: 'ChIJy85TFbnjkYAROygnpRsM_a4'
+    }
   },
   {
     name: 'Hayward',
@@ -931,10 +931,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfVkBtjGUj4ARwDlpwt50BAc',
-    },
+      place_id: 'ChIJfVkBtjGUj4ARwDlpwt50BAc'
+    }
   },
   {
     name: 'Healdsburg',
@@ -944,10 +944,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs-FOdNIQhIARuVw3tunU7X8',
-    },
+      place_id: 'ChIJs-FOdNIQhIARuVw3tunU7X8'
+    }
   },
   {
     name: 'Huntington Beach',
@@ -957,10 +957,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtSrI-SIk3YARATtmpMmF7UU',
-    },
+      place_id: 'ChIJtSrI-SIk3YARATtmpMmF7UU'
+    }
   },
   {
     name: 'Inglewood',
@@ -970,10 +970,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjd1LJ1a2woARcDGu3A-zJwc',
-    },
+      place_id: 'ChIJjd1LJ1a2woARcDGu3A-zJwc'
+    }
   },
   {
     name: 'Irvine',
@@ -983,10 +983,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ40CRaA7d3IAROZpKYHW1eqc',
-    },
+      place_id: 'ChIJ40CRaA7d3IAROZpKYHW1eqc'
+    }
   },
   {
     name: 'La Jolla',
@@ -996,10 +996,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzQ7MT3bQ24ARlDAdXPQe5fw',
-    },
+      place_id: 'ChIJzQ7MT3bQ24ARlDAdXPQe5fw'
+    }
   },
   {
     name: 'Laguna',
@@ -1009,10 +1009,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwSRbj8jg3IAR9tp5qDW05w0',
-    },
+      place_id: 'ChIJwSRbj8jg3IAR9tp5qDW05w0'
+    }
   },
   {
     name: 'Lancaster',
@@ -1022,10 +1022,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuRRykYskxokR1tLbMNCQZ7Q',
-    },
+      place_id: 'ChIJuRRykYskxokR1tLbMNCQZ7Q'
+    }
   },
   {
     name: 'Livermore',
@@ -1035,10 +1035,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcSBaOIblj4ARcdhryzEi05g',
-    },
+      place_id: 'ChIJcSBaOIblj4ARcdhryzEi05g'
+    }
   },
   {
     name: 'Lodi',
@@ -1048,10 +1048,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJNTjFJtmhmoARRuhsu5jkrY4',
-    },
+      place_id: 'ChIJNTjFJtmhmoARRuhsu5jkrY4'
+    }
   },
   {
     name: 'Lompoc',
@@ -1061,10 +1061,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbUhR_Jce7IARBbAnup-6lOk',
-    },
+      place_id: 'ChIJbUhR_Jce7IARBbAnup-6lOk'
+    }
   },
   {
     name: 'Long Beach',
@@ -1074,10 +1074,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWdeZQOjKwoARqo8qxPo6AKE',
-    },
+      place_id: 'ChIJWdeZQOjKwoARqo8qxPo6AKE'
+    }
   },
   {
     name: 'Los Angeles',
@@ -1087,10 +1087,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE9on3F3HwoAR9AhGJW_fL-I',
-    },
+      place_id: 'ChIJE9on3F3HwoAR9AhGJW_fL-I'
+    }
   },
   {
     name: 'Los Banos',
@@ -1100,10 +1100,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa-jV7OR-kYAR4jLdmWXZOHQ',
-    },
+      place_id: 'ChIJa-jV7OR-kYAR4jLdmWXZOHQ'
+    }
   },
   {
     name: 'Mammoth Lakes',
@@ -1113,10 +1113,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnxezeV8MloARbY3uD9fZFPE',
-    },
+      place_id: 'ChIJnxezeV8MloARbY3uD9fZFPE'
+    }
   },
   {
     name: 'Manteca',
@@ -1126,10 +1126,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCUWMJENAkIARjMxOe6Wp4p0',
-    },
+      place_id: 'ChIJCUWMJENAkIARjMxOe6Wp4p0'
+    }
   },
   {
     name: 'Merced',
@@ -1139,10 +1139,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmbYb_YQ_kYARGIKGvCCqL-0',
-    },
+      place_id: 'ChIJmbYb_YQ_kYARGIKGvCCqL-0'
+    }
   },
   {
     name: 'Mill Valley',
@@ -1152,10 +1152,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkzxaPHOQhYARhtX5z92kf9I',
-    },
+      place_id: 'ChIJkzxaPHOQhYARhtX5z92kf9I'
+    }
   },
   {
     name: 'Milpitas',
@@ -1165,10 +1165,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXyrmOufRj4ARJ6U6rcDhY3g',
-    },
+      place_id: 'ChIJXyrmOufRj4ARJ6U6rcDhY3g'
+    }
   },
   {
     name: 'Mission Viejo',
@@ -1178,10 +1178,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm329k6_C3IARNEgxTpKFYic',
-    },
+      place_id: 'ChIJm329k6_C3IARNEgxTpKFYic'
+    }
   },
   {
     name: 'Modesto',
@@ -1191,10 +1191,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUV989PZTkIARK2M3xDK6lL8',
-    },
+      place_id: 'ChIJUV989PZTkIARK2M3xDK6lL8'
+    }
   },
   {
     name: 'Monterey',
@@ -1204,10 +1204,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkfu1cFLkjYARXj1K2AlJSO4',
-    },
+      place_id: 'ChIJkfu1cFLkjYARXj1K2AlJSO4'
+    }
   },
   {
     name: 'Moreno Valley',
@@ -1217,10 +1217,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJm-IZ2wmh3IARLD-boBWy-sM',
-    },
+      place_id: 'ChIJm-IZ2wmh3IARLD-boBWy-sM'
+    }
   },
   {
     name: 'Morgan Hill',
@@ -1230,10 +1230,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbZ7QsR8ejoAR1VyJID7pEmg',
-    },
+      place_id: 'ChIJbZ7QsR8ejoAR1VyJID7pEmg'
+    }
   },
   {
     name: 'Napa',
@@ -1243,10 +1243,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ09KollMSt4cRyxCpeXD6KFM',
-    },
+      place_id: 'ChIJ09KollMSt4cRyxCpeXD6KFM'
+    }
   },
   {
     name: 'Newport Beach',
@@ -1256,10 +1256,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3bO_xLbo3IARvVmLZFSVVPE',
-    },
+      place_id: 'ChIJ3bO_xLbo3IARvVmLZFSVVPE'
+    }
   },
   {
     name: 'Oakland',
@@ -1269,10 +1269,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA-2qKIt9hYARZ5N1NdUVtHE',
-    },
+      place_id: 'ChIJA-2qKIt9hYARZ5N1NdUVtHE'
+    }
   },
   {
     name: 'Oceanside',
@@ -1282,10 +1282,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBXdbYF5l3IARh5-POT_LngE',
-    },
+      place_id: 'ChIJBXdbYF5l3IARh5-POT_LngE'
+    }
   },
   {
     name: 'Orange',
@@ -1295,10 +1295,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDUmY6Z98yIcRAT0mxh_O5wE',
-    },
+      place_id: 'ChIJDUmY6Z98yIcRAT0mxh_O5wE'
+    }
   },
   {
     name: 'Oxnard',
@@ -1308,10 +1308,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn2clE-ZN6IARRbZe-sBJgFk',
-    },
+      place_id: 'ChIJn2clE-ZN6IARRbZe-sBJgFk'
+    }
   },
   {
     name: 'Palm Springs-Palm Desert',
@@ -1321,10 +1321,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN8Kl8i782oARdUavho9GuS4',
-    },
+      place_id: 'ChIJN8Kl8i782oARdUavho9GuS4'
+    }
   },
   {
     name: 'Palo Alto-Menlo Park',
@@ -1334,10 +1334,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_4ByEbGmj4ARq4nyXY6Zv-s',
-    },
+      place_id: 'ChIJ_4ByEbGmj4ARq4nyXY6Zv-s'
+    }
   },
   {
     name: 'Pasadena',
@@ -1347,10 +1347,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUQszONzCwoARSo_RGhZBKwU',
-    },
+      place_id: 'ChIJUQszONzCwoARSo_RGhZBKwU'
+    }
   },
   {
     name: 'Paso Robles',
@@ -1360,10 +1360,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvcTFFo_d7IAR79XMkfgilEY',
-    },
+      place_id: 'ChIJvcTFFo_d7IAR79XMkfgilEY'
+    }
   },
   {
     name: 'Pleasanton',
@@ -1373,10 +1373,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJX3W6YaLpj4ARFn3q4Udoq7M',
-    },
+      place_id: 'ChIJX3W6YaLpj4ARFn3q4Udoq7M'
+    }
   },
   {
     name: 'Poway',
@@ -1386,10 +1386,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ5bxsbTg24ARZwSLTUFKSzI',
-    },
+      place_id: 'ChIJJ5bxsbTg24ARZwSLTUFKSzI'
+    }
   },
   {
     name: 'Rancho Cucamonga',
@@ -1399,10 +1399,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkScROPlbw4ARS_Pygq16aq0',
-    },
+      place_id: 'ChIJkScROPlbw4ARS_Pygq16aq0'
+    }
   },
   {
     name: 'Redding',
@@ -1412,10 +1412,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLyBKO9aR0lQRVw82e-xYMx8',
-    },
+      place_id: 'ChIJLyBKO9aR0lQRVw82e-xYMx8'
+    }
   },
   {
     name: 'Redlands',
@@ -1425,10 +1425,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQ7GWQcZT24ARZ7rbO8rp2XU',
-    },
+      place_id: 'ChIJQ7GWQcZT24ARZ7rbO8rp2XU'
+    }
   },
   {
     name: 'Richmond',
@@ -1438,10 +1438,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7cmZVwkRsYkRxTxC4m0-2L8',
-    },
+      place_id: 'ChIJ7cmZVwkRsYkRxTxC4m0-2L8'
+    }
   },
   {
     name: 'Riverside',
@@ -1451,10 +1451,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu330f9-m3IAR6ApeEwXXofc',
-    },
+      place_id: 'ChIJu330f9-m3IAR6ApeEwXXofc'
+    }
   },
   {
     name: 'Roseville',
@@ -1464,10 +1464,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeRg8YmUfm4ARmTlJulJKryI',
-    },
+      place_id: 'ChIJeRg8YmUfm4ARmTlJulJKryI'
+    }
   },
   {
     name: 'Sacramento',
@@ -1477,10 +1477,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-ZeDsnLGmoAR238ZdKpqH5I',
-    },
+      place_id: 'ChIJ-ZeDsnLGmoAR238ZdKpqH5I'
+    }
   },
   {
     name: 'Salinas',
@@ -1490,10 +1490,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL3JhTpb4jYARIYHtuhG7EaU',
-    },
+      place_id: 'ChIJL3JhTpb4jYARIYHtuhG7EaU'
+    }
   },
   {
     name: 'San Bernardino',
@@ -1503,10 +1503,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ87j94n1Tw4ARjcKHjHjGZyg',
-    },
+      place_id: 'ChIJ87j94n1Tw4ARjcKHjHjGZyg'
+    }
   },
   {
     name: 'San Diego',
@@ -1516,10 +1516,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSx6SrQ9T2YARed8V_f0hOg0',
-    },
+      place_id: 'ChIJSx6SrQ9T2YARed8V_f0hOg0'
+    }
   },
   {
     name: 'San Francisco',
@@ -1529,10 +1529,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIQBpAG2ahYAR_6128GcTUEo',
-    },
+      place_id: 'ChIJIQBpAG2ahYAR_6128GcTUEo'
+    }
   },
   {
     name: 'San Jose',
@@ -1542,10 +1542,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9T_5iuTKj4ARe3GfygqMnbk',
-    },
+      place_id: 'ChIJ9T_5iuTKj4ARe3GfygqMnbk'
+    }
   },
   {
     name: 'San Leandro',
@@ -1555,10 +1555,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3WY6BH-Fj4ARslfX2g1JquU',
-    },
+      place_id: 'ChIJ3WY6BH-Fj4ARslfX2g1JquU'
+    }
   },
   {
     name: 'San Luis Obispo',
@@ -1568,10 +1568,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ8Jse77m7IARRg_vzsKQArw',
-    },
+      place_id: 'ChIJJ8Jse77m7IARRg_vzsKQArw'
+    }
   },
   {
     name: 'San Mateo',
@@ -1581,10 +1581,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRVWp72Cej4ARpxvMLfT8jv0',
-    },
+      place_id: 'ChIJRVWp72Cej4ARpxvMLfT8jv0'
+    }
   },
   {
     name: 'San Rafael',
@@ -1594,10 +1594,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL3oJNmeXhYARVCbi5iBNAb4',
-    },
+      place_id: 'ChIJL3oJNmeXhYARVCbi5iBNAb4'
+    }
   },
   {
     name: 'Santa Barbara',
@@ -1607,10 +1607,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1YMtb8cU6YARSHa612Q60cg',
-    },
+      place_id: 'ChIJ1YMtb8cU6YARSHa612Q60cg'
+    }
   },
   {
     name: 'Santa Clara',
@@ -1620,10 +1620,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk8EIXIG3j4ARwL_Ao3ykdeQ',
-    },
+      place_id: 'ChIJk8EIXIG3j4ARwL_Ao3ykdeQ'
+    }
   },
   {
     name: 'Santa Clarita',
@@ -1633,10 +1633,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJxjVrDOGwoARSNYFc-CPSlY',
-    },
+      place_id: 'ChIJJxjVrDOGwoARSNYFc-CPSlY'
+    }
   },
   {
     name: 'Santa Cruz',
@@ -1646,10 +1646,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSdU2fBtEjoARhfnXKksQylI',
-    },
+      place_id: 'ChIJSdU2fBtEjoARhfnXKksQylI'
+    }
   },
   {
     name: 'Santa Maria',
@@ -1659,10 +1659,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCcZUDKoP7IARjjRaimVS_Qs',
-    },
+      place_id: 'ChIJCcZUDKoP7IARjjRaimVS_Qs'
+    }
   },
   {
     name: 'Santa Monica',
@@ -1672,10 +1672,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGQCRws6kwoARq_Uj_7UKF7Q',
-    },
+      place_id: 'ChIJGQCRws6kwoARq_Uj_7UKF7Q'
+    }
   },
   {
     name: 'Santa Rosa',
@@ -1685,10 +1685,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ10fmNsk7hIARSUhPxWtlzVw',
-    },
+      place_id: 'ChIJ10fmNsk7hIARSUhPxWtlzVw'
+    }
   },
   {
     name: 'Simi Valley',
@@ -1698,10 +1698,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJATNWW2wu6IARTUPTlI5Z4PQ',
-    },
+      place_id: 'ChIJATNWW2wu6IARTUPTlI5Z4PQ'
+    }
   },
   {
     name: 'Sonoma',
@@ -1711,10 +1711,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd517gUOshYARReDmDiHtgAM',
-    },
+      place_id: 'ChIJd517gUOshYARReDmDiHtgAM'
+    }
   },
   {
     name: 'South Lake Tahoe',
@@ -1724,10 +1724,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4U-l7omFmYARjpEj-0YvG90',
-    },
+      place_id: 'ChIJ4U-l7omFmYARjpEj-0YvG90'
+    }
   },
   {
     name: 'South San Francisco',
@@ -1737,10 +1737,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7-z-QwV5j4ARXTNW53l1Ovg',
-    },
+      place_id: 'ChIJ7-z-QwV5j4ARXTNW53l1Ovg'
+    }
   },
   {
     name: 'Stockton',
@@ -1750,10 +1750,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgSFEe3MNkIAR2MtPBNH1dlg',
-    },
+      place_id: 'ChIJgSFEe3MNkIAR2MtPBNH1dlg'
+    }
   },
   {
     name: 'Sunnyvale',
@@ -1763,10 +1763,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO13QqUW2j4ARosN83Sb7jXY',
-    },
+      place_id: 'ChIJO13QqUW2j4ARosN83Sb7jXY'
+    }
   },
   {
     name: 'Thousand Oaks',
@@ -1776,10 +1776,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkYgocFYl6IARJi7MRwF6Lo0',
-    },
+      place_id: 'ChIJkYgocFYl6IARJi7MRwF6Lo0'
+    }
   },
   {
     name: 'Truckee',
@@ -1789,10 +1789,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ141OPOzfm4ARyfw0wYgvF20',
-    },
+      place_id: 'ChIJ141OPOzfm4ARyfw0wYgvF20'
+    }
   },
   {
     name: 'Vallejo',
@@ -1802,10 +1802,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCQfOMpcRhYARORbGqAI_k5U',
-    },
+      place_id: 'ChIJCQfOMpcRhYARORbGqAI_k5U'
+    }
   },
   {
     name: 'Ventura',
@@ -1815,10 +1815,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTTmXUBWt6YAR6Op6Nnz17yQ',
-    },
+      place_id: 'ChIJTTmXUBWt6YAR6Op6Nnz17yQ'
+    }
   },
   {
     name: 'Victorville',
@@ -1828,10 +1828,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJedLdY1pkw4ARdjT0JVkRlQ0',
-    },
+      place_id: 'ChIJedLdY1pkw4ARdjT0JVkRlQ0'
+    }
   },
   {
     name: 'Walnut Creek',
@@ -1841,10 +1841,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ86V7GXT0j4ARbMMDIJdJbuA',
-    },
+      place_id: 'ChIJ86V7GXT0j4ARbMMDIJdJbuA'
+    }
   },
   {
     name: 'Watsonville',
@@ -1854,10 +1854,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ45W--bgIjoARpaFiI4bORds',
-    },
+      place_id: 'ChIJ45W--bgIjoARpaFiI4bORds'
+    }
   },
   {
     name: 'Yuba City',
@@ -1867,10 +1867,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN7FwxXGrhIARAiXwBR1wP00',
-    },
+      place_id: 'ChIJN7FwxXGrhIARAiXwBR1wP00'
+    }
   },
   {
     name: 'Aspen',
@@ -1880,10 +1880,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCWBo2YWDt4cRZJmxoo-UbYw',
-    },
+      place_id: 'ChIJCWBo2YWDt4cRZJmxoo-UbYw'
+    }
   },
   {
     name: 'Aurora',
@@ -1893,10 +1893,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN1V02pQ1z4cRLKdxQi6DIOY',
-    },
+      place_id: 'ChIJN1V02pQ1z4cRLKdxQi6DIOY'
+    }
   },
   {
     name: 'Boulder',
@@ -1906,10 +1906,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ06-NJ06Na4cRWIAboHw7Ocg',
-    },
+      place_id: 'ChIJ06-NJ06Na4cRWIAboHw7Ocg'
+    }
   },
   {
     name: 'Breckenridge',
@@ -1919,10 +1919,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwecmbD32aocReqKAZn-PjWI',
-    },
+      place_id: 'ChIJwecmbD32aocReqKAZn-PjWI'
+    }
   },
   {
     name: 'Centennial',
@@ -1932,10 +1932,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRheFj5p4KoiY',
-    },
+      place_id: 'ChIJpS60CuyBt4cRheFj5p4KoiY'
+    }
   },
   {
     name: 'Colorado Springs',
@@ -1945,10 +1945,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK9LmoS5BE4cRE2vo9ZLrjkE',
-    },
+      place_id: 'ChIJK9LmoS5BE4cRE2vo9ZLrjkE'
+    }
   },
   {
     name: 'Denver',
@@ -1958,10 +1958,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJzxcfI6qAa4cR1jaKJ_j0jhE',
-    },
+      place_id: 'ChIJzxcfI6qAa4cR1jaKJ_j0jhE'
+    }
   },
   {
     name: 'Fort Collins',
@@ -1971,10 +1971,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrTDwkEVKaYcRgkCrtChCsak',
-    },
+      place_id: 'ChIJrTDwkEVKaYcRgkCrtChCsak'
+    }
   },
   {
     name: 'Fountain',
@@ -1985,10 +1985,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK2Lm02oruIcRiPWmY-9u3DY',
-    },
+      place_id: 'ChIJK2Lm02oruIcRiPWmY-9u3DY'
+    }
   },
   {
     name: 'Grand Junction',
@@ -1998,10 +1998,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJV3DnIuPWRocRVny_zlH0Y8w',
-    },
+      place_id: 'ChIJV3DnIuPWRocRVny_zlH0Y8w'
+    }
   },
   {
     name: 'Loveland',
@@ -2011,10 +2011,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF5TeCaZPaYcRjTzyQ2ybv1U',
-    },
+      place_id: 'ChIJF5TeCaZPaYcRjTzyQ2ybv1U'
+    }
   },
   {
     name: 'Steamboat Springs',
@@ -2024,10 +2024,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYUZWCYF7QocRfc9uSNGjqBs',
-    },
+      place_id: 'ChIJYUZWCYF7QocRfc9uSNGjqBs'
+    }
   },
   {
     name: 'Telluride',
@@ -2037,10 +2037,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc_TmcHvYPocR4eO6cSF37jg',
-    },
+      place_id: 'ChIJc_TmcHvYPocR4eO6cSF37jg'
+    }
   },
   {
     name: 'Vail',
@@ -2050,10 +2050,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB89dUQVwaocRxKOafh_AzMk',
-    },
+      place_id: 'ChIJB89dUQVwaocRxKOafh_AzMk'
+    }
   },
   {
     name: 'Winter Park',
@@ -2063,10 +2063,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMeI60rXKa4cRxrRKAsrYB3o',
-    },
+      place_id: 'ChIJMeI60rXKa4cRxrRKAsrYB3o'
+    }
   },
   {
     name: 'Bridgeport',
@@ -2076,10 +2076,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGTd4lioJ6IkRzs5PCaf8i98',
-    },
+      place_id: 'ChIJGTd4lioJ6IkRzs5PCaf8i98'
+    }
   },
   {
     name: 'Danbury',
@@ -2089,10 +2089,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ75gTLYRV3YkR7dNTBAuOwaE',
-    },
+      place_id: 'ChIJ75gTLYRV3YkR7dNTBAuOwaE'
+    }
   },
   {
     name: 'Greenwich',
@@ -2102,10 +2102,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ83WZp86p2EcRbMrkYqGncBQ',
-    },
+      place_id: 'ChIJ83WZp86p2EcRbMrkYqGncBQ'
+    }
   },
   {
     name: 'Groton',
@@ -2115,10 +2115,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOfhFAHfA44kRTCzy_0jW98Y',
-    },
+      place_id: 'ChIJOfhFAHfA44kRTCzy_0jW98Y'
+    }
   },
   {
     name: 'Hartford',
@@ -2128,10 +2128,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpVER8hFT5okRmVl96ahKjsw',
-    },
+      place_id: 'ChIJpVER8hFT5okRmVl96ahKjsw'
+    }
   },
   {
     name: 'Litchfield',
@@ -2141,10 +2141,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtRlrFpiW54kRSBohnWs5Ryg',
-    },
+      place_id: 'ChIJtRlrFpiW54kRSBohnWs5Ryg'
+    }
   },
   {
     name: 'Middletown',
@@ -2154,10 +2154,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbxT3vWVK5okRZrhYOU95HGw',
-    },
+      place_id: 'ChIJbxT3vWVK5okRZrhYOU95HGw'
+    }
   },
   {
     name: 'New Haven',
@@ -2167,10 +2167,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5XCAOkTY54kR7WSyWcZUo_Y',
-    },
+      place_id: 'ChIJ5XCAOkTY54kR7WSyWcZUo_Y'
+    }
   },
   {
     name: 'New London',
@@ -2180,10 +2180,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvc0Stm4O5okRnZMrnOYDFtA',
-    },
+      place_id: 'ChIJvc0Stm4O5okRnZMrnOYDFtA'
+    }
   },
   {
     name: 'New Milford',
@@ -2193,10 +2193,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdd4sb87154kRSJ3AUfGscQs',
-    },
+      place_id: 'ChIJdd4sb87154kRSJ3AUfGscQs'
+    }
   },
   {
     name: 'Norwich',
@@ -2206,10 +2206,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpZTI1L4PtUwRdP5tA79FkP0',
-    },
+      place_id: 'ChIJpZTI1L4PtUwRdP5tA79FkP0'
+    }
   },
   {
     name: 'Stamford',
@@ -2219,10 +2219,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC7zHsmShwokRbrc0nIuGQ4c',
-    },
+      place_id: 'ChIJC7zHsmShwokRbrc0nIuGQ4c'
+    }
   },
   {
     name: 'Tolland',
@@ -2232,10 +2232,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjZ2TiF3z5okR9lJMkFsDWTs',
-    },
+      place_id: 'ChIJjZ2TiF3z5okR9lJMkFsDWTs'
+    }
   },
   {
     name: 'Waterbury',
@@ -2245,10 +2245,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5UPlfO_A54kRF5iCbxJr-gc',
-    },
+      place_id: 'ChIJ5UPlfO_A54kRF5iCbxJr-gc'
+    }
   },
   {
     name: 'Windham',
@@ -2258,10 +2258,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb2QyoItM3IkRytonaGO9LnM',
-    },
+      place_id: 'ChIJb2QyoItM3IkRytonaGO9LnM'
+    }
   },
   {
     name: 'Dover',
@@ -2271,10 +2271,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrV5odTNjx4kR8GwA-0fk4qk',
-    },
+      place_id: 'ChIJrV5odTNjx4kR8GwA-0fk4qk'
+    }
   },
   {
     name: 'Rehoboth Beach',
@@ -2284,10 +2284,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpzNzfGaWuIkRamNRp-UtGGE',
-    },
+      place_id: 'ChIJpzNzfGaWuIkRamNRp-UtGGE'
+    }
   },
   {
     name: 'Alexandria',
@@ -2297,10 +2297,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8aukkz5NtokRLAHB24Ym9dc',
-    },
+      place_id: 'ChIJ8aukkz5NtokRLAHB24Ym9dc'
+    }
   },
   {
     name: 'Arlington',
@@ -2310,10 +2310,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ05gI5NJiToYRUVOgH6z2Xgs',
-    },
+      place_id: 'ChIJ05gI5NJiToYRUVOgH6z2Xgs'
+    }
   },
   {
     name: 'Bethesda-Silver Spring',
@@ -2323,10 +2323,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ-lqZk7Pt4kR35qyZagzhAA',
-    },
+      place_id: 'ChIJJ-lqZk7Pt4kR35qyZagzhAA'
+    }
   },
   {
     name: 'College Park',
@@ -2336,10 +2336,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmUZxDR7Et4kRlW3TbeMNjOs',
-    },
+      place_id: 'ChIJmUZxDR7Et4kRlW3TbeMNjOs'
+    }
   },
   {
     name: 'Tysons Corner',
@@ -2349,10 +2349,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-Vv4YvBKtokR-t99rvEFSHw',
-    },
+      place_id: 'ChIJ-Vv4YvBKtokR-t99rvEFSHw'
+    }
   },
   {
     name: 'Washington D.C.',
@@ -2362,10 +2362,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW-T2Wt7Gt4kRKl2I1CJFUsI',
-    },
+      place_id: 'ChIJW-T2Wt7Gt4kRKl2I1CJFUsI'
+    }
   },
   {
     name: 'Boca Raton',
@@ -2375,10 +2375,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ_s278Ij2YgRyZVgyu6mPtI',
-    },
+      place_id: 'ChIJJ_s278Ij2YgRyZVgyu6mPtI'
+    }
   },
   {
     name: 'Bonita Springs',
@@ -2388,10 +2388,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJi0L4xI4Z24gRjRTEsbBGYek',
-    },
+      place_id: 'ChIJi0L4xI4Z24gRjRTEsbBGYek'
+    }
   },
   {
     name: 'Boynton-Delray Beach',
@@ -2401,10 +2401,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ42rskPzf2IgRuLhuUygBeMc',
-    },
+      place_id: 'ChIJ42rskPzf2IgRuLhuUygBeMc'
+    }
   },
   {
     name: 'Bradenton',
@@ -2414,10 +2414,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8YKm3k8Ww4gRWv3xTn07nfo',
-    },
+      place_id: 'ChIJ8YKm3k8Ww4gRWv3xTn07nfo'
+    }
   },
   {
     name: 'Cape Coral',
@@ -2427,10 +2427,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9RaA56dE24gR8m-bOhak0a8',
-    },
+      place_id: 'ChIJ9RaA56dE24gR8m-bOhak0a8'
+    }
   },
   {
     name: 'Clearwater',
@@ -2440,10 +2440,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGbt04v3xwogR-5I80tHfqXU',
-    },
+      place_id: 'ChIJGbt04v3xwogR-5I80tHfqXU'
+    }
   },
   {
     name: 'Daytona Beach',
@@ -2453,10 +2453,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJg1YCJZTb5ogR6yrLHbc7ajY',
-    },
+      place_id: 'ChIJg1YCJZTb5ogR6yrLHbc7ajY'
+    }
   },
   {
     name: 'Deltona',
@@ -2466,10 +2466,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSXtLMQUX54gROz-GT0IaWt4',
-    },
+      place_id: 'ChIJSXtLMQUX54gROz-GT0IaWt4'
+    }
   },
   {
     name: 'Florida Keys',
@@ -2479,10 +2479,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJteHhqO_Q0IgRBwHZCFdw1Gs',
-    },
+      place_id: 'ChIJteHhqO_Q0IgRBwHZCFdw1Gs'
+    }
   },
   {
     name: 'Fort Lauderdale',
@@ -2492,10 +2492,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9cr6ICcB2YgRvo6_QHW-AnY',
-    },
+      place_id: 'ChIJ9cr6ICcB2YgRvo6_QHW-AnY'
+    }
   },
   {
     name: 'Fort Myers',
@@ -2505,10 +2505,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKVSoiQFC24gRiiW6ClMIKcY',
-    },
+      place_id: 'ChIJKVSoiQFC24gRiiW6ClMIKcY'
+    }
   },
   {
     name: 'Fort Pierce',
@@ -2518,10 +2518,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8bUnop_x3ogRrmeIm8QXhvA',
-    },
+      place_id: 'ChIJ8bUnop_x3ogRrmeIm8QXhvA'
+    }
   },
   {
     name: 'Gainesville',
@@ -2531,10 +2531,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKyy_aSEg5ogRlo0QKF1554A',
-    },
+      place_id: 'ChIJKyy_aSEg5ogRlo0QKF1554A'
+    }
   },
   {
     name: 'Homestead',
@@ -2544,10 +2544,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRRAH0wvgm2-M',
-    },
+      place_id: 'ChIJpS60CuyBt4cRRAH0wvgm2-M'
+    }
   },
   {
     name: 'Jacksonville',
@@ -2557,10 +2557,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ66_O8Ra35YgR4sf8ljh9zcQ',
-    },
+      place_id: 'ChIJ66_O8Ra35YgR4sf8ljh9zcQ'
+    }
   },
   {
     name: 'Key Largo',
@@ -2570,10 +2570,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQ-KQenJm14gRxb9izXHzKqo',
-    },
+      place_id: 'ChIJQ-KQenJm14gRxb9izXHzKqo'
+    }
   },
   {
     name: 'Kissimmee',
@@ -2583,10 +2583,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5wsVNxqE3YgRDcL9EZfN55Q',
-    },
+      place_id: 'ChIJ5wsVNxqE3YgRDcL9EZfN55Q'
+    }
   },
   {
     name: 'Lakeland',
@@ -2596,10 +2596,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBwAP37I43YgRCNWiuA8y0Sk',
-    },
+      place_id: 'ChIJBwAP37I43YgRCNWiuA8y0Sk'
+    }
   },
   {
     name: 'Miami',
@@ -2609,10 +2609,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEcHIDqKw2YgRZU-t3XHylv8',
-    },
+      place_id: 'ChIJEcHIDqKw2YgRZU-t3XHylv8'
+    }
   },
   {
     name: 'Naples',
@@ -2622,10 +2622,10 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmX5sak8IOxMRHRl4O8Es9T0',
-    },
+      place_id: 'ChIJmX5sak8IOxMRHRl4O8Es9T0'
+    }
   },
   {
     name: 'North Port',
@@ -2635,10 +2635,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEdVXg39Tw4gRrDDpghd4wSA',
-    },
+      place_id: 'ChIJEdVXg39Tw4gRrDDpghd4wSA'
+    }
   },
   {
     name: 'Ocala',
@@ -2648,10 +2648,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5Ty6HFQr5ogRNgU4seQ79fU',
-    },
+      place_id: 'ChIJ5Ty6HFQr5ogRNgU4seQ79fU'
+    }
   },
   {
     name: 'Orlando',
@@ -2661,10 +2661,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd7zN_thz54gRnr-lPAaywwo',
-    },
+      place_id: 'ChIJd7zN_thz54gRnr-lPAaywwo'
+    }
   },
   {
     name: 'Ormond Beach',
@@ -2674,10 +2674,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJf1N-1Lnc5ogRPv1SUzzM-ks',
-    },
+      place_id: 'ChIJf1N-1Lnc5ogRPv1SUzzM-ks'
+    }
   },
   {
     name: 'Palm Bay',
@@ -2687,10 +2687,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN7jtdDQN3ogRToQtTSqDVrI',
-    },
+      place_id: 'ChIJN7jtdDQN3ogRToQtTSqDVrI'
+    }
   },
   {
     name: 'Panama City',
@@ -2700,10 +2700,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQWPGKlaBk4gR8wFHLNVeWL8',
-    },
+      place_id: 'ChIJQWPGKlaBk4gR8wFHLNVeWL8'
+    }
   },
   {
     name: 'Pensacola',
@@ -2713,10 +2713,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu6rLrEW_kIgRfGV5MW6axqc',
-    },
+      place_id: 'ChIJu6rLrEW_kIgRfGV5MW6axqc'
+    }
   },
   {
     name: 'Port Charlotte',
@@ -2726,10 +2726,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYS_0sSxU24gR7Cs0Ie7I5Ho',
-    },
+      place_id: 'ChIJYS_0sSxU24gR7Cs0Ie7I5Ho'
+    }
   },
   {
     name: 'Port St. Lucie',
@@ -2739,10 +2739,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrQ7F9u_q3ogR4BB-3vlUSvQ',
-    },
+      place_id: 'ChIJrQ7F9u_q3ogR4BB-3vlUSvQ'
+    }
   },
   {
     name: 'Punta Gorda',
@@ -2752,10 +2752,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA9xLG3FX24gR53CuMfZkQGY',
-    },
+      place_id: 'ChIJA9xLG3FX24gR53CuMfZkQGY'
+    }
   },
   {
     name: 'Sanford',
@@ -2765,10 +2765,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ94gj7A0T54gRTFWAlk5-McM',
-    },
+      place_id: 'ChIJ94gj7A0T54gRTFWAlk5-McM'
+    }
   },
   {
     name: 'Sarasota',
@@ -2778,10 +2778,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK8KyneY3w4gR2RVXHR00NeM',
-    },
+      place_id: 'ChIJK8KyneY3w4gR2RVXHR00NeM'
+    }
   },
   {
     name: 'St Petersburg',
@@ -2791,10 +2791,10 @@ module.exports = [
       country: {
         long_name: 'Russia',
         short_name: 'RU',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20',
-    },
+      place_id: 'ChIJ7WVKx4w3lkYR_46Eqz9nx20'
+    }
   },
   {
     name: 'Tallahassee',
@@ -2804,10 +2804,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU0sSh1GK7IgR-LH91HoH7us',
-    },
+      place_id: 'ChIJU0sSh1GK7IgR-LH91HoH7us'
+    }
   },
   {
     name: 'Tampa Bay',
@@ -2817,10 +2817,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnalYKh0fw4gRbXf5teHhXTA',
-    },
+      place_id: 'ChIJnalYKh0fw4gRbXf5teHhXTA'
+    }
   },
   {
     name: 'Titusville',
@@ -2830,10 +2830,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ1g0uNJM54gRjqET6MoFLKM',
-    },
+      place_id: 'ChIJJ1g0uNJM54gRjqET6MoFLKM'
+    }
   },
   {
     name: 'Venice',
@@ -2843,10 +2843,10 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJiT3W8dqxfkcRLxCSvfDGo3s',
-    },
+      place_id: 'ChIJiT3W8dqxfkcRLxCSvfDGo3s'
+    }
   },
   {
     name: 'West Palm Beach',
@@ -2856,10 +2856,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwa2VtczV2IgR3mvhH7XH7xU',
-    },
+      place_id: 'ChIJwa2VtczV2IgR3mvhH7XH7xU'
+    }
   },
   {
     name: 'Winter Haven',
@@ -2869,10 +2869,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIz0nq8kS3YgRWgCSqPtlZoY',
-    },
+      place_id: 'ChIJIz0nq8kS3YgRWgCSqPtlZoY'
+    }
   },
   {
     name: 'Albany',
@@ -2882,10 +2882,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS_tPzDQK3okRxCjnoBJjoeE',
-    },
+      place_id: 'ChIJS_tPzDQK3okRxCjnoBJjoeE'
+    }
   },
   {
     name: 'Alpharetta',
@@ -2895,10 +2895,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN_XFaJ909YgRTkxlKGHVEsE',
-    },
+      place_id: 'ChIJN_XFaJ909YgRTkxlKGHVEsE'
+    }
   },
   {
     name: 'Athens',
@@ -2908,10 +2908,10 @@ module.exports = [
       country: {
         long_name: 'Greece',
         short_name: 'GR',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic',
-    },
+      place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic'
+    }
   },
   {
     name: 'Atlanta',
@@ -2921,10 +2921,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjQmTaV0E9YgRC2MLmS_e_mY',
-    },
+      place_id: 'ChIJjQmTaV0E9YgRC2MLmS_e_mY'
+    }
   },
   {
     name: 'Augusta',
@@ -2934,10 +2934,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQaoLFpfQ-YgR5Auq4_2K5z4',
-    },
+      place_id: 'ChIJQaoLFpfQ-YgR5Auq4_2K5z4'
+    }
   },
   {
     name: 'Bainbridge',
@@ -2947,10 +2947,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK4sSVjI8kFQRDpPwoERmqN8',
-    },
+      place_id: 'ChIJK4sSVjI8kFQRDpPwoERmqN8'
+    }
   },
   {
     name: 'Blue Ridge',
@@ -2960,10 +2960,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnzJ7y6H8wIcRAk6ccjvOW7k',
-    },
+      place_id: 'ChIJnzJ7y6H8wIcRAk6ccjvOW7k'
+    }
   },
   {
     name: 'Brunswick',
@@ -2973,10 +2973,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1bIMfNzXTYYRW5KLxVRVnsw',
-    },
+      place_id: 'ChIJ1bIMfNzXTYYRW5KLxVRVnsw'
+    }
   },
   {
     name: 'Calhoun',
@@ -2986,10 +2986,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvQpznqwAYIgRdSLaxEU1FMQ',
-    },
+      place_id: 'ChIJvQpznqwAYIgRdSLaxEU1FMQ'
+    }
   },
   {
     name: 'Cartersville',
@@ -2999,10 +2999,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJb0RvQg5P9YgRTqNXjGpW55A',
-    },
+      place_id: 'ChIJb0RvQg5P9YgRTqNXjGpW55A'
+    }
   },
   {
     name: 'Columbus',
@@ -3012,10 +3012,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcd6QucGJOIgRM7Wxz_hmMuQ',
-    },
+      place_id: 'ChIJcd6QucGJOIgRM7Wxz_hmMuQ'
+    }
   },
   {
     name: 'Cordele',
@@ -3025,10 +3025,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs_vRjDM78ogRKBrt9je16Xs',
-    },
+      place_id: 'ChIJs_vRjDM78ogRKBrt9je16Xs'
+    }
   },
   {
     name: 'Dahlonega',
@@ -3038,10 +3038,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMVAibDpmX4gRg7oeYKn0B0E',
-    },
+      place_id: 'ChIJMVAibDpmX4gRg7oeYKn0B0E'
+    }
   },
   {
     name: 'Dalton',
@@ -3051,10 +3051,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj47ynNZ0YIgRULdClZJ3iSU',
-    },
+      place_id: 'ChIJj47ynNZ0YIgRULdClZJ3iSU'
+    }
   },
   {
     name: 'Dublin',
@@ -3064,10 +3064,10 @@ module.exports = [
       country: {
         long_name: 'Ireland',
         short_name: 'IE',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL6wn6oAOZ0gRoHExl6nHAAo',
-    },
+      place_id: 'ChIJL6wn6oAOZ0gRoHExl6nHAAo'
+    }
   },
   {
     name: 'Elijay',
@@ -3077,10 +3077,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJwZ6UfmWX4gRj__cabxorA0',
-    },
+      place_id: 'ChIJJwZ6UfmWX4gRj__cabxorA0'
+    }
   },
   {
     name: 'LaGrange',
@@ -3090,10 +3090,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGyIxVJtWi4gRGj_A_4JnBOA',
-    },
+      place_id: 'ChIJGyIxVJtWi4gRGj_A_4JnBOA'
+    }
   },
   {
     name: 'Macon',
@@ -3103,10 +3103,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDeOBiEv484gRoaS_8Tx9se4',
-    },
+      place_id: 'ChIJDeOBiEv484gRoaS_8Tx9se4'
+    }
   },
   {
     name: 'Marietta',
@@ -3116,10 +3116,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXQZHhpYQ9YgRgemOMsZWh7E',
-    },
+      place_id: 'ChIJXQZHhpYQ9YgRgemOMsZWh7E'
+    }
   },
   {
     name: 'Rome',
@@ -3129,10 +3129,10 @@ module.exports = [
       country: {
         long_name: 'Italy',
         short_name: 'IT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu46S-ZZhLxMROG5lkwZ3D7k',
-    },
+      place_id: 'ChIJu46S-ZZhLxMROG5lkwZ3D7k'
+    }
   },
   {
     name: 'Savannah',
@@ -3142,10 +3142,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWQbyePx1-4gRvCBgA1FnDE4',
-    },
+      place_id: 'ChIJWQbyePx1-4gRvCBgA1FnDE4'
+    }
   },
   {
     name: 'Thomasville',
@@ -3155,10 +3155,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJg8-VTN3BwIcRotWmgoWlMpQ',
-    },
+      place_id: 'ChIJg8-VTN3BwIcRotWmgoWlMpQ'
+    }
   },
   {
     name: 'Tifton',
@@ -3168,10 +3168,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrXPcqP0B7ogRYjZiJlFZt_0',
-    },
+      place_id: 'ChIJrXPcqP0B7ogRYjZiJlFZt_0'
+    }
   },
   {
     name: 'Toccoa',
@@ -3181,10 +3181,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfWJNKw-8WIgR1FYtkZTjTRY',
-    },
+      place_id: 'ChIJfWJNKw-8WIgR1FYtkZTjTRY'
+    }
   },
   {
     name: 'Valdosta',
@@ -3194,10 +3194,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvUM_-v1m7ogRdj9S49PnCxc',
-    },
+      place_id: 'ChIJvUM_-v1m7ogRdj9S49PnCxc'
+    }
   },
   {
     name: 'Vidalia',
@@ -3207,10 +3207,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfyPW-YL2JYYRbzZLX-PePvM',
-    },
+      place_id: 'ChIJfyPW-YL2JYYRbzZLX-PePvM'
+    }
   },
   {
     name: 'Big Island',
@@ -3220,10 +3220,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWTr3xcHnU3kRNIHX-ZKkVRQ',
-    },
+      place_id: 'ChIJWTr3xcHnU3kRNIHX-ZKkVRQ'
+    }
   },
   {
     name: 'Hilo',
@@ -3233,10 +3233,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyd6XbFpLUnkRxhUMMwCpW8E',
-    },
+      place_id: 'ChIJyd6XbFpLUnkRxhUMMwCpW8E'
+    }
   },
   {
     name: 'Honolulu',
@@ -3246,10 +3246,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTUbDjDsYAHwRbJen81_1KEs',
-    },
+      place_id: 'ChIJTUbDjDsYAHwRbJen81_1KEs'
+    }
   },
   {
     name: 'Kahului',
@@ -3259,10 +3259,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgc5N5tvSVHkR3MVArWax5RA',
-    },
+      place_id: 'ChIJgc5N5tvSVHkR3MVArWax5RA'
+    }
   },
   {
     name: 'Kailua',
@@ -3272,10 +3272,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0xHGPQ5dAHwRwmYwMeCMKdk',
-    },
+      place_id: 'ChIJ0xHGPQ5dAHwRwmYwMeCMKdk'
+    }
   },
   {
     name: 'Kaneohe',
@@ -3285,10 +3285,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvwPRtz9qAHwR8tvY1pLcSSQ',
-    },
+      place_id: 'ChIJvwPRtz9qAHwR8tvY1pLcSSQ'
+    }
   },
   {
     name: 'Kauai',
@@ -3298,10 +3298,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR7CeJbsEB3wRijctofUaMvY',
-    },
+      place_id: 'ChIJR7CeJbsEB3wRijctofUaMvY'
+    }
   },
   {
     name: 'Kihei',
@@ -3311,10 +3311,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpZqwnQnQVHkR_2aNvwpr6mg',
-    },
+      place_id: 'ChIJpZqwnQnQVHkR_2aNvwpr6mg'
+    }
   },
   {
     name: 'Kona',
@@ -3324,10 +3324,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAbSRarIOVHkRp6UtiIMdkQc',
-    },
+      place_id: 'ChIJAbSRarIOVHkRp6UtiIMdkQc'
+    }
   },
   {
     name: 'Lahaina',
@@ -3337,10 +3337,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-endi8cqVXkRbpYfLncR5rI',
-    },
+      place_id: 'ChIJ-endi8cqVXkRbpYfLncR5rI'
+    }
   },
   {
     name: 'Lihue',
@@ -3350,10 +3350,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN7YiXoAeB3wRSCJF9-ghCfU',
-    },
+      place_id: 'ChIJN7YiXoAeB3wRSCJF9-ghCfU'
+    }
   },
   {
     name: 'Maui',
@@ -3363,10 +3363,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3WFMzEorVXkRfz4R3EHnQ8w',
-    },
+      place_id: 'ChIJ3WFMzEorVXkRfz4R3EHnQ8w'
+    }
   },
   {
     name: 'Wailua',
@@ -3376,10 +3376,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR3Wb_rnhBnwRCpF9sz5nMUY',
-    },
+      place_id: 'ChIJR3Wb_rnhBnwRCpF9sz5nMUY'
+    }
   },
   {
     name: 'Waipahu',
@@ -3389,10 +3389,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcQTz3KVmAHwRAgRW4sQ634o',
-    },
+      place_id: 'ChIJcQTz3KVmAHwRAgRW4sQ634o'
+    }
   },
   {
     name: 'Boise',
@@ -3402,10 +3402,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnbRH6XLxrlQRm51nNpuYW5o',
-    },
+      place_id: 'ChIJnbRH6XLxrlQRm51nNpuYW5o'
+    }
   },
   {
     name: 'Caldwell',
@@ -3415,10 +3415,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJi0BQ6JIAw4kRJab9o_ozyKs',
-    },
+      place_id: 'ChIJi0BQ6JIAw4kRJab9o_ozyKs'
+    }
   },
   {
     name: "Coeur d'Alene",
@@ -3428,10 +3428,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj3xVuvi0YVMRkFK_BVuZ5V8',
-    },
+      place_id: 'ChIJj3xVuvi0YVMRkFK_BVuZ5V8'
+    }
   },
   {
     name: 'Idaho Falls',
@@ -3441,10 +3441,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtRKVc05ZVFMRyUlMCfzJESM',
-    },
+      place_id: 'ChIJtRKVc05ZVFMRyUlMCfzJESM'
+    }
   },
   {
     name: 'Meridian',
@@ -3454,10 +3454,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cR4xkQKFEkuHw',
-    },
+      place_id: 'ChIJpS60CuyBt4cR4xkQKFEkuHw'
+    }
   },
   {
     name: 'Nampa',
@@ -3467,10 +3467,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKfGXTmlMrlQRUkoycWOGGa4',
-    },
+      place_id: 'ChIJKfGXTmlMrlQRUkoycWOGGa4'
+    }
   },
   {
     name: 'Pocatello',
@@ -3480,10 +3480,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDZvQ1SBPVVMRsDnOhCRqDAc',
-    },
+      place_id: 'ChIJDZvQ1SBPVVMRsDnOhCRqDAc'
+    }
   },
   {
     name: 'Twin Falls',
@@ -3493,10 +3493,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJr26yxaSjrFQRqsH4LOx3yyQ',
-    },
+      place_id: 'ChIJr26yxaSjrFQRqsH4LOx3yyQ'
+    }
   },
   {
     name: 'Bloomington',
@@ -3506,10 +3506,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ59iDtPZdbIgR2TOtiy2RGuk',
-    },
+      place_id: 'ChIJ59iDtPZdbIgR2TOtiy2RGuk'
+    }
   },
   {
     name: 'Champaign',
@@ -3519,10 +3519,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJG2mX3o3QDIgRz791tEd49TA',
-    },
+      place_id: 'ChIJG2mX3o3QDIgRz791tEd49TA'
+    }
   },
   {
     name: 'Chicago',
@@ -3532,10 +3532,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7cv00DwsDogRAMDACa2m4K8',
-    },
+      place_id: 'ChIJ7cv00DwsDogRAMDACa2m4K8'
+    }
   },
   {
     name: 'Decatur',
@@ -3545,10 +3545,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ6SD-FDwH9YgRAHjRfNzgUjE',
-    },
+      place_id: 'ChIJ6SD-FDwH9YgRAHjRfNzgUjE'
+    }
   },
   {
     name: 'Evanston',
@@ -3558,10 +3558,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdwroNP3PD4gRGmfABQ2hIW8',
-    },
+      place_id: 'ChIJdwroNP3PD4gRGmfABQ2hIW8'
+    }
   },
   {
     name: 'Kankakee',
@@ -3571,10 +3571,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJK4qQtbLCDYgR3KKCyKHcFP4',
-    },
+      place_id: 'ChIJK4qQtbLCDYgR3KKCyKHcFP4'
+    }
   },
   {
     name: 'Naperville',
@@ -3584,10 +3584,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJB80W4mFXDogRUjAgfyyc34c',
-    },
+      place_id: 'ChIJB80W4mFXDogRUjAgfyyc34c'
+    }
   },
   {
     name: 'Normal',
@@ -3597,10 +3597,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJe4Ggjh5xC4gRwN2qbu87Rcw',
-    },
+      place_id: 'ChIJe4Ggjh5xC4gRwN2qbu87Rcw'
+    }
   },
   {
     name: 'Rockford',
@@ -3610,10 +3610,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2wAD_c25CIgRgGePgpfYygo',
-    },
+      place_id: 'ChIJ2wAD_c25CIgRgGePgpfYygo'
+    }
   },
   {
     name: 'Springfield',
@@ -3623,10 +3623,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws',
-    },
+      place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws'
+    }
   },
   {
     name: 'Carmel',
@@ -3636,10 +3636,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU-wXtxXmjYARHFRRyqYrwtI',
-    },
+      place_id: 'ChIJU-wXtxXmjYARHFRRyqYrwtI'
+    }
   },
   {
     name: 'Bloomington',
@@ -3649,10 +3649,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ59iDtPZdbIgR2TOtiy2RGuk',
-    },
+      place_id: 'ChIJ59iDtPZdbIgR2TOtiy2RGuk'
+    }
   },
   {
     name: 'Evansville',
@@ -3662,10 +3662,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLXdWMRPVcYgRnckqETlJLrU',
-    },
+      place_id: 'ChIJLXdWMRPVcYgRnckqETlJLrU'
+    }
   },
   {
     name: 'Fort Wayne',
@@ -3675,10 +3675,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS4Ei_93kFYgRk_dCdhR7B4A',
-    },
+      place_id: 'ChIJS4Ei_93kFYgRk_dCdhR7B4A'
+    }
   },
   {
     name: 'Gary',
@@ -3688,10 +3688,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ36TrSWnCEYgRRRbQQZhzwz4',
-    },
+      place_id: 'ChIJ36TrSWnCEYgRRRbQQZhzwz4'
+    }
   },
   {
     name: 'Indianapolis',
@@ -3701,10 +3701,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA2p5p_9Qa4gRfOq5QPadjtY',
-    },
+      place_id: 'ChIJA2p5p_9Qa4gRfOq5QPadjtY'
+    }
   },
   {
     name: 'Jeffersonville',
@@ -3714,10 +3714,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJxU2wuEpyaYgRqIprsMdRRZw',
-    },
+      place_id: 'ChIJxU2wuEpyaYgRqIprsMdRRZw'
+    }
   },
   {
     name: 'Lafayette',
@@ -3727,10 +3727,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJo1fZGBjkuYcR_8QlIkeBVPc',
-    },
+      place_id: 'ChIJo1fZGBjkuYcR_8QlIkeBVPc'
+    }
   },
   {
     name: 'Lowell',
@@ -3740,10 +3740,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP00s4kmk44kRa5ZSf3715d0',
-    },
+      place_id: 'ChIJP00s4kmk44kRa5ZSf3715d0'
+    }
   },
   {
     name: 'Muncie',
@@ -3753,10 +3753,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJr671sKY9FYgRpxssriX_irg',
-    },
+      place_id: 'ChIJr671sKY9FYgRpxssriX_irg'
+    }
   },
   {
     name: 'South Bend',
@@ -3766,10 +3766,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE9NhSsQyEYgRBDKjb7PZSpc',
-    },
+      place_id: 'ChIJE9NhSsQyEYgRBDKjb7PZSpc'
+    }
   },
   {
     name: 'Terre Haute',
@@ -3779,10 +3779,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ79yRikdlbYgRiO_jX2eoP4A',
-    },
+      place_id: 'ChIJ79yRikdlbYgRiO_jX2eoP4A'
+    }
   },
   {
     name: 'Ames',
@@ -3792,10 +3792,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa6A0RmJw7ocRAFLHPAhWMSc',
-    },
+      place_id: 'ChIJa6A0RmJw7ocRAFLHPAhWMSc'
+    }
   },
   {
     name: 'Cedar Rapids',
@@ -3805,10 +3805,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUUIvoHpf5IcRwN3mLENg7lU',
-    },
+      place_id: 'ChIJUUIvoHpf5IcRwN3mLENg7lU'
+    }
   },
   {
     name: 'Davenport',
@@ -3818,10 +3818,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7WLP2TJx3YgRrFN8JGEANew',
-    },
+      place_id: 'ChIJ7WLP2TJx3YgRrFN8JGEANew'
+    }
   },
   {
     name: 'Des Moines',
@@ -3831,10 +3831,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5x5hwaSZ7ocRsuSRJlEoAHE',
-    },
+      place_id: 'ChIJ5x5hwaSZ7ocRsuSRJlEoAHE'
+    }
   },
   {
     name: 'Dubuque',
@@ -3844,10 +3844,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ04aKwIQr44cRR3GjJsYevrQ',
-    },
+      place_id: 'ChIJ04aKwIQr44cRR3GjJsYevrQ'
+    }
   },
   {
     name: 'Iowa City',
@@ -3857,10 +3857,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF4ggasFB5IcRsIIFh2cYcW0',
-    },
+      place_id: 'ChIJF4ggasFB5IcRsIIFh2cYcW0'
+    }
   },
   {
     name: 'Sioux City',
@@ -3870,10 +3870,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCVJtRzZ5kocRjExonssKmCE',
-    },
+      place_id: 'ChIJCVJtRzZ5kocRjExonssKmCE'
+    }
   },
   {
     name: 'Waterloo',
@@ -3883,10 +3883,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLfeRyAH1sYcRb0Y2H-SE8zo',
-    },
+      place_id: 'ChIJLfeRyAH1sYcRb0Y2H-SE8zo'
+    }
   },
   {
     name: 'Dodge City',
@@ -3896,10 +3896,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4RnJSxobp4cRQz0Z5lM05o0',
-    },
+      place_id: 'ChIJ4RnJSxobp4cRQz0Z5lM05o0'
+    }
   },
   {
     name: 'Kansas City',
@@ -3909,10 +3909,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl5npr173wIcRolGqauYlhVU',
-    },
+      place_id: 'ChIJl5npr173wIcRolGqauYlhVU'
+    }
   },
   {
     name: 'Lawrence',
@@ -3922,10 +3922,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ772KcsAH44kR29UfTrU8HY0',
-    },
+      place_id: 'ChIJ772KcsAH44kR29UfTrU8HY0'
+    }
   },
   {
     name: 'Manhattan',
@@ -3935,10 +3935,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYeZuBI9YwokRjMDs_IEyCwo',
-    },
+      place_id: 'ChIJYeZuBI9YwokRjMDs_IEyCwo'
+    }
   },
   {
     name: 'Topeka',
@@ -3948,10 +3948,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKXrs2uQCv4cR8KfjatDnK74',
-    },
+      place_id: 'ChIJKXrs2uQCv4cR8KfjatDnK74'
+    }
   },
   {
     name: 'Wichita',
@@ -3961,10 +3961,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLRh_0mrbuocRPj3TdL_VlpM',
-    },
+      place_id: 'ChIJLRh_0mrbuocRPj3TdL_VlpM'
+    }
   },
   {
     name: 'Bardstown',
@@ -3974,10 +3974,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-5gK6yRSaIgRel9zamblR6E',
-    },
+      place_id: 'ChIJ-5gK6yRSaIgRel9zamblR6E'
+    }
   },
   {
     name: 'Bowling Green',
@@ -3987,10 +3987,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4Tqo5VAKPIgRAzVTIC9tuCY',
-    },
+      place_id: 'ChIJ4Tqo5VAKPIgRAzVTIC9tuCY'
+    }
   },
   {
     name: 'Elizabethtown',
@@ -4000,10 +4000,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhY4kB1uYyIkRQSt5D6ZxK5o',
-    },
+      place_id: 'ChIJhY4kB1uYyIkRQSt5D6ZxK5o'
+    }
   },
   {
     name: 'Lexington',
@@ -4013,10 +4013,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJeuczClEQogR3U-MkEGD8IQ',
-    },
+      place_id: 'ChIJJeuczClEQogR3U-MkEGD8IQ'
+    }
   },
   {
     name: 'Louisville',
@@ -4026,10 +4026,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEdVbsxoLaYgRMv1xICi009Q',
-    },
+      place_id: 'ChIJEdVbsxoLaYgRMv1xICi009Q'
+    }
   },
   {
     name: 'Baton Rouge',
@@ -4039,10 +4039,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy3RfMmc4JIYRHZpXkdvxIyE',
-    },
+      place_id: 'ChIJy3RfMmc4JIYRHZpXkdvxIyE'
+    }
   },
   {
     name: 'Lafayette',
@@ -4052,10 +4052,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJo1fZGBjkuYcR_8QlIkeBVPc',
-    },
+      place_id: 'ChIJo1fZGBjkuYcR_8QlIkeBVPc'
+    }
   },
   {
     name: 'Lake Charles',
@@ -4065,10 +4065,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ8u9ACuEO4YRgnOnudaNuUI',
-    },
+      place_id: 'ChIJJ8u9ACuEO4YRgnOnudaNuUI'
+    }
   },
   {
     name: 'Monroe',
@@ -4078,10 +4078,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRuoDfVj7tdNg',
-    },
+      place_id: 'ChIJpS60CuyBt4cRuoDfVj7tdNg'
+    }
   },
   {
     name: 'New Orleans',
@@ -4091,10 +4091,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZYIRslSkIIYRtNMiXuhbBts',
-    },
+      place_id: 'ChIJZYIRslSkIIYRtNMiXuhbBts'
+    }
   },
   {
     name: 'Shreveport',
@@ -4104,10 +4104,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH-mYF40qMYYR3ZykhxYsvS4',
-    },
+      place_id: 'ChIJH-mYF40qMYYR3ZykhxYsvS4'
+    }
   },
   {
     name: 'Augusta',
@@ -4117,10 +4117,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQaoLFpfQ-YgR5Auq4_2K5z4',
-    },
+      place_id: 'ChIJQaoLFpfQ-YgR5Auq4_2K5z4'
+    }
   },
   {
     name: 'Bangor',
@@ -4130,10 +4130,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvSkREEZLrkwRd3avp7AYCU0',
-    },
+      place_id: 'ChIJvSkREEZLrkwRd3avp7AYCU0'
+    }
   },
   {
     name: 'Freeport',
@@ -4143,10 +4143,10 @@ module.exports = [
       country: {
         long_name: 'The Bahamas',
         short_name: 'BS',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJmxfI_BvYJokRfdzIhwN9Qj4',
-    },
+      place_id: 'ChIJmxfI_BvYJokRfdzIhwN9Qj4'
+    }
   },
   {
     name: 'Lewiston',
@@ -4156,10 +4156,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH5Yye8BrskwREH3m2FoLdfM',
-    },
+      place_id: 'ChIJH5Yye8BrskwREH3m2FoLdfM'
+    }
   },
   {
     name: 'Portland',
@@ -4169,10 +4169,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ3SpfQsLlVQRkYXR9ua5Nhw',
-    },
+      place_id: 'ChIJJ3SpfQsLlVQRkYXR9ua5Nhw'
+    }
   },
   {
     name: 'Baltimore',
@@ -4182,10 +4182,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt4P01q4DyIkRWOcjQqiWSAQ',
-    },
+      place_id: 'ChIJt4P01q4DyIkRWOcjQqiWSAQ'
+    }
   },
   {
     name: 'Frederick',
@@ -4195,10 +4195,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4669jAzFyYkRmRwRvb1HYto',
-    },
+      place_id: 'ChIJ4669jAzFyYkRmRwRvb1HYto'
+    }
   },
   {
     name: 'Gaithersburg',
@@ -4208,10 +4208,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtRPKJDYttokRNXKtgIFaj-M',
-    },
+      place_id: 'ChIJtRPKJDYttokRNXKtgIFaj-M'
+    }
   },
   {
     name: 'Hagerstown',
@@ -4221,10 +4221,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3d-BFBXtyYkROXLfJghi8mU',
-    },
+      place_id: 'ChIJ3d-BFBXtyYkROXLfJghi8mU'
+    }
   },
   {
     name: 'Ocean City',
@@ -4234,10 +4234,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJi96TrHHWuIkRchbzOlpxvLQ',
-    },
+      place_id: 'ChIJi96TrHHWuIkRchbzOlpxvLQ'
+    }
   },
   {
     name: 'Salisbury',
@@ -4247,10 +4247,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYZ6SVroDuYkRkztqW7GDKsw',
-    },
+      place_id: 'ChIJYZ6SVroDuYkRkztqW7GDKsw'
+    }
   },
   {
     name: 'Towson',
@@ -4260,10 +4260,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ01zmaVMOyIkR9NFDOt5xFWQ',
-    },
+      place_id: 'ChIJ01zmaVMOyIkR9NFDOt5xFWQ'
+    }
   },
   {
     name: 'Amherst',
@@ -4273,10 +4273,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDyRxCgLO5okR3C9MlxUdddU',
-    },
+      place_id: 'ChIJDyRxCgLO5okR3C9MlxUdddU'
+    }
   },
   {
     name: 'Boston',
@@ -4286,10 +4286,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGzE9DS1l44kRoOhiASS_fHg',
-    },
+      place_id: 'ChIJGzE9DS1l44kRoOhiASS_fHg'
+    }
   },
   {
     name: 'Brockton',
@@ -4299,10 +4299,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkbEOtc6E5IkRHk4jPc1xf6E',
-    },
+      place_id: 'ChIJkbEOtc6E5IkRHk4jPc1xf6E'
+    }
   },
   {
     name: 'Cambridge',
@@ -4312,10 +4312,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cR2TTjS16mrDE',
-    },
+      place_id: 'ChIJpS60CuyBt4cR2TTjS16mrDE'
+    }
   },
   {
     name: 'Holyoke',
@@ -4325,10 +4325,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJp0b2Msje5okRm5MR88RQB2U',
-    },
+      place_id: 'ChIJp0b2Msje5okRm5MR88RQB2U'
+    }
   },
   {
     name: 'Leominster',
@@ -4338,10 +4338,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ10BHL6Ll44kRnYK75rqWNP8',
-    },
+      place_id: 'ChIJ10BHL6Ll44kRnYK75rqWNP8'
+    }
   },
   {
     name: 'Lowell',
@@ -4351,10 +4351,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP00s4kmk44kRa5ZSf3715d0',
-    },
+      place_id: 'ChIJP00s4kmk44kRa5ZSf3715d0'
+    }
   },
   {
     name: 'Newton',
@@ -4364,10 +4364,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRAdrqaytQjpU',
-    },
+      place_id: 'ChIJpS60CuyBt4cRAdrqaytQjpU'
+    }
   },
   {
     name: 'Pittsfield',
@@ -4377,10 +4377,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP8yZz7tE54kRIy-RhO00iNc',
-    },
+      place_id: 'ChIJP8yZz7tE54kRIy-RhO00iNc'
+    }
   },
   {
     name: 'Springfield',
@@ -4390,10 +4390,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws',
-    },
+      place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws'
+    }
   },
   {
     name: 'Worcester',
@@ -4403,10 +4403,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDYsqWlgG5IkRbU3Kf9h9E54',
-    },
+      place_id: 'ChIJDYsqWlgG5IkRbU3Kf9h9E54'
+    }
   },
   {
     name: 'Alpena',
@@ -4416,10 +4416,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJayidURdcM00RtGQoeysoiuk',
-    },
+      place_id: 'ChIJayidURdcM00RtGQoeysoiuk'
+    }
   },
   {
     name: 'Ann Arbor',
@@ -4429,10 +4429,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMx9D1A2wPIgR4rXIhkb5Cds',
-    },
+      place_id: 'ChIJMx9D1A2wPIgR4rXIhkb5Cds'
+    }
   },
   {
     name: 'Benton Harbor',
@@ -4442,10 +4442,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ117dq27GEIgRkAjYWtfscgE',
-    },
+      place_id: 'ChIJ117dq27GEIgRkAjYWtfscgE'
+    }
   },
   {
     name: 'Cadillac',
@@ -4455,10 +4455,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqwAYG0WNtocR2AaQ-96B0hs',
-    },
+      place_id: 'ChIJqwAYG0WNtocR2AaQ-96B0hs'
+    }
   },
   {
     name: 'Detroit',
@@ -4468,10 +4468,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdR3LEAHKJIgR0sS5NU6Gdlc',
-    },
+      place_id: 'ChIJdR3LEAHKJIgR0sS5NU6Gdlc'
+    }
   },
   {
     name: 'East Lansing',
@@ -4481,10 +4481,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ86vl6nXoIogRJaZ8EfezGTs',
-    },
+      place_id: 'ChIJ86vl6nXoIogRJaZ8EfezGTs'
+    }
   },
   {
     name: 'Farmington Hills',
@@ -4494,10 +4494,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfzx-jC-uJIgRvDsAfiKreBk',
-    },
+      place_id: 'ChIJfzx-jC-uJIgRvDsAfiKreBk'
+    }
   },
   {
     name: 'Flint',
@@ -4507,10 +4507,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF3OXpft4I4gRa2gzjgk6hcE',
-    },
+      place_id: 'ChIJF3OXpft4I4gRa2gzjgk6hcE'
+    }
   },
   {
     name: 'Grand Haven',
@@ -4520,10 +4520,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL3ZCU96AGYgRSXv25ZmhvDA',
-    },
+      place_id: 'ChIJL3ZCU96AGYgRSXv25ZmhvDA'
+    }
   },
   {
     name: 'Grand Rapids',
@@ -4533,10 +4533,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFShQu2BUGIgR0KjTG8uqk6U',
-    },
+      place_id: 'ChIJFShQu2BUGIgR0KjTG8uqk6U'
+    }
   },
   {
     name: 'Holland',
@@ -4546,10 +4546,10 @@ module.exports = [
       country: {
         long_name: 'Netherlands',
         short_name: 'NL',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu-SH28MJxkcRnwq9_851obM',
-    },
+      place_id: 'ChIJu-SH28MJxkcRnwq9_851obM'
+    }
   },
   {
     name: 'Houghton',
@@ -4559,10 +4559,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3R7rFZUw0okRzd3SW14O7NY',
-    },
+      place_id: 'ChIJ3R7rFZUw0okRzd3SW14O7NY'
+    }
   },
   {
     name: 'Jackson',
@@ -4572,10 +4572,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI',
-    },
+      place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI'
+    }
   },
   {
     name: 'Kalamazoo',
@@ -4585,10 +4585,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuZIxSXmdF4gRCTBXSdL4fNo',
-    },
+      place_id: 'ChIJuZIxSXmdF4gRCTBXSdL4fNo'
+    }
   },
   {
     name: 'Lansing',
@@ -4598,10 +4598,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJN4wxfxzAIogRnp0CiSO2eEM',
-    },
+      place_id: 'ChIJN4wxfxzAIogRnp0CiSO2eEM'
+    }
   },
   {
     name: 'Marquette',
@@ -4611,10 +4611,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_3Dp5pnstocRvDrDqITFqi4',
-    },
+      place_id: 'ChIJ_3Dp5pnstocRvDrDqITFqi4'
+    }
   },
   {
     name: 'Midland',
@@ -4624,10 +4624,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk-QNhV3wwIcRtExsXEY4NQc',
-    },
+      place_id: 'ChIJk-QNhV3wwIcRtExsXEY4NQc'
+    }
   },
   {
     name: 'Mt. Pleasant',
@@ -4637,10 +4637,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnZzg3bfq5ocRr_v3YS2SuMg',
-    },
+      place_id: 'ChIJnZzg3bfq5ocRr_v3YS2SuMg'
+    }
   },
   {
     name: 'Muskegon',
@@ -4650,10 +4650,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2Z49qcN8GYgRQCX3NJE1fiQ',
-    },
+      place_id: 'ChIJ2Z49qcN8GYgRQCX3NJE1fiQ'
+    }
   },
   {
     name: 'Saginaw',
@@ -4663,10 +4663,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJr1jnhkHCI4gRrPWue22U4yk',
-    },
+      place_id: 'ChIJr1jnhkHCI4gRrPWue22U4yk'
+    }
   },
   {
     name: 'South Haven',
@@ -4676,10 +4676,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ91xBLLesEIgRdp-K46loQpc',
-    },
+      place_id: 'ChIJ91xBLLesEIgRdp-K46loQpc'
+    }
   },
   {
     name: 'Traverse City',
@@ -4689,10 +4689,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3Sna17IyHogRIVZ0Pz_cv0c',
-    },
+      place_id: 'ChIJ3Sna17IyHogRIVZ0Pz_cv0c'
+    }
   },
   {
     name: 'Troy',
@@ -4702,10 +4702,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJw-nHp_TCx4cRc525OIhqCNM',
-    },
+      place_id: 'ChIJw-nHp_TCx4cRc525OIhqCNM'
+    }
   },
   {
     name: 'Warren',
@@ -4715,10 +4715,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRUNfc6GqsmMU',
-    },
+      place_id: 'ChIJpS60CuyBt4cRUNfc6GqsmMU'
+    }
   },
   {
     name: 'Duluth',
@@ -4728,10 +4728,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_zcueH5SrlIRcgxY63a__ZA',
-    },
+      place_id: 'ChIJ_zcueH5SrlIRcgxY63a__ZA'
+    }
   },
   {
     name: 'Mankato',
@@ -4741,10 +4741,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaYUeBKYw9IcR0E7GWl88Ewc',
-    },
+      place_id: 'ChIJaYUeBKYw9IcR0E7GWl88Ewc'
+    }
   },
   {
     name: 'Minneapolis',
@@ -4754,10 +4754,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJvbt3k5Azs1IRB-56L4TJn5M',
-    },
+      place_id: 'ChIJvbt3k5Azs1IRB-56L4TJn5M'
+    }
   },
   {
     name: 'Rochester',
@@ -4767,10 +4767,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU7MUlgWz1okRHuYlQfwfAFo',
-    },
+      place_id: 'ChIJU7MUlgWz1okRHuYlQfwfAFo'
+    }
   },
   {
     name: 'St. Cloud',
@@ -4780,10 +4780,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9QLLgqmKtFIRRH-L0A7mtFU',
-    },
+      place_id: 'ChIJ9QLLgqmKtFIRRH-L0A7mtFU'
+    }
   },
   {
     name: 'St. Paul',
@@ -4793,10 +4793,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnzfp5M7UslIRKS7aP9KRcsg',
-    },
+      place_id: 'ChIJnzfp5M7UslIRKS7aP9KRcsg'
+    }
   },
   {
     name: 'Biloxi',
@@ -4806,10 +4806,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ10K3IFwOnIgRQmhvE1FgesQ',
-    },
+      place_id: 'ChIJ10K3IFwOnIgRQmhvE1FgesQ'
+    }
   },
   {
     name: 'Gulfport',
@@ -4819,10 +4819,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5RQB6G4WnIgRRJWBbkRNYcI',
-    },
+      place_id: 'ChIJ5RQB6G4WnIgRRJWBbkRNYcI'
+    }
   },
   {
     name: 'Hattiesburg',
@@ -4832,10 +4832,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3yio1UncnIgRyrUcLZK_sXQ',
-    },
+      place_id: 'ChIJ3yio1UncnIgRyrUcLZK_sXQ'
+    }
   },
   {
     name: 'Jackson',
@@ -4845,10 +4845,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI',
-    },
+      place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI'
+    }
   },
   {
     name: 'Oxford',
@@ -4858,10 +4858,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW0iM76nGdkgR7a8BoIMY_9I',
-    },
+      place_id: 'ChIJW0iM76nGdkgR7a8BoIMY_9I'
+    }
   },
   {
     name: 'Tupelo',
@@ -4871,10 +4871,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJoV_eKS5Mh4gRT509-0DM8ec',
-    },
+      place_id: 'ChIJoV_eKS5Mh4gRT509-0DM8ec'
+    }
   },
   {
     name: 'Blue Springs',
@@ -4884,10 +4884,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJe-XgJU0awYcRNS0frBYinxA',
-    },
+      place_id: 'ChIJe-XgJU0awYcRNS0frBYinxA'
+    }
   },
   {
     name: 'Branson',
@@ -4897,10 +4897,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqQ72wekBz4cRNKyS2mAJN_M',
-    },
+      place_id: 'ChIJqQ72wekBz4cRNKyS2mAJN_M'
+    }
   },
   {
     name: 'Chesterfield',
@@ -4910,10 +4910,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ75MSi_AKsYkRw2FSAqvVOfA',
-    },
+      place_id: 'ChIJ75MSi_AKsYkRw2FSAqvVOfA'
+    }
   },
   {
     name: 'Columbia',
@@ -4923,10 +4923,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRPawu0mHG_cw',
-    },
+      place_id: 'ChIJpS60CuyBt4cRPawu0mHG_cw'
+    }
   },
   {
     name: 'Florissant',
@@ -4936,10 +4936,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXdk2zjM234cRtRM72zCbADg',
-    },
+      place_id: 'ChIJXdk2zjM234cRtRM72zCbADg'
+    }
   },
   {
     name: 'Independence',
@@ -4949,10 +4949,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1c1FIIMEwFQRC-v-dZrVxwc',
-    },
+      place_id: 'ChIJ1c1FIIMEwFQRC-v-dZrVxwc'
+    }
   },
   {
     name: 'Jefferson City',
@@ -4962,10 +4962,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8Qo7Tqtd24cRrdmovEvJ57I',
-    },
+      place_id: 'ChIJ8Qo7Tqtd24cRrdmovEvJ57I'
+    }
   },
   {
     name: 'Joplin',
@@ -4975,10 +4975,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ69Pk6jdlyIcRDqM1KDY3Fpg',
-    },
+      place_id: 'ChIJ69Pk6jdlyIcRDqM1KDY3Fpg'
+    }
   },
   {
     name: 'Kansas City',
@@ -4988,10 +4988,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl5npr173wIcRolGqauYlhVU',
-    },
+      place_id: 'ChIJl5npr173wIcRolGqauYlhVU'
+    }
   },
   {
     name: "Lee's Summit",
@@ -5001,10 +5001,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_Za1qPbfwIcRh7EHoOnC0gg',
-    },
+      place_id: 'ChIJ_Za1qPbfwIcRh7EHoOnC0gg'
+    }
   },
   {
     name: "O'fallon",
@@ -5014,10 +5014,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs6aOAfvQ3ocRidnJA-TANLE',
-    },
+      place_id: 'ChIJs6aOAfvQ3ocRidnJA-TANLE'
+    }
   },
   {
     name: 'Springfield',
@@ -5027,10 +5027,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws',
-    },
+      place_id: 'ChIJP5jIRfdiz4cRoA1pHrNs_Ws'
+    }
   },
   {
     name: 'St. Charles',
@@ -5040,10 +5040,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd7yvGnseD4gRohnpy_55FWE',
-    },
+      place_id: 'ChIJd7yvGnseD4gRohnpy_55FWE'
+    }
   },
   {
     name: 'St. Louis',
@@ -5053,10 +5053,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-Y7t-qm02IcRW-C7IsrqOb4',
-    },
+      place_id: 'ChIJ-Y7t-qm02IcRW-C7IsrqOb4'
+    }
   },
   {
     name: 'Billings',
@@ -5066,10 +5066,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl536iIhvSFMRULV58dRWNTc',
-    },
+      place_id: 'ChIJl536iIhvSFMRULV58dRWNTc'
+    }
   },
   {
     name: 'Bozeman',
@@ -5079,10 +5079,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE4i6T0xERVMRqmA792TQ9WM',
-    },
+      place_id: 'ChIJE4i6T0xERVMRqmA792TQ9WM'
+    }
   },
   {
     name: 'Butte',
@@ -5092,10 +5092,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJq3N-WwHWnIARk_kVDHE2boU',
-    },
+      place_id: 'ChIJq3N-WwHWnIARk_kVDHE2boU'
+    }
   },
   {
     name: 'Great Falls',
@@ -5105,10 +5105,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO7iMZY03QlMRqEVZjrFW3tY',
-    },
+      place_id: 'ChIJO7iMZY03QlMRqEVZjrFW3tY'
+    }
   },
   {
     name: 'Helena',
@@ -5118,10 +5118,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTdvH7Q9RQ1MRFPf943EdTCE',
-    },
+      place_id: 'ChIJTdvH7Q9RQ1MRFPf943EdTCE'
+    }
   },
   {
     name: 'Kalispell',
@@ -5131,10 +5131,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJR8LqnJVQZlMRYrtaHdq9H68',
-    },
+      place_id: 'ChIJR8LqnJVQZlMRYrtaHdq9H68'
+    }
   },
   {
     name: 'Missoula',
@@ -5144,10 +5144,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy2fzUCrMXVMRLoCUyncS4-k',
-    },
+      place_id: 'ChIJy2fzUCrMXVMRLoCUyncS4-k'
+    }
   },
   {
     name: 'Bellevue',
@@ -5157,10 +5157,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQWCmo89rkFQRZQfQ6oJUz7o',
-    },
+      place_id: 'ChIJQWCmo89rkFQRZQfQ6oJUz7o'
+    }
   },
   {
     name: 'Grand Island',
@@ -5170,10 +5170,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ92V37ESGmYcRe7FRSXhbLaE',
-    },
+      place_id: 'ChIJ92V37ESGmYcRe7FRSXhbLaE'
+    }
   },
   {
     name: 'Lincoln',
@@ -5183,10 +5183,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs2Jz41WCyYcR01gDA8CmiJw',
-    },
+      place_id: 'ChIJs2Jz41WCyYcR01gDA8CmiJw'
+    }
   },
   {
     name: 'North Platte',
@@ -5196,10 +5196,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC2k5k_kidocRy3ruabPvG-E',
-    },
+      place_id: 'ChIJC2k5k_kidocRy3ruabPvG-E'
+    }
   },
   {
     name: 'Omaha',
@@ -5209,10 +5209,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7fwMtciNk4cRBLY3rk9NQkY',
-    },
+      place_id: 'ChIJ7fwMtciNk4cRBLY3rk9NQkY'
+    }
   },
   {
     name: 'Elko',
@@ -5222,10 +5222,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDY8MGbUEpoARifYFxOmxVdg',
-    },
+      place_id: 'ChIJDY8MGbUEpoARifYFxOmxVdg'
+    }
   },
   {
     name: 'Henderson',
@@ -5235,10 +5235,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkUJfH67JyIARtWEgyjgqG-8',
-    },
+      place_id: 'ChIJkUJfH67JyIARtWEgyjgqG-8'
+    }
   },
   {
     name: 'Las Vegas',
@@ -5248,10 +5248,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0X31pIK3voARo3mz1ebVzDo',
-    },
+      place_id: 'ChIJ0X31pIK3voARo3mz1ebVzDo'
+    }
   },
   {
     name: 'Reno',
@@ -5261,10 +5261,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJnaCSkq5AmYARh_c4dM7FxUA',
-    },
+      place_id: 'ChIJnaCSkq5AmYARh_c4dM7FxUA'
+    }
   },
   {
     name: 'Summerlin',
@@ -5274,10 +5274,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaYNxSt2_yIARyWqhEerWar8',
-    },
+      place_id: 'ChIJaYNxSt2_yIARyWqhEerWar8'
+    }
   },
   {
     name: 'Concord',
@@ -5287,10 +5287,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhczEaaxghYAR7_8flgRgQQ4',
-    },
+      place_id: 'ChIJhczEaaxghYAR7_8flgRgQQ4'
+    }
   },
   {
     name: 'Derry',
@@ -5300,10 +5300,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY5PQNOTdX0gRL_NVxyr6Ib0',
-    },
+      place_id: 'ChIJY5PQNOTdX0gRL_NVxyr6Ib0'
+    }
   },
   {
     name: 'Manchester',
@@ -5313,10 +5313,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk',
-    },
+      place_id: 'ChIJ2_UmUkxNekgRqmv-BDgUvtk'
+    }
   },
   {
     name: 'Nashua',
@@ -5326,10 +5326,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhb_6LeSw44kRVeqLQhEIZrY',
-    },
+      place_id: 'ChIJhb_6LeSw44kRVeqLQhEIZrY'
+    }
   },
   {
     name: 'Atlantic City',
@@ -5339,10 +5339,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJIcdcblfdwIkRYlJn6UPLb0o',
-    },
+      place_id: 'ChIJIcdcblfdwIkRYlJn6UPLb0o'
+    }
   },
   {
     name: 'Camden',
@@ -5352,10 +5352,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQwA2LhnJxokRhoaToXZr498',
-    },
+      place_id: 'ChIJQwA2LhnJxokRhoaToXZr498'
+    }
   },
   {
     name: 'Cherry Hill',
@@ -5365,10 +5365,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlT7iC2bLxokRwL2t2OwJ2zU',
-    },
+      place_id: 'ChIJlT7iC2bLxokRwL2t2OwJ2zU'
+    }
   },
   {
     name: 'Hoboken',
@@ -5378,10 +5378,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0TMVjWBXwokRh783EWrKtkQ',
-    },
+      place_id: 'ChIJ0TMVjWBXwokRh783EWrKtkQ'
+    }
   },
   {
     name: 'Jersey City',
@@ -5391,10 +5391,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3a-_JdJQwokR2SXNohPwSQI',
-    },
+      place_id: 'ChIJ3a-_JdJQwokR2SXNohPwSQI'
+    }
   },
   {
     name: 'Montclair',
@@ -5404,10 +5404,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJoSOnRlZVwokRFLIX0GYzn0Q',
-    },
+      place_id: 'ChIJoSOnRlZVwokRFLIX0GYzn0Q'
+    }
   },
   {
     name: 'Morristown',
@@ -5417,10 +5417,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLSKWIZMJw4kRoSFvsb55sEM',
-    },
+      place_id: 'ChIJLSKWIZMJw4kRoSFvsb55sEM'
+    }
   },
   {
     name: 'Newark',
@@ -5430,10 +5430,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJHQ6aMnBTwokRc-T-3CrcvOE',
-    },
+      place_id: 'ChIJHQ6aMnBTwokRc-T-3CrcvOE'
+    }
   },
   {
     name: 'Trenton',
@@ -5443,10 +5443,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJubs9LUhDwYkRvNdciX9WFs8',
-    },
+      place_id: 'ChIJubs9LUhDwYkRvNdciX9WFs8'
+    }
   },
   {
     name: 'Albuquerque',
@@ -5456,10 +5456,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJe4MJ090KIocR_fbZuM7408A',
-    },
+      place_id: 'ChIJe4MJ090KIocR_fbZuM7408A'
+    }
   },
   {
     name: 'Gallup',
@@ -5469,10 +5469,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJD1RlL43eJIcRTIA7ZQRp1V8',
-    },
+      place_id: 'ChIJD1RlL43eJIcRTIA7ZQRp1V8'
+    }
   },
   {
     name: 'Las Cruces',
@@ -5482,10 +5482,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaZgGRcca3oYRvTI_8R3QbWM',
-    },
+      place_id: 'ChIJaZgGRcca3oYRvTI_8R3QbWM'
+    }
   },
   {
     name: 'Roswell',
@@ -5495,10 +5495,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVe2sZRNl4oYRftfPdOQLG-Q',
-    },
+      place_id: 'ChIJVe2sZRNl4oYRftfPdOQLG-Q'
+    }
   },
   {
     name: 'Santa Fe',
@@ -5508,10 +5508,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqVKY50NQGIcRQN-I_XMjkIw',
-    },
+      place_id: 'ChIJqVKY50NQGIcRQN-I_XMjkIw'
+    }
   },
   {
     name: 'Taos',
@@ -5521,10 +5521,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsfwRf9pkF4cRgrepYYOR6pA',
-    },
+      place_id: 'ChIJsfwRf9pkF4cRgrepYYOR6pA'
+    }
   },
   {
     name: 'Albany',
@@ -5534,10 +5534,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS_tPzDQK3okRxCjnoBJjoeE',
-    },
+      place_id: 'ChIJS_tPzDQK3okRxCjnoBJjoeE'
+    }
   },
   {
     name: 'Auburn',
@@ -5547,10 +5547,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJg_ibsy_xjIgRWJPTNZKRJcs',
-    },
+      place_id: 'ChIJg_ibsy_xjIgRWJPTNZKRJcs'
+    }
   },
   {
     name: 'Binghamton',
@@ -5560,10 +5560,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0bet33Lv2okRfzPt9wOXjwY',
-    },
+      place_id: 'ChIJ0bet33Lv2okRfzPt9wOXjwY'
+    }
   },
   {
     name: 'Buffalo',
@@ -5573,10 +5573,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJoeXfUmES04kRcYEfGKUEI5g',
-    },
+      place_id: 'ChIJoeXfUmES04kRcYEfGKUEI5g'
+    }
   },
   {
     name: 'Elmira',
@@ -5586,10 +5586,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4_IXPTsV0IkRvzo6JjBm_Eg',
-    },
+      place_id: 'ChIJ4_IXPTsV0IkRvzo6JjBm_Eg'
+    }
   },
   {
     name: 'Hamptons',
@@ -5599,10 +5599,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJG6mpkc6V6IkRUWCATXOJAbw',
-    },
+      place_id: 'ChIJG6mpkc6V6IkRUWCATXOJAbw'
+    }
   },
   {
     name: 'Ithaca',
@@ -5612,10 +5612,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ94iv4IKB0IkRdM5upWgn5Qo',
-    },
+      place_id: 'ChIJ94iv4IKB0IkRdM5upWgn5Qo'
+    }
   },
   {
     name: 'Mid-Hudson',
@@ -5625,10 +5625,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtwu6MrC93YkRrAZ6LnNl3sk',
-    },
+      place_id: 'ChIJtwu6MrC93YkRrAZ6LnNl3sk'
+    }
   },
   {
     name: 'Nassau County',
@@ -5638,10 +5638,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJoQxey52xwokRap4G05mKJBs',
-    },
+      place_id: 'ChIJoQxey52xwokRap4G05mKJBs'
+    }
   },
   {
     name: 'New York City',
@@ -5651,10 +5651,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOwg_06VPwokRYv534QaPC8g',
-    },
+      place_id: 'ChIJOwg_06VPwokRYv534QaPC8g'
+    }
   },
   {
     name: 'Niagara Falls',
@@ -5664,10 +5664,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtzPmKepj04kRs6rFueRal2E',
-    },
+      place_id: 'ChIJtzPmKepj04kRs6rFueRal2E'
+    }
   },
   {
     name: 'Plattsburgh',
@@ -5677,10 +5677,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ136l6Kg4ykwRFXRTxaHosLU',
-    },
+      place_id: 'ChIJ136l6Kg4ykwRFXRTxaHosLU'
+    }
   },
   {
     name: 'Rochester',
@@ -5690,10 +5690,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJU7MUlgWz1okRHuYlQfwfAFo',
-    },
+      place_id: 'ChIJU7MUlgWz1okRHuYlQfwfAFo'
+    }
   },
   {
     name: 'Saratoga Springs',
@@ -5703,10 +5703,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOdRbx0443okRqKKUG2pFHWQ',
-    },
+      place_id: 'ChIJOdRbx0443okRqKKUG2pFHWQ'
+    }
   },
   {
     name: 'Schenectady',
@@ -5716,10 +5716,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpfh1Nf1t3okRerISb41wshk',
-    },
+      place_id: 'ChIJpfh1Nf1t3okRerISb41wshk'
+    }
   },
   {
     name: 'Suffolk County',
@@ -5729,10 +5729,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1_mbyICu4IkRU18dDUkMxJU',
-    },
+      place_id: 'ChIJ1_mbyICu4IkRU18dDUkMxJU'
+    }
   },
   {
     name: 'Syracuse',
@@ -5742,10 +5742,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJDZqXv5vz2YkRRZWt1-IM1QA',
-    },
+      place_id: 'ChIJDZqXv5vz2YkRRZWt1-IM1QA'
+    }
   },
   {
     name: 'Utica',
@@ -5755,10 +5755,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKXZqNVE32YkRhvztGCY2GhE',
-    },
+      place_id: 'ChIJKXZqNVE32YkRhvztGCY2GhE'
+    }
   },
   {
     name: 'Watertown',
@@ -5768,10 +5768,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfdAx9hx444kRJW7GUCLxRV8',
-    },
+      place_id: 'ChIJfdAx9hx444kRJW7GUCLxRV8'
+    }
   },
   {
     name: 'Westchester County',
@@ -5781,10 +5781,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJr1lrnWrJwokRidu9ImLYDjc',
-    },
+      place_id: 'ChIJr1lrnWrJwokRidu9ImLYDjc'
+    }
   },
   {
     name: 'Asheville',
@@ -5794,10 +5794,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCW8PPKmMWYgRXTo0BsEx75Q',
-    },
+      place_id: 'ChIJCW8PPKmMWYgRXTo0BsEx75Q'
+    }
   },
   {
     name: 'Cary',
@@ -5807,10 +5807,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQ4tK_1S9rIkR4UtEWtuPVkQ',
-    },
+      place_id: 'ChIJQ4tK_1S9rIkR4UtEWtuPVkQ'
+    }
   },
   {
     name: 'Chapel Hill',
@@ -5820,10 +5820,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJp35uIRzDrIkRy-RDBOC6A38',
-    },
+      place_id: 'ChIJp35uIRzDrIkRy-RDBOC6A38'
+    }
   },
   {
     name: 'Charlotte',
@@ -5833,10 +5833,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgRo4_MQfVIgRZNFDv-ZQRog',
-    },
+      place_id: 'ChIJgRo4_MQfVIgRZNFDv-ZQRog'
+    }
   },
   {
     name: 'Concord',
@@ -5846,10 +5846,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJhczEaaxghYAR7_8flgRgQQ4',
-    },
+      place_id: 'ChIJhczEaaxghYAR7_8flgRgQQ4'
+    }
   },
   {
     name: 'Durham',
@@ -5859,10 +5859,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8WYPEnHkrIkRfvJGionaeuE',
-    },
+      place_id: 'ChIJ8WYPEnHkrIkRfvJGionaeuE'
+    }
   },
   {
     name: 'Fayetteville',
@@ -5872,10 +5872,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJI0qSQk8Tq4kRmzt2EnWeq6M',
-    },
+      place_id: 'ChIJI0qSQk8Tq4kRmzt2EnWeq6M'
+    }
   },
   {
     name: 'Goldsboro',
@@ -5885,10 +5885,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRXmEVWwBrIkRwArwmGZoOXI',
-    },
+      place_id: 'ChIJRXmEVWwBrIkRwArwmGZoOXI'
+    }
   },
   {
     name: 'Greensboro',
@@ -5898,10 +5898,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeXvHOD8ZU4gRyBK-eJTEuZM',
-    },
+      place_id: 'ChIJeXvHOD8ZU4gRyBK-eJTEuZM'
+    }
   },
   {
     name: 'Greenville',
@@ -5911,10 +5911,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBRH6YmaPV4gRlnYlv3edqtg',
-    },
+      place_id: 'ChIJBRH6YmaPV4gRlnYlv3edqtg'
+    }
   },
   {
     name: 'Hickory',
@@ -5924,10 +5924,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA0mdNtIvUYgRozSTBLAf2oU',
-    },
+      place_id: 'ChIJA0mdNtIvUYgRozSTBLAf2oU'
+    }
   },
   {
     name: 'Huntersville',
@@ -5937,10 +5937,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCZeY4hUeVIgRAVuZwgaJpBU',
-    },
+      place_id: 'ChIJCZeY4hUeVIgRAVuZwgaJpBU'
+    }
   },
   {
     name: 'Jacksonville',
@@ -5950,10 +5950,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ66_O8Ra35YgR4sf8ljh9zcQ',
-    },
+      place_id: 'ChIJ66_O8Ra35YgR4sf8ljh9zcQ'
+    }
   },
   {
     name: 'Matthews',
@@ -5963,10 +5963,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkbgLkvAjVIgRgEeY3vcTFgc',
-    },
+      place_id: 'ChIJkbgLkvAjVIgRgEeY3vcTFgc'
+    }
   },
   {
     name: 'Outer Banks',
@@ -5976,10 +5976,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcWxzpzxbpIkRszbSdWERdxs',
-    },
+      place_id: 'ChIJcWxzpzxbpIkRszbSdWERdxs'
+    }
   },
   {
     name: 'Raleigh',
@@ -5989,10 +5989,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9-BRny9arIkRrfARilK2kGc',
-    },
+      place_id: 'ChIJ9-BRny9arIkRrfARilK2kGc'
+    }
   },
   {
     name: 'Salisbury',
@@ -6002,10 +6002,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJYZ6SVroDuYkRkztqW7GDKsw',
-    },
+      place_id: 'ChIJYZ6SVroDuYkRkztqW7GDKsw'
+    }
   },
   {
     name: 'Wilmington',
@@ -6015,10 +6015,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1a7rDaL1qYkRMjAJhDhJZl4',
-    },
+      place_id: 'ChIJ1a7rDaL1qYkRMjAJhDhJZl4'
+    }
   },
   {
     name: 'Winston-Salem',
@@ -6028,10 +6028,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd7LWgpuhU4gRRYI_tFRfMlA',
-    },
+      place_id: 'ChIJd7LWgpuhU4gRRYI_tFRfMlA'
+    }
   },
   {
     name: 'Bismarck',
@@ -6041,10 +6041,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY-nYVxKD11IRk8q7-RK9qsw',
-    },
+      place_id: 'ChIJY-nYVxKD11IRk8q7-RK9qsw'
+    }
   },
   {
     name: 'Dickinson',
@@ -6054,10 +6054,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGX5zSyoeyYkRViBUZ1NlcwU',
-    },
+      place_id: 'ChIJGX5zSyoeyYkRViBUZ1NlcwU'
+    }
   },
   {
     name: 'Fargo',
@@ -6067,10 +6067,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH4NwsXLmqIcR52Lzo4X9wmc',
-    },
+      place_id: 'ChIJH4NwsXLmqIcR52Lzo4X9wmc'
+    }
   },
   {
     name: 'Grand Forks',
@@ -6080,10 +6080,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJV68WzWBxlIRWj1ffNiUaws',
-    },
+      place_id: 'ChIJJV68WzWBxlIRWj1ffNiUaws'
+    }
   },
   {
     name: 'Akron',
@@ -6093,10 +6093,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt_oui5XXMIgRBG0m_ZVsySk',
-    },
+      place_id: 'ChIJt_oui5XXMIgRBG0m_ZVsySk'
+    }
   },
   {
     name: 'Bowling Green',
@@ -6106,10 +6106,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4Tqo5VAKPIgRAzVTIC9tuCY',
-    },
+      place_id: 'ChIJ4Tqo5VAKPIgRAzVTIC9tuCY'
+    }
   },
   {
     name: 'Cincinnati',
@@ -6119,10 +6119,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-SE43rFRQIgRF5PA5It--2k',
-    },
+      place_id: 'ChIJ-SE43rFRQIgRF5PA5It--2k'
+    }
   },
   {
     name: 'Cleveland',
@@ -6132,10 +6132,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLWto4y7vMIgRQhhi91XLBO0',
-    },
+      place_id: 'ChIJLWto4y7vMIgRQhhi91XLBO0'
+    }
   },
   {
     name: 'Columbus',
@@ -6145,10 +6145,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJcd6QucGJOIgRM7Wxz_hmMuQ',
-    },
+      place_id: 'ChIJcd6QucGJOIgRM7Wxz_hmMuQ'
+    }
   },
   {
     name: 'Dayton',
@@ -6158,10 +6158,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAxTdrtWAQIgR5EwO8pLjQKY',
-    },
+      place_id: 'ChIJAxTdrtWAQIgR5EwO8pLjQKY'
+    }
   },
   {
     name: 'Toledo',
@@ -6171,10 +6171,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeU4e_C2HO4gRRcM6RZ_IPHw',
-    },
+      place_id: 'ChIJeU4e_C2HO4gRRcM6RZ_IPHw'
+    }
   },
   {
     name: 'Youngstown',
@@ -6184,10 +6184,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn7yTaNHhM4gRRPDMDGpyLF0',
-    },
+      place_id: 'ChIJn7yTaNHhM4gRRPDMDGpyLF0'
+    }
   },
   {
     name: 'Ardmore',
@@ -6197,10 +6197,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJP_NPdGLAxokRPi4Y976dL_I',
-    },
+      place_id: 'ChIJP_NPdGLAxokRPi4Y976dL_I'
+    }
   },
   {
     name: 'Broken Arrow',
@@ -6210,10 +6210,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJEU6rbj1itocRXCamRjirJSg',
-    },
+      place_id: 'ChIJEU6rbj1itocRXCamRjirJSg'
+    }
   },
   {
     name: 'Lawton',
@@ -6223,10 +6223,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRQ0hWeIerYcRUk5y8sb6LGE',
-    },
+      place_id: 'ChIJRQ0hWeIerYcRUk5y8sb6LGE'
+    }
   },
   {
     name: 'Moore',
@@ -6236,10 +6236,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJCVfQNtoUsocRpn_2fBLP5Jg',
-    },
+      place_id: 'ChIJCVfQNtoUsocRpn_2fBLP5Jg'
+    }
   },
   {
     name: 'Norman',
@@ -6249,10 +6249,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5-6Tf7ZjsocR-Fyoqz8jW0Q',
-    },
+      place_id: 'ChIJ5-6Tf7ZjsocR-Fyoqz8jW0Q'
+    }
   },
   {
     name: 'Oklahoma City',
@@ -6262,10 +6262,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJgdL4flSKrYcRnTpP0XQSojM',
-    },
+      place_id: 'ChIJgdL4flSKrYcRnTpP0XQSojM'
+    }
   },
   {
     name: 'Stillwater',
@@ -6275,10 +6275,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt0_FFvIx9ocRj-jY6s2OuUs',
-    },
+      place_id: 'ChIJt0_FFvIx9ocRj-jY6s2OuUs'
+    }
   },
   {
     name: 'Tulsa',
@@ -6288,10 +6288,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjy7R3biStocR92rZG8gQaec',
-    },
+      place_id: 'ChIJjy7R3biStocR92rZG8gQaec'
+    }
   },
   {
     name: 'Woodward',
@@ -6302,10 +6302,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJr8FnRKPstocRBTdKcqN35LM',
-    },
+      place_id: 'ChIJr8FnRKPstocRBTdKcqN35LM'
+    }
   },
   {
     name: 'Beaverton',
@@ -6315,10 +6315,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY4j4diQIlVQRCL2sihXP4BA',
-    },
+      place_id: 'ChIJY4j4diQIlVQRCL2sihXP4BA'
+    }
   },
   {
     name: 'Bend',
@@ -6328,10 +6328,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUdLTpf_AuFQRtNEgx6zniBA',
-    },
+      place_id: 'ChIJUdLTpf_AuFQRtNEgx6zniBA'
+    }
   },
   {
     name: 'Corvallis',
@@ -6341,10 +6341,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfdcUqp1AwFQRvsC9Io-ADdc',
-    },
+      place_id: 'ChIJfdcUqp1AwFQRvsC9Io-ADdc'
+    }
   },
   {
     name: 'Eugene',
@@ -6354,10 +6354,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGRlQrLAZwVQRTYlDSolh7Fc',
-    },
+      place_id: 'ChIJGRlQrLAZwVQRTYlDSolh7Fc'
+    }
   },
   {
     name: 'Medford',
@@ -6367,10 +6367,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJbR82N1t8z1QRbhNBVWxz2wc',
-    },
+      place_id: 'ChIJbR82N1t8z1QRbhNBVWxz2wc'
+    }
   },
   {
     name: 'Portland',
@@ -6380,10 +6380,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJ3SpfQsLlVQRkYXR9ua5Nhw',
-    },
+      place_id: 'ChIJJ3SpfQsLlVQRkYXR9ua5Nhw'
+    }
   },
   {
     name: 'Salem',
@@ -6393,10 +6393,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt1b4amRp44kRRVmlpaK44IE',
-    },
+      place_id: 'ChIJt1b4amRp44kRRVmlpaK44IE'
+    }
   },
   {
     name: 'Vancouver',
@@ -6406,10 +6406,10 @@ module.exports = [
       country: {
         long_name: 'Canada',
         short_name: 'CA',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs0-pQ_FzhlQRi_OBm-qWkbs',
-    },
+      place_id: 'ChIJs0-pQ_FzhlQRi_OBm-qWkbs'
+    }
   },
   {
     name: 'Allentown',
@@ -6419,10 +6419,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4dxKn5I5xIkRoSRoJEvf-eo',
-    },
+      place_id: 'ChIJ4dxKn5I5xIkRoSRoJEvf-eo'
+    }
   },
   {
     name: 'Altoona',
@@ -6432,10 +6432,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAU3ljliRy4kRfXbGByxZuK4',
-    },
+      place_id: 'ChIJAU3ljliRy4kRfXbGByxZuK4'
+    }
   },
   {
     name: 'Erie',
@@ -6445,10 +6445,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJH_eyPeF_LYgRClsdEi6u84k',
-    },
+      place_id: 'ChIJH_eyPeF_LYgRClsdEi6u84k'
+    }
   },
   {
     name: 'Harrisburg',
@@ -6458,10 +6458,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl54HuBbByIkR1UaNEshCbrs',
-    },
+      place_id: 'ChIJl54HuBbByIkR1UaNEshCbrs'
+    }
   },
   {
     name: 'Johnstown',
@@ -6471,10 +6471,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-YXbqi8Ry4kRFeBP5xHlsZQ',
-    },
+      place_id: 'ChIJ-YXbqi8Ry4kRFeBP5xHlsZQ'
+    }
   },
   {
     name: 'King of Prussia',
@@ -6484,10 +6484,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLWNuLDWUxokRlVPBvzGXCfo',
-    },
+      place_id: 'ChIJLWNuLDWUxokRlVPBvzGXCfo'
+    }
   },
   {
     name: 'Lancaster',
@@ -6497,10 +6497,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJuRRykYskxokR1tLbMNCQZ7Q',
-    },
+      place_id: 'ChIJuRRykYskxokR1tLbMNCQZ7Q'
+    }
   },
   {
     name: 'Lebanon',
@@ -6510,10 +6510,10 @@ module.exports = [
       country: {
         long_name: 'Lebanon',
         short_name: 'LB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJraoihAIXHxURcPkAbAk0fcw',
-    },
+      place_id: 'ChIJraoihAIXHxURcPkAbAk0fcw'
+    }
   },
   {
     name: 'Lehigh Valley',
@@ -6523,10 +6523,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ08p65Qc5xIkRXIAf2mtkdrc',
-    },
+      place_id: 'ChIJ08p65Qc5xIkRXIAf2mtkdrc'
+    }
   },
   {
     name: 'Mt. Lebanon-Bethel Park',
@@ -6536,10 +6536,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJsf6BS3j3NIgRSOHiLRj-CSM',
-    },
+      place_id: 'ChIJsf6BS3j3NIgRSOHiLRj-CSM'
+    }
   },
   {
     name: 'Philadelphia',
@@ -6549,10 +6549,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ60u11Ni3xokRwVg-jNgU9Yk',
-    },
+      place_id: 'ChIJ60u11Ni3xokRwVg-jNgU9Yk'
+    }
   },
   {
     name: 'Pittsburgh',
@@ -6562,10 +6562,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA4UGSG_xNIgRNBuiWqEV-Y0',
-    },
+      place_id: 'ChIJA4UGSG_xNIgRNBuiWqEV-Y0'
+    }
   },
   {
     name: 'Reading',
@@ -6575,10 +6575,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtz092XggdEgRlHn6zn-f4So',
-    },
+      place_id: 'ChIJtz092XggdEgRlHn6zn-f4So'
+    }
   },
   {
     name: 'Scranton',
@@ -6588,10 +6588,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJu0tIdzrZxIkR6PqbqyB58v8',
-    },
+      place_id: 'ChIJu0tIdzrZxIkR6PqbqyB58v8'
+    }
   },
   {
     name: 'State College',
@@ -6601,10 +6601,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJc9s7wZmozokRkYA8g8LG4Zw',
-    },
+      place_id: 'ChIJc9s7wZmozokRkYA8g8LG4Zw'
+    }
   },
   {
     name: 'Williamsport',
@@ -6614,10 +6614,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJtyLqAcOUz4kRib2hrxTk9Ys',
-    },
+      place_id: 'ChIJtyLqAcOUz4kRib2hrxTk9Ys'
+    }
   },
   {
     name: 'York',
@@ -6627,10 +6627,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ8WWY4UDDeEgR0eRUiomrdEc',
-    },
+      place_id: 'ChIJ8WWY4UDDeEgR0eRUiomrdEc'
+    }
   },
   {
     name: 'Newport',
@@ -6640,10 +6640,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-8vfSx_9uocResIm5CQjFgM',
-    },
+      place_id: 'ChIJ-8vfSx_9uocResIm5CQjFgM'
+    }
   },
   {
     name: 'Pawtucket',
@@ -6653,10 +6653,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKQPwp6lc5IkRtP60w2zCD2Q',
-    },
+      place_id: 'ChIJKQPwp6lc5IkRtP60w2zCD2Q'
+    }
   },
   {
     name: 'Providence',
@@ -6666,10 +6666,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXXN-Q-BE5IkRJ7azSE1832k',
-    },
+      place_id: 'ChIJXXN-Q-BE5IkRJ7azSE1832k'
+    }
   },
   {
     name: 'Charleston',
@@ -6679,10 +6679,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdySo3EJ6_ogRa-zhruD3-jU',
-    },
+      place_id: 'ChIJdySo3EJ6_ogRa-zhruD3-jU'
+    }
   },
   {
     name: 'Clemson',
@@ -6692,10 +6692,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJjWWrNRFeWIgRVo4qecsZMo0',
-    },
+      place_id: 'ChIJjWWrNRFeWIgRVo4qecsZMo0'
+    }
   },
   {
     name: 'Columbia',
@@ -6705,10 +6705,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRPawu0mHG_cw',
-    },
+      place_id: 'ChIJpS60CuyBt4cRPawu0mHG_cw'
+    }
   },
   {
     name: 'Greenville',
@@ -6718,10 +6718,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBRH6YmaPV4gRlnYlv3edqtg',
-    },
+      place_id: 'ChIJBRH6YmaPV4gRlnYlv3edqtg'
+    }
   },
   {
     name: 'Myrtle Beach',
@@ -6731,10 +6731,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJASFVO5VoAIkRGJbQtRWxD7w',
-    },
+      place_id: 'ChIJASFVO5VoAIkRGJbQtRWxD7w'
+    }
   },
   {
     name: 'Spartanburg',
@@ -6744,10 +6744,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJC0aXphmeV4gRyX7ayjgoi1s',
-    },
+      place_id: 'ChIJC0aXphmeV4gRyX7ayjgoi1s'
+    }
   },
   {
     name: 'Aberdeen',
@@ -6757,10 +6757,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSXXXH0wFhEgRcsT0XNoFu-g',
-    },
+      place_id: 'ChIJSXXXH0wFhEgRcsT0XNoFu-g'
+    }
   },
   {
     name: 'Pierre',
@@ -6770,10 +6770,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ5xtCNeNtocR5_KWwkmbLKM',
-    },
+      place_id: 'ChIJZ5xtCNeNtocR5_KWwkmbLKM'
+    }
   },
   {
     name: 'Rapid City',
@@ -6783,10 +6783,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-6W7nqVCfYcRx7eTPlphccQ',
-    },
+      place_id: 'ChIJ-6W7nqVCfYcRx7eTPlphccQ'
+    }
   },
   {
     name: 'Sioux Falls',
@@ -6796,10 +6796,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ16y94Ji0jocRz_yyqDr_ld4',
-    },
+      place_id: 'ChIJ16y94Ji0jocRz_yyqDr_ld4'
+    }
   },
   {
     name: 'Chattanooga',
@@ -6809,10 +6809,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJheeDikBgYIgRqiiHiR8mcSQ',
-    },
+      place_id: 'ChIJheeDikBgYIgRqiiHiR8mcSQ'
+    }
   },
   {
     name: 'Clarksville',
@@ -6822,10 +6822,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5af-L0DOZIgRHicF6Q-xQas',
-    },
+      place_id: 'ChIJ5af-L0DOZIgRHicF6Q-xQas'
+    }
   },
   {
     name: 'Cookeville',
@@ -6835,10 +6835,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWUzxDKcYZ4gRHV5A6ufMTi8',
-    },
+      place_id: 'ChIJWUzxDKcYZ4gRHV5A6ufMTi8'
+    }
   },
   {
     name: 'Dyersburg',
@@ -6848,10 +6848,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqepNCrQpeYgRcsXDZ0sEWTY',
-    },
+      place_id: 'ChIJqepNCrQpeYgRcsXDZ0sEWTY'
+    }
   },
   {
     name: 'Germantown',
@@ -6861,10 +6861,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJL8zVjTe4xokRKlat_dVrHuA',
-    },
+      place_id: 'ChIJL8zVjTe4xokRKlat_dVrHuA'
+    }
   },
   {
     name: 'Jackson',
@@ -6874,10 +6874,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI',
-    },
+      place_id: 'ChIJpS60CuyBt4cRXm9Ve4MHZeI'
+    }
   },
   {
     name: 'Johnson City',
@@ -6887,10 +6887,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJW6NBUdt8WogRy2MFfAwq5jw',
-    },
+      place_id: 'ChIJW6NBUdt8WogRy2MFfAwq5jw'
+    }
   },
   {
     name: 'Kingsport',
@@ -6900,10 +6900,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJl0sHcGuFWogRH4TMC9PAnG8',
-    },
+      place_id: 'ChIJl0sHcGuFWogRH4TMC9PAnG8'
+    }
   },
   {
     name: 'Knoxville',
@@ -6913,10 +6913,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqULORiIWXIgRxTT1xNqS6ns',
-    },
+      place_id: 'ChIJqULORiIWXIgRxTT1xNqS6ns'
+    }
   },
   {
     name: 'McMinnville',
@@ -6926,10 +6926,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJo3PJF7dOlVQRSM9F2xtwRMo',
-    },
+      place_id: 'ChIJo3PJF7dOlVQRSM9F2xtwRMo'
+    }
   },
   {
     name: 'Memphis',
@@ -6939,10 +6939,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRZdD6h5-1YcR_rYaYBXzk9E',
-    },
+      place_id: 'ChIJRZdD6h5-1YcR_rYaYBXzk9E'
+    }
   },
   {
     name: 'Nashville',
@@ -6952,10 +6952,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPZDrEzLsZIgRoNrpodC5P30',
-    },
+      place_id: 'ChIJPZDrEzLsZIgRoNrpodC5P30'
+    }
   },
   {
     name: 'Union City',
@@ -6965,10 +6965,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk-qHUbyRj4AR7opkvGzerFs',
-    },
+      place_id: 'ChIJk-qHUbyRj4AR7opkvGzerFs'
+    }
   },
   {
     name: 'Abilene',
@@ -6978,10 +6978,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRWkGKjmOVoYRX6kjIr_m2Qc',
-    },
+      place_id: 'ChIJRWkGKjmOVoYRX6kjIr_m2Qc'
+    }
   },
   {
     name: 'Amarillo',
@@ -6991,10 +6991,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJA89FstRIAYcRr9I2aBzR89A',
-    },
+      place_id: 'ChIJA89FstRIAYcRr9I2aBzR89A'
+    }
   },
   {
     name: 'Arlington',
@@ -7004,10 +7004,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ05gI5NJiToYRUVOgH6z2Xgs',
-    },
+      place_id: 'ChIJ05gI5NJiToYRUVOgH6z2Xgs'
+    }
   },
   {
     name: 'Austin',
@@ -7017,10 +7017,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJLwPMoJm1RIYRetVp1EtGm10',
-    },
+      place_id: 'ChIJLwPMoJm1RIYRetVp1EtGm10'
+    }
   },
   {
     name: 'Beaumont',
@@ -7030,10 +7030,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVVVVVRUuuocRPbBDWGS1dJU',
-    },
+      place_id: 'ChIJVVVVVRUuuocRPbBDWGS1dJU'
+    }
   },
   {
     name: 'Brownsville',
@@ -7043,10 +7043,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJGWX8w2t_b4YRLFJWSGka37E',
-    },
+      place_id: 'ChIJGWX8w2t_b4YRLFJWSGka37E'
+    }
   },
   {
     name: 'Bryan',
@@ -7056,10 +7056,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRYQf33pFQO-Y',
-    },
+      place_id: 'ChIJpS60CuyBt4cRYQf33pFQO-Y'
+    }
   },
   {
     name: 'Cedar Park',
@@ -7069,10 +7069,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ1Zl9vhctW4YR_zkVv4ahPXY',
-    },
+      place_id: 'ChIJ1Zl9vhctW4YR_zkVv4ahPXY'
+    }
   },
   {
     name: 'College Station',
@@ -7082,10 +7082,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJozxGGYaERoYRyWq_tk3Hack',
-    },
+      place_id: 'ChIJozxGGYaERoYRyWq_tk3Hack'
+    }
   },
   {
     name: 'Conroe',
@@ -7095,10 +7095,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJSTttVZEkR4YRDhGtHZsrNeY',
-    },
+      place_id: 'ChIJSTttVZEkR4YRDhGtHZsrNeY'
+    }
   },
   {
     name: 'Corpus Christi',
@@ -7108,10 +7108,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs9KSYYBfaIYRj5AOiZNQ0a4',
-    },
+      place_id: 'ChIJs9KSYYBfaIYRj5AOiZNQ0a4'
+    }
   },
   {
     name: 'Dallas',
@@ -7121,10 +7121,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJS5dFe_cZTIYRj2dH9qSb7Lk',
-    },
+      place_id: 'ChIJS5dFe_cZTIYRj2dH9qSb7Lk'
+    }
   },
   {
     name: 'Denton',
@@ -7134,10 +7134,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0bGIwKBMTIYRG_sUSMt0RHI',
-    },
+      place_id: 'ChIJ0bGIwKBMTIYRG_sUSMt0RHI'
+    }
   },
   {
     name: 'Edinburg',
@@ -7147,10 +7147,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJwzWGPiKiZYYRRMHaUBEY74k',
-    },
+      place_id: 'ChIJwzWGPiKiZYYRRMHaUBEY74k'
+    }
   },
   {
     name: 'El Paso',
@@ -7160,10 +7160,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaTv-xYs_54YRIgKdq-OEkeM',
-    },
+      place_id: 'ChIJaTv-xYs_54YRIgKdq-OEkeM'
+    }
   },
   {
     name: 'Ft. Worth',
@@ -7173,10 +7173,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrQfILRJuToYRvaxp3fiLr6Q',
-    },
+      place_id: 'ChIJrQfILRJuToYRvaxp3fiLr6Q'
+    }
   },
   {
     name: 'Galveston',
@@ -7186,10 +7186,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWZIFxMhZP4YRwezquckDi-U',
-    },
+      place_id: 'ChIJWZIFxMhZP4YRwezquckDi-U'
+    }
   },
   {
     name: 'Garland',
@@ -7199,10 +7199,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJO1-CS2IdTIYRnGxZ2i8FcAY',
-    },
+      place_id: 'ChIJO1-CS2IdTIYRnGxZ2i8FcAY'
+    }
   },
   {
     name: 'Georgetown',
@@ -7212,10 +7212,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJa4-fzkC2t4kRgihmVAVtnRw',
-    },
+      place_id: 'ChIJa4-fzkC2t4kRgihmVAVtnRw'
+    }
   },
   {
     name: 'Harlingen',
@@ -7225,10 +7225,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJTysvehCCb4YR0_F0J6HFZnY',
-    },
+      place_id: 'ChIJTysvehCCb4YR0_F0J6HFZnY'
+    }
   },
   {
     name: 'Houston',
@@ -7238,10 +7238,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAYWNSLS4QIYROwVl894CDco',
-    },
+      place_id: 'ChIJAYWNSLS4QIYROwVl894CDco'
+    }
   },
   {
     name: 'Killeen',
@@ -7251,10 +7251,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXVOYyI9LRYYR2j9j0feBS3k',
-    },
+      place_id: 'ChIJXVOYyI9LRYYR2j9j0feBS3k'
+    }
   },
   {
     name: 'Laredo',
@@ -7264,10 +7264,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJT35p2zAYIYRkXRWSVN6QLQ',
-    },
+      place_id: 'ChIJJT35p2zAYIYRkXRWSVN6QLQ'
+    }
   },
   {
     name: 'League City',
@@ -7277,10 +7277,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs7FszSODQIYR1mRAWl_D3hQ',
-    },
+      place_id: 'ChIJs7FszSODQIYR1mRAWl_D3hQ'
+    }
   },
   {
     name: 'Lubbock',
@@ -7290,10 +7290,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJOd19060S_oYRh0LoIikE8Bo',
-    },
+      place_id: 'ChIJOd19060S_oYRh0LoIikE8Bo'
+    }
   },
   {
     name: 'Marfa',
@@ -7303,10 +7303,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_yVAf6Ow74YRkEyd6NPgIAc',
-    },
+      place_id: 'ChIJ_yVAf6Ow74YRkEyd6NPgIAc'
+    }
   },
   {
     name: 'McAllen',
@@ -7316,10 +7316,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ3zeWTTJ2ZYYRuA4stak5HS8',
-    },
+      place_id: 'ChIJ3zeWTTJ2ZYYRuA4stak5HS8'
+    }
   },
   {
     name: 'Mesquite',
@@ -7329,10 +7329,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdasrZQOlToYRpc6UiWzFUp4',
-    },
+      place_id: 'ChIJdasrZQOlToYRpc6UiWzFUp4'
+    }
   },
   {
     name: 'Midland',
@@ -7342,10 +7342,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk-QNhV3wwIcRtExsXEY4NQc',
-    },
+      place_id: 'ChIJk-QNhV3wwIcRtExsXEY4NQc'
+    }
   },
   {
     name: 'Odessa',
@@ -7355,10 +7355,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ-XwTOWrJ-4YRRl9hVDSrJRY',
-    },
+      place_id: 'ChIJ-XwTOWrJ-4YRRl9hVDSrJRY'
+    }
   },
   {
     name: 'Pearland',
@@ -7368,10 +7368,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJqTP-ppBYQIYR7syl9Ad1u8o',
-    },
+      place_id: 'ChIJqTP-ppBYQIYR7syl9Ad1u8o'
+    }
   },
   {
     name: 'Pflugerville',
@@ -7381,10 +7381,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJT4Rx_7TNRIYR4Mu-ZHsEEcg',
-    },
+      place_id: 'ChIJT4Rx_7TNRIYR4Mu-ZHsEEcg'
+    }
   },
   {
     name: 'Plano',
@@ -7394,10 +7394,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJE5XFE9ohTIYRK2DNiWQDqmI',
-    },
+      place_id: 'ChIJE5XFE9ohTIYRK2DNiWQDqmI'
+    }
   },
   {
     name: 'Rockport',
@@ -7407,10 +7407,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJKbX4mnubQIYR7AGcNcGji8s',
-    },
+      place_id: 'ChIJKbX4mnubQIYR7AGcNcGji8s'
+    }
   },
   {
     name: 'Round Rock',
@@ -7420,10 +7420,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5yIt7aTRRIYREEvg7VlyIQc',
-    },
+      place_id: 'ChIJ5yIt7aTRRIYREEvg7VlyIQc'
+    }
   },
   {
     name: 'San Angelo',
@@ -7433,10 +7433,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJkXE7pYPlV4YRQsdUNws9foI',
-    },
+      place_id: 'ChIJkXE7pYPlV4YRQsdUNws9foI'
+    }
   },
   {
     name: 'San Antonio',
@@ -7446,10 +7446,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJrw7QBK9YXIYRvBagEDvhVgg',
-    },
+      place_id: 'ChIJrw7QBK9YXIYRvBagEDvhVgg'
+    }
   },
   {
     name: 'San Marcos',
@@ -7459,10 +7459,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWUZBNCqnXIYRJzGOU2wzOi8',
-    },
+      place_id: 'ChIJWUZBNCqnXIYRJzGOU2wzOi8'
+    }
   },
   {
     name: 'Sugar Land',
@@ -7472,10 +7472,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJy3Ab4RDeQIYRzNhjIhvheSc',
-    },
+      place_id: 'ChIJy3Ab4RDeQIYRzNhjIhvheSc'
+    }
   },
   {
     name: 'Texas City',
@@ -7485,10 +7485,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF7HtoBJ5P4YR4bTurbycLYY',
-    },
+      place_id: 'ChIJF7HtoBJ5P4YR4bTurbycLYY'
+    }
   },
   {
     name: 'The Woodlands',
@@ -7498,10 +7498,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWzgDxkcxR4YRXd_DZ46ApPE',
-    },
+      place_id: 'ChIJWzgDxkcxR4YRXd_DZ46ApPE'
+    }
   },
   {
     name: 'Tyler',
@@ -7511,10 +7511,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ4_mrHgXMSYYRHHB3cX1cKD4',
-    },
+      place_id: 'ChIJ4_mrHgXMSYYRHHB3cX1cKD4'
+    }
   },
   {
     name: 'Victoria',
@@ -7524,10 +7524,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRF8dlj773mXQ',
-    },
+      place_id: 'ChIJpS60CuyBt4cRF8dlj773mXQ'
+    }
   },
   {
     name: 'Waco',
@@ -7537,10 +7537,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ01EBI_GCT4YREKrR1gNL1_s',
-    },
+      place_id: 'ChIJ01EBI_GCT4YREKrR1gNL1_s'
+    }
   },
   {
     name: 'Wichita Falls',
@@ -7550,10 +7550,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ9dpicJIgU4YRAFLq78v6Bh0',
-    },
+      place_id: 'ChIJ9dpicJIgU4YRAFLq78v6Bh0'
+    }
   },
   {
     name: 'Logan',
@@ -7563,10 +7563,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJt5t6unWGt4cRe3WtbgKQSzY',
-    },
+      place_id: 'ChIJt5t6unWGt4cRe3WtbgKQSzY'
+    }
   },
   {
     name: 'Park City',
@@ -7576,10 +7576,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_QNjLGMPUocRlFc3Jd_Ecdg',
-    },
+      place_id: 'ChIJ_QNjLGMPUocRlFc3Jd_Ecdg'
+    }
   },
   {
     name: 'Provo',
@@ -7589,10 +7589,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJv_ELk3GSTYcR71a1ACbxkB0',
-    },
+      place_id: 'ChIJv_ELk3GSTYcR71a1ACbxkB0'
+    }
   },
   {
     name: 'Salt Lake City',
@@ -7602,10 +7602,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7THRiJQ9UocRyjFNSKC3U1s',
-    },
+      place_id: 'ChIJ7THRiJQ9UocRyjFNSKC3U1s'
+    }
   },
   {
     name: 'St. George',
@@ -7615,10 +7615,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5TlJmNBEyoARHhyh-PIHF1M',
-    },
+      place_id: 'ChIJ5TlJmNBEyoARHhyh-PIHF1M'
+    }
   },
   {
     name: 'Taylorsville',
@@ -7628,10 +7628,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJby0yXv-LUocR-vaa1rcXVKw',
-    },
+      place_id: 'ChIJby0yXv-LUocR-vaa1rcXVKw'
+    }
   },
   {
     name: 'Burlington',
@@ -7641,10 +7641,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPVBmnUDttocRwGnBUFw4EJo',
-    },
+      place_id: 'ChIJPVBmnUDttocRwGnBUFw4EJo'
+    }
   },
   {
     name: 'Colcheter',
@@ -7654,10 +7654,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJBS_2Ek7i2EcR3pFQRRxfXRc',
-    },
+      place_id: 'ChIJBS_2Ek7i2EcR3pFQRRxfXRc'
+    }
   },
   {
     name: 'Essex',
@@ -7667,10 +7667,10 @@ module.exports = [
       country: {
         long_name: 'United Kingdom',
         short_name: 'GB',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ0w2H_idW2EcReVDuRzjLV0I',
-    },
+      place_id: 'ChIJ0w2H_idW2EcReVDuRzjLV0I'
+    }
   },
   {
     name: 'Killington',
@@ -7680,10 +7680,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2WrwuiQq4IkRvei8x3WhGxU',
-    },
+      place_id: 'ChIJ2WrwuiQq4IkRvei8x3WhGxU'
+    }
   },
   {
     name: 'Middlebury',
@@ -7693,10 +7693,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJfeyr4NRCtUwREs9Nca_bIfE',
-    },
+      place_id: 'ChIJfeyr4NRCtUwREs9Nca_bIfE'
+    }
   },
   {
     name: 'Montpelier',
@@ -7707,10 +7707,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ09O-st0RtIkRUBkk-U7nhAE',
-    },
+      place_id: 'ChIJ09O-st0RtIkRUBkk-U7nhAE'
+    }
   },
   {
     name: 'Blacksburg',
@@ -7720,10 +7720,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJw9wG3AqVTYgRLdpCSOq4zoY',
-    },
+      place_id: 'ChIJw9wG3AqVTYgRLdpCSOq4zoY'
+    }
   },
   {
     name: 'Charlottesville',
@@ -7733,10 +7733,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJj6RQ6i2Gs4kR_HSLw5bwhpA',
-    },
+      place_id: 'ChIJj6RQ6i2Gs4kR_HSLw5bwhpA'
+    }
   },
   {
     name: 'Fredericksburg',
@@ -7746,10 +7746,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJd2qyr1TAW4YRm8IxX7A7r8Q',
-    },
+      place_id: 'ChIJd2qyr1TAW4YRm8IxX7A7r8Q'
+    }
   },
   {
     name: 'Hampton',
@@ -7759,10 +7759,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7ZVLmwGFuokRXXOEtSJCVkw',
-    },
+      place_id: 'ChIJ7ZVLmwGFuokRXXOEtSJCVkw'
+    }
   },
   {
     name: 'Harrisonburg',
@@ -7772,10 +7772,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVXEHP8OStIkRX3u92rllTgg',
-    },
+      place_id: 'ChIJVXEHP8OStIkRX3u92rllTgg'
+    }
   },
   {
     name: 'Lynchburg',
@@ -7785,10 +7785,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJAQQykHjZsokRYeIgyF7ztsM',
-    },
+      place_id: 'ChIJAQQykHjZsokRYeIgyF7ztsM'
+    }
   },
   {
     name: 'Newport News',
@@ -7798,10 +7798,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2VZNcIJ7sIkRG8vIA-xVfuw',
-    },
+      place_id: 'ChIJ2VZNcIJ7sIkRG8vIA-xVfuw'
+    }
   },
   {
     name: 'Norfolk',
@@ -7811,10 +7811,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJRcoiUzqXuokRCh56zn8Qmas',
-    },
+      place_id: 'ChIJRcoiUzqXuokRCh56zn8Qmas'
+    }
   },
   {
     name: 'Richmond',
@@ -7824,10 +7824,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ7cmZVwkRsYkRxTxC4m0-2L8',
-    },
+      place_id: 'ChIJ7cmZVwkRsYkRxTxC4m0-2L8'
+    }
   },
   {
     name: 'Roanoke',
@@ -7837,10 +7837,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_Wapak0MTYgRm5iw28u-nSQ',
-    },
+      place_id: 'ChIJ_Wapak0MTYgRm5iw28u-nSQ'
+    }
   },
   {
     name: 'Virginia Beach',
@@ -7850,10 +7850,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpycV_OjBuokRcwEuo4AQFgQ',
-    },
+      place_id: 'ChIJpycV_OjBuokRcwEuo4AQFgQ'
+    }
   },
   {
     name: 'Bellingham',
@@ -7863,10 +7863,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJF4dF8i6WhVQR8OA5zamcetU',
-    },
+      place_id: 'ChIJF4dF8i6WhVQR8OA5zamcetU'
+    }
   },
   {
     name: 'Everett',
@@ -7876,10 +7876,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJWy_1BGQAkFQRkEeycfJJJAc',
-    },
+      place_id: 'ChIJWy_1BGQAkFQRkEeycfJJJAc'
+    }
   },
   {
     name: 'Kennewick',
@@ -7889,10 +7889,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJo03151R4mFQR4IqMrq19fXg',
-    },
+      place_id: 'ChIJo03151R4mFQR4IqMrq19fXg'
+    }
   },
   {
     name: 'Kent',
@@ -7902,10 +7902,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJibNT-BclMYgRj8SEQpjpMso',
-    },
+      place_id: 'ChIJibNT-BclMYgRj8SEQpjpMso'
+    }
   },
   {
     name: 'Lacey',
@@ -7915,10 +7915,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdbUCPlwLkVQRDrvVGva11RQ',
-    },
+      place_id: 'ChIJdbUCPlwLkVQRDrvVGva11RQ'
+    }
   },
   {
     name: 'Longview',
@@ -7928,10 +7928,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJUTPfl_81NoYRM1kZdPfwD7M',
-    },
+      place_id: 'ChIJUTPfl_81NoYRM1kZdPfwD7M'
+    }
   },
   {
     name: 'Olympia',
@@ -7941,10 +7941,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJaVUorsHJkVQRgxuI4pdhFE8',
-    },
+      place_id: 'ChIJaVUorsHJkVQRgxuI4pdhFE8'
+    }
   },
   {
     name: 'Pullman',
@@ -7954,10 +7954,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlU3hshSBn1QR8AAEJBabpIY',
-    },
+      place_id: 'ChIJlU3hshSBn1QR8AAEJBabpIY'
+    }
   },
   {
     name: 'Richland',
@@ -7967,10 +7967,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJpS60CuyBt4cRlb0BTmi1VYA',
-    },
+      place_id: 'ChIJpS60CuyBt4cRlb0BTmi1VYA'
+    }
   },
   {
     name: 'Seattle',
@@ -7980,10 +7980,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVTPokywQkFQRmtVEaUZlJRA',
-    },
+      place_id: 'ChIJVTPokywQkFQRmtVEaUZlJRA'
+    }
   },
   {
     name: 'Spokane',
@@ -7993,10 +7993,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ5ee7MFwYnlQRsdmEC9bJ_N0',
-    },
+      place_id: 'ChIJ5ee7MFwYnlQRsdmEC9bJ_N0'
+    }
   },
   {
     name: 'Tacoma',
@@ -8006,10 +8006,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJZ5VlK-5UkFQRgp6w6wecIWI',
-    },
+      place_id: 'ChIJZ5VlK-5UkFQRgp6w6wecIWI'
+    }
   },
   {
     name: 'Tumwater',
@@ -8019,10 +8019,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJMeahkfJlkVQRXSwyx-JgimE',
-    },
+      place_id: 'ChIJMeahkfJlkVQRXSwyx-JgimE'
+    }
   },
   {
     name: 'Wenatchee',
@@ -8032,10 +8032,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJQ08F3UPMm1QRkNEzRgJjbnQ',
-    },
+      place_id: 'ChIJQ08F3UPMm1QRkNEzRgJjbnQ'
+    }
   },
   {
     name: 'Yelm',
@@ -8045,10 +8045,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJFeCEsroTkVQRUjFVcxyr2As',
-    },
+      place_id: 'ChIJFeCEsroTkVQRUjFVcxyr2As'
+    }
   },
   {
     name: 'Charleston',
@@ -8058,10 +8058,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJdySo3EJ6_ogRa-zhruD3-jU',
-    },
+      place_id: 'ChIJdySo3EJ6_ogRa-zhruD3-jU'
+    }
   },
   {
     name: 'Huntington',
@@ -8071,10 +8071,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJZSpiS79uocRwM_xN_uXWLk',
-    },
+      place_id: 'ChIJJZSpiS79uocRwM_xN_uXWLk'
+    }
   },
   {
     name: 'Marietta',
@@ -8084,10 +8084,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJXQZHhpYQ9YgRgemOMsZWh7E',
-    },
+      place_id: 'ChIJXQZHhpYQ9YgRgemOMsZWh7E'
+    }
   },
   {
     name: 'Martinsburg',
@@ -8097,10 +8097,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJY2W2tmkCyokRx3YjeEqEsJY',
-    },
+      place_id: 'ChIJY2W2tmkCyokRx3YjeEqEsJY'
+    }
   },
   {
     name: 'Morgantown',
@@ -8110,10 +8110,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJPTOFQWh7NYgR5EONqwnpvng',
-    },
+      place_id: 'ChIJPTOFQWh7NYgR5EONqwnpvng'
+    }
   },
   {
     name: 'Parkersburg',
@@ -8123,10 +8123,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJVyTeMntMSIgRmpQhDCzkk84',
-    },
+      place_id: 'ChIJVyTeMntMSIgRmpQhDCzkk84'
+    }
   },
   {
     name: 'Vienna',
@@ -8136,10 +8136,10 @@ module.exports = [
       country: {
         long_name: 'Austria',
         short_name: 'AT',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJn8o2UZ4HbUcRRluiUYrlwv0',
-    },
+      place_id: 'ChIJn8o2UZ4HbUcRRluiUYrlwv0'
+    }
   },
   {
     name: 'Appleton',
@@ -8149,10 +8149,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJyfYDuYK2A4gRW5N1BqXWoZw',
-    },
+      place_id: 'ChIJyfYDuYK2A4gRW5N1BqXWoZw'
+    }
   },
   {
     name: 'Eau Claire',
@@ -8162,10 +8162,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJs9ETUBW9-IcRdZOTQ-uLQz0',
-    },
+      place_id: 'ChIJs9ETUBW9-IcRdZOTQ-uLQz0'
+    }
   },
   {
     name: 'Fond du Lac',
@@ -8175,10 +8175,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJJZmeFCr2A4gRzQPZUOjQBJQ',
-    },
+      place_id: 'ChIJJZmeFCr2A4gRzQPZUOjQBJQ'
+    }
   },
   {
     name: 'Green Bay',
@@ -8188,10 +8188,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ84CzCejiAogRcfXcFFIEcGM',
-    },
+      place_id: 'ChIJ84CzCejiAogRcfXcFFIEcGM'
+    }
   },
   {
     name: 'Janesville',
@@ -8201,10 +8201,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ2zkiTZIXBogRwL7NH3a0-ws',
-    },
+      place_id: 'ChIJ2zkiTZIXBogRwL7NH3a0-ws'
+    }
   },
   {
     name: 'La Crosse',
@@ -8214,10 +8214,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJlbMyZ99U-YcRsCI3GRWIqX8',
-    },
+      place_id: 'ChIJlbMyZ99U-YcRsCI3GRWIqX8'
+    }
   },
   {
     name: 'Madison',
@@ -8227,10 +8227,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ_xkgOm1TBogRmEFIurX8DE4',
-    },
+      place_id: 'ChIJ_xkgOm1TBogRmEFIurX8DE4'
+    }
   },
   {
     name: 'Milwaukee',
@@ -8240,10 +8240,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJ50eLV9cCBYgRhHtBtSIZX0Q',
-    },
+      place_id: 'ChIJ50eLV9cCBYgRhHtBtSIZX0Q'
+    }
   },
   {
     name: 'Sheboygan',
@@ -8253,10 +8253,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJX0lKu8FfA4gRKY5Bq86OLwM',
-    },
+      place_id: 'ChIJX0lKu8FfA4gRKY5Bq86OLwM'
+    }
   },
   {
     name: 'Waukesha',
@@ -8266,10 +8266,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJV5eOlCamBYgRlZyYYTShLas',
-    },
+      place_id: 'ChIJV5eOlCamBYgRlZyYYTShLas'
+    }
   },
   {
     name: 'Cheyenne',
@@ -8279,10 +8279,10 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJk-9zLnY4b4cRKy2Xj0EwCrE',
-    },
+      place_id: 'ChIJk-9zLnY4b4cRKy2Xj0EwCrE'
+    }
   },
   {
     name: 'Laramie',
@@ -8292,9 +8292,9 @@ module.exports = [
       country: {
         long_name: 'United States',
         short_name: 'US',
-        types: ['country', 'political'],
+        types: ['country', 'political']
       },
-      place_id: 'ChIJeZvajveEaIcRk-XEoffBiY4',
-    },
-  },
+      place_id: 'ChIJeZvajveEaIcRk-XEoffBiY4'
+    }
+  }
 ]

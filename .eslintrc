@@ -1,0 +1,17 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["standard", "plugin:react/recommended"],
+  "rules": {
+    "react/prop-types": 0,
+    "space-before-function-paren": 0,
+    "indent": 0
+  },
+  "env": {
+    "browser": true
+  },
+  "settings": {
+    "react": {
+      "version": "16.0"
+    }
+  }
+}

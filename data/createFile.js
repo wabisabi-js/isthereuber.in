@@ -16,14 +16,14 @@ module.exports = async (arr, company) => {
         info: {
           formatted_address: data.formatted_address,
           country,
-          place_id: data.place_id,
-        },
+          place_id: data.place_id
+        }
       }
     }
 
     return {
       ...a,
-      info: null,
+      info: null
     }
   })
 
