@@ -1,15 +1,15 @@
 import { injectGlobal } from 'react-emotion'
 
 export default injectGlobal`
-	@import url('https://fonts.googleapis.com/css?family=Roboto');
+  @import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC');
 	html, body {
 		height: 100%;
 		width: 100%;
 		overflow-x: hidden;
 		padding: 0;
 		margin: 0;
-		background: #FAFAFA;
-		font-family: 'Roboto', arial, sans-serif;
+		background: #181743;
+    font-family: 'Noto Sans SC', sans-serif;
 		font-weight: 600;
 		color: #e8eaf6;
 		-webkit-font-smoothing: antialiased;
@@ -20,7 +20,7 @@ export default injectGlobal`
 		box-sizing: border-box;
 	}
 
-	#app {
+	#___gatsby, #___gatsby>div {
 		height: 100%;
 		width: 100%;
 		opacity: 1;

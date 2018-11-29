@@ -19,12 +19,6 @@ export const Wrapper = styled(Row)`
   }
 `
 
-export const LogoImg = styled.img`
-  @media (max-width: 360px) {
-    max-width: 100px;
-  }
-`
-
 export const Title = styled.h1`
   color: ${props => props.theme.secondary};
   font-size: 80px;

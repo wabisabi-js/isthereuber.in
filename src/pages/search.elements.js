@@ -1,4 +1,5 @@
 import styled from 'react-emotion'
+import { Link } from 'gatsby'
 
 export const Subtitle = styled.h2`
   color: ${props => props.theme.secondary};
@@ -18,15 +19,18 @@ export const Flex = styled.div`
   flex-direction: ${props => (props.row ? 'row' : 'column')};
 `
 
-export const Anchor = styled.li`
-  list-style: none;
-  text-decoration: underline;
+export const Anchor = styled(Link)`
+  color: white;
   display: flex;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
+`
+
+export const List = styled.li`
+  list-style: none;
   font-size: 24px;
   margin-bottom: 20px;
-  cursor: pointer;
 
   span {
     margin-left: 10px;

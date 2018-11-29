@@ -1,0 +1,71 @@
+{
+  "private": true,
+  "name": "uber-cities",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "if-env NODE_ENV=production && npm run -s serve || npm run -s dev",
+    "build": "preact build -p --template src/template.html && cp _redirects build/_redirects",
+    "serve": "preact build && preact serve",
+    "deploy": "preact build && now && now alias",
+    "dev": "preact watch",
+    "test": "eslint src",
+    "format": "prettier --write 'src/**/*.{js,css,md}'",
+    "posttest": "npm run format",
+    "seed": "node data/seed.js",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "eslintConfig": {
+    "extends": [
+      "eslint-config-synacor",
+      "prettier"
+    ]
+  },
+  "eslintIgnore": [
+    "build/*"
+  ],
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.1",
+    "babel-plugin-emotion": "^9.2.11",
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-config-synacor": "^3.0.3",
+    "husky": "^1.2.0",
+    "if-env": "^1.0.4",
+    "jsonfile": "^5.0.0",
+    "lint-staged": "^8.1.0",
+    "osmosis": "^1.1.8",
+    "preact-cli": "^2.2.1",
+    "prettier": "^1.15.2",
+    "dotenv": "^6.1.0",
+    "isomorphic-fetch": "^2.2.1",
+    "require-dir": "^1.2.0"
+  },
+  "dependencies": {
+    "algoliasearch": "^3.30.0",
+    "emotion": "^9.2.12",
+    "emotion-theming": "^9.2.9",
+    "lodash.uniqby": "^4.7.0",
+    "mobile-detect": "^1.4.3",
+    "preact": "^8.3.1",
+    "preact-compat": "^3.18.4",
+    "preact-router": "^2.6.1",
+    "react-confetti": "^2.3.0",
+    "react-emotion": "^9.2.12",
+    "react-emotion-flexboxgrid": "^9.0.0",
+    "remove-accents": "^0.4.2",
+    "react-country-flag": "^1.0.1"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  }
+}
