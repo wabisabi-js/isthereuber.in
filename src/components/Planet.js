@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import posed from 'react-pose'
 import styled from 'react-emotion'
 
@@ -61,7 +61,7 @@ const PlanetInner = posed.g({
   }
 })
 
-class Logo extends React.Component {
+class Logo extends Component {
   state = { eyeIsOpen: true, mouthIsOpen: true, writing: true }
 
   componentDidMount() {
