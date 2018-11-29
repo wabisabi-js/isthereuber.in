@@ -1,11 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Is there Uber In ?'
+    title: 'Is there Uber In ?',
+    siteUrl: 'http://isthereuber.in'
   },
   plugins: [
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-robots-txt',
     {
-      resolve: `gatsby-plugin-favicon`,
+      resolve: 'gatsby-plugin-favicon',
       options: {
         logo: './src/images/favicon.png',
 
@@ -27,18 +30,18 @@ module.exports = {
           coast: false,
           favicons: true,
           firefox: true,
-          opengraph: false,
-          twitter: false,
+          opengraph: true,
+          twitter: true,
           yandex: false,
           windows: false
         }
       }
     },
-    `gatsby-plugin-emotion`,
-    `gatsby-plugin-workbox`,
+    'gatsby-plugin-emotion',
+    'gatsby-plugin-workbox',
     {
-      resolve: `gatsby-plugin-create-client-paths`,
-      options: { prefixes: [`/search/*`] }
+      resolve: 'gatsby-plugin-create-client-paths',
+      options: { prefixes: ['/search/*'] }
     }
   ]
 }
