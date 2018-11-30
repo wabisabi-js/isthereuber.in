@@ -75,6 +75,11 @@ const storeLinks = {
     android:
       'https://play.google.com/store/apps/details?id=br.com.ladydriver.passenger'
   },
+  '99': {
+    ios: 'https://itunes.apple.com/br/app/99-t%C3%A1xi-e-carro-particular/id553663691?mt=8',
+    android:
+      'https://play.google.com/store/apps/details?id=com.taxis99'
+  },
   default: {
     ios: '#',
     android: '#'
