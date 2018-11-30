@@ -70,6 +70,11 @@ const storeLinks = {
     android:
       'https://play.google.com/store/apps/details?id=fi.taksihelsinki.taksimobipro&hl=en'
   },
+  'lady-driver': {
+    ios: 'https://itunes.apple.com/br/app/lady-driver-passageira/id1216671266?mt=8',
+    android:
+      'https://play.google.com/store/apps/details?id=br.com.ladydriver.passenger'
+  },
   default: {
     ios: '#',
     android: '#'
