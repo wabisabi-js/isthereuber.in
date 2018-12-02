@@ -71,3 +71,11 @@ export const GoBack = styled(Link)`
   position: absolute;
   bottom: 20px;
 `
+
+export const CityName = styled.address`
+  display: block;
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+`

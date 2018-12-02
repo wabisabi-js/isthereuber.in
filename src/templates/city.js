@@ -8,7 +8,8 @@ import {
   Flex,
   Company,
   GoBack,
-  Message
+  Message,
+  CityName
 } from './_city.elements'
 import edgeCases from '../utils/edgeCases'
 import ReactCountryFlag from 'react-country-flag'
@@ -42,10 +43,11 @@ const City = ({ pageContext: { city } }) => {
                   YES{' '}
                   <span role="img" aria-label="car">
                     🚗
-                  </span>{' '}
-                  {city.info.countr ? (
+                  </span>
+                  {city.info.country ? (
                     <ReactCountryFlag code={city.info.country.short_name} />
                   ) : null}
+                  <CityName>Matches {city.info.formatted_address}</CityName>{' '}
                 </Title>
               </a>
               <Message>{edgeCases(city)}</Message>
