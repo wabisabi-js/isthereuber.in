@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React, { Fragment, useEffect } from 'react'
 import Confetti from 'react-confetti'
 import {
   Alternative,
@@ -15,8 +15,17 @@ import edgeCases from '../utils/edgeCases'
 import ReactCountryFlag from 'react-country-flag'
 import { getAppStoreLink } from '../utils/appStores'
 import Layout from '../components/layout'
+import { setConfig } from 'react-hot-loader'
+
+setConfig({ pureSFC: true })
 
 const City = ({ pageContext: { city } }) => {
+  useEffect(() => {
+    window.onpopstate = event => {
+      history.pushState(null, null, '/')
+    }
+  }, [])
+
   return (
     <Layout>
       <Wrapper>

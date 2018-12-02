@@ -38,7 +38,6 @@ export default class Search extends Component {
 
   componentDidMount() {
     const city = (this.props.location.state || { city: '' }).city
-
     this.search(city)
   }
 
