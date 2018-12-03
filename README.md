@@ -57,7 +57,8 @@ index-name: cities
 
 ## Built With
 
-- Preact
+- React
+- Gatsby
 - Emotion
 - react-confetti
 - Algolia
