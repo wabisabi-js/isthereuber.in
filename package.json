@@ -39,7 +39,7 @@
     "lint": "run-p lint:**",
     "lint:js": "eslint . --cache --fix",
     "lint:css": "stylelint './src/**/*.js'",
-    "seed": "node data/seed.js",
+    "seed": "node data/scrape.js",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate"
   },
