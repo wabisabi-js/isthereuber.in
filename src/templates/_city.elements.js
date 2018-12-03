@@ -4,6 +4,9 @@ import styled from 'react-emotion'
 export const Title = styled.h1`
   color: ${props => props.theme.secondary};
   font-size: 80px;
+  text-align: center;
+  max-width: 90%;
+  margin: auto;
 `
 
 export const Subtitle = styled.h2`

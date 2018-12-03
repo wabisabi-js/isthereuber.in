@@ -12,7 +12,6 @@ import {
   CityName
 } from './_city.elements'
 import edgeCases from '../utils/edgeCases'
-import ReactCountryFlag from 'react-country-flag'
 import { getAppStoreLink } from '../utils/appStores'
 import Layout from '../components/layout'
 import { setConfig } from 'react-hot-loader'
@@ -50,12 +49,9 @@ const City = ({ pageContext: { city } }) => {
               >
                 <Title>
                   YES{' '}
-                  <span style={{ marginRight: 10 }} role="img" aria-label="car">
+                  <span role="img" aria-label="car">
                     🚗
                   </span>
-                  {city.info.country ? (
-                    <ReactCountryFlag code={city.info.country.short_name} />
-                  ) : null}
                   <CityName>Matches {city.info.formatted_address}</CityName>{' '}
                 </Title>
               </a>

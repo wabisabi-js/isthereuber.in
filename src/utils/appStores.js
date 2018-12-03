@@ -89,6 +89,11 @@ const storeLinks = {
     ios: 'https://itunes.apple.com/us/app/yandex-taxi/id472650686',
     android: 'https://play.google.com/store/apps/details?id=ru.yandex.taxi'
   },
+  pathao: {
+    ios: 'https://itunes.apple.com/us/app/pathao/id1201700952?mt=8',
+    android:
+      'https://play.google.com/store/apps/details?id=com.pathao.user&hl=en'
+  },
   default: {
     ios: '#',
     android: '#'

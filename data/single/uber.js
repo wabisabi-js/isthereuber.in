@@ -6996,20 +6996,6 @@ module.exports = [
     link: '/en-GB/cities/annecy/'
   },
   {
-    name: 'Athens, GR',
-    company: 'uber',
-    info: {
-      formatted_address: 'Athens, Greece',
-      country: {
-        long_name: 'Greece',
-        short_name: 'GR',
-        types: ['country', 'political']
-      },
-      place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic'
-    },
-    link: '/en-GB/cities/athens-gr/'
-  },
-  {
     name: 'Avignon',
     company: 'uber',
     info: {
