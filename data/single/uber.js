@@ -126,20 +126,6 @@ module.exports = [
     link: '/en-GB/cities/asheville-nc/'
   },
   {
-    name: 'Athens',
-    company: 'uber',
-    info: {
-      formatted_address: 'Athens, Greece',
-      country: {
-        long_name: 'Greece',
-        short_name: 'GR',
-        types: ['country', 'political']
-      },
-      place_id: 'ChIJ8UNwBh-9oRQR3Y1mdkU1Nic'
-    },
-    link: '/en-GB/cities/athens/'
-  },
-  {
     name: 'Atlanta',
     company: 'uber',
     info: {
@@ -7204,20 +7190,6 @@ module.exports = [
       place_id: 'ChIJT608vzr5sUARKKacfOMyBqw'
     },
     link: '/en-GB/cities/bucharest/'
-  },
-  {
-    name: 'Budapest',
-    company: 'uber',
-    info: {
-      formatted_address: 'Budapest, Hungary',
-      country: {
-        long_name: 'Hungary',
-        short_name: 'HU',
-        types: ['country', 'political']
-      },
-      place_id: 'ChIJyc_U0TTDQUcRYBEeDCnEAAQ'
-    },
-    link: '/en-GB/cities/budapest/'
   },
   {
     name: 'Cambridge and East Anglia',

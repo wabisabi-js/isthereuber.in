@@ -6399,6 +6399,123 @@ module.exports = [
     }
   },
   {
+    name: 'Toronto',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Toronto, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJpTvG15DL1IkRd8S0KlBVNTI'
+    }
+  },
+  {
+    name: 'Ajax',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Ajax, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJ0RWtQbTn1IkRzr6A0wHhd_s'
+    }
+  },
+  {
+    name: 'Brampton',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Brampton, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJv1rQpeoVK4gRd4bDfGYxLTU'
+    }
+  },
+  {
+    name: 'Hamilton',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Hamilton, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJj3feJ2yYLIgRIQ7f2Fbuais'
+    }
+  },
+  {
+    name: 'Mississauga',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Mississauga, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJtwVr559GK4gR22ZZ175sFAM'
+    }
+  },
+  {
+    name: 'Newmarket',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Newmarket, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJTwGu8AvSKogRj9xyAHO_Ocs'
+    }
+  },
+  {
+    name: 'Ottawa',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Ottawa, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJrxNRX7IFzkwR7RXdMeFRaoo'
+    }
+  },
+  {
+    name: 'Richmond Hill',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Richmond Hill, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJMxcpNkkqK4gR7UKx1gp2AVI'
+    }
+  },
+  {
+    name: 'Oshawa',
+    company: 'lyft',
+    info: {
+      formatted_address: 'Oshawa, ON, Canada',
+      country: {
+        long_name: 'Canada',
+        short_name: 'CA',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJM3XTzCEd1YkRv_xE-PLvjN0'
+    }
+  },
+  {
     name: 'Vancouver',
     company: 'lyft',
     info: {
