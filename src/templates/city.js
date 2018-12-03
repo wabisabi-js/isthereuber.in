@@ -50,7 +50,7 @@ const City = ({ pageContext: { city } }) => {
               >
                 <Title>
                   YES{' '}
-                  <span role="img" aria-label="car">
+                  <span style={{ marginRight: 10 }} role="img" aria-label="car">
                     🚗
                   </span>
                   {city.info.country ? (

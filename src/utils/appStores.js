@@ -85,7 +85,7 @@ const storeLinks = {
     ios: 'https://itunes.apple.com/app/careem/id592978487?mt=8',
     android: 'https://play.google.com/store/apps/details?id=com.careem.acma'
   },
-  'Yandex Taxi': {
+  'yandex taxi': {
     ios: 'https://itunes.apple.com/us/app/yandex-taxi/id472650686',
     android: 'https://play.google.com/store/apps/details?id=ru.yandex.taxi'
   },
