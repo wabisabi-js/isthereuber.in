@@ -830,7 +830,7 @@ module.exports = [
     name: 'Culiacan',
     company: 'uber',
     info: {
-      formatted_address: 'Culiac√°n, Sinaloa, Mexico',
+      formatted_address: 'Culiacan, Sinaloa, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -2566,7 +2566,7 @@ module.exports = [
     name: 'Morelia',
     company: 'uber',
     info: {
-      formatted_address: 'Morelia, Michoac√°n, Mexico',
+      formatted_address: 'Morelia, Michoacan, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -4136,7 +4136,7 @@ module.exports = [
     name: 'Uruapan',
     company: 'uber',
     info: {
-      formatted_address: 'Uruapan, Michoac√°n, Mexico',
+      formatted_address: 'Uruapan, Michoacan, Mexico',
       country: {
         long_name: 'Mexico',
         short_name: 'MX',
@@ -4502,7 +4502,7 @@ module.exports = [
     name: 'Anapolis',
     company: 'uber',
     info: {
-      formatted_address: 'An√°polis - State of Goi√°s, Brazil',
+      formatted_address: 'Anapolis - State of Goias, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -4726,7 +4726,7 @@ module.exports = [
     name: 'Bogota',
     company: 'uber',
     info: {
-      formatted_address: 'Bogot√°, Bogota, Colombia',
+      formatted_address: 'Bogota, Bogota, Colombia',
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
@@ -5094,7 +5094,7 @@ module.exports = [
     company: 'uber',
     info: {
       formatted_address:
-        'Cuiab√° - Coxip√≥ da Ponte, Cuiab√° - State of Mato Grosso, Brazil',
+        'Cuiaba - Coxip√≥ da Ponte, Cuiaba - State of Mato Grosso, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5108,7 +5108,7 @@ module.exports = [
     name: 'Curitiba',
     company: 'uber',
     info: {
-      formatted_address: 'Curitiba - State of Paran√°, Brazil',
+      formatted_address: 'Curitiba - State of Parana, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5193,7 +5193,7 @@ module.exports = [
     name: 'Fortaleza',
     company: 'uber',
     info: {
-      formatted_address: 'Fortaleza - State of Cear√°, Brazil',
+      formatted_address: 'Fortaleza - State of Ceara, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5207,7 +5207,7 @@ module.exports = [
     name: 'Foz do Iguacu',
     company: 'uber',
     info: {
-      formatted_address: 'Foz do Igua√ßu, State of Paran√°, Brazil',
+      formatted_address: 'Foz do Igua√ßu, State of Parana, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5250,7 +5250,7 @@ module.exports = [
     name: 'Goiania',
     company: 'uber',
     info: {
-      formatted_address: 'Goi√¢nia - State of Goi√°s, Brazil',
+      formatted_address: 'Goi√¢nia - State of Goias, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5376,7 +5376,7 @@ module.exports = [
     name: 'Iquique',
     company: 'uber',
     info: {
-      formatted_address: 'Iquique, Tarapac√° Region, Chile',
+      formatted_address: 'Iquique, Tarapaca Region, Chile',
       country: {
         long_name: 'Chile',
         short_name: 'CL',
@@ -5433,7 +5433,7 @@ module.exports = [
     name: 'Itajuba',
     company: 'uber',
     info: {
-      formatted_address: 'Itajub√° - State of Minas Gerais, Brazil',
+      formatted_address: 'Itajuba - State of Minas Gerais, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5518,7 +5518,7 @@ module.exports = [
     name: 'Juazeiro do Norte',
     company: 'uber',
     info: {
-      formatted_address: 'Juazeiro do Norte - State of Cear√°, Brazil',
+      formatted_address: 'Juazeiro do Norte - State of Ceara, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5630,7 +5630,7 @@ module.exports = [
     name: 'Londrina',
     company: 'uber',
     info: {
-      formatted_address: 'Londrina, State of Paran√°, Brazil',
+      formatted_address: 'Londrina, State of Parana, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5672,7 +5672,7 @@ module.exports = [
     name: 'Macapa',
     company: 'uber',
     info: {
-      formatted_address: 'Macap√°, AP, Brazil',
+      formatted_address: 'Macapa, AP, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5715,7 +5715,7 @@ module.exports = [
     name: 'Maraba',
     company: 'uber',
     info: {
-      formatted_address: 'Marab√° - State of Par√°, Brazil',
+      formatted_address: 'Maraba - State of Para, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5744,7 +5744,7 @@ module.exports = [
     company: 'uber',
     info: {
       formatted_address:
-        'Maring√° - Floriano, Maring√° - State of Paran√°, Brazil',
+        'Maringa - Floriano, Maringa - State of Parana, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5941,7 +5941,7 @@ module.exports = [
     name: 'Paranagua',
     company: 'uber',
     info: {
-      formatted_address: 'Paranagu√° - State of Paran√°, Brazil',
+      formatted_address: 'Paranagua - State of Parana, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -5955,7 +5955,7 @@ module.exports = [
     name: 'Parauapebas',
     company: 'uber',
     info: {
-      formatted_address: 'Parauapebas - State of Par√°, 68515-000, Brazil',
+      formatted_address: 'Parauapebas - State of Para, 68515-000, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6138,7 +6138,7 @@ module.exports = [
     name: 'Ponta Grossa',
     company: 'uber',
     info: {
-      formatted_address: 'Ponta Grossa - State of Paran√°, Brazil',
+      formatted_address: 'Ponta Grossa - State of Parana, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -6152,7 +6152,7 @@ module.exports = [
     name: 'Popayan',
     company: 'uber',
     info: {
-      formatted_address: 'Popay√°n, Cauca, Colombia',
+      formatted_address: 'Popayan, Cauca, Colombia',
       country: {
         long_name: 'Colombia',
         short_name: 'CO',
@@ -6266,7 +6266,7 @@ module.exports = [
     company: 'uber',
     info: {
       formatted_address:
-        'Punta Arenas, Magallanes y la Ant√°rtica Chilena Region, Chile',
+        'Punta Arenas, Magallanes y la Antartica Chilena Region, Chile',
       country: {
         long_name: 'Chile',
         short_name: 'CL',
@@ -6662,7 +6662,7 @@ module.exports = [
     name: 'Sobral',
     company: 'uber',
     info: {
-      formatted_address: 'Sobral - State of Cear√°, Brazil',
+      formatted_address: 'Sobral - State of Ceara, Brazil',
       country: {
         long_name: 'Brazil',
         short_name: 'BR',
@@ -7545,7 +7545,7 @@ module.exports = [
     name: 'Jerez',
     company: 'uber',
     info: {
-      formatted_address: 'Jerez, C√°diz, Spain',
+      formatted_address: 'Jerez, Cadiz, Spain',
       country: {
         long_name: 'Spain',
         short_name: 'ES',
