@@ -7864,10 +7864,10 @@ module.exports = [
     link: '/en-GB/cities/madrid/'
   },
   {
-    name: 'M√°laga',
+    name: 'Malaga',
     company: 'uber',
     info: {
-      formatted_address: 'M√°laga, Spain',
+      formatted_address: 'Malaga, Spain',
       country: {
         long_name: 'Spain',
         short_name: 'ES',
@@ -7878,10 +7878,10 @@ module.exports = [
     link: '/en-GB/cities/malaga/'
   },
   {
-    name: 'Malm√∂',
+    name: 'Malmo',
     company: 'uber',
     info: {
-      formatted_address: 'Malm√∂, Sweden',
+      formatted_address: 'Malmo, Sweden',
       country: {
         long_name: 'Sweden',
         short_name: 'SE',
