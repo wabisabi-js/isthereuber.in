@@ -13,6 +13,19 @@ module.exports = [
     }
   },
   {
+    name: 'Marbella',
+    company: 'cabify',
+    info: {
+      formatted_address: 'Marbella, Málaga, Spain',
+      country: {
+        long_name: 'Spain',
+        short_name: 'ES',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJ36tNkAnYcg0Rq-y1B7mdbA4'
+    }
+  },
+  {
     name: 'Mendoza',
     company: 'cabify',
     info: {

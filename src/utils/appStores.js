@@ -81,12 +81,22 @@ const storeLinks = {
       'https://itunes.apple.com/br/app/99-t%C3%A1xi-e-carro-particular/id553663691?mt=8',
     android: 'https://play.google.com/store/apps/details?id=com.taxis99'
   },
+  moove: {
+    ios: 'https://itunes.apple.com/dk/app/moove/id1180956418?mt=8',
+    android: 'https://play.google.com/store/apps/details?id=com.moovetaxi.app'
+  },
+  'urban go': {
+    android:
+      'https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.urbango',
+    ios: 'https://itunes.apple.com/app/id1260953622'
+  },
   careem: {
     ios: 'https://itunes.apple.com/app/careem/id592978487?mt=8',
     android: 'https://play.google.com/store/apps/details?id=com.careem.acma'
   },
   heetch: {
-    ios: 'https://itunes.apple.com/fr/app/heetch-enjoy-your-night-out/id693137280?mt=8',
+    ios:
+      'https://itunes.apple.com/fr/app/heetch-enjoy-your-night-out/id693137280?mt=8',
     android: 'https://play.google.com/store/apps/details?id=com.heetch&hl=fr'
   },
   'yandex taxi': {

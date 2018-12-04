@@ -6,7 +6,7 @@ export const Title = styled.h1`
   font-size: 80px;
   text-align: center;
   max-width: 90%;
-  margin: auto;
+  margin: 0 auto;
 `
 
 export const Subtitle = styled.h2`
