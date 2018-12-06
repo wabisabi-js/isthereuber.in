@@ -420,20 +420,6 @@ module.exports = [
     link: '/en-GB/cities/campeche/'
   },
   {
-    name: 'Cancun',
-    company: 'uber',
-    info: {
-      formatted_address: 'Canc√∫n, Quintana Roo, Mexico',
-      country: {
-        long_name: 'Mexico',
-        short_name: 'MX',
-        types: ['country', 'political']
-      },
-      place_id: 'ChIJ21P2rgUrTI8Ris1fYjy3Ms4'
-    },
-    link: '/en-GB/cities/cancun/'
-  },
-  {
     name: 'Carbondale',
     company: 'uber',
     info: {
