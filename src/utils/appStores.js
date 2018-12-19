@@ -108,6 +108,10 @@ const storeLinks = {
     android:
       'https://play.google.com/store/apps/details?id=com.pathao.user&hl=en'
   },
+  caocao: {
+    ios: 'https://itunes.apple.com/cn/app/%E6%9B%B9%E6%93%8D%E4%B8%93%E8%BD%A6/id1034208598?mt=8',
+    android: 'https://www.caocaokeji.cn'
+  },
   default: {
     ios: '#',
     android: '#'

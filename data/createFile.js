@@ -2,6 +2,7 @@ const removeAccents = require('remove-accents')
 const fs = require('fs')
 const prettier = require('prettier')
 const getLocation = require('./utils/getLocation')
+const path = require('path')
 
 module.exports = async (arr, company) => {
   const map = arr.map(async a => {
@@ -36,7 +37,7 @@ module.exports = async (arr, company) => {
     { semi: false, parser: 'babylon' }
   )
 
-  await fs.writeFile(`./data/single/${company}.js`, code, err => {
+  await fs.writeFile(path.resolve(__dirname, `single/${company}.js`), code, err => {
     if (err) {
       return console.log(err)
     }
