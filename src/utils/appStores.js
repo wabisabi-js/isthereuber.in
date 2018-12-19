@@ -112,6 +112,10 @@ const storeLinks = {
     ios: 'https://itunes.apple.com/cn/app/%E6%9B%B9%E6%93%8D%E4%B8%93%E8%BD%A6/id1034208598?mt=8',
     android: 'https://www.caocaokeji.cn'
   },
+  didi: {
+    ios: 'https://itunes.apple.com/us/app/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C-%E6%BB%B4%E6%BB%B4%E4%B8%80%E4%B8%8B-%E7%BE%8E%E5%A5%BD%E5%87%BA%E8%A1%8C/id554499054?l=es&mt=8',
+    android: 'https://play.google.com/store/apps/details?id=com.sdu.didi.psnger'
+  },
   default: {
     ios: '#',
     android: '#'
