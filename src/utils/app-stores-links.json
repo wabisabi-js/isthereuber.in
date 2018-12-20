@@ -1,0 +1,98 @@
+{
+  "uber": {
+    "ios": "https://itunes.apple.com/us/app/uber/id368677368?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.ubercab&hl=en"
+  },
+  "cabify": {
+    "ios": "https://itunes.apple.com/us/app/cabify/id476087442?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.cabify.rider"
+  },
+  "taxify": {
+    "ios": "https://itunes.apple.com/us/app/taxify/id675033630?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=ee.mtakso.client"
+  },
+  "lyft": {
+    "ios": "https://itunes.apple.com/cy/app/lyft/id529379082?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=me.lyft.android&hl=en"
+  },
+  "grab": {
+    "ios": "https://itunes.apple.com/sg/app/grab-app/id647268330?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.grabtaxi.passenger"
+  },
+  "gojek": {
+    "ios": "https://itunes.apple.com/us/app/go-jek/id944875099?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.gojek.app"
+  },
+  "mytaxi": {
+    "ios": "https://itunes.apple.com/us/app/mytaxi-tap-move-freely/id357852748?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=taxi.android.client"
+  },
+  "chauffeurprive": {
+    "ios": "https://itunes.apple.com/us/app/chauffeur-priv%C3%A9/id504597178?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=fr.chauffeurprive"
+  },
+  "beat": {
+    "ios": "https://itunes.apple.com/us/app/beat-ride-app/id436031420?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=gr.androiddev.taxibeat"
+  },
+  "blacklane": {
+    "ios": "https://itunes.apple.com/us/app/blacklane-airport-transfers/id524123600?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.blacklane.passenger&hl=en"
+  },
+  "gett": {
+    "ios": "https://itunes.apple.com/us/app/gett-car-service-rideshare/id449655162?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.gettaxi.android&hl=en"
+  },
+  "taksini": {
+    "ios": "https://itunes.apple.com/fi/app/l%C3%A4hitaksi/id997696813?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=dk.frogne.lahitaksi"
+  },
+  "taksi helsinki": {
+    "ios": "https://itunes.apple.com/fi/app/taksi-helsinki/id499496168?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=fi.taksihelsinki.taksimobipro&hl=en"
+  },
+  "Lady Driver": {
+    "ios": "https://itunes.apple.com/br/app/lady-driver-passageira/id1216671266?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=br.com.ladydriver.passenger"
+  },
+  "99 Pop": {
+    "ios": "https://itunes.apple.com/br/app/99-t%C3%A1xi-e-carro-particular/id553663691?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.taxis99"
+  },
+  "moove": {
+    "ios": "https://itunes.apple.com/dk/app/moove/id1180956418?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.moovetaxi.app"
+  },
+  "urban go": {
+    "android": "https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.urbango",
+    "ios": "https://itunes.apple.com/app/id1260953622"
+  },
+  "careem": {
+    "ios": "https://itunes.apple.com/app/careem/id592978487?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.careem.acma"
+  },
+  "heetch": {
+    "ios": "https://itunes.apple.com/fr/app/heetch-enjoy-your-night-out/id693137280?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.heetch&hl=fr"
+  },
+  "yandex taxi": {
+    "ios": "https://itunes.apple.com/us/app/yandex-taxi/id472650686",
+    "android": "https://play.google.com/store/apps/details?id=ru.yandex.taxi"
+  },
+  "pathao": {
+    "ios": "https://itunes.apple.com/us/app/pathao/id1201700952?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.pathao.user&hl=en"
+  },
+  "caocao": {
+    "ios": "https://itunes.apple.com/cn/app/%E6%9B%B9%E6%93%8D%E4%B8%93%E8%BD%A6/id1034208598?mt=8",
+    "android": "https://www.caocaokeji.cn"
+  },
+  "didi": {
+    "ios": "https://itunes.apple.com/us/app/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C-%E6%BB%B4%E6%BB%B4%E4%B8%80%E4%B8%8B-%E7%BE%8E%E5%A5%BD%E5%87%BA%E8%A1%8C/id554499054?l=es&mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.sdu.didi.psnger"
+  },
+  "default": {
+    "ios": "#",
+    "android": "#"
+  }
+}
