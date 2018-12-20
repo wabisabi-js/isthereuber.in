@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/SaraVieira/uber-cities.svg)](https://travis-ci.org/SaraVieira/uber-cities)
 
-(Siri Shortcut)[https://www.icloud.com/shortcuts/7567010b47ec4ffa806a3f71eac621cb]
+[Siri Shortcut](https://www.icloud.com/shortcuts/7567010b47ec4ffa806a3f71eac621cb)
 
 https://isthereuber.in
 
