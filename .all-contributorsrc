@@ -200,6 +200,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "zhigang1992",
+      "name": "Zhigang Fang",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1057756?v=4",
+      "profile": "https://github.com/zhigang1992",
+      "contributions": [
+        "code",
+        "plugin"
+      ]
     }
   ]
 }
