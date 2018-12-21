@@ -1,6 +1,6 @@
 module.exports = [
   {
-    name: '杭州',
+    name: 'Hangzhou',
     company: 'caocao',
     info: {
       formatted_address: 'Hangzhou, Zhejiang, China',
@@ -13,7 +13,7 @@ module.exports = [
     }
   },
   {
-    name: '北京',
+    name: 'Beijing',
     company: 'caocao',
     info: {
       formatted_address: 'Beijing, China',
@@ -26,7 +26,7 @@ module.exports = [
     }
   },
   {
-    name: '上海',
+    name: 'Shanghai',
     company: 'caocao',
     info: {
       formatted_address: 'Shanghai, China',
@@ -39,7 +39,7 @@ module.exports = [
     }
   },
   {
-    name: '广州',
+    name: 'Guangzhou',
     company: 'caocao',
     info: {
       formatted_address: 'Guangzhou, Guangdong, China',
@@ -52,7 +52,7 @@ module.exports = [
     }
   },
   {
-    name: '深圳',
+    name: 'Shenzhen',
     company: 'caocao',
     info: {
       formatted_address: 'Shenzhen, Guangdong, China',
@@ -65,7 +65,7 @@ module.exports = [
     }
   },
   {
-    name: '天津',
+    name: 'Tianjin',
     company: 'caocao',
     info: {
       formatted_address: 'Tianjin, China',
@@ -78,7 +78,7 @@ module.exports = [
     }
   },
   {
-    name: '重庆',
+    name: 'Chongqing',
     company: 'caocao',
     info: {
       formatted_address: 'Chongqing, China',
@@ -91,7 +91,7 @@ module.exports = [
     }
   },
   {
-    name: '南京',
+    name: 'Nanjing',
     company: 'caocao',
     info: {
       formatted_address: 'Nanjing, Jiangsu, China',
@@ -104,7 +104,7 @@ module.exports = [
     }
   },
   {
-    name: '成都',
+    name: 'Chengdu',
     company: 'caocao',
     info: {
       formatted_address: 'Chengdu, Sichuan, China',
@@ -117,7 +117,7 @@ module.exports = [
     }
   },
   {
-    name: '武汉',
+    name: 'Wuhan',
     company: 'caocao',
     info: {
       formatted_address: 'Wuhan, Hubei, China',
@@ -130,7 +130,7 @@ module.exports = [
     }
   },
   {
-    name: '长沙',
+    name: 'Changsha',
     company: 'caocao',
     info: {
       formatted_address: 'Changsha, Hunan, China',
@@ -143,7 +143,7 @@ module.exports = [
     }
   },
   {
-    name: '哈尔滨',
+    name: 'Harbin',
     company: 'caocao',
     info: {
       formatted_address: 'Harbin, Heilongjiang, China',
@@ -156,7 +156,7 @@ module.exports = [
     }
   },
   {
-    name: '西安',
+    name: 'Xi',
     company: 'caocao',
     info: {
       formatted_address: "Xi'an, Shaanxi, China",
@@ -169,7 +169,7 @@ module.exports = [
     }
   },
   {
-    name: '兰州',
+    name: 'Lanzhou',
     company: 'caocao',
     info: {
       formatted_address: 'Lanzhou, Gansu, China',
@@ -182,7 +182,7 @@ module.exports = [
     }
   },
   {
-    name: '太原',
+    name: 'Taiyuan',
     company: 'caocao',
     info: {
       formatted_address: 'Taiyuan, Shanxi, China',
@@ -195,7 +195,7 @@ module.exports = [
     }
   },
   {
-    name: '厦门',
+    name: 'Xiamen',
     company: 'caocao',
     info: {
       formatted_address: 'Xiamen, Fujian, China',
@@ -208,7 +208,7 @@ module.exports = [
     }
   },
   {
-    name: '宁波',
+    name: 'Ningbo',
     company: 'caocao',
     info: {
       formatted_address: 'Ningbo, Zhejiang, China',
@@ -221,7 +221,7 @@ module.exports = [
     }
   },
   {
-    name: '大连',
+    name: 'Dalian',
     company: 'caocao',
     info: {
       formatted_address: 'Dalian, Liaoning, China',
@@ -234,7 +234,7 @@ module.exports = [
     }
   },
   {
-    name: '青岛',
+    name: 'Qingdao',
     company: 'caocao',
     info: {
       formatted_address: 'Qingdao, Shandong, China',
@@ -247,7 +247,7 @@ module.exports = [
     }
   },
   {
-    name: '苏州',
+    name: 'Suzhou',
     company: 'caocao',
     info: {
       formatted_address: 'Suzhou, Jiangsu, China',
@@ -260,7 +260,7 @@ module.exports = [
     }
   },
   {
-    name: '营口',
+    name: 'Yingkou',
     company: 'caocao',
     info: {
       formatted_address: 'Yingkou, Liaoning, China',
@@ -273,7 +273,7 @@ module.exports = [
     }
   },
   {
-    name: '金华',
+    name: 'Jinhua',
     company: 'caocao',
     info: {
       formatted_address: 'Jinhua, Zhejiang, China',
@@ -286,7 +286,7 @@ module.exports = [
     }
   },
   {
-    name: '佛山',
+    name: 'Foshan',
     company: 'caocao',
     info: {
       formatted_address: 'Foshan, Guangdong, China',
@@ -299,7 +299,7 @@ module.exports = [
     }
   },
   {
-    name: '无锡',
+    name: 'Wuxi',
     company: 'caocao',
     info: {
       formatted_address: 'Wuxi, Jiangsu, China',
@@ -312,7 +312,7 @@ module.exports = [
     }
   },
   {
-    name: '常德',
+    name: 'Changde',
     company: 'caocao',
     info: {
       formatted_address: 'Changde, Hunan, China',

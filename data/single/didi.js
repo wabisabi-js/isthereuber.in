@@ -1,6 +1,6 @@
 module.exports = [
   {
-    name: '北京',
+    name: 'Beijing',
     company: 'didi',
     info: {
       formatted_address: 'Beijing, China',
@@ -13,7 +13,7 @@ module.exports = [
     }
   },
   {
-    name: '广州',
+    name: 'Guangzhou',
     company: 'didi',
     info: {
       formatted_address: 'Guangzhou, Guangdong, China',
@@ -26,7 +26,7 @@ module.exports = [
     }
   },
   {
-    name: '杭州',
+    name: 'Hangzhou',
     company: 'didi',
     info: {
       formatted_address: 'Hangzhou, Zhejiang, China',
@@ -39,7 +39,7 @@ module.exports = [
     }
   },
   {
-    name: '深圳',
+    name: 'Shenzhen',
     company: 'didi',
     info: {
       formatted_address: 'Shenzhen, Guangdong, China',
@@ -52,7 +52,7 @@ module.exports = [
     }
   },
   {
-    name: '成都',
+    name: 'Chengdu',
     company: 'didi',
     info: {
       formatted_address: 'Chengdu, Sichuan, China',
@@ -65,7 +65,7 @@ module.exports = [
     }
   },
   {
-    name: '武汉',
+    name: 'Wuhan',
     company: 'didi',
     info: {
       formatted_address: 'Wuhan, Hubei, China',
@@ -78,7 +78,7 @@ module.exports = [
     }
   },
   {
-    name: '天津',
+    name: 'Tianjin',
     company: 'didi',
     info: {
       formatted_address: 'Tianjin, China',
@@ -91,7 +91,7 @@ module.exports = [
     }
   },
   {
-    name: '重庆',
+    name: 'Chongqing',
     company: 'didi',
     info: {
       formatted_address: 'Chongqing, China',
@@ -104,7 +104,7 @@ module.exports = [
     }
   },
   {
-    name: '绍兴',
+    name: 'Shaoxing',
     company: 'didi',
     info: {
       formatted_address: 'Shaoxing, Zhejiang, China',
@@ -117,7 +117,7 @@ module.exports = [
     }
   },
   {
-    name: '青岛',
+    name: 'Qingdao',
     company: 'didi',
     info: {
       formatted_address: 'Qingdao, Shandong, China',
@@ -130,7 +130,7 @@ module.exports = [
     }
   },
   {
-    name: '嘉兴',
+    name: 'Jiaxing',
     company: 'didi',
     info: {
       formatted_address: 'Jiaxing, Zhejiang, China',
@@ -143,7 +143,7 @@ module.exports = [
     }
   },
   {
-    name: '湖州',
+    name: 'Huzhou',
     company: 'didi',
     info: {
       formatted_address: 'Huzhou, Zhejiang, China',
@@ -156,7 +156,7 @@ module.exports = [
     }
   },
   {
-    name: '苏州',
+    name: 'Suzhou',
     company: 'didi',
     info: {
       formatted_address: 'Suzhou, Jiangsu, China',
@@ -169,7 +169,7 @@ module.exports = [
     }
   },
   {
-    name: '长沙',
+    name: 'Changsha',
     company: 'didi',
     info: {
       formatted_address: 'Changsha, Hunan, China',
@@ -182,7 +182,7 @@ module.exports = [
     }
   },
   {
-    name: '南京',
+    name: 'Nanjing',
     company: 'didi',
     info: {
       formatted_address: 'Nanjing, Jiangsu, China',
@@ -195,7 +195,7 @@ module.exports = [
     }
   },
   {
-    name: '合肥',
+    name: 'Hefei',
     company: 'didi',
     info: {
       formatted_address: 'Hefei, Anhui, China',
@@ -208,7 +208,7 @@ module.exports = [
     }
   },
   {
-    name: '济南',
+    name: 'Jinan',
     company: 'didi',
     info: {
       formatted_address: 'Jinan, Shandong, China',
@@ -221,7 +221,7 @@ module.exports = [
     }
   },
   {
-    name: '福州',
+    name: 'Fuzhou',
     company: 'didi',
     info: {
       formatted_address: 'Fuzhou, Fujian, China',
@@ -234,7 +234,7 @@ module.exports = [
     }
   },
   {
-    name: '南宁',
+    name: 'Nanning',
     company: 'didi',
     info: {
       formatted_address: 'Nanning, Guangxi, China',
@@ -247,7 +247,7 @@ module.exports = [
     }
   },
   {
-    name: '厦门',
+    name: 'Xiamen',
     company: 'didi',
     info: {
       formatted_address: 'Xiamen, Fujian, China',
@@ -260,7 +260,7 @@ module.exports = [
     }
   },
   {
-    name: '宁波',
+    name: 'Ningbo',
     company: 'didi',
     info: {
       formatted_address: 'Ningbo, Zhejiang, China',
@@ -273,7 +273,7 @@ module.exports = [
     }
   },
   {
-    name: '泉州',
+    name: 'Quanzhou',
     company: 'didi',
     info: {
       formatted_address: 'Quanzhou, Fujian, China',
@@ -286,7 +286,7 @@ module.exports = [
     }
   },
   {
-    name: '西安',
+    name: 'Xi',
     company: 'didi',
     info: {
       formatted_address: "Xi'an, Shaanxi, China",
@@ -299,7 +299,7 @@ module.exports = [
     }
   },
   {
-    name: '沈阳',
+    name: 'Shenyang',
     company: 'didi',
     info: {
       formatted_address: 'Shenyang, Liaoning, China',
@@ -312,7 +312,7 @@ module.exports = [
     }
   },
   {
-    name: '惠州',
+    name: 'Huizhou',
     company: 'didi',
     info: {
       formatted_address: 'Huizhou, Guangdong, China',
@@ -325,7 +325,7 @@ module.exports = [
     }
   },
   {
-    name: '昆明',
+    name: 'Kunming',
     company: 'didi',
     info: {
       formatted_address: 'Kunming, Yunnan, China',
@@ -338,7 +338,7 @@ module.exports = [
     }
   },
   {
-    name: '东莞',
+    name: 'Dongguan',
     company: 'didi',
     info: {
       formatted_address: 'Dongguan, Guangdong, China',
@@ -351,7 +351,7 @@ module.exports = [
     }
   },
   {
-    name: '烟台',
+    name: 'Yantai',
     company: 'didi',
     info: {
       formatted_address: 'Yantai, Shandong, China',
@@ -364,7 +364,7 @@ module.exports = [
     }
   },
   {
-    name: '珠海',
+    name: 'Zhuhai',
     company: 'didi',
     info: {
       formatted_address: 'Zhuhai, Guangdong, China',
@@ -377,7 +377,7 @@ module.exports = [
     }
   },
   {
-    name: '三亚',
+    name: 'Sanya',
     company: 'didi',
     info: {
       formatted_address: 'Sanya, China',
@@ -390,7 +390,7 @@ module.exports = [
     }
   },
   {
-    name: '中山',
+    name: 'Zhongshan',
     company: 'didi',
     info: {
       formatted_address: 'Zhongshan, Guangdong, China',
@@ -403,7 +403,7 @@ module.exports = [
     }
   },
   {
-    name: '临沂',
+    name: 'Linyi',
     company: 'didi',
     info: {
       formatted_address: 'Linyi, Shandong, China',
@@ -416,7 +416,7 @@ module.exports = [
     }
   },
   {
-    name: '大连',
+    name: 'Dalian',
     company: 'didi',
     info: {
       formatted_address: 'Dalian, Liaoning, China',
@@ -429,7 +429,7 @@ module.exports = [
     }
   },
   {
-    name: '太原',
+    name: 'Taiyuan',
     company: 'didi',
     info: {
       formatted_address: 'Taiyuan, Shanxi, China',
@@ -442,7 +442,7 @@ module.exports = [
     }
   },
   {
-    name: '唐山',
+    name: 'Tangshan',
     company: 'didi',
     info: {
       formatted_address: 'Tangshan, Hebei, China',
@@ -455,7 +455,7 @@ module.exports = [
     }
   },
   {
-    name: '哈尔滨',
+    name: 'Harbin',
     company: 'didi',
     info: {
       formatted_address: 'Harbin, Heilongjiang, China',
@@ -468,7 +468,7 @@ module.exports = [
     }
   },
   {
-    name: '郑州',
+    name: 'Zhengzhou',
     company: 'didi',
     info: {
       formatted_address: 'Zhengzhou, Henan, China',
@@ -481,7 +481,7 @@ module.exports = [
     }
   },
   {
-    name: '威海',
+    name: 'Weihai',
     company: 'didi',
     info: {
       formatted_address: 'Weihai, Shandong, China',
@@ -494,7 +494,7 @@ module.exports = [
     }
   },
   {
-    name: '常州',
+    name: 'Changzhou',
     company: 'didi',
     info: {
       formatted_address: 'Changzhou, Jiangsu, China',
@@ -507,7 +507,7 @@ module.exports = [
     }
   },
   {
-    name: '无锡',
+    name: 'Wuxi',
     company: 'didi',
     info: {
       formatted_address: 'Wuxi, Jiangsu, China',
@@ -520,7 +520,7 @@ module.exports = [
     }
   },
   {
-    name: '扬州',
+    name: 'Yangzhou',
     company: 'didi',
     info: {
       formatted_address: 'Yangzhou, Jiangsu, China',
@@ -533,7 +533,7 @@ module.exports = [
     }
   },
   {
-    name: '石家庄',
+    name: 'Shijiazhuang',
     company: 'didi',
     info: {
       formatted_address: 'Shijiazhuang, Hebei, China',
@@ -546,7 +546,7 @@ module.exports = [
     }
   },
   {
-    name: '长春',
+    name: 'Changchun',
     company: 'didi',
     info: {
       formatted_address: 'Changchun, Jilin, China',
