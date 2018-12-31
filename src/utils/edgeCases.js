@@ -1,4 +1,4 @@
-const cases = [
+export const cases = [
   {
     type: 'price',
     message: 'The price for getting an Uber is the same as getting a taxi',

@@ -21,6 +21,7 @@
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "lodash.uniqby": "^4.7.0",
     "mobile-detect": "^1.4.3",
+    "netlify-lambda": "^1.1.1",
     "react": "^v16.7.0-alpha",
     "react-confetti": "^2.3.0",
     "react-country-flag": "^1.0.1",
@@ -42,7 +43,9 @@
     "lint:css": "stylelint './src/**/*.js'",
     "seed": "node data/scrape.js",
     "contributors:add": "all-contributors add",
-    "contributors:generate": "all-contributors generate"
+    "contributors:generate": "all-contributors generate",
+    "start:lambda": "netlify-lambda serve src/functions",
+    "build:lambda": "netlify-lambda build src/functions"
   },
   "devDependencies": {
     "all-contributors-cli": "^5.4.1",
