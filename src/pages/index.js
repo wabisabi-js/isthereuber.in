@@ -28,7 +28,10 @@ const Home = () => {
 
   const handleSubmit = e => {
     e.preventDefault()
-    navigate(`search/${fixName(value)}`, { state: { city: value } })
+    const city = value.trim()
+
+    console.log(value.trim())
+    navigate(`search/${fixName(city)}`, { state: { city } })
   }
 
   return (
