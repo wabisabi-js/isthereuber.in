@@ -61,23 +61,6 @@ const PlanetInner = posed.g({
   }
 })
 
-// componentDidMount() {
-//   setInterval(() => {
-//     this.blink('eyeIsOpen', 250)
-//   }, 4000)
-
-//   setInterval(() => {
-//     this.blink('mouthIsOpen', 250)
-//   }, 5000)
-// }
-
-// blink = (state, time) => {
-//   this.setState({ [state]: false })
-
-//   setTimeout(() => {
-//     this.setState({ [state]: true })
-//   }, time)
-// }  
 export default ({ isSearching }) => {
   // state = { eyeIsOpen: true, mouthIsOpen: true, writing: true }
   const [eyeIsOpen, setEyeIsOpen] = useState(true)
