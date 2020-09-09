@@ -16,7 +16,7 @@ If you want to contribute but don’t know what to do, take a look at these two 
 Run linters:
 
 ```bash
-npm lint
+npm run lint
 ```
 
 **Don’t forget to add tests and update documentation for your changes.**
