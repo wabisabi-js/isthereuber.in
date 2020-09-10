@@ -658,5 +658,18 @@ module.exports = [
       },
       place_id: 'ChIJM8Svrubpiy0RXgXGfBxaLLk'
     }
+  },
+  {
+    name: 'Singapore',
+    company: 'go-JEK',
+    info: {
+      formatted_address: 'Singapore',
+      country: {
+        long_name: 'Singapore',
+        short_name: 'SG',
+        types: ['country', 'political']
+      },
+      place_id: 'ChIJdZOLiiMR2jERxPWrUs9peIg'
+    }
   }
 ]
