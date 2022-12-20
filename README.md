@@ -25,7 +25,7 @@ As someone who travels a lot this is something I kept googling when going to a c
 
 ### Why is my city here when it doesn't have uber?
 
-I'm sorry I broke your heart but I get all of this data from the uber website here: https://www.uber.com/en-GB/cities/ because they don't have an API for this so the website is know to be out of date. If this happens please don't yell. You can remove the city [here](./data/single/uber.js) or create an issue but be nice about it.
+I'm sorry I broke your heart but I get all of this data from the uber website here: <https://www.uber.com/global/en/cities/> because they don't have an API for this so the website is know to be out of date. If this happens please don't yell. You can remove the city [here](./data/single/uber.js) or create an issue but be nice about it.
 
 ### I want to add a provider
 
